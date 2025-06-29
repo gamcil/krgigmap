@@ -259,8 +259,8 @@ async function loadMap() {
             }
 
             const popup = new maplibregl.Popup({ offset: 10 })
+                .addClassName('map-event-popup')
                 .setLngLat(e.lngLat)
-                .setMaxWidth(300)
                 .setDOMContent(popupEl)
                 .addTo(map);
         });

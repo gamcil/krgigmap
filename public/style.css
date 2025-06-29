@@ -1,4 +1,6 @@
-html, body, #map {
+html,
+body,
+#map {
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -15,6 +17,10 @@ html, body, #map {
     background-color: #ccc;
     border-radius: 50%;
     border: 1px solid darkgrey;
+}
+
+.map-event-popup {
+    max-width: 300px;
 }
 
 .popup-event {
@@ -42,7 +48,6 @@ html, body, #map {
     font-size: 13px;
     line-height: 1.4;
     word-break: break-all;
-    max-width: 400px;
 }
 
 .popup-content>div:nth-child(1),
@@ -131,6 +136,7 @@ html, body, #map {
     width: 100% !important;
     background: transparent !important;
 }
+
 .flatpickr-innerContainer,
 .flatpickr-rContainer,
 .flatpickr-days {
@@ -138,11 +144,13 @@ html, body, #map {
     margin: 0 !important;
     width: 100% !important;
 }
+
 .dayContainer {
     width: 100% !important;
     min-width: none !important;
     max-width: none !important;
 }
+
 .flatpickr-day,
 .flatpickr-weekday {
     max-width: none;
@@ -156,44 +164,44 @@ html, body, #map {
 
 
 @media (max-width: 768px) {
-  .mobile-only {
-    display: block;
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    z-index: 1100;
-    background: white;
-    padding: 8px 12px;
-    border: none;
-    border-radius: 6px;
-    font-size: 16px;
-    box-shadow: 0 1px 6px rgba(0,0,0,0.15);
-  }
+    .mobile-only {
+        display: block;
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 1100;
+        background: white;
+        padding: 8px 12px;
+        border: none;
+        border-radius: 6px;
+        font-size: 16px;
+        box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
+    }
 
-  #event-info {
-    display: block;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    top: auto;
-    max-width: 100%;
-    height: auto;
-    border-top: 1px solid #ccc;
-    background: white;
-    box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
-    padding: 12px;
-    overflow-y: auto;
-    z-index: 1050;
-    transform: translateY(100%);
-    transition: transform 0.3s ease-in-out;
-  }
+    #event-info {
+        display: block;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        top: auto;
+        max-width: 100%;
+        height: auto;
+        border-top: 1px solid #ccc;
+        background: white;
+        box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+        padding: 12px;
+        overflow-y: auto;
+        z-index: 1050;
+        transform: translateY(100%);
+        transition: transform 0.3s ease-in-out;
+    }
 
-  #event-info.active {
-    transform: translateY(0);
-  }
-  
-  .popup-content {
-    max-width: 220px;
-  }
+    #event-info.active {
+        transform: translateY(0);
+    }
+
+    .map-event-popup {
+        max-width: 220px;
+    }
 }
