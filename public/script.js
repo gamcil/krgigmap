@@ -87,7 +87,7 @@ function formatTime(date) {
 }
 
 async function loadMap() {
-    const geojsonRaw = await fetch("testgeojson.json");
+    const geojsonRaw = await fetch("./data.json");
     let geojson = await geojsonRaw.json();
     const today = new Date();
     today.setHours(0, 0, 0, 0);
