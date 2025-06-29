@@ -1,48 +1,52 @@
-<template id="popup-event-template">
-  <div class="popup-event">
-    <span>Title</span><span class="event-title"></span>
-    <span>Date</span><span class="event-date"></span>
-    <span>Time</span><span class="event-time"></span>
-    <span>Artist</span><span class="event-artist"></span>
-    <span>Ticket</span><a class="event-ticket" target="_blank" rel="noopener noreferrer"></a>
-    <!-- <span>Entry</span><span class="event-entry"></span> -->
-    <hr>
-  </div>
-</template>
-
-<template id="popup-template">
-  <div class="popup-event"></div>
-  <div class="popup-content">
-    <div><strong class="place-name"></strong></div>
-    <div><a class="place-link kakao-map" target="_blank" rel="noopener noreferrer">카카오맵 링크</a></div>
-    <div><a class="place-link naver-map" target="_blank" rel="noopener noreferrer">네이버 링크</a></div>
-    <span>도로명:</span><span class="road-address"></span>
-    <span>지번:</span><span class="jibun-address"></span>
-  </div>
-</template>
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-  <meta content="utf-8" http-equiv="encoding">
+  <!-- <meta content="text/html;charset=utf-8" http-equiv="Content-Type"> -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Korea Gigmap</title>
 
   <!-- MapLibre -->
   <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
-  <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+  <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet">
 
   <!-- Flatpickr for date calendar -->
   <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 
   <!-- Local CSS-->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./style.css">
 
   <!-- App -->
-  <script src="script.js"></script>
+  <script src="./script.js"></script>
+
+  <template id="popup-event-template">
+    <div class="popup-event">
+      <span>Title</span><span class="event-title"></span>
+      <span>Date</span><span class="event-date"></span>
+      <span>Time</span><span class="event-time"></span>
+      <span>Artist</span><span class="event-artist"></span>
+      <span>Ticket</span><a class="event-ticket" target="_blank" rel="noopener noreferrer"></a>
+      <!-- <span>Entry</span><span class="event-entry"></span> -->
+      <hr>
+    </div>
+  </template>
+
+  <template id="popup-template">
+    <div class="popup-event"></div>
+    <div class="popup-content">
+      <div><strong class="place-name"></strong></div>
+      <div><a class="place-link kakao-map" target="_blank" rel="noopener noreferrer">카카오맵 링크</a></div>
+      <div><a class="place-link naver-map" target="_blank" rel="noopener noreferrer">네이버 링크</a></div>
+      <span>도로명:</span><span class="road-address"></span>
+      <span>지번:</span><span class="jibun-address"></span>
+    </div>
+  </template>
 </head>
 
 <body>
+  <button id="event-info-toggle" class="mobile-only">📅 Calendar</button>
   <div id="event-info">
     <div id="event-info-header">
       <h3>Korea Gig Map</h3>

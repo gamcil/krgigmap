@@ -127,6 +127,10 @@ async function loadMap() {
         zoom: 11,
         container: 'map',
     });
+    
+    document.getElementById('event-info-toggle').addEventListener('click', () => {
+        document.getElementById('event-info').classList.toggle('active');
+    });
 
     const fp = flatpickr(document.querySelector("#event-calendar"), {
         inline: true,
@@ -135,7 +139,7 @@ async function loadMap() {
         enableTime: false,
         minDate: today,
         maxDate: maximumDate,
-        disableMobile: true,
+        disableMobile: false,
         disable: [
             function (date) {
                 return !(formatDateToYMD(date) in eventCounts);
@@ -252,4 +256,6 @@ async function loadMap() {
     });
 }
 
-loadMap();
+document.addEventListener('DOMContentLoaded', () => {
+    loadMap();
+})
