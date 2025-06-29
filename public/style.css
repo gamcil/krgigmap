@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+.marker {
+    /* width: 20px; height: 20px; */
+    /* cursor: pointer; */
+    /* border-radius: 50% 50% 50% 0; */
+    /* background-color: red; */
+    /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); */
+    /* border: 2px solid black; */
+}
+
+.marker.inactive-marker {
+    width: 10px;
+    height: 10px;
+    background-color: #ccc;
+    border-radius: 50%;
+    border: 1px solid darkgrey;
+}
+
+.popup-event {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-auto-rows: auto;
+    gap: 4px 8px;
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 1.4;
+    word-break: break-all;
+}
+
+.popup-event hr {
+    width: 100%;
+    grid-column: 1 / -1;
+}
+
+.popup-content {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-auto-rows: auto;
+    gap: 4px 8px;
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 1.4;
+    word-break: break-all;
+}
+
+.popup-content>div:nth-child(1),
+.popup-content>div:nth-child(2) {
+    grid-column: 1 / -1;
+}
+
+.popup-content .place-name {
+    font-weight: bold;
+    color: #222;
+}
+
+.popup-content .place-link {
+    color: #0077cc;
+    text-decoration: none;
+    grid-column: 1 / -1;
+}
+
+.popup-content .place-link:hover {
+    text-decoration: underline;
+}
+
+.popup-content .road-address,
+.popup-content .jibun-address {
+    display: block;
+    color: #555;
+}
+
+.maplibregl-popup-content {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    padding: 10px;
+    background: #fff;
+    color: #222;
+}
+
+#event-info {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 999;
+    background: white;
+    /* min-width: 300px; */
+    max-width: 320px;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+#event-info-header {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+#event-calendar {
+    z-index: 9999;
+    background-color: white;
+}
+
+/* Sidebar Header */
+.event-count {
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    font-size: 12px;
+    background: #e91e63;
+    color: white;
+    padding: 1px 3px;
+    border-radius: 6px;
+    line-height: 1;
+    text-align: center;
+}
+
+.event-info-number {
+    font-weight: bold;
+}
+
+/* Flatpickr date picker */
+.flatpickr-calendar {
+    border: none !important;
+    box-shadow: none !important;
+    width: 100% !important;
+    background: transparent !important;
+}
+
+.flatpickr-innerContainer,
+.flatpickr-rContainer,
+.flatpickr-days {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+}
+
+.flatpickr-day,
+.flatpickr-weekday {
+    width: 14.285% !important;
+    /* 100% / 7 */
+    max-width: none;
+    text-align: center;
+    padding: 2px 0;
+}
+
+.flatpickr-months {
+    margin: 0 !important;
+    padding: 4px 0 !important;
+    width: 100% !important;
+}
+
+.flatpickr-month,
+.flatpickr-weekdays {
+    width: 100% !important;
+    text-align: center;
+}
+
+.flatpickr-calendar.inline {
+    margin: 0 !important;
+}
+
+.flatpickr-calendar.open {
+    background: transparent !important;
+}

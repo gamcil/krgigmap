@@ -1,0 +1,16 @@
+{
+  "name": "gigmap",
+  "version": "1.0.0",
+  "description": "Korean indie gig map",
+  "license": "MIT",
+  "author": "Cameron Gilchrist",
+  "type": "commonjs",
+  "main": "build_sqlite_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "es-hangul": "^2.3.4",
+    "fuse.js": "^7.1.0"
+  }
+}

@@ -1,0 +1,65 @@
+<template id="popup-event-template">
+  <div class="popup-event">
+    <span>Title</span><span class="event-title"></span>
+    <span>Date</span><span class="event-date"></span>
+    <span>Time</span><span class="event-time"></span>
+    <span>Artist</span><span class="event-artist"></span>
+    <span>Ticket</span><a class="event-ticket" target="_blank" rel="noopener noreferrer"></a>
+    <!-- <span>Entry</span><span class="event-entry"></span> -->
+    <hr>
+  </div>
+</template>
+
+<template id="popup-template">
+  <div class="popup-event"></div>
+  <div class="popup-content">
+    <div><strong class="place-name"></strong></div>
+    <div><a class="place-link kakao-map" target="_blank" rel="noopener noreferrer">카카오맵 링크</a></div>
+    <div><a class="place-link naver-map" target="_blank" rel="noopener noreferrer">네이버 링크</a></div>
+    <span>도로명:</span><span class="road-address"></span>
+    <span>지번:</span><span class="jibun-address"></span>
+  </div>
+</template>
+
+<html>
+
+<head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+  <meta content="utf-8" http-equiv="encoding">
+
+  <!-- MapLibre -->
+  <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+  <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+
+  <!-- Flatpickr for date calendar -->
+  <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+
+  <!-- Local CSS-->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- App -->
+  <script src="script.js"></script>
+</head>
+
+<body>
+  <div id="event-info">
+    <div id="event-info-header">
+      <h3>Korea Gig Map</h3>
+      <div>
+        Displaying <span class="event-info-number" id="event-info-event-count">X</span> events
+        across <span class="event-info-number" id="event-info-venue-count">Z</span> venues
+        on <span class="event-info-number" id="event-info-date-count">Y</span> dates
+        (until <span class="event-info-number" id="event-info-end-date"></span>).
+        <br><br>
+        Indie show data sourced from <b><a href="https://showdeerocks.com/">쇼디락스</a></b>
+        <br>
+        Electronic music events sourced from <b><a href="https://ra.co">RA</a></b>
+      </div>
+    </div>
+    <div id="event-calendar"></div>
+  </div>
+  <div id="map"></div>
+</body>
+
+</html>
