@@ -50,7 +50,6 @@ function updateActiveVenuesByDate(geojson, selectedDate) {
     const dateStr = selectedDate instanceof Date ? formatDateToYMD(selectedDate) : selectedDate
     for (const feature of geojson.features) {
         const props = feature.properties;
-        // props.active = props.events.some(e => e.date === dateStr);
         props.active = false;
         props.events.forEach(event => {
             event.date = formatDateToYMD(new Date(event.date));
@@ -166,7 +165,7 @@ async function loadMap() {
             }
         }
     });
-
+    
     map.on('load', () => {
         map.addMarkerImage('marker2')
         map.addMarkerImage('marker3', { color: 'red' })
@@ -220,7 +219,19 @@ async function loadMap() {
                 'icon-optional': true
             }
         })
-
+        
+        map.on('dragstart', () => {
+            const infoPanel = document.getElementById('event-info');
+            if (infoPanel.classList.contains('active')) {
+                infoPanel.classList.remove('active');
+            }
+        })
+        map.on('click', () => {
+            const infoPanel = document.getElementById('event-info');
+            if (infoPanel.classList.contains('active')) {
+                infoPanel.classList.toggle('active');
+            } 
+        })
         map.on('click', ['places-active', 'places-active-ra', 'places-inactive'], (e) => {
             const props = e.features[0].properties;
             const template = document.getElementById('popup-template');

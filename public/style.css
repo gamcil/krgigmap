@@ -9,15 +9,6 @@ html, body, #map {
     width: 100%;
 }
 
-.marker {
-    /* width: 20px; height: 20px; */
-    /* cursor: pointer; */
-    /* border-radius: 50% 50% 50% 0; */
-    /* background-color: red; */
-    /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); */
-    /* border: 2px solid black; */
-}
-
 .marker.inactive-marker {
     width: 10px;
     height: 10px;
@@ -51,6 +42,7 @@ html, body, #map {
     font-size: 13px;
     line-height: 1.4;
     word-break: break-all;
+    max-width: 400px;
 }
 
 .popup-content>div:nth-child(1),
@@ -199,5 +191,9 @@ html, body, #map {
 
   #event-info.active {
     transform: translateY(0);
+  }
+  
+  .popup-content {
+    max-width: 220px;
   }
 }
