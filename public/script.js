@@ -181,10 +181,10 @@ async function loadMap() {
             source: 'places',
             filter: ['==', 'active', false],
             paint: {
-                'circle-radius': 5,
+                'circle-radius': '5px',
                 'circle-color': '#bbb',
                 'circle-opacity': 1.0,
-                'circle-stroke-width': 2,
+                'circle-stroke-width': '2px',
                 'circle-stroke-color': '#aaa',
             }
         });
@@ -219,6 +219,13 @@ async function loadMap() {
                 'icon-optional': true
             }
         })
+
+        map.addControl(new maplibregl.GeolocateControl({
+            positionOptions: {
+                enableHighAccuracy: true
+            },
+            trackUserLocation: true
+        }));
         
         map.on('dragstart', () => {
             const infoPanel = document.getElementById('event-info');

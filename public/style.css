@@ -173,7 +173,7 @@ body,
         background: white;
         padding: 8px 12px;
         border: none;
-        border-radius: 6px;
+        border-radius: 6px 6px 0px 0px;
         font-size: 16px;
         box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
     }
