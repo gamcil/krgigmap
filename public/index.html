@@ -23,12 +23,11 @@
 
   <template id="popup-event-template">
     <div class="popup-event">
-      <span>Title</span><span class="event-title"></span>
-      <span>Date</span><span class="event-date"></span>
-      <span>Time</span><span class="event-time"></span>
-      <span>Artist</span><span class="event-artist"></span>
-      <span>Ticket</span><a class="event-ticket" target="_blank" rel="noopener noreferrer"></a>
-      <!-- <span>Entry</span><span class="event-entry"></span> -->
+      <span class="event-label">Title</span><span class="event-title"></span>
+      <span class="event-label">Artist</span><span class="event-artist"></span>
+      <span class="event-label">Date</span><span class="event-date"></span>
+      <span class="event-label">Time</span><span class="event-time"></span>
+      <span class="event-label">Ticket</span><a class="event-ticket" target="_blank" rel="noopener noreferrer"></a>
       <hr>
     </div>
   </template>
@@ -37,10 +36,14 @@
     <div class="popup-event"></div>
     <div class="popup-content">
       <div><strong class="place-name"></strong></div>
-      <div><a class="place-link kakao-map" target="_blank" rel="noopener noreferrer">카카오맵 링크</a></div>
-      <div><a class="place-link naver-map" target="_blank" rel="noopener noreferrer">네이버 링크</a></div>
-      <span>도로명:</span><span class="road-address"></span>
-      <span>지번:</span><span class="jibun-address"></span>
+      <a class="place-instagram-link" target="_blank" rel="noopener noreferrer">Instagram</a>
+      <a class="place-facebook-link" target="_blank" rel="noopener noreferrer">Facebook</a>
+      <a class="place-website-link" target="_blank" rel="noopener noreferrer">Website</a>
+      <span class="road-address"></span>
+      <div>
+        <a class="place-link kakao-map" target="_blank" rel="noopener noreferrer">Kakao</a>,&nbsp;
+        <a class="place-link naver-map" target="_blank" rel="noopener noreferrer">Naver</a>
+      </div>
     </div>
   </template>
 </head>

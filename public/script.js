@@ -181,10 +181,10 @@ async function loadMap() {
             source: 'places',
             filter: ['==', 'active', false],
             paint: {
-                'circle-radius': '5px',
+                'circle-radius': 5,
                 'circle-color': '#bbb',
                 'circle-opacity': 1.0,
-                'circle-stroke-width': '2px',
+                'circle-stroke-width': 2,
                 'circle-stroke-color': '#aaa',
             }
         });
@@ -247,19 +247,44 @@ async function loadMap() {
             popupEl.querySelector('.kakao-map').href = props.kakaoMaps;
             popupEl.querySelector('.naver-map').href = props.naverMaps;
             popupEl.querySelector('.road-address').textContent = props.address_ko;
-            popupEl.querySelector('.jibun-address').textContent = props.address_jibun;
+            if (props.instagram) {
+                popupEl.querySelector('.place-instagram-link').href = props.instagram;
+            } else {
+                popupEl.querySelector('.place-instagram-link').remove();
+            }
+            if (props.facebook) {
+                popupEl.querySelector('.place-facebook-link').href = props.facebook;
+            } else {
+                popupEl.querySelector('.place-facebook-link').remove();
+            }
+            if (props.website) {
+                popupEl.querySelector('.place-website-link').href = props.website;
+            } else {
+                popupEl.querySelector('.place-website-link').remove();
+            }
+
+            // popupEl.querySelector('.jibun-address').textContent = props.address_jibun;
 
             if (props.active) {
                 const eventData = JSON.parse(props.events).filter(e => e?.date === formatDateToYMD(displayDate))[0]
                 const eventTemplate = document.getElementById('popup-event-template');
                 const eventEl = eventTemplate.content.cloneNode(true);
-                eventEl.querySelector('.event-title').textContent = eventData.title;
+                if (eventData.title) {
+                    eventEl.querySelector('.event-title').textContent = eventData.title;
+                } else {
+                    eventEl.querySelector('.event-title').previousSibling.remove();
+                    eventEl.querySelector('.event-title').remove();
+                }
+                if ((eventData.artists instanceof Array && eventData.artists.length > 0 ) || eventData.artist) {
+                    eventEl.querySelector('.event-artist').textContent = eventData.artists instanceof Array ? eventData.artists.join(', ') : eventData.artist;
+                } else {
+                    eventEl.querySelector('.event-artist').previousSibling.remove();
+                    eventEl.querySelector('.event-artist').remove();
+                }
                 eventEl.querySelector('.event-date').textContent = eventData.date;
                 eventEl.querySelector('.event-time').textContent = eventData.startTime ? formatTime(new Date(eventData.startTime.trim())) : eventData.time;
-                eventEl.querySelector('.event-artist').textContent = eventData.artists instanceof Array ? eventData.artists.join(', ') : eventData.artist;
                 eventEl.querySelector('.event-ticket').textContent = (eventData.source === 'ra') ? "Resident Advisor" : eventData.entry;
                 eventEl.querySelector('.event-ticket').href = (eventData.source === 'ra') ? eventData.eventUrl : eventData.ticket;
-                // eventEl.querySelector('.event-entry').textContent = eventData.entry;
                 popupEl.querySelector('.popup-event').replaceWith(eventEl);
             } else {
                 popupEl.querySelector('.popup-event').remove();
