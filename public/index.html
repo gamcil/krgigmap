@@ -36,20 +36,20 @@
     <div class="popup-event"></div>
     <div class="popup-content">
       <div><strong class="place-name"></strong></div>
-      <a class="place-instagram-link" target="_blank" rel="noopener noreferrer">Instagram</a>
-      <a class="place-facebook-link" target="_blank" rel="noopener noreferrer">Facebook</a>
-      <a class="place-website-link" target="_blank" rel="noopener noreferrer">Website</a>
+      <a class="place-link place-instagram-link" target="_blank" rel="noopener noreferrer">Instagram</a>
+      <a class="place-link place-facebook-link" target="_blank" rel="noopener noreferrer">Facebook</a>
+      <a class="place-link place-website-link" target="_blank" rel="noopener noreferrer">Website</a>
       <span class="road-address"></span>
-      <div>
-        <a class="place-link kakao-map" target="_blank" rel="noopener noreferrer">Kakao</a>,&nbsp;
-        <a class="place-link naver-map" target="_blank" rel="noopener noreferrer">Naver</a>
+      <div class="map-links">
+        <!-- <a class="place-link kakao-map" target="_blank" rel="noopener noreferrer">Kakao</a> -->
+        <!-- <a class="place-link naver-map" target="_blank" rel="noopener noreferrer">Naver</a> -->
       </div>
     </div>
   </template>
 </head>
 
 <body>
-  <button id="event-info-toggle" class="mobile-only">📅 Calendar</button>
+  <button id="event-info-toggle" class="mobile-only">📅 <span id="calendar-date-label">Calendar</span></button>
   <div id="event-info">
     <div id="event-info-header">
       <h3>Korea Gig Map</h3>
@@ -59,9 +59,9 @@
         on <span class="event-info-number" id="event-info-date-count">Y</span> dates
         (until <span class="event-info-number" id="event-info-end-date"></span>).
         <br><br>
-        Indie show data sourced from <b><a href="https://showdeerocks.com/">쇼디락스</a></b>
+        <span class="source-tag-indie">Indie show data sourced from <b><a href="https://showdeerocks.com/">쇼디락스</a></b></span>
         <br>
-        Electronic music events sourced from <b><a href="https://ra.co">RA</a></b>
+        <span class="source-tag-ra">Electronic music events sourced from <b><a href="https://ra.co">RA</a></b></span>
       </div>
     </div>
     <div id="event-calendar"></div>

@@ -23,15 +23,31 @@ function addDays(date, days) {
     return result;
 }
 
+function formatDateToYMD(date) {
+    const yyyy = date.getFullYear();
+    const mm = String(date.getMonth() + 1).padStart(2, '0');
+    const dd = String(date.getDate()).padStart(2, '0');
+    return `${yyyy}-${mm}-${dd}`;
+}
+
 async function main() {
     const startDate = new Date();
     const endDate = addDays(startDate, 365);
+    const startDateStr = formatDateToYMD(startDate);
+    const endDateStr = formatDateToYMD(endDate);
+    
+    console.log(`Fetching events from ${startDateStr} to ${endDateStr}`);
+    console.log("Fetching Showdee events");
+    const showdeeEvents = await fetchShowdeeEvents(startDateStr);
 
-    const showdeeEvents = await fetchShowdeeEvents(startDate);
-    const raEvents = await fetchRAEvents(startDate, endDate);
+    console.log("Fetching RA events");
+    const raEvents = await fetchRAEvents(startDateStr, endDateStr);
+
+    console.log("Matching events to venues");
     const events = [...showdeeEvents, ...raEvents];
     const { geojson, unmatched } = await matchEventsToVenues(events);
 
+    console.log(`Matched ${events.length - unmatched.length}/${events.length} events to venues`);
     fs.writeFileSync('../public/data.json', JSON.stringify(geojson, null, 2))
     fs.writeFileSync('../public/unmatched.json', JSON.stringify(unmatched, null, 2))
 }

@@ -4454,6 +4454,7 @@
     "lat": 37.5499908,
     "lng": 126.9050741,
     "website": "",
+    "instagram": "https://www.instagram.com/space_soda2002",
     "googleMaps": "https://maps.google.com/?cid=13277585043844890901&g_mp=EAAYBCAA",
     "naverMaps": "https://map.naver.com/p/entry/place/1832374033",
     "kakaoMaps": "http://place.map.kakao.com/215144321",
@@ -4463,6 +4464,7 @@
       "google"
     ],
     "alias": [
+      "SS2",
       "SODA2002",
       "SPACE SODA2002",
       "space soda2002",
@@ -6712,6 +6714,87 @@
     "alias": [
       "멜트부산",
       "멜트"
+    ]
+  },
+  {
+    "name": "Volnost",
+    "name_ko": "볼노스트",
+    "address": "142, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 용산구 이태원로 142",
+    "address_jibun": "서울 용산구 이태원동 56-1",
+    "ra_id": 133352,
+    "lat": 37.534046450481604,
+    "lng": 126.98958763271291,
+    "googleMaps": "https://maps.google.com/?cid=528081830924855418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1160599308",
+    "sources": [
+      "kakao",
+      "google"
+    ],
+    "alias": [
+      "볼노스트",
+      "Volnost",
+      "volnost"
+    ],
+    "instagram": "https://www.instagram.com/volnostseoul"
+  },
+  {
+    "name": "Moment",
+    "name_ko": "모먼트",
+    "address": "25, Yongso-ro 19beon-gil, Nam-gu, Busan, Republic of Korea",
+    "address_ko": "부산광역시 남구 용소로19번길 25 태양빌딩 지하1층",
+    "address_jibun": "부산광역시 남구 대연동 58-34 태양빌딩 지하1층",
+    "lat": 35.1362814,
+    "lng": 129.102004,
+    "ra_id": 216993,
+    "googleMaps": "https://maps.google.com/?cid=17029120266020152727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "naverMaps": "https://naver.me/IGJYa3FR",
+    "kakaoMaps": "https://place.map.kakao.com/921769085",
+    "sources": [
+      "naver",
+      "google"
+    ],
+    "alias": [
+      "모먼트",
+      "모먼트 부산"
+    ],
+    "instagram": "https://www.instagram.com/moment.busan/"
+  },
+  {
+    "name": "Dext",
+    "name_ko": "덱스트",
+    "address": "45, Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 이태원로27가길 45 1층 꿀밤",
+    "address_jibun": "서울특별시 용산구 이태원동 119-17 1층 꿀밤",
+    "ra_id": 268373,
+    "lat": 37.5348915,
+    "lng": 126.9927826,
+    "instagram": "https://www.instagram.com/dext.kr",
+    "sources": [
+      "naver"
+    ],
+    "alias": [
+      "꿀밤",
+      "꿀밤"
+    ]
+  },
+  {
+    "name": "Rosso",
+    "name_ko": "로쏘",
+    "address": "17, Daesagwan-ro 31-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 용산구 대사관로31길 17",
+    "address_jibun": "서울 용산구 한남동 657-160",
+    "lat": 37.534065691211,
+    "lng": 127.005736250762,
+    "ra_id": 257133,
+    "naverMaps": "https://naver.me/GQ15Gjfr",
+    "instagram": "https://www.instagram.com/rosso_seoul",
+    "kakaoMaps": "http://place.map.kakao.com/1433833662",
+    "sources": [
+      "kakao"
+    ],
+    "alias": [
+      "로쏘 서울"
     ]
   }
 ]

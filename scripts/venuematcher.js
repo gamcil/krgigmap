@@ -174,7 +174,6 @@ async function matchEventsToVenues(events) {
             }
         }
     });
-    console.log(`Matched ${count}/${events.length} events to venues`);
     return {
         geojson: venues_geoJSON,
         unmatched: unmatched

@@ -83,11 +83,11 @@ async function fetchRAEvents(startDate, endDate, pageSize = 100, area = 75, maxP
   return allResults.map(event => {
     let venueUrl = event.event.venue?.contentUrl;
     let data = {
-      date: event.listingDate,
-      startTime: event.event.startTime,
-      endTime: event.event.endTime,
+      date: event.listingDate.trim(),
+      startTime: event.event.startTime.trim(),
+      endTime: event.event.endTime.trim(),
       eventUrl: `https://ra.co${event.event.contentUrl}`,
-      title: event.event.title,
+      title: event.event.title.trim(),
       location: event.event.venue?.name,
       artists: event.event.artists.map(a => a.name),
       source: 'ra'

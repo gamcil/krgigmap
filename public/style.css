@@ -111,6 +111,14 @@ body,
     background-color: white;
 }
 
+.source-tag-indie {
+    color: #098fb1;
+}
+
+.source-tag-ra {
+    color: rgb(169, 0, 0);
+}
+
 /* Sidebar Header */
 .event-count {
     display: block;

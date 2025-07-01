@@ -1,19 +1,15 @@
 [
   {
-    "date": "2025-07-12",
-    "artist": "허클베리핀",
-    "location": "허클베리핀 작업실",
-    "time": "17:00:00",
-    "ticket": "https://www.instagram.com/p/DLPOsZ-SRwR/",
-    "entry": "예매 정보 링크",
-    "entry_txt": "#FF0000",
-    "entry_bg": "#DDDDDD",
-    "entry_bld": true,
-    "hong": false,
-    "free": false,
-    "recent": true,
     "showdeeId": "2169",
     "source": "showdee",
+    "artists": [
+      "허클베리핀"
+    ],
+    "location": "허클베리핀 작업실",
+    "startTime": "2025-07-12T17:00:00",
+    "date": "2025-07-12",
+    "eventUrl": "https://www.instagram.com/p/DLPOsZ-SRwR/",
+    "entry": "예매 정보 링크",
     "unmatchedReason": "unknown"
   },
   {

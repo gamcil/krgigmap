@@ -20,12 +20,17 @@ async function fetchShowdeeEvents(date) {
     const data = await response.json();
 
     return Object.entries(data)
-        .map(([key, event]) => {
-            event.showdeeId = key;
-            event.source = 'showdee';
-            return event;
-        })
-        .filter(event => new Date(event.date) >= date);
+        .map(([key, event]) => ({
+            showdeeId: key,
+            source: 'showdee',
+            artists: event.artist.split(', ').map(artist => artist.trim()),
+            location: event.location,
+            startTime: `${event.date}T${event.time}`,
+            date: event.date,
+            eventUrl: event.ticket,
+            entry: event.entry
+        }))
+        .filter(event => event.date >= date);
 }
 
 module.exports = { fetchShowdeeEvents };

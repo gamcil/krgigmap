@@ -85,6 +85,15 @@ function formatTime(date) {
     return `${hh}:${mm}:${ss}`;
 }
 
+function formatTimeText(start, end) {
+    if (!start && !end) return "";
+    let startTime = formatTime(new Date(start));
+    if (end !== undefined) {
+        startTime += ' - ' + formatTime(new Date(end));  
+    }
+    return startTime;
+}
+
 async function loadMap() {
     const geojsonRaw = await fetch("./data.json");
     let geojson = await geojsonRaw.json();
@@ -94,6 +103,7 @@ async function loadMap() {
 
     // For initial load, set venues with events today as active
     updateActiveVenuesByDate(geojson, today)
+    document.getElementById("calendar-date-label").textContent = formatDateToYMD(displayDate);
 
     // Count events for calendar badges
     let eventCounts = geojson?.features?.flatMap(f => f.properties?.events || [])
@@ -159,6 +169,7 @@ async function loadMap() {
             displayDate = selectedDate[0];
             const date = formatDateToYMD(selectedDate[0]);
             updateActiveVenuesByDate(geojson, date);
+            document.getElementById("calendar-date-label").textContent = date;
             const source = map.getSource('places');
             if (source) {
                 source.setData(geojson)
@@ -181,7 +192,7 @@ async function loadMap() {
             source: 'places',
             filter: ['==', 'active', false],
             paint: {
-                'circle-radius': 5,
+                'circle-radius': 6,
                 'circle-color': '#bbb',
                 'circle-opacity': 1.0,
                 'circle-stroke-width': 2,
@@ -197,7 +208,7 @@ async function loadMap() {
             filter: ['all', ['==', 'active', true], ['==', 'source', 'showdee']],
             layout: {
                 'icon-image': 'marker2',
-                'icon-size': 1.0,
+                'icon-size': 1.1,
                 'icon-anchor': 'bottom',
                 'icon-allow-overlap': true,
                 'icon-ignore-placement': true,
@@ -212,7 +223,7 @@ async function loadMap() {
             filter: ['all', ['==', 'active', true], ['==', 'source', 'ra']],
             layout: {
                 'icon-image': 'marker3',
-                'icon-size': 1.0,
+                'icon-size': 1.1,
                 'icon-anchor': 'bottom',
                 'icon-allow-overlap': true,
                 'icon-ignore-placement': true,
@@ -244,8 +255,17 @@ async function loadMap() {
             const template = document.getElementById('popup-template');
             const popupEl = template.content.cloneNode(true);
             popupEl.querySelector('.place-name').textContent = `${props.name} / ${props.name_ko}`;
-            popupEl.querySelector('.kakao-map').href = props.kakaoMaps;
-            popupEl.querySelector('.naver-map').href = props.naverMaps;
+            const mapLinks = []
+            if (props.kakaoMaps) {
+                mapLinks.push(`<a href=${props.kakaoMaps} class="place-link kakao-map" target="_blank" rel="noopener noreferrer">Kakao</a>`);
+            }
+            if (props.naverMaps) {
+                mapLinks.push(`<a href=${props.naverMaps} class="place-link naver-map" target="_blank" rel="noopener noreferrer">Naver</a>`);
+            }
+            if (props.googleMaps) {
+                mapLinks.push(`<a href=${props.googleMaps} class="place-link google-map" target="_blank" rel="noopener noreferrer">Google</a>`);
+            }
+            popupEl.querySelector('.map-links').innerHTML = mapLinks.join(', ');
             popupEl.querySelector('.road-address').textContent = props.address_ko;
             if (props.instagram) {
                 popupEl.querySelector('.place-instagram-link').href = props.instagram;
@@ -262,9 +282,6 @@ async function loadMap() {
             } else {
                 popupEl.querySelector('.place-website-link').remove();
             }
-
-            // popupEl.querySelector('.jibun-address').textContent = props.address_jibun;
-
             if (props.active) {
                 const eventData = JSON.parse(props.events).filter(e => e?.date === formatDateToYMD(displayDate))[0]
                 const eventTemplate = document.getElementById('popup-event-template');
@@ -275,16 +292,16 @@ async function loadMap() {
                     eventEl.querySelector('.event-title').previousSibling.remove();
                     eventEl.querySelector('.event-title').remove();
                 }
-                if ((eventData.artists instanceof Array && eventData.artists.length > 0 ) || eventData.artist) {
-                    eventEl.querySelector('.event-artist').textContent = eventData.artists instanceof Array ? eventData.artists.join(', ') : eventData.artist;
+                if (eventData.artists.length > 0) {
+                    eventEl.querySelector('.event-artist').textContent = eventData.artists.join(', ');
                 } else {
                     eventEl.querySelector('.event-artist').previousSibling.remove();
                     eventEl.querySelector('.event-artist').remove();
                 }
                 eventEl.querySelector('.event-date').textContent = eventData.date;
-                eventEl.querySelector('.event-time').textContent = eventData.startTime ? formatTime(new Date(eventData.startTime.trim())) : eventData.time;
+                eventEl.querySelector('.event-time').textContent = formatTimeText(eventData.startTime, eventData.endTime);
                 eventEl.querySelector('.event-ticket').textContent = (eventData.source === 'ra') ? "Resident Advisor" : eventData.entry;
-                eventEl.querySelector('.event-ticket').href = (eventData.source === 'ra') ? eventData.eventUrl : eventData.ticket;
+                eventEl.querySelector('.event-ticket').href = eventData.eventUrl
                 popupEl.querySelector('.popup-event').replaceWith(eventEl);
             } else {
                 popupEl.querySelector('.popup-event').remove();
