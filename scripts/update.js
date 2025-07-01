@@ -32,7 +32,7 @@ async function main() {
     const events = [...showdeeEvents, ...raEvents];
     const { geojson, unmatched } = await matchEventsToVenues(events);
 
-    fs.writeFileSync('../public/geojson.json', JSON.stringify(geojson, null, 2))
+    fs.writeFileSync('../public/data.json', JSON.stringify(geojson, null, 2))
     fs.writeFileSync('../public/unmatched.json', JSON.stringify(unmatched, null, 2))
 }
 

@@ -6673,5 +6673,45 @@
     "alias": [
       "언더노트"
     ]
+  },
+  {
+    "name": "House",
+    "name_ko": "하우스",
+    "address": "10, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 용산구 보광로59길 10",
+    "address_jibun": "서울 용산구 이태원동 128-15",
+    "lat": 37.5340133939113,
+    "lng": 126.993505708801,
+    "ra_id": 262888,
+    "website": "",
+    "instagram": "https://www.instagram.com/house_seoul",
+    "googleMaps": "https://maps.app.goo.gl/nMaKEh6MDUntetjCA",
+    "kakaoMaps": "https://place.map.kakao.com/1733549039",
+    "sources": [
+      "kakao",
+      "google"
+    ],
+    "alias": [
+      "하우스서울"
+    ]
+  },
+  {
+    "name": "Melt",
+    "name_ko": "멜트",
+    "address": "8, Haeun-daero 570beon-gil, Haeundae-gu, Busan, Republic of Korea",
+    "address_ko": "부산 해운대구 해운대로570번길 8",
+    "address_jibun": "부산 해운대구 우동 655-6",
+    "ra_id": 198699,
+    "lat": 35.1605734526236,
+    "lng": 129.154839286818,
+    "kakaoMaps": "http://place.map.kakao.com/1033496753",
+    "naverMaps": "https://naver.me/x67YuiyR",
+    "sources": [
+      "kakao"
+    ],
+    "alias": [
+      "멜트부산",
+      "멜트"
+    ]
   }
 ]
