@@ -178,8 +178,8 @@ async function loadMap() {
     });
     
     map.on('load', () => {
-        map.addMarkerImage('marker2')
-        map.addMarkerImage('marker3', { color: 'red' })
+        map.addMarkerImage('marker2', { scale: 1.1 })
+        map.addMarkerImage('marker3', { scale: 1.1, color: 'red' })
 
         map.addSource('places', {
             type: 'geojson',
@@ -208,7 +208,7 @@ async function loadMap() {
             filter: ['all', ['==', 'active', true], ['==', 'source', 'showdee']],
             layout: {
                 'icon-image': 'marker2',
-                'icon-size': 1.1,
+                'icon-size': 1,
                 'icon-anchor': 'bottom',
                 'icon-allow-overlap': true,
                 'icon-ignore-placement': true,
@@ -223,7 +223,7 @@ async function loadMap() {
             filter: ['all', ['==', 'active', true], ['==', 'source', 'ra']],
             layout: {
                 'icon-image': 'marker3',
-                'icon-size': 1.1,
+                'icon-size': 1,
                 'icon-anchor': 'bottom',
                 'icon-allow-overlap': true,
                 'icon-ignore-placement': true,
