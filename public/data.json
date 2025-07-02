@@ -3794,6 +3794,7 @@
             "location": "Faust",
             "artists": [
               "concerta",
+              "ROS3",
               "Mars Parck",
               "Suman"
             ],
@@ -6206,6 +6207,17 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1008218783",
         "ra_id": 140937,
         "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T22:00:00.000",
+            "endTime": "2025-07-19T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2206184",
+            "title": "TEENAGENINJACLUB Vol.6",
+            "location": "Modeci",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 140937
+          },
           {
             "date": "2025-07-19T00:00:00.000",
             "startTime": "2025-07-19T22:00:00.000",
@@ -10372,6 +10384,28 @@
             ],
             "source": "ra",
             "ra_id": 155109
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T20:00:00.000",
+            "endTime": "2025-07-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2206192",
+            "title": "Clique Records 10 Year Party",
+            "location": "The Edge Seoul",
+            "artists": [
+              "JAEHAN (2)",
+              "Juncheol",
+              "Kihm",
+              "Shinyoung",
+              "Isoz",
+              "J.U.N.E",
+              "Caleb",
+              "Youknowsong",
+              "Shins",
+              "DJ yesyes"
+            ],
+            "source": "ra",
+            "ra_id": 155109
           }
         ]
       }
@@ -12432,6 +12466,21 @@
             "ra_id": 101673
           },
           {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T23:00:00.000",
+            "endTime": "2025-07-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2206171",
+            "title": "Ancient Future: 30drop",
+            "location": "vurt.",
+            "artists": [
+              "30drop",
+              "SJK (1)",
+              "Djilogue"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
             "date": "2025-07-19T00:00:00.000",
             "startTime": "2025-07-19T23:00:00.000",
             "endTime": "2025-07-20T06:00:00.000",
@@ -13888,6 +13937,47 @@
             "artists": [],
             "source": "ra",
             "ra_id": 242471
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9964133,
+          37.533743
+        ]
+      },
+      "properties": {
+        "name_ko": "이글서울",
+        "name": "Eagle Seoul",
+        "address_ko": "서울특별시 용산구 우사단로12길 13 지하",
+        "address": "13, Usadan-ro 12-gil, Yongsan-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 용산구 이태원동 136-13 지하",
+        "website": "",
+        "instagram": "https://www.instagram.com/eagleseoul_official",
+        "googleMaps": "https://maps.google.com/?cid=13898487412806990180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://map.naver.com/p/entry/place/1309784926",
+        "ra_id": 212333,
+        "events": [
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T22:00:00.000",
+            "endTime": "2025-07-13T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2206495",
+            "title": "TAP WATER × RAW HEARTS",
+            "location": "Eagle Seoul",
+            "artists": [
+              "Earthbender",
+              "DJ BOBA BEAR",
+              "Yetsuby",
+              "August (3)",
+              "MAZE (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 212333
           }
         ]
       }
