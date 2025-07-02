@@ -5077,7 +5077,7 @@
     "lng": 126.92679416531,
     "kakaoMaps": "http://place.map.kakao.com/8410605",
     "googleMaps": "https://maps.google.com/?cid=4431162103475215003",
-    "ra_id": null,
+    "ra_id": 138268,
     "address": "64 Wausan-ro 29-gil, Mapo-gu, Seoul",
     "instagram": "https://www.instagram.com/strangefruit.seoul/",
     "naverMaps": "https://map.naver.com/p/entry/place/38015320",
@@ -6795,6 +6795,131 @@
     ],
     "alias": [
       "로쏘 서울"
+    ]
+  },
+  {
+    "name": "Seonhyu Coffee",
+    "name_ko": "선휴커피",
+    "address": "79, Geobukgol-ro, Seodaemun-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 서대문구 거북골로 79 2층",
+    "address_jibun": "서울특별시 서대문구 남가좌동 226-9 2층",
+    "lat": 37.5767796,
+    "lng": 126.9203337,
+    "googleMaps": "https://maps.google.com/?cid=3542681231471240568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1925235367",
+    "sources": [
+      "naver",
+      "kakao",
+      "google"
+    ],
+    "alias": [
+      "선휴커피",
+      "서대문구 선휴커피"
+    ],
+    "instagram": "https://www.instagram.com/seonhyu_coffee/"
+  },
+  {
+    "name": "Arga",
+    "name_ko": "아르가",
+    "ra_id": 225363,
+    "address": "173-7, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 용산구 이태원로 173-7",
+    "address_jibun": "서울 용산구 이태원동 119-7",
+    "lat": 37.5348756358332,
+    "lng": 126.993222778372,
+    "website": "",
+    "instagram": "https://www.instagram.com/argaseoul",
+    "googleMaps": "https://maps.google.com/?cid=17441298849254633058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/948096615",
+    "sources": [
+      "kakao",
+      "google"
+    ],
+    "alias": [
+      "아르가",
+      "ARGA Seoul",
+      "arga"
+    ]
+  },
+  {
+    "name": "Cul Sec",
+    "name_ko": "큐섹",
+    "address": "242, Noksapyeong-daero, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 녹사평대로 242 1층",
+    "address_jibun": "서울특별시 용산구 이태원동 638 1층",
+    "ra_id": 268468,
+    "lat": 37.5391671,
+    "lng": 126.9873597,
+    "googleMaps": "https://maps.google.com/?cid=7971217441007667550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "sources": [
+      "naver",
+      "google"
+    ],
+    "alias": [
+      "큐섹",
+      "Culsec",
+      "cul sec"
+    ],
+    "instagram": "https://www.instagram.com/culsec_seoul"
+  },
+  {
+    "name": "Bar Piment",
+    "name_ko": "바 피먼트",
+    "address": "32, Myeongdong 4-gil, Jung-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 중구 명동4길 32",
+    "address_jibun": "서울 중구 명동2가 55-4",
+    "lat": 37.5622659900306,
+    "lng": 126.983871326726,
+    "instagram": "https://www.instagram.com/barpiment/",
+    "ra_id": 257968,
+    "kakaoMaps": "http://place.map.kakao.com/1416744428",
+    "naverMaps": "https://naver.me/GI3VGKmm",
+    "sources": [
+      "kakao"
+    ],
+    "alias": [
+      "바 피먼트",
+      "피먼트"
+    ]
+  },
+  {
+    "name": "Times",
+    "name_ko": "타임즈",
+    "ra_id": 218481,
+    "address": "25, Apgujeong-ro 54-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 강남구 압구정로54길 25",
+    "address_jibun": "서울 강남구 신사동 664-16",
+    "lat": 37.5262205632452,
+    "lng": 127.03934633198,
+    "kakaoMaps": "http://place.map.kakao.com/1413392414",
+    "instagram": "https://www.instagram.com/timesapgu",
+    "sources": [
+      "kakao"
+    ],
+    "alias": [
+      "타임즈 압구정",
+      "Times"
+    ]
+  },
+  {
+    "name": "Luka",
+    "name_ko": "루카",
+    "ra_id": 242471,
+    "address": "46, Gangnam-daero 152-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 강남구 강남대로152길 46",
+    "address_jibun": "서울 강남구 신사동 537-4",
+    "lat": 37.5181354,
+    "lng": 127.0229678,
+    "website": "",
+    "instagram": "https://www.instagram.com/luka.seoul",
+    "naverMaps": "https://naver.me/FZ2ip7EF",
+    "kakaoMaps": "https://place.map.kakao.com/550295514",
+    "googleMaps": "https://maps.google.com/?cid=7853402513793363628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "sources": [
+      "google"
+    ],
+    "alias": [
+      "루카"
     ]
   }
 ]
