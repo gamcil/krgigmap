@@ -61,10 +61,10 @@ function buildFuseIndex(venues) {
             { name: 'aliasesJamo', weight: 0.02 }
         ],
         tokenize: false,
-        threshold: 0.2,
+        threshold: 0.4,
         ignoreLocation: true,
         shouldSort: true,
-        distance: 20
+        distance: 100
     });
 }
 

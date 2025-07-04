@@ -46,10 +46,15 @@ async function main() {
     console.log("Matching events to venues");
     const events = [...showdeeEvents, ...raEvents];
     const { geojson, unmatched } = await matchEventsToVenues(events);
-
+    const meta = {
+        updateDate: startDateStr,  // startDate.toISOString() for time as well
+        eventCount: events.length,
+        unmatchedCount: unmatched.length,
+    }
     console.log(`Matched ${events.length - unmatched.length}/${events.length} events to venues`);
     fs.writeFileSync('../public/data.json', JSON.stringify(geojson, null, 2))
     fs.writeFileSync('../public/unmatched.json', JSON.stringify(unmatched, null, 2))
+    fs.writeFileSync('../public/metadata.json', JSON.stringify(meta, null, 2))
 }
 
 main();

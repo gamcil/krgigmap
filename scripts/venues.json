@@ -1865,7 +1865,7 @@
     "_dir": "133_서울_은평문화예술회관_eunpyeongartscenter"
   },
   {
-    "name": "FREAX | 프릭스 이태원 바",
+    "name": "FREAX",
     "address": "Seoul, Yongsan District, Itaewon-ro, 143-13 프릭스 (FREAX 1층",
     "lat": 37.534548699999995,
     "lng": 126.98923279999998,
@@ -6998,5 +6998,136 @@
     "googleMaps": "https://maps.app.goo.gl/6JKbzBmdsZjViK9cA",
     "ra_id": 268137,
     "alias": []
+  },
+  {
+    "name": "Ollae Live Hall",
+    "name_ko": "올래공연장",
+    "address": "24, Gyeongin-ro 1104beon-gil, Bupyeong-gu, Incheon, Republic of Korea",
+    "address_ko": "인천광역시 부평구 경인로1104번길 24 지하1층",
+    "address_jibun": "인천광역시 부평구 부개동 328-5 지하1층",
+    "kopis_id": "FC003451",
+    "lat": 37.4847021,
+    "lng": 126.7418946,
+    "website": "http://www.ollae.net",
+    "instagram": "https://www.instagram.com/ollae_art",
+    "googleMaps": "https://maps.google.com/?cid=8906681112199006147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/27274108",
+    "naverMaps": "https://naver.me/FW6GDptC",
+    "sources": [
+      "naver",
+      "kakao",
+      "google"
+    ],
+    "alias": [
+      "올래공연장",
+      "올래",
+      "인천 올래 공연장"
+    ]
+  },
+  {
+    "name": "Hamel Art Hall",
+    "name_ko": "하멜아트홀",
+    "address": "70, Bongseon 1-ro, Nam-gu, Gwangju, Republic of Korea",
+    "address_ko": "광주광역시 남구 봉선1로 70",
+    "address_jibun": "광주광역시 남구 봉선동 1041-6",
+    "lat": 35.1278205,
+    "lng": 126.9128206,
+    "website": "http://cafe.naver.com/hmhall",
+    "googleMaps": "https://maps.google.com/?cid=12110069373252589624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "facebook": "https://www.facebook.com/groups/1437341456477276/",
+    "kakaoMaps": "http://place.map.kakao.com/23640979",
+    "naverMaps": "https://naver.me/5ss8ruif",
+    "sources": [
+      "naver",
+      "kakao",
+      "google"
+    ],
+    "alias": [
+      "하멜아트홀",
+      "광주 하멜아트홀"
+    ]
+  },
+  {
+    "name": "Ayang Arts Center",
+    "name_ko": "아양아트센터",
+    "address": "24, Hyodong-ro 2-gil, Dong-gu, Daegu, Republic of Korea",
+    "address_ko": "대구광역시 동구 효동로2길 24 아양아트센터",
+    "address_jibun": "대구광역시 동구 효목동 1084 아양아트센터",
+    "lat": 35.8794014,
+    "lng": 128.6522348,
+    "website": "http://www.ayangarts.or.kr/",
+    "instagram": "https://www.instagram.com/ayangartscenter/",
+    "googleMaps": "https://maps.google.com/?cid=7914025781091936549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/7841930",
+    "naverMaps": "https://naver.me/GPdQeOEC",
+    "sources": [
+      "naver",
+      "kakao",
+      "google"
+    ],
+    "alias": [
+      "아양아트센터",
+      "대구 아양아트센터"
+    ]
+  },
+  {
+    "name": "Mushroom",
+    "name_ko": "머쉬룸",
+    "ra_id": 230225,
+    "address": "136-1, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 용산구 이태원로 136-1",
+    "address_jibun": "서울 용산구 이태원동 34-14",
+    "lat": 37.533974319919,
+    "lng": 126.989029858093,
+    "googleMaps": "https://maps.google.com/?cid=2937189992226926322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/980924554",
+    "sources": [
+      "kakao",
+      "google"
+    ],
+    "alias": [
+      "머쉬룸",
+      "이태원 머쉬룸"
+    ],
+    "instagram": "https://www.instagram.com/mushroom_itaewon"
+  },
+  {
+    "name": "Casa Corona Seoul",
+    "name_ko": "카사코로나 서울",
+    "ra_id": 177268,
+    "address": "7, Bogwang-ro 60-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 용산구 보광로60길 7",
+    "address_jibun": "서울 용산구 이태원동 127-15",
+    "website": "https://casacoronaseoul.com/",
+    "instagram": "https://www.instagram.com/casacoronaseoul",
+    "lat": 37.5340999420247,
+    "lng": 126.994533022415,
+    "kakaoMaps": "http://place.map.kakao.com/1974912405",
+    "sources": [
+      "kakao"
+    ],
+    "alias": [
+      "카사코로나 서울",
+      "카사코로나"
+    ]
+  },
+  {
+    "name": "The Stand",
+    "name_ko": "더스탠드",
+    "ra_id": null,
+    "address": "79, Hajodaehaean-gil, Hyeonbuk-myeon, Yangyang-gun, Gangwon-do, Republic of Korea",
+    "address_ko": "강원특별자치도 양양군 현북면 하조대해안길 79",
+    "address_jibun": "강원특별자치도 양양군 현북면 하광정리 596-6",
+    "lat": 38.02547334407362,
+    "lng": 128.7203030843357,
+    "instagram": "https://www.instagram.com/official_thestand",
+    "kakaoMaps": "http://place.map.kakao.com/1899032559",
+    "naverMaps": "https://naver.me/FhULoZAz",
+    "sources": [
+      "kakao"
+    ],
+    "alias": [
+      "더스탠드"
+    ]
   }
 ]
