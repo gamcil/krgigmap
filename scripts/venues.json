@@ -280,23 +280,29 @@
     "_dir": "3_서울_ckl스테이지_cklstage"
   },
   {
-    "name": "CM",
+    "name": "Cafe Museum CM",
     "name_ko": "카페뮤지엄CM",
-    "alias": [
-      "cafe museum"
-    ],
-    "address_ko": "광주 동구 문화전당로 29-1",
-    "address_jibun": "광주 동구 남동 168-6",
-    "lat": 35.1451797850753,
-    "lng": 126.919105990833,
-    "kakaoMaps": "http://place.map.kakao.com/883576897",
-    "googleMaps": "https://maps.google.com/?cid=3958108416519363403",
-    "ra_id": null,
-    "address": "Gwangju, Dong-gu, Munhwajeondang-ro, 29-1 수앤수센터 1층",
+    "address": "29-1, Munhwajeondang-ro, Dong-gu, Gwangju, Republic of Korea",
+    "address_ko": "광주광역시 동구 문화전당로 29-1 수앤수센터 1층",
+    "address_jibun": "광주광역시 동구 남동 168-6 수앤수센터 1층",
+    "lat": 35.145186,
+    "lng": 126.9191996,
     "website": "",
-    "instagram": "https://www.instagram.com/liveconcert_cm",
+    "googleMaps": "https://maps.google.com/?cid=3958108416519363403&g_mp=EAAYBCAA",
     "naverMaps": "https://map.naver.com/p/entry/place/1377000633",
-    "_dir": "24_광주_카페뮤지엄cm_cm"
+    "kakaoMaps": "http://place.map.kakao.com/883576897",
+    "sources": [
+      "naver",
+      "kakao",
+      "google"
+    ],
+    "alias": [
+      "카페뮤지엄CM",
+      "cafe museum",
+      "광주 카페 뮤지엄"
+    ],
+    "instagram": "https://www.instagram.com/liveconcert_cm",
+    "_dir": "광주_카페_뮤지엄"
   },
   {
     "name": "Cafe Dongbaek",
@@ -1189,30 +1195,6 @@
     "instagram": "https://www.instagram.com/cgarthall",
     "naverMaps": "https://map.naver.com/p/entry/place/37249757",
     "_dir": "67_서울_문화정원아트홀_cgarthall"
-  },
-  {
-    "name": "Cafe Museum CM",
-    "name_ko": "카페뮤지엄CM",
-    "address": "29-1, Munhwajeondang-ro, Dong-gu, Gwangju, Republic of Korea",
-    "address_ko": "광주광역시 동구 문화전당로 29-1 수앤수센터 1층",
-    "address_jibun": "광주광역시 동구 남동 168-6 수앤수센터 1층",
-    "lat": 35.145186,
-    "lng": 126.9191996,
-    "website": "",
-    "googleMaps": "https://maps.google.com/?cid=3958108416519363403&g_mp=EAAYBCAA",
-    "naverMaps": "https://map.naver.com/p/entry/place/1377000633",
-    "kakaoMaps": "http://place.map.kakao.com/883576897",
-    "sources": [
-      "naver",
-      "kakao",
-      "google"
-    ],
-    "alias": [
-      "카페뮤지엄CM",
-      "광주 카페 뮤지엄"
-    ],
-    "instagram": "https://www.instagram.com/liveconcert_cm",
-    "_dir": "광주_카페_뮤지엄"
   },
   {
     "name": "Cafe PPnF",
@@ -3297,16 +3279,17 @@
   },
   {
     "name": "MODECi",
-    "address": "Seoul, KR 5 KR 서울특별시 마포구 상수동 86-22 floor 서울특별시 상수동 상수동 86-22번지 마포구",
+    "address": "64 Wausan-ro, Mapo-gu, Seoul",
+    "address_ko": "서울 마포구 와우산로 64",
+    "address_jibun": "서울 마포구 상수동 86-22",
     "lat": 37.5501901,
     "lng": 126.9232155,
     "website": "",
     "googleMaps": "https://maps.google.com/?cid=11447821975425180152",
     "ra_id": 140937,
     "name_ko": "모데시",
-    "address_ko": "서울 마포구 와우산로 64",
+    "instagram": "https://www.instagram.com/modeci_seoul",
     "kakaoMaps": "http://place.map.kakao.com/57175049",
-    "address_jibun": "서울 마포구 상수동 86-22",
     "naverMaps": "https://map.naver.com/p/entry/place/1008218783",
     "_dir": "206_서울_모데시_modeci"
   },
