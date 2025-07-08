@@ -857,19 +857,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1476560900",
         "events": [
           {
-            "showdeeId": "2157",
-            "source": "showdee",
-            "artists": [
-              "기묘말",
-              "서진주"
-            ],
-            "location": "언플러그드 라운지",
-            "startTime": "2025-07-07T20:00:00",
-            "date": "2025-07-07",
-            "eventUrl": "https://www.instagram.com/p/DLTe__qSwAc/",
-            "entry": "예매 정보 링크"
-          },
-          {
             "showdeeId": "2173",
             "source": "showdee",
             "artists": [
@@ -1775,18 +1762,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1196131538",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "2159",
-            "source": "showdee",
-            "artists": [
-              "감귤서리단"
-            ],
-            "location": "클럽온에어",
-            "startTime": "2025-07-07T20:00:00",
-            "date": "2025-07-07",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211518",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "2168",
             "source": "showdee",
@@ -3171,21 +3146,7 @@
         "googleMaps": "https://maps.google.com/?cid=12104134623441514310",
         "naverMaps": "https://map.naver.com/p/entry/place/1153655734",
         "ra_id": null,
-        "events": [
-          {
-            "showdeeId": "2158",
-            "source": "showdee",
-            "artists": [
-              "여리밴드",
-              "파파더캅"
-            ],
-            "location": "종로 이들스",
-            "startTime": "2025-07-07T20:00:00",
-            "date": "2025-07-07",
-            "eventUrl": "https://www.instagram.com/p/DLWn4jKz3d6/",
-            "entry": "예매 정보 링크"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -7886,7 +7847,23 @@
         "googleMaps": "https://maps.google.com/?cid=17791490631383192613",
         "naverMaps": "https://map.naver.com/p/entry/place/1195670464",
         "ra_id": 204286,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T22:00:00.000",
+            "endTime": "2025-07-12T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2209221",
+            "title": "venn invites...DJ Life",
+            "location": "Stoked&stoned",
+            "artists": [
+              "DJ Life",
+              "DJ Botermelk",
+              "odix"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          }
+        ]
       }
     },
     {
@@ -9631,7 +9608,19 @@
         "googleMaps": "https://maps.google.com/?cid=18239732963541701885",
         "naverMaps": "https://map.naver.com/p/entry/place/1512008933",
         "ra_id": 260734,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T20:00:00.000",
+            "endTime": "2025-07-20T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2209391",
+            "title": "UNDERCITY presents LIQUID ROSE",
+            "location": "UNDERCITY",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 260734
+          }
+        ]
       }
     },
     {
@@ -11406,6 +11395,21 @@
             ],
             "source": "ra",
             "ra_id": 101673
+          },
+          {
+            "date": "2025-07-25T00:00:00.000",
+            "startTime": "2025-07-25T23:00:00.000",
+            "endTime": "2025-07-26T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2209777",
+            "title": "융 Yung",
+            "location": "vurt.",
+            "artists": [
+              "KEEMBOGYEOM",
+              "Inger",
+              "Philipp Kim"
+            ],
+            "source": "ra",
+            "ra_id": 101673
           }
         ]
       }
@@ -12262,7 +12266,54 @@
         "kakaoMaps": "http://place.map.kakao.com/948096615",
         "googleMaps": "https://maps.google.com/?cid=17441298849254633058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "ra_id": 225363,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-10T00:00:00.000",
+            "startTime": "2025-07-10T23:00:00.000",
+            "endTime": "2025-07-11T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2209517",
+            "title": "TTSD",
+            "location": "Arga",
+            "artists": [
+              "Cityboy from Seoul",
+              "Lyumin",
+              "Sunday Lee",
+              "JNS"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          },
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T23:00:00.000",
+            "endTime": "2025-07-12T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2209523",
+            "title": "NPC Night",
+            "location": "Arga",
+            "artists": [
+              "Youngisland",
+              "Gio (KR)",
+              "Joshüa",
+              "Muyeol"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T23:00:00.000",
+            "endTime": "2025-07-13T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2209524",
+            "title": "Indie Dance Night",
+            "location": "Arga",
+            "artists": [
+              "RTRP",
+              "Cityboy from Seoul"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          }
+        ]
       }
     },
     {
