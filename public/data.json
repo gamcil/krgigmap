@@ -267,6 +267,39 @@
         "ra_id": 198937,
         "events": [
           {
+            "date": "2025-07-10T00:00:00.000",
+            "startTime": "2025-07-10T22:00:00.000",
+            "endTime": "2025-07-11T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2210340",
+            "title": "BOLERO: FAVELA WORLDWIDE INVITES",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T22:00:00.000",
+            "endTime": "2025-07-12T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2210341",
+            "title": "BOLERO: Eat Drink Love vol.6 'USB'",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T22:00:00.000",
+            "endTime": "2025-07-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2210345",
+            "title": "BOLERO: SUMMER CHAMPIONS",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
             "date": "2025-07-18T00:00:00.000",
             "startTime": "2025-07-18T22:00:00.000",
             "endTime": "2025-07-19T06:00:00.000",
@@ -3740,7 +3773,23 @@
         "googleMaps": "https://maps.google.com/?cid=14285972730741258480",
         "naverMaps": "https://map.naver.com/p/entry/place/37903540",
         "ra_id": 243783,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T21:00:00.000",
+            "endTime": "2025-07-13T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2210365",
+            "title": "The First Grain",
+            "location": "Grain Haus",
+            "artists": [
+              "DJ POOL",
+              "bojvck",
+              "Austen",
+              "KINGMCK"
+            ],
+            "source": "ra"
+          }
+        ]
       }
     },
     {
@@ -5676,6 +5725,25 @@
         "ra_id": 140937,
         "events": [
           {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T22:00:00.000",
+            "endTime": "2025-07-13T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2210599",
+            "title": "Modeci presents: x3butterfly",
+            "location": "Modeci",
+            "artists": [
+              "x3butterfly",
+              "Mogwaa",
+              "DJ Co.kr",
+              "Hyejin",
+              "Moon Ki",
+              "SINAHILL",
+              "Quandol"
+            ],
+            "source": "ra",
+            "ra_id": 140937
+          },
+          {
             "date": "2025-07-18T00:00:00.000",
             "startTime": "2025-07-18T22:00:00.000",
             "endTime": "2025-07-19T05:00:00.000",
@@ -5819,7 +5887,35 @@
         "googleMaps": "https://maps.google.com/?cid=7605508387779806212",
         "naverMaps": "https://map.naver.com/p/entry/place/1818991788",
         "ra_id": 255087,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T21:00:00.000",
+            "endTime": "2025-07-12T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2210543",
+            "title": "Mellow Music Curation",
+            "location": "Mellow Seoul",
+            "artists": [
+              "YOUKU",
+              "Recy"
+            ],
+            "source": "ra",
+            "ra_id": 255087
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T21:00:00.000",
+            "endTime": "2025-07-13T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2210548",
+            "title": "Fresh Frequency",
+            "location": "Mellow Seoul",
+            "artists": [
+              "Adroit Joe"
+            ],
+            "source": "ra",
+            "ra_id": 255087
+          }
+        ]
       }
     },
     {
@@ -6374,7 +6470,36 @@
         "googleMaps": "https://maps.google.com/?cid=26873925375562228",
         "naverMaps": "https://map.naver.com/p/entry/place/1500908439",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T22:00:00.000",
+            "endTime": "2025-07-14T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2210348",
+            "title": "VINAI: Official S2O Korea Afterparty",
+            "location": "Stardium",
+            "artists": [
+              "VINAI",
+              "Advanced (SK)",
+              "H93 (KR)"
+            ],
+            "source": "ra"
+          },
+          {
+            "date": "2025-07-13T00:00:00.000",
+            "startTime": "2025-07-12T22:00:00.000",
+            "endTime": "2025-07-14T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2210348",
+            "title": "VINAI: Official S2O Korea Afterparty",
+            "location": "Stardium",
+            "artists": [
+              "VINAI",
+              "Advanced (SK)",
+              "H93 (KR)"
+            ],
+            "source": "ra"
+          }
+        ]
       }
     },
     {
@@ -6725,7 +6850,32 @@
         "googleMaps": "https://maps.google.com/?cid=8758007913999319309",
         "naverMaps": "https://map.naver.com/p/entry/place/305759101",
         "ra_id": 147098,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T23:00:00.000",
+            "endTime": "2025-07-12T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2210782",
+            "title": "KIMOJI [INDONESIA]",
+            "location": "Output",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 147098
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T23:00:00.000",
+            "endTime": "2025-07-13T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2210791",
+            "title": "Beijo Bae [ISIGQI]",
+            "location": "Output",
+            "artists": [
+              "Beijo Bae"
+            ],
+            "source": "ra",
+            "ra_id": 147098
+          }
+        ]
       }
     },
     {
@@ -6849,7 +6999,56 @@
         "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
         "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
         "ra_id": 194402,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T23:00:00.000",
+            "endTime": "2025-07-12T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2210739",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "seedwood",
+              "Jesse You",
+              "givogi"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T23:00:00.000",
+            "endTime": "2025-07-13T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2210735",
+            "title": "OBF: Sync_Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "JNS",
+              "ABOPF",
+              "DJ Bowlcut",
+              "Masayoshi Sakaguchi",
+              "OYKNI"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-07-13T00:00:00.000",
+            "startTime": "2025-07-13T22:00:00.000",
+            "endTime": "2025-07-14T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2210740",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Gyusco",
+              "JNS",
+              "Mogwaa",
+              "Ligrye"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          }
+        ]
       }
     },
     {
@@ -8241,7 +8440,41 @@
         "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
         "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
         "ra_id": 195346,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T23:00:00.000",
+            "endTime": "2025-07-12T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2210742",
+            "title": "Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "X2C (1)",
+              "JUNG(KR)",
+              "bumv",
+              "AVALON",
+              "SONGPANCAKE",
+              "Honn"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T23:00:00.000",
+            "endTime": "2025-07-13T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2210737",
+            "title": "OBF: Sync_Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "Voiid Alpha",
+              "Hataken",
+              "XXOK"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          }
+        ]
       }
     },
     {
@@ -9953,7 +10186,20 @@
         "kakaoMaps": "http://place.map.kakao.com/957772814",
         "googleMaps": "https://maps.google.com/?cid=12740068756927645158&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1359259761",
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-30T00:00:00.000",
+            "startTime": "2025-08-30T19:00:00.000",
+            "endTime": "2025-08-30T22:00:00.000",
+            "eventUrl": "https://ra.co/events/2210335",
+            "title": "Sigala Live in Seoul",
+            "location": "Yes24 Wanderloch Hall",
+            "artists": [
+              "JEONGHYEON"
+            ],
+            "source": "ra"
+          }
+        ]
       }
     },
     {
@@ -11366,6 +11612,19 @@
         "ra_id": 101673,
         "events": [
           {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T23:00:00.000",
+            "endTime": "2025-07-12T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2211043",
+            "title": "夜行性: nocturnal",
+            "location": "vurt.",
+            "artists": [
+              "chukimaandal"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
             "date": "2025-07-12T00:00:00.000",
             "startTime": "2025-07-12T23:00:00.000",
             "endTime": "2025-07-13T06:00:00.000",
@@ -11376,6 +11635,22 @@
               "30drop",
               "SJK (1)",
               "Djilogue"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2211046",
+            "title": "Resident Night",
+            "location": "vurt.",
+            "artists": [
+              "SUZAN (2)",
+              "ANSOL",
+              "OYYMMIT",
+              "SJK (1)"
             ],
             "source": "ra",
             "ra_id": 101673
@@ -11407,6 +11682,20 @@
               "KEEMBOGYEOM",
               "Inger",
               "Philipp Kim"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
+            "date": "2025-07-26T00:00:00.000",
+            "startTime": "2025-07-26T23:00:00.000",
+            "endTime": "2025-07-27T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2211067",
+            "title": "vurtnight: Mari Sakurai",
+            "location": "vurt.",
+            "artists": [
+              "Mari Sakurai",
+              "ANSOL"
             ],
             "source": "ra",
             "ra_id": 101673
@@ -11983,7 +12272,37 @@
         "kakaoMaps": "http://place.map.kakao.com/1033496753",
         "naverMaps": "https://naver.me/x67YuiyR",
         "ra_id": 198699,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T22:00:00.000",
+            "endTime": "2025-07-12T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2210538",
+            "title": "TROPICANA. BEIOJ BAE, LOSA, PROFFESSOR J",
+            "location": "Melt",
+            "artists": [
+              "Beijo Bae",
+              "G1KIM"
+            ],
+            "source": "ra",
+            "ra_id": 198699
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T22:00:00.000",
+            "endTime": "2025-07-13T04:30:00.000",
+            "eventUrl": "https://ra.co/events/2210577",
+            "title": "NAADAM FEST PARTY",
+            "location": "Melt",
+            "artists": [
+              "Robby East",
+              "G1KIM",
+              "BUD (1)"
+            ],
+            "source": "ra",
+            "ra_id": 198699
+          }
+        ]
       }
     },
     {
@@ -12153,7 +12472,35 @@
         "googleMaps": "https://maps.google.com/?cid=17029120266020152727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/IGJYa3FR",
         "ra_id": 216993,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T23:00:00.000",
+            "endTime": "2025-07-12T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2210698",
+            "title": "MOMENT / D.R.C",
+            "location": "Moment",
+            "artists": [
+              "YJ(KOR)"
+            ],
+            "source": "ra",
+            "ra_id": 216993
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T23:00:00.000",
+            "endTime": "2025-07-13T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2210703",
+            "title": "BCD Kollectiv Invites…",
+            "location": "Moment",
+            "artists": [
+              "YJ(KOR)",
+              "RQ-HQ"
+            ],
+            "source": "ra",
+            "ra_id": 216993
+          }
+        ]
       }
     },
     {
@@ -12485,6 +12832,20 @@
             "artists": [
               "D.E.F",
               "Soraere Brocken"
+            ],
+            "source": "ra",
+            "ra_id": 242471
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-12T23:00:00.000",
+            "endTime": "2025-07-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2210325",
+            "title": "DEEP - from deep tech to melodic & afrotech",
+            "location": "Luka",
+            "artists": [
+              "Arondight",
+              "Onizmik"
             ],
             "source": "ra",
             "ra_id": 242471
@@ -12841,6 +13202,66 @@
             "date": "2025-07-14",
             "eventUrl": "https://www.instagram.com/p/DLr8aKSSD1P/",
             "entry": "현장 예매"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9932313,
+          37.5348695
+        ]
+      },
+      "properties": {
+        "name_ko": "와이키키 유토피아",
+        "name": "Waikiki Utopia",
+        "address_ko": "서울특별시 용산구 이태원로 173-7 지하1층",
+        "address": "173-7, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 용산구 이태원동 119-7 지하1층",
+        "instagram": "https://www.instagram.com/waikiki_itaewon/",
+        "kakaoMaps": "https://place.map.kakao.com/1459525287",
+        "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/xY4sFFgP",
+        "ra_id": 267778,
+        "events": [
+          {
+            "date": "2025-07-11T00:00:00.000",
+            "startTime": "2025-07-11T21:00:00.000",
+            "endTime": "2025-07-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2210449",
+            "title": "Waikiki Utopia 'SUMMER NIGHT'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "JEONGHYEON",
+              "Advanced (SK)",
+              "H93 (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "HARRY SPARKL"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          },
+          {
+            "date": "2025-07-12T00:00:00.000",
+            "startTime": "2025-07-11T21:00:00.000",
+            "endTime": "2025-07-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2210449",
+            "title": "Waikiki Utopia 'SUMMER NIGHT'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "JEONGHYEON",
+              "Advanced (SK)",
+              "H93 (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "HARRY SPARKL"
+            ],
+            "source": "ra",
+            "ra_id": 267778
           }
         ]
       }
