@@ -237,6 +237,17 @@
         "ra_id": 198937,
         "events": [
           {
+            "date": "2025-07-17T00:00:00.000",
+            "startTime": "2025-07-17T22:00:00.000",
+            "endTime": "2025-07-18T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2214449",
+            "title": "BOLERO: Sokodomo EP [Dream Boy] Release Party",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
             "date": "2025-07-18T00:00:00.000",
             "startTime": "2025-07-18T22:00:00.000",
             "endTime": "2025-07-19T06:00:00.000",
@@ -249,6 +260,30 @@
               "Cityboy from Seoul",
               "Aidin (KR)"
             ],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T22:00:00.000",
+            "endTime": "2025-07-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2214450",
+            "title": "BOLERO: Aquari-us Vol.2",
+            "location": "Bolero",
+            "artists": [
+              "DJ S (UK)"
+            ],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T22:00:00.000",
+            "endTime": "2025-07-20T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2214453",
+            "title": "BOLERO: Los 2000",
+            "location": "Bolero",
+            "artists": [],
             "source": "ra",
             "ra_id": 198937
           }
@@ -773,19 +808,6 @@
         "googleMaps": "https://maps.google.com/?cid=884018115186850439&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1476560900",
         "events": [
-          {
-            "showdeeId": "2256",
-            "source": "showdee",
-            "artists": [
-              "더티슈",
-              "여리밴드"
-            ],
-            "location": "언플러그드 라운지",
-            "startTime": "2025-07-14T20:00:00",
-            "date": "2025-07-14",
-            "eventUrl": "https://www.instagram.com/p/DLggovyyMms/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "2269",
             "source": "showdee",
@@ -1606,18 +1628,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1196131538",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "2258",
-            "source": "showdee",
-            "artists": [
-              "로우하이로우"
-            ],
-            "location": "클럽온에어",
-            "startTime": "2025-07-14T20:00:00",
-            "date": "2025-07-14",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211554",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "2263",
             "source": "showdee",
@@ -3281,7 +3291,7 @@
             "title": "AMENIIA RECORDS // RELEASE PARTY",
             "location": "Faust",
             "artists": [
-              "concerta",
+              "Marcus L",
               "ROS3",
               "Mars Parck",
               "Suman"
@@ -3298,8 +3308,8 @@
             "location": "Faust",
             "artists": [
               "DAMIE (KR)",
-              "Stann Lumo",
               "Suman",
+              "Gandalf",
               "Joon Kwak"
             ],
             "source": "ra",
@@ -5500,7 +5510,7 @@
             "startTime": "2025-07-19T22:00:00.000",
             "endTime": "2025-07-20T05:00:00.000",
             "eventUrl": "https://ra.co/events/2204867",
-            "title": "QuanHill presents Kyle Hall",
+            "title": "Quan Hill presents Kyle Hall",
             "location": "Modeci",
             "artists": [
               "Kyle Hall",
@@ -10643,7 +10653,22 @@
         "googleMaps": "https://maps.google.com/?cid=4286141495694660966",
         "naverMaps": "https://map.naver.com/p/entry/place/1715479647",
         "ra_id": 262528,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T21:00:00.000",
+            "endTime": "2025-07-19T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2214582",
+            "title": "SQ Series Vol.1",
+            "location": "Shift66 Seoul",
+            "artists": [
+              "BAILE",
+              "BAAWLA"
+            ],
+            "source": "ra",
+            "ra_id": 262528
+          }
+        ]
       }
     },
     {
@@ -10667,7 +10692,25 @@
         "googleMaps": "https://maps.google.com/?cid=12215941447602648811",
         "naverMaps": "https://map.naver.com/p/entry/place/1804769603",
         "ra_id": 251177,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-01T00:00:00.000",
+            "startTime": "2025-08-01T21:00:00.000",
+            "endTime": "2025-08-02T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2214651",
+            "title": "K-POP ScreaM SEOUL 2 [International Tickets]",
+            "location": "Super Soul Seoul",
+            "artists": [
+              "2SPADE",
+              "YUNJI",
+              "Davico",
+              "Demuk",
+              "Departs"
+            ],
+            "source": "ra",
+            "ra_id": 251177
+          }
+        ]
       }
     },
     {
@@ -11615,7 +11658,49 @@
         "kakaoMaps": "https://place.map.kakao.com/1733549039",
         "googleMaps": "https://maps.app.goo.gl/nMaKEh6MDUntetjCA",
         "ra_id": 262888,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-20T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2214448",
+            "title": "house with Kimmingi,Kimgundi,HaeminKim",
+            "location": "House",
+            "artists": [
+              "Kimmingi",
+              "Haemin Kim"
+            ],
+            "source": "ra",
+            "ra_id": 262888
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-20T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2214448",
+            "title": "house with Kimmingi,Kimgundi,HaeminKim",
+            "location": "House",
+            "artists": [
+              "Kimmingi",
+              "Haemin Kim"
+            ],
+            "source": "ra",
+            "ra_id": 262888
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T23:00:00.000",
+            "endTime": "2025-07-20T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2214632",
+            "title": "Across the Universe: from grid",
+            "location": "House",
+            "artists": [
+              "grid (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 262888
+          }
+        ]
       }
     },
     {
@@ -12016,10 +12101,11 @@
             "startTime": "2025-08-02T23:00:00.000",
             "endTime": "2025-08-03T05:00:00.000",
             "eventUrl": "https://ra.co/events/2214175",
-            "title": "FLUIDICA: VOL I",
+            "title": "FLUIDICA : VOL I",
             "location": "Eagle Seoul",
             "artists": [
               "Akudama",
+              "Bamboo Princess",
               "Muin"
             ],
             "source": "ra",
@@ -12306,20 +12392,7 @@
         "kakaoMaps": "http://place.map.kakao.com/15680360",
         "googleMaps": "https://maps.google.com/?cid=1041580244330858889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://m.place.naver.com/restaurant/35905927",
-        "events": [
-          {
-            "showdeeId": "2257",
-            "source": "showdee",
-            "artists": [
-              "플랫폼스테레오"
-            ],
-            "location": "부산 썸데이",
-            "startTime": "2025-07-14T20:00:00",
-            "date": "2025-07-14",
-            "eventUrl": "https://www.instagram.com/p/DLr8aKSSD1P/",
-            "entry": "현장 예매"
-          }
-        ]
+        "events": []
       }
     },
     {
