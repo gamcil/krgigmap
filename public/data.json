@@ -211,7 +211,51 @@
         "googleMaps": "https://maps.google.com/?cid=302532961150360413",
         "naverMaps": "https://map.naver.com/p/entry/place/38643584",
         "ra_id": 127189,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216942",
+            "title": "BBCB",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "Zoonpark",
+              "Yun Line"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T23:00:00.000",
+            "endTime": "2025-07-20T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216943",
+            "title": "BBCB",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "Bumho",
+              "Zeemen"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          },
+          {
+            "date": "2025-07-20T00:00:00.000",
+            "startTime": "2025-07-20T23:00:00.000",
+            "endTime": "2025-07-21T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216944",
+            "title": "[GUMI AND THE MUSHROOM]",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "Shinyoung",
+              "Afrodite (2)",
+              "Gumi"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          }
+        ]
       }
     },
     {
@@ -597,18 +641,6 @@
         "googleMaps": "https://maps.google.com/?cid=15139853402419538862&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/34016066",
         "events": [
-          {
-            "showdeeId": "2265",
-            "source": "showdee",
-            "artists": [
-              "쓰다"
-            ],
-            "location": "카페 언플러그드 홍대",
-            "startTime": "2025-07-16T20:00:00",
-            "date": "2025-07-16",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211587",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "2268",
             "source": "showdee",
@@ -1525,22 +1557,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "2260",
-            "source": "showdee",
-            "artists": [
-              "유랑",
-              "안지원",
-              "황은하",
-              "시안",
-              "사랑"
-            ],
-            "location": "클럽빵",
-            "startTime": "2025-07-16T19:30:00",
-            "date": "2025-07-16",
-            "eventUrl": "https://www.instagram.com/p/DMCsbXOyRRM/",
-            "entry": "현장 예매"
-          },
-          {
             "showdeeId": "2266",
             "source": "showdee",
             "artists": [
@@ -1761,18 +1777,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1196131538",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "2264",
-            "source": "showdee",
-            "artists": [
-              "피슈"
-            ],
-            "location": "클럽온에어",
-            "startTime": "2025-07-16T20:00:00",
-            "date": "2025-07-16",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211556",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "2282",
             "source": "showdee",
@@ -3088,7 +3092,32 @@
         "googleMaps": "https://maps.google.com/?cid=10855882452135045594",
         "naverMaps": "https://map.naver.com/p/entry/place/1275042276",
         "ra_id": 212906,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216936",
+            "title": "DAMN GOOD SEOUL",
+            "location": "Damn Good Seoul",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 212906
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T22:00:00.000",
+            "endTime": "2025-07-20T03:30:00.000",
+            "eventUrl": "https://ra.co/events/2216937",
+            "title": "DAMN GOOD SEOUL",
+            "location": "Damn Good Seoul",
+            "artists": [
+              "Black Xin"
+            ],
+            "source": "ra",
+            "ra_id": 212906
+          }
+        ]
       }
     },
     {
@@ -4942,18 +4971,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "2263",
-            "source": "showdee",
-            "artists": [
-              "레이지본"
-            ],
-            "location": "제비다방",
-            "startTime": "2025-07-16T20:00:00",
-            "date": "2025-07-16",
-            "eventUrl": "https://www.instagram.com/p/DLmZAXEyXgS/",
-            "entry": "무료입장 자율페이"
-          },
-          {
             "showdeeId": "2269",
             "source": "showdee",
             "artists": [
@@ -5838,6 +5855,22 @@
             ],
             "source": "ra",
             "ra_id": 140937
+          },
+          {
+            "date": "2025-07-26T00:00:00.000",
+            "startTime": "2025-07-26T23:00:00.000",
+            "endTime": "2025-07-27T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216369",
+            "title": "Paprika 'Cruel Summer'",
+            "location": "Modeci",
+            "artists": [
+              "JAEHAN (2)",
+              "Hayato",
+              "Sota Shimada",
+              "Sunung"
+            ],
+            "source": "ra",
+            "ra_id": 140937
           }
         ]
       }
@@ -6144,19 +6177,6 @@
         "googleMaps": "https://maps.google.com/?cid=1589411198267313265&g_mp=EAAYBCAA",
         "naverMaps": "https://www.instagram.com/morene__sukha/",
         "events": [
-          {
-            "showdeeId": "2261",
-            "source": "showdee",
-            "artists": [
-              "리버스앤리버스",
-              "이우성"
-            ],
-            "location": "모래내극락",
-            "startTime": "2025-07-16T20:00:00",
-            "date": "2025-07-16",
-            "eventUrl": "https://www.instagram.com/p/DLUmb3GJcFy/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "2349",
             "source": "showdee",
@@ -7025,7 +7045,51 @@
         "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
         "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
         "ra_id": 194402,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2216339",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "JUNG(KR)",
+              "TRUEUNSOL"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T23:00:00.000",
+            "endTime": "2025-07-20T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2216342",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Tab Jones",
+              "DJ Funny",
+              "Sinqmin"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-07-20T00:00:00.000",
+            "startTime": "2025-07-20T22:00:00.000",
+            "endTime": "2025-07-21T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2216343",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Radio Revolution",
+              "DJ Jinwook"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          }
+        ]
       }
     },
     {
@@ -8312,7 +8376,32 @@
         "googleMaps": "https://maps.google.com/?cid=7501129437735581125",
         "naverMaps": "https://map.naver.com/p/entry/place/38742941",
         "ra_id": 262057,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216938",
+            "title": "SATZ",
+            "location": "Satz",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 262057
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T22:00:00.000",
+            "endTime": "2025-07-20T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2216939",
+            "title": "SATZ",
+            "location": "Satz",
+            "artists": [
+              "Crab"
+            ],
+            "source": "ra",
+            "ra_id": 262057
+          }
+        ]
       }
     },
     {
@@ -8553,7 +8642,38 @@
         "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
         "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
         "ra_id": 195346,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2216333",
+            "title": "Cool Patch by Bumpy_Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "S.Telecom",
+              "Peace Keeper",
+              "BLUMIN",
+              "Honn"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T23:00:00.000",
+            "endTime": "2025-07-20T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2216336",
+            "title": "1NGT 2DJS_Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "Honn",
+              "NO.LINK"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          }
+        ]
       }
     },
     {
@@ -9760,7 +9880,30 @@
         "googleMaps": "https://maps.google.com/?cid=6115104111454704340",
         "naverMaps": "https://map.naver.com/p/entry/place/1588457550",
         "ra_id": 128746,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216949",
+            "title": "DIMO REX Release party",
+            "location": "The Henz Club",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 128746
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T23:00:00.000",
+            "endTime": "2025-07-20T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216951",
+            "title": "HENZ SATURDAY NIGHT",
+            "location": "The Henz Club",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 128746
+          }
+        ]
       }
     },
     {
@@ -10621,20 +10764,6 @@
         "ra_id": 196474,
         "events": [
           {
-            "date": "2025-07-16T00:00:00.000",
-            "startTime": "2025-07-16T21:00:00.000",
-            "endTime": "2025-07-17T01:00:00.000",
-            "eventUrl": "https://ra.co/events/2212732",
-            "title": "Noidman X Haemi Park",
-            "location": "Atdge Seoul",
-            "artists": [
-              "Noidman",
-              "Haemi Park"
-            ],
-            "source": "ra",
-            "ra_id": 196474
-          },
-          {
             "date": "2025-07-18T00:00:00.000",
             "startTime": "2025-07-18T22:30:00.000",
             "endTime": "2025-07-19T04:00:00.000",
@@ -10704,19 +10833,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/36010630",
         "ra_id": 130324,
         "events": [
-          {
-            "showdeeId": "2262",
-            "source": "showdee",
-            "artists": [
-              "신승은",
-              "다정 포"
-            ],
-            "location": "채널1969",
-            "startTime": "2025-07-16T20:00:00",
-            "date": "2025-07-16",
-            "eventUrl": "https://www.instagram.com/p/DLoxnmUSfUP/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "2293",
             "source": "showdee",
@@ -11155,6 +11271,36 @@
         "ra_id": 220595,
         "events": [
           {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216946",
+            "title": "Friday, July 18, 2025,",
+            "location": "teller",
+            "artists": [
+              "Oviduct",
+              "Eugene Blake",
+              "Mihak"
+            ],
+            "source": "ra",
+            "ra_id": 220595
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T23:00:00.000",
+            "endTime": "2025-07-20T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216948",
+            "title": "aturday, July 19, 2025",
+            "location": "teller",
+            "artists": [
+              "Lyumin",
+              "Oho (1)",
+              "Young Sun"
+            ],
+            "source": "ra",
+            "ra_id": 220595
+          },
+          {
             "date": "2025-07-26T00:00:00.000",
             "startTime": "2025-07-26T23:00:00.000",
             "endTime": "2025-07-27T06:00:00.000",
@@ -11323,7 +11469,21 @@
         "googleMaps": "https://maps.google.com/?cid=12732997250264221298",
         "naverMaps": "https://map.naver.com/p/entry/place/1561485208",
         "ra_id": 213717,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T22:00:00.000",
+            "endTime": "2025-07-20T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2216082",
+            "title": "July Gwangju Festival with CREAM",
+            "location": "Deep Ocean Lab Gwangju",
+            "artists": [
+              "DADA (SK)"
+            ],
+            "source": "ra",
+            "ra_id": 213717
+          }
+        ]
       }
     },
     {
@@ -11682,6 +11842,17 @@
         "ra_id": 70614,
         "events": [
           {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216945",
+            "title": "ETIC PARTY",
+            "location": "Cakeshop",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 70614
+          },
+          {
             "date": "2025-07-19T00:00:00.000",
             "startTime": "2025-07-19T22:00:00.000",
             "endTime": "2025-07-20T05:00:00.000",
@@ -11918,7 +12089,56 @@
         "googleMaps": "https://maps.google.com/?cid=5165817433177823491&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1533239164",
         "ra_id": 212905,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-17T00:00:00.000",
+            "startTime": "2025-07-17T19:00:00.000",
+            "endTime": "2025-07-18T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2216955",
+            "title": "Courte Soundsystem",
+            "location": "Courte Sidebar",
+            "artists": [
+              "Mikey!"
+            ],
+            "source": "ra",
+            "ra_id": 212905
+          },
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T19:00:00.000",
+            "endTime": "2025-07-19T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2216958",
+            "title": "Courte Soundsystem",
+            "location": "Courte Sidebar",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 212905
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T19:00:00.000",
+            "endTime": "2025-07-20T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2216959",
+            "title": "Courte Soundsystem",
+            "location": "Courte Sidebar",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 212905
+          },
+          {
+            "date": "2025-07-20T00:00:00.000",
+            "startTime": "2025-07-20T19:00:00.000",
+            "endTime": "2025-07-21T02:30:00.000",
+            "eventUrl": "https://ra.co/events/2216960",
+            "title": "Courte Soundsystem",
+            "location": "Courte Sidebar",
+            "artists": [
+              "Austen"
+            ],
+            "source": "ra",
+            "ra_id": 212905
+          }
+        ]
       }
     },
     {
@@ -12325,6 +12545,19 @@
           },
           {
             "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T23:00:00.000",
+            "endTime": "2025-07-20T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2214632",
+            "title": "Across the Universe: from grid",
+            "location": "House",
+            "artists": [
+              "grid (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 262888
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
             "startTime": "2025-07-18T23:00:00.000",
             "endTime": "2025-07-20T05:00:00.000",
             "eventUrl": "https://ra.co/events/2214448",
@@ -12333,19 +12566,6 @@
             "artists": [
               "Kimmingi",
               "Haemin Kim"
-            ],
-            "source": "ra",
-            "ra_id": 262888
-          },
-          {
-            "date": "2025-07-19T00:00:00.000",
-            "startTime": "2025-07-19T23:00:00.000",
-            "endTime": "2025-07-20T05:00:00.000",
-            "eventUrl": "https://ra.co/events/2214632",
-            "title": "Across the Universe: from grid",
-            "location": "House",
-            "artists": [
-              "grid (KR)"
             ],
             "source": "ra",
             "ra_id": 262888
@@ -12525,7 +12745,30 @@
         "googleMaps": "https://maps.google.com/?cid=17029120266020152727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/IGJYa3FR",
         "ra_id": 216993,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2216529",
+            "title": "OPEN DECK MOMENT",
+            "location": "Moment",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 216993
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T23:00:00.000",
+            "endTime": "2025-07-20T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2216535",
+            "title": "INVITE: LARSH",
+            "location": "Moment",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 216993
+          }
+        ]
       }
     },
     {
@@ -12750,7 +12993,36 @@
         "kakaoMaps": "http://place.map.kakao.com/1416744428",
         "naverMaps": "https://naver.me/GI3VGKmm",
         "ra_id": 257968,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T23:00:00.000",
+            "endTime": "2025-07-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216940",
+            "title": "BAR PIMENT",
+            "location": "Bar Piment",
+            "artists": [
+              "ines"
+            ],
+            "source": "ra",
+            "ra_id": 257968
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T23:00:00.000",
+            "endTime": "2025-07-20T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216941",
+            "title": "Saturday at Piment",
+            "location": "Bar Piment",
+            "artists": [
+              "8chill",
+              "YOKIE",
+              "VENEBOE"
+            ],
+            "source": "ra",
+            "ra_id": 257968
+          }
+        ]
       }
     },
     {
@@ -12811,6 +13083,17 @@
               "blancat",
               "D.E.F"
             ],
+            "source": "ra",
+            "ra_id": 242471
+          },
+          {
+            "date": "2025-07-25T00:00:00.000",
+            "startTime": "2025-07-25T23:00:00.000",
+            "endTime": "2025-07-26T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2216075",
+            "title": "HARD TECHNO RITUAL II",
+            "location": "Luka",
+            "artists": [],
             "source": "ra",
             "ra_id": 242471
           }
@@ -12919,7 +13202,30 @@
         "instagram": "https://www.instagram.com/evening.seoul/",
         "googleMaps": "https://maps.app.goo.gl/6JKbzBmdsZjViK9cA",
         "ra_id": 268137,
-        "events": []
+        "events": [
+          {
+            "date": "2025-07-18T00:00:00.000",
+            "startTime": "2025-07-18T20:00:00.000",
+            "endTime": "2025-07-19T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2216191",
+            "title": "Dissolve into rhythm",
+            "location": "Evening",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 268137
+          },
+          {
+            "date": "2025-07-19T00:00:00.000",
+            "startTime": "2025-07-19T20:00:00.000",
+            "endTime": "2025-07-20T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2216138",
+            "title": "TechnoLand",
+            "location": "Evening",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 268137
+          }
+        ]
       }
     },
     {
@@ -13054,6 +13360,17 @@
         "googleMaps": "https://maps.google.com/?cid=2937189992226926322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "ra_id": 230225,
         "events": [
+          {
+            "date": "2025-07-17T00:00:00.000",
+            "startTime": "2025-07-17T22:00:00.000",
+            "endTime": "2025-07-18T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2216281",
+            "title": "Mushroom Open Deck",
+            "location": "Mushroom",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 230225
+          },
           {
             "date": "2025-07-18T00:00:00.000",
             "startTime": "2025-07-18T22:00:00.000",
