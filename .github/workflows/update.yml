@@ -1,0 +1,39 @@
+name: Daily update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
+  workflow_dispatch:     # Allow manual runs too
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run update script
+        run: node scripts/update.js
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit updated files
+        run: |
+          DATE=$(date +'%Y-%m-%d')
+          git add public/metadata.json public/data.json public/unmatched.json
+          git commit -m "update $DATE" || echo "No changes to commit"
+          git push
