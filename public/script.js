@@ -12,11 +12,11 @@ maplibregl.Map.prototype.addMarkerImage = function (id, options = {}, callback) 
             svgDoc = marker._element; // for SVG elements
         }
         let markerSVG = new XMLSerializer().serializeToString(svgDoc);
-        let markerImg = new Image(svgDoc.width.baseVal.value, svgDoc.height.baseVal.value);
+        let markerImg = new Image(svgDoc.width.baseVal.value * 3, svgDoc.height.baseVal.value * 3);
         markerImg.src = 'data:image/svg+xml;base64,' + window.btoa(markerSVG);
         markerImg.decode()
             .then(() => {
-                if (!this.hasImage(id)) this.addImage(id, markerImg);
+                if (!this.hasImage(id)) this.addImage(id, markerImg, { pixelRatio: 3 });
                 if (callback) {
                     callback()
                 }
