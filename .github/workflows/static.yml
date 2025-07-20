@@ -38,7 +38,7 @@ jobs:
       - name: Generate weekly cache key
         id: cache-key
         run: |
-          echo "weekly-key=pmtiles-$(date + '%Y-%U')" >> "$GITHUB_OUTPUT"
+          echo "weekly-key=pmtiles-$(date +'%Y-%U')" >> "$GITHUB_OUTPUT"
         
       - name: Cache protomaps map
         id: cache-pmtiles
@@ -61,7 +61,7 @@ jobs:
           echo "Downloading map"
           LATEST_BUILD_ID=$(curl -s 'https://build-metadata.protomaps.dev/builds.json' | jq -r 'last.key')
           LATEST_BUILD_URL="https://build.protomaps.com/${LATEST_BUILD_ID}"
-          ./pmtiles extract --bbox=125.7604781765,33.0846069507,129.7426552764,38.6782537156 "$LATEST_BUILD_URL" public/map.pmtiles       
+          ./pmtiles extract --bbox=125.7604781765,33.0846069507,129.7426552764,38.6782537156 "$LATEST_BUILD_URL" ./public/map.pmtiles
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
