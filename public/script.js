@@ -31,6 +31,73 @@ maplibregl.Map.prototype.addMarkerImage = function (id, options = {}, callback) 
     }
 }
 
+const sunIconSvg = `
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="5"></circle>
+        <line x1="12" y1="1" x2="12" y2="3"></line>
+        <line x1="12" y1="21" x2="12" y2="23"></line>
+        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+        <line x1="1" y1="12" x2="3" y2="12"></line>
+        <line x1="21" y1="12" x2="23" y2="12"></line>
+        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+`;
+
+const moonIconSvg = `
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+    </svg>
+`;
+
+class ThemeToggleControl {
+    constructor() {
+        this._isDark = false;
+        this._map = null;
+        this._container = null;
+        this._button = null;
+    }
+    onAdd(map) {
+        this._map = map;
+        this._container = document.createElement('div');
+        this._container.className = 'maplibregl-ctrl maplibregl-ctrl-group';
+        this._button = document.createElement('button');
+        this._button.className = 'theme-toggle-button';
+        this._button.setAttribute('title', 'Toggle Map Theme');
+        this._updateButtonContent();
+        this._button.onclick = () => this._toggleTheme();
+        this._container.appendChild(this._button);
+        return this._container;
+    }
+    onRemove() {
+        if (this._container && this._container.parentNode) {
+            this._container.parentNode.removeChild(this._container);
+        }
+        this._map = undefined;
+    }
+    _updateButtonContent() {
+        this._button.innerHTML = this._isDark ? sunIconSvg : moonIconSvg; // Sun for light, Moon for dark
+    }
+    _toggleTheme() {
+        this._isDark = !this._isDark;
+        this._updateButtonContent();
+        document.documentElement.style.colorScheme = this._isDark ? 'dark' : 'light';
+        if (this._isDark) {
+            this._map.setStyle('./dark.json', { diff: false });
+            document.getElementById('map').classList.add('dark');
+        } else {
+            this._map.setStyle('./light.json', { diff: false });
+            document.getElementById('map').classList.remove('dark');
+        }
+    }
+    setInitialTheme(isDark) {
+        this._isDark = isDark;
+        this._updateButtonContent();
+        document.documentElement.style.colorScheme = this._isDark ? 'dark' : 'light';
+    }
+}
+
 async function getData() {
     try {
         const response = await fetch('./testdata.json');
@@ -95,6 +162,8 @@ function formatTimeText(start, end) {
 }
 
 async function loadMap() {
+    const metadataRaw = await fetch('./metadata.json');
+    const metadata = await metadataRaw.json();
     const geojsonRaw = await fetch("./data.json");
     let geojson = await geojsonRaw.json();
     const today = new Date();
@@ -113,27 +182,31 @@ async function loadMap() {
             return acc
         }, {})
     let totalDates = Object.keys(eventCounts).length;
-    let totalEvents = Object.values(eventCounts).reduce((acc, count) => acc + count, 0);
+    // let totalEvents = Object.values(eventCounts).reduce((acc, count) => acc + count, 0);
     let totalVenuesWithEvents = geojson.features.filter(feature => feature.properties.events?.length > 0).length;
     let maximumDate = Object.keys(eventCounts)
         .reduce((max, curr) => new Date(curr) > new Date(max) ? new Date(curr) : new Date(max), new Date());
     // maximumDate.setHours(23, 59, 99, 999);
     maximumDate.setDate(maximumDate.getDate() + 1);
+    document.getElementById("event-info-last-update-date").textContent = metadata.updateDate;
+    document.getElementById("event-info-event-count").textContent = metadata.eventCount;
     document.getElementById("event-info-date-count").textContent = totalDates;
-    document.getElementById("event-info-event-count").textContent = totalEvents;
     document.getElementById("event-info-venue-count").textContent = totalVenuesWithEvents;
     document.getElementById("event-info-end-date").textContent = maximumDate.toISOString().slice(0, 10);
 
+    let protocol = new pmtiles.Protocol();
+    maplibregl.addProtocol("pmtiles", protocol.tile);
+
+    const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
 
     const map = new maplibregl.Map({
-        style: 'https://tiles.openfreemap.org/styles/dark',
-        // style: 'https://tiles.openfreemap.org/styles/liberty',
-        center: [126.9784, 37.5666],
+        style: prefersDarkScheme.matches ? 'dark.json' : 'light.json',
+        center: [126.9762, 37.5136],
         maxBounds: [
-            [123.7597, 32.5947], // southwest corner (lng, lat)
-            [132.0888, 39.649]  // northeast corner (lng, lat)
+            [125.7604781765, 33.0846069507],
+            [129.7426552764, 38.6782537156]
         ],
-        zoom: 11,
+        zoom: 12,
         container: 'map',
     });
     
@@ -177,16 +250,17 @@ async function loadMap() {
         }
     });
     
-    map.on('load', () => {
-        map.addMarkerImage('marker2', { scale: 1.1 })
-        map.addMarkerImage('marker3', { scale: 1.1, color: 'red' })
+    const markerImages = [
+        { id: 'marker2', options: { scale: 1 } },
+        { id: 'marker3', options: { scale: 1, color: 'red' } }
+    ];
 
-        map.addSource('places', {
-            type: 'geojson',
-            data: geojson
-        });
+    const sources = [
+        { id: 'places', type: 'geojson', data: geojson }
+    ];
 
-        map.addLayer({
+    const layers = [
+        {
             id: 'places-inactive',
             type: 'circle',
             source: 'places',
@@ -198,13 +272,11 @@ async function loadMap() {
                 'circle-stroke-width': 2,
                 'circle-stroke-color': '#aaa',
             }
-        });
-
-        map.addLayer({
+        },
+        {
             id: 'places-active',
             type: 'symbol',
             source: 'places',
-            // filter: ['==', 'active', true],
             filter: ['all', ['==', 'active', true], ['==', 'source', 'showdee']],
             layout: {
                 'icon-image': 'marker2',
@@ -214,9 +286,8 @@ async function loadMap() {
                 'icon-ignore-placement': true,
                 'icon-optional': true
             },
-        });
-
-        map.addLayer({
+        },
+        {
             id: 'places-active-ra',
             type: 'symbol',
             source: 'places',
@@ -229,15 +300,10 @@ async function loadMap() {
                 'icon-ignore-placement': true,
                 'icon-optional': true
             }
-        })
-
-        map.addControl(new maplibregl.GeolocateControl({
-            positionOptions: {
-                enableHighAccuracy: true
-            },
-            trackUserLocation: true
-        }));
-        
+        }
+    ];
+    
+    function addEventListeners() {
         map.on('dragstart', () => {
             const infoPanel = document.getElementById('event-info');
             if (infoPanel.classList.contains('active')) {
@@ -312,8 +378,64 @@ async function loadMap() {
                 .setLngLat(e.lngLat)
                 .setDOMContent(popupEl)
                 .addTo(map);
+        });       
+    }
+    
+    function addToMap() {
+        markerImages.forEach(marker => {
+            if (!map.hasImage(marker.id)) {
+                map.addMarkerImage(marker.id, marker.options);
+            }
         });
+        sources.forEach(source => {
+            if (!map.getSource(source.id)) {
+                map.addSource(source.id, { type: source.type, data: source.data });
+            }
+        });
+        layers.forEach(layer => {
+            if (!map.getLayer(layer.id)) {
+                map.addLayer(layer);
+            }
+        });
+    }
+
+    const themeToggleControl = new ThemeToggleControl();
+    const setTheme = (isDark) => {
+        if (isDark) {
+            map.setStyle('./dark.json', { diff: false })
+            document.getElementById('map').classList.add('dark');
+            document.documentElement.style.colorScheme ='dark';
+        } else {
+            map.setStyle('./light.json', { diff: false })
+            document.getElementById('map').classList.remove('dark');
+            document.documentElement.style.colorScheme ='light';
+        }
+        themeToggleControl._isDark = isDark;
+        themeToggleControl._updateButtonContent();
+    }
+
+    prefersDarkScheme.addEventListener("change", (e) => { setTheme(e.matches) });
+   
+    map.on('load', () => {
+        map.addControl(new maplibregl.NavigationControl());
+        map.addControl(new maplibregl.FullscreenControl());
+        map.addControl(new maplibregl.GeolocateControl({
+            positionOptions: {
+                enableHighAccuracy: true
+            },
+            trackUserLocation: true
+        }));
+        map.addControl(themeToggleControl);
+        addToMap();
+        addEventListeners();
+        setTheme(prefersDarkScheme.matches);
+        themeToggleControl.setInitialTheme(prefersDarkScheme.matches);
     });
+
+    map.on('style.load', () => {
+        addToMap();
+    });
+
 }
 
 document.addEventListener('DOMContentLoaded', () => {

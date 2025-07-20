@@ -6,16 +6,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Korea Gigmap</title>
+  
+  <script src="https://cdn.jsdelivr.net/npm/pmtiles@4.3.0/dist/pmtiles.min.js"></script>
 
   <!-- MapLibre -->
   <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
-  <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet">
+  <!-- <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet"> -->
+
 
   <!-- Flatpickr for date calendar -->
   <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 
   <!-- Local CSS-->
+  <link rel="stylesheet" href="./icons.lucide.css">
+  <link rel="stylesheet" href="./classic.css">
   <link rel="stylesheet" href="./style.css">
 
   <!-- App -->
@@ -28,7 +33,7 @@
       <span class="event-label">Date</span><span class="event-date"></span>
       <span class="event-label">Time</span><span class="event-time"></span>
       <span class="event-label">Ticket</span><a class="event-ticket" target="_blank" rel="noopener noreferrer"></a>
-      <hr>
+      <!-- <hr> -->
     </div>
   </template>
 
@@ -49,24 +54,26 @@
 </head>
 
 <body>
-  <button id="event-info-toggle" class="mobile-only">📅 <span id="calendar-date-label">Calendar</span></button>
-  <div id="event-info">
-    <div id="event-info-header">
-      <h3>Korea Gig Map</h3>
-      <div>
-        Displaying <span class="event-info-number" id="event-info-event-count">X</span> events
-        across <span class="event-info-number" id="event-info-venue-count">Z</span> venues
-        on <span class="event-info-number" id="event-info-date-count">Y</span> dates
-        (until <span class="event-info-number" id="event-info-end-date"></span>).
-        <br><br>
-        <span class="source-tag-indie">Indie show data sourced from <b><a href="https://showdeerocks.com/">쇼디락스</a></b></span>
-        <br>
-        <span class="source-tag-ra">Electronic music events sourced from <b><a href="https://ra.co">RA</a></b></span>
+  <div id="map">
+    <button id="event-info-toggle" class="mobile-only">📅 <span id="calendar-date-label">Calendar</span></button>
+    <div id="event-info">
+      <div id="event-info-header">
+        <h3 id="event-info-header-title">Korea Gig Map</h3>
+        <span id="event-info-last-update">Last update: <span id="event-info-last-update-date"></span></span>
+        <div>
+          Displaying <span class="event-info-number" id="event-info-event-count">X</span> events
+          across <span class="event-info-number" id="event-info-venue-count">Z</span> venues
+          on <span class="event-info-number" id="event-info-date-count">Y</span> dates
+          (until <span class="event-info-number" id="event-info-end-date"></span>).
+          <br><br>
+          <span class="source-tag-indie">Indie show data sourced from <b><a href="https://showdeerocks.com/">쇼디락스</a></b></span>
+          <br>
+          <span class="source-tag-ra">Electronic music events sourced from <b><a href="https://ra.co">RA</a></b></span>
+        </div>
       </div>
+      <div id="event-calendar"></div>
     </div>
-    <div id="event-calendar"></div>
   </div>
-  <div id="map"></div>
 </body>
 
 </html>
