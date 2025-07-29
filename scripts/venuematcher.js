@@ -45,6 +45,7 @@ function buildFuseIndex(venues) {
             key: `${i}_${v.name_ko}_${v.name}`,
             name_en: v.name?.toLowerCase().normalize().replace(/ /g, ''),
             name: normalize(v.name_ko),
+            address_en: v.address_ko?.toLowerCase().normalize().replace(/ /g, ''),
             address: normalize(v.address_ko),
             aliases: v.alias?.map(a => normalize(a)) || [],
             nameJamo: hangul.disassemble(normalize(v.name_ko)),
@@ -55,16 +56,18 @@ function buildFuseIndex(venues) {
             { name: 'name', weight: 0.7 },
             { name: 'name_en', weight: 0.7 },
             { name: 'address', weight: 0.3 },
+            { name: 'address_en', weight: 0.2 },
             { name: 'aliases', weight: 0.1 },
             { name: 'nameJamo', weight: 0.2 },
             { name: 'addressJamo', weight: 0.03 },
             { name: 'aliasesJamo', weight: 0.02 }
         ],
-        tokenize: false,
+        // tokenize: true,
+        // matchAllTokens: true,
         threshold: 0.4,
         ignoreLocation: true,
         shouldSort: true,
-        distance: 100
+        distance: 300
     });
 }
 
@@ -163,14 +166,17 @@ async function matchEventsToVenues(events) {
                 count++;
             }
         } else if (event.source === 'ra') {
-            // Probably won't catch as much here
-            location = location.toLowerCase().normalize().replace(/ /g, '')
-            result = fuseIndex.search({ name_en: location }, { limit: 1, useExtendedSearch: true });
-            if (result.length > 0) {
-                venues_geoJSON.features[result[0].item.id].properties.events.push(event);
-                count++;
+            if (location.includes('TBA')) {
+                unmatched.push({ ...event, unmatchedReason: 'TBA' });
             } else {
-                unmatched.push({ ...event, unmatchedReason: 'unknown' });
+                location = location.toLowerCase().normalize().replace(/ /g, '')
+                result = fuseIndex.search(location, { limit: 1 });
+                if (result.length > 0) {
+                    venues_geoJSON.features[result[0].item.id].properties.events.push(event);
+                    count++;
+                } else {
+                    unmatched.push({ ...event, unmatchedReason: 'no match' });
+                }
             }
         }
     });
