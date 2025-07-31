@@ -7244,7 +7244,54 @@
         "googleMaps": "https://maps.google.com/?cid=13878866064208335562",
         "naverMaps": "https://map.naver.com/p/entry/place/1166457804",
         "ra_id": 203289,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-01T00:00:00.000",
+            "startTime": "2025-08-01T23:00:00.000",
+            "endTime": "2025-08-02T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2226783",
+            "title": "ACIID",
+            "location": "Nyapi",
+            "artists": [
+              "Yeonju",
+              "Youknowsong",
+              "Mimiq (2)",
+              "Taelyn"
+            ],
+            "source": "ra",
+            "ra_id": 203289
+          },
+          {
+            "date": "2025-08-02T00:00:00.000",
+            "startTime": "2025-08-02T23:00:00.000",
+            "endTime": "2025-08-03T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2226789",
+            "title": "Dancaholic with CHIDA* all-night-long",
+            "location": "Nyapi",
+            "artists": [
+              "CHIDA",
+              "Kugel",
+              "Juncheol"
+            ],
+            "source": "ra",
+            "ra_id": 203289
+          },
+          {
+            "date": "2025-08-08T00:00:00.000",
+            "startTime": "2025-08-08T23:00:00.000",
+            "endTime": "2025-08-09T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2226799",
+            "title": "under the blanket",
+            "location": "Nyapi",
+            "artists": [
+              "Joon Kwak",
+              "July.",
+              "Youknowsong"
+            ],
+            "source": "ra",
+            "ra_id": 203289
+          }
+        ]
       }
     },
     {
@@ -14204,6 +14251,151 @@
             "date": "2025-08-30",
             "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211692",
             "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.93585468568,
+          37.5591628517999
+        ]
+      },
+      "properties": {
+        "name_ko": "신촌극장",
+        "name": "Theatre Sinchon",
+        "address_ko": "서울 서대문구 연세로13길 17 4층 옥탑",
+        "address": "17, Yonsei-ro 13-gil, Seodaemun-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울 서대문구 창천동 52-101",
+        "website": "https://linktr.ee/theatre.sinchon",
+        "instagram": "https://www.instagram.com/theatresinchon/",
+        "kakaoMaps": "http://place.map.kakao.com/262633545",
+        "googleMaps": "https://maps.google.com/?cid=16522762828505141221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/x3jv4bqZ",
+        "events": [
+          {
+            "showdeeId": "2522",
+            "source": "showdee",
+            "artists": [
+              "우희준"
+            ],
+            "location": "서대문구 연세로13길 17 4층 옥탑 신촌극장",
+            "startTime": "2025-08-07T20:00:00",
+            "date": "2025-08-07",
+            "eventUrl": "https://www.instagram.com/p/DMpwDJ6JF0A/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "2537",
+            "source": "showdee",
+            "artists": [
+              "우희준"
+            ],
+            "location": "서대문구 연세로13길 17 4층 옥탑 신촌극장",
+            "startTime": "2025-08-08T20:00:00",
+            "date": "2025-08-08",
+            "eventUrl": "https://www.instagram.com/p/DMpwDJ6JF0A/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "2551",
+            "source": "showdee",
+            "artists": [
+              "우희준"
+            ],
+            "location": "서대문구 연세로13길 17 4층 옥탑 신촌극장",
+            "startTime": "2025-08-09T17:00:00",
+            "date": "2025-08-09",
+            "eventUrl": "https://www.instagram.com/p/DMpwDJ6JF0A/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "2572",
+            "source": "showdee",
+            "artists": [
+              "우희준"
+            ],
+            "location": "서대문구 연세로13길 17 4층 옥탑 신촌극장",
+            "startTime": "2025-08-09T20:00:00",
+            "date": "2025-08-09",
+            "eventUrl": "https://www.instagram.com/p/DMpwDJ6JF0A/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6224373,
+          38.1275827
+        ]
+      },
+      "properties": {
+        "name_ko": "컨센트릭",
+        "name": "Concentric",
+        "address_ko": "강원특별자치도 양양군 강현면 뒷나루1길 4 컨센트릭",
+        "address": "4, Dwinnaru 1-gil, Ganghyeon-myeon, Yangyang-gun, Gangwon-do, Republic of Korea",
+        "address_jibun": "강원특별자치도 양양군 강현면 전진리 71 컨센트릭",
+        "instagram": "https://instagram.com/concentric_coffee",
+        "kakaoMaps": "http://place.map.kakao.com/130958582",
+        "googleMaps": "https://maps.google.com/?cid=3940197273661322131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://www.instagram.com/concentric_coffee",
+        "events": [
+          {
+            "showdeeId": "2575",
+            "source": "showdee",
+            "artists": [
+              "윈디시티"
+            ],
+            "location": "컨센트릭 양양",
+            "startTime": "2025-08-09T20:00:00",
+            "date": "2025-08-09",
+            "eventUrl": "https://www.instagram.com/p/DMrPPghyn1t/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0368192,
+          37.5241054
+        ]
+      },
+      "properties": {
+        "name_ko": "뮤즈 서울",
+        "name": "Muse Seoul",
+        "address_ko": "서울특별시 강남구 압구정로46길 71-1 지하1층",
+        "address": "71-1, Apgujeong-ro 46-gil, Gangnam-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 강남구 신사동 648-23 지하1층",
+        "website": "https://www.museseoul.com/",
+        "instagram": "https://www.instagram.com/muse.muse.seoul/",
+        "kakaoMaps": "http://place.map.kakao.com/1492126669",
+        "naverMaps": "https://naver.me/5A3NnprV",
+        "ra_id": 227482,
+        "events": [
+          {
+            "date": "2025-08-09T00:00:00.000",
+            "startTime": "2025-08-09T23:00:00.000",
+            "endTime": "2025-08-10T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2224805",
+            "title": "Fondra: Nicola Calbi(Desolat/ Hottrax)",
+            "location": "Muse Seoul",
+            "artists": [
+              "Nicola Calbi",
+              "Davico"
+            ],
+            "source": "ra",
+            "ra_id": 227482
           }
         ]
       }
