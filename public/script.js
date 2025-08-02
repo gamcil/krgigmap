@@ -206,8 +206,8 @@ async function loadMap() {
         style: prefersDarkScheme.matches ? darkProtomapsURL : lightProtomapsURL,
         center: [126.9762, 37.5136],
         maxBounds: [
-            [125.7604781765, 33.0846069507],
-            [129.7426552764, 38.6782537156]
+            [124.61, 33.034],
+            [131.025, 38.63]
         ],
         zoom: 12,
         container: 'map',
