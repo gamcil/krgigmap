@@ -40,34 +40,6 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
         
-      - name: Generate weekly cache key
-        id: cache-key
-        run: |
-          echo "weekly-key=pmtiles-$(date +'%Y-%U')" >> "$GITHUB_OUTPUT"
-        
-      - name: Cache protomaps map
-        id: cache-pmtiles
-        uses: actions/cache@v4
-        with:
-          path: ./public/map.pmtiles
-          key: ${{ steps.cache-key.outputs.weekly-key }}
-            
-      - name: Extract map region
-        if: steps.cache-pmtiles.outputs.cache-hit != 'true'
-        run: |
-          sudo apt-get update && sudo apt-get install -y jq
-
-          echo "Downloading latest pmtiles binary"
-          PMTILES_URL=$(curl -s https://api.github.com/repos/protomaps/go-pmtiles/releases/latest | jq -r '.assets[] | select(.name | test("Linux_x86_64.*tar.gz$")) | .browser_download_url')
-          curl -L "$PMTILES_URL" -o pmtiles.tar.gz
-          tar -xzf pmtiles.tar.gz
-          chmod +x ./pmtiles
-          
-          echo "Downloading map"
-          LATEST_BUILD_ID=$(curl -s 'https://build-metadata.protomaps.dev/builds.json' | jq -r 'last.key')
-          LATEST_BUILD_URL="https://build.protomaps.com/${LATEST_BUILD_ID}"
-          ./pmtiles extract --bbox=125.7604781765,33.0846069507,129.7426552764,38.6782537156 "$LATEST_BUILD_URL" ./public/map.pmtiles
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

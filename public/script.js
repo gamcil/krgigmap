@@ -31,6 +31,9 @@ maplibregl.Map.prototype.addMarkerImage = function (id, options = {}, callback) 
     }
 }
 
+const darkProtomapsURL = "https://api.protomaps.com/styles/v5/dark/en.json?key=015f1cfa3c5010ee";
+const lightProtomapsURL = "https://api.protomaps.com/styles/v5/light/en.json?key=015f1cfa3c5010ee";
+
 const sunIconSvg = `
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="12" cy="12" r="5"></circle>
@@ -84,10 +87,10 @@ class ThemeToggleControl {
         this._updateButtonContent();
         document.documentElement.style.colorScheme = this._isDark ? 'dark' : 'light';
         if (this._isDark) {
-            this._map.setStyle('./dark.json', { diff: false });
+            this._map.setStyle(darkProtomapsURL, { diff: false })
             document.getElementById('map').classList.add('dark');
         } else {
-            this._map.setStyle('./light.json', { diff: false });
+            this._map.setStyle(lightProtomapsURL, { diff: false })
             document.getElementById('map').classList.remove('dark');
         }
     }
@@ -200,7 +203,7 @@ async function loadMap() {
     const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
 
     const map = new maplibregl.Map({
-        style: prefersDarkScheme.matches ? 'dark.json' : 'light.json',
+        style: prefersDarkScheme.matches ? darkProtomapsURL : lightProtomapsURL,
         center: [126.9762, 37.5136],
         maxBounds: [
             [125.7604781765, 33.0846069507],
@@ -402,11 +405,11 @@ async function loadMap() {
     const themeToggleControl = new ThemeToggleControl();
     const setTheme = (isDark) => {
         if (isDark) {
-            map.setStyle('./dark.json', { diff: false })
+            map.setStyle(darkProtomapsURL, { diff: false })
             document.getElementById('map').classList.add('dark');
             document.documentElement.style.colorScheme ='dark';
         } else {
-            map.setStyle('./light.json', { diff: false })
+            map.setStyle(lightProtomapsURL, { diff: false })
             document.getElementById('map').classList.remove('dark');
             document.documentElement.style.colorScheme ='light';
         }
