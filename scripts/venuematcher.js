@@ -74,7 +74,13 @@ function buildFuseIndex(venues) {
 function buildRAVenueMap(venues) {
     const venueRAMap = {};
     venues.forEach((v, i) => {
-        if (v.ra_id) venueRAMap[v.ra_id] = v;
+        if (Array.isArray(v.ra_id)) {
+            v.ra_id.forEach(id => {
+                venueRAMap[id] = v;
+            })
+        } else if (v.ra_id) {
+            venueRAMap[v.ra_id] = v;
+        }
         v.id = i;
     })
     return venueRAMap;
