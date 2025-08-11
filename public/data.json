@@ -11771,6 +11771,22 @@
         "ra_id": 133352,
         "events": [
           {
+            "date": "2025-08-14T00:00:00.000",
+            "startTime": "2025-08-14T23:00:00.000",
+            "endTime": "2025-08-15T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2234078",
+            "title": "야맹증",
+            "location": "Volnost",
+            "artists": [
+              "JAEHAN (2)",
+              "Youknowsong",
+              "Shinyoung",
+              "SEOD"
+            ],
+            "source": "ra",
+            "ra_id": 133352
+          },
+          {
             "date": "2025-08-15T00:00:00.000",
             "startTime": "2025-08-15T23:00:00.000",
             "endTime": "2025-08-16T05:00:00.000",
@@ -13762,6 +13778,137 @@
             "artists": [],
             "source": "ra",
             "ra_id": 267851
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6964152,
+          34.8900448
+        ]
+      },
+      "properties": {
+        "name_ko": "옥포수변공원",
+        "name": "Okpo Waterfront Park",
+        "address_ko": "경상남도 거제시 옥포로2길 14",
+        "address": "14, Okpo-ro 2-gil, Geoje-si, Gyeongsangnam-do, Republic of Korea",
+        "address_jibun": "경상남도 거제시 옥포동 1978-1",
+        "kakaoMaps": "http://place.map.kakao.com/1170842773",
+        "googleMaps": "https://maps.google.com/?cid=7727862091138877796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/5QidBKJm",
+        "events": [
+          {
+            "showdeeId": "2661",
+            "source": "showdee",
+            "artists": [
+              "로맨틱펀치",
+              "크랙샷"
+            ],
+            "location": "옥포 수변공원",
+            "startTime": "2025-08-16T19:30:00",
+            "date": "2025-08-16",
+            "eventUrl": "https://www.instagram.com/p/DNAPZbaySKT/",
+            "entry": "버스킹"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9228024,
+          37.5471431
+        ]
+      },
+      "properties": {
+        "name_ko": "닻올림",
+        "name": "dotolim",
+        "address_ko": "서울특별시 마포구 와우산로 29",
+        "address": "29, Wausan-ro, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 상수동 328-14",
+        "website": "http://www.dotolim.com/",
+        "kakaoMaps": "http://place.map.kakao.com/1000159546",
+        "googleMaps": "https://maps.google.com/?cid=10841893851588641094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/GGC4prCg",
+        "events": [
+          {
+            "showdeeId": "2775",
+            "source": "showdee",
+            "artists": [
+              "사바하",
+              "나와",
+              "곱창",
+              "HUMAN INFRASTRUCTURE",
+              "Tohal Kinya"
+            ],
+            "location": "닻올림",
+            "startTime": "2025-08-30T18:30:00",
+            "date": "2025-08-30",
+            "eventUrl": "https://www.instagram.com/p/DNAai58zg8E/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0488612,
+          37.9033037
+        ]
+      },
+      "properties": {
+        "name_ko": "신천교",
+        "name": "Sincheon Bridge",
+        "address_ko": "",
+        "address": "Sangpae-dong, Dongducheon-si, Gyeonggi-do, Republic of Korea",
+        "address_jibun": "경기도 동두천시 상패동",
+        "kakaoMaps": "http://place.map.kakao.com/7979819",
+        "googleMaps": "https://maps.google.com/?cid=18097346731049079327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/FXkLxb5O",
+        "events": [
+          {
+            "showdeeId": "2818",
+            "source": "showdee",
+            "artists": [
+              "로맨틱펀치",
+              "롤링쿼츠",
+              "서도밴드",
+              "초록불꽃소년단",
+              "미8군락밴드",
+              "리디안"
+            ],
+            "location": "동두천시 신천교 특설무대",
+            "startTime": "2025-09-13T00:00:00",
+            "date": "2025-09-13",
+            "eventUrl": "https://www.instagram.com/p/DNFWwWUS8gE/",
+            "entry": "무료 입장"
+          },
+          {
+            "showdeeId": "2823",
+            "source": "showdee",
+            "artists": [
+              "노브레인",
+              "몽니",
+              "소찬휘",
+              "내귀에도청장치",
+              "김현정",
+              "다섯",
+              "더픽스"
+            ],
+            "location": "동두천시 신천교 특설무대",
+            "startTime": "2025-09-14T00:00:00",
+            "date": "2025-09-14",
+            "eventUrl": "https://www.instagram.com/p/DNFWwWUS8gE/",
+            "entry": "무료 입장"
           }
         ]
       }
