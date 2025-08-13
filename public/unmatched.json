@@ -1,6 +1,6 @@
 [
   {
-    "showdeeId": "2620",
+    "showdeeId": "2623",
     "source": "showdee",
     "artists": [
       "다섯",
@@ -17,7 +17,22 @@
     "unmatchedReason": "unknown"
   },
   {
-    "showdeeId": "2728",
+    "showdeeId": "2662",
+    "source": "showdee",
+    "artists": [
+      "갤럭시익스프레스",
+      "김오키트리오",
+      "키라라"
+    ],
+    "location": "일러스타 스테이지",
+    "startTime": "2025-08-16T19:00:00",
+    "date": "2025-08-16",
+    "eventUrl": "https://www.instagram.com/p/DNKef2EOjug/",
+    "entry": "예매 정보 링크",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "2745",
     "source": "showdee",
     "artists": [
       "해서웨이"
@@ -27,6 +42,64 @@
     "date": "2025-08-23",
     "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211773",
     "entry": "예매 링크",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "2795",
+    "source": "showdee",
+    "artists": [
+      "기쿠하시",
+      "산보",
+      "올드잉글리쉬쉽독",
+      "잔류파",
+      "폴리아모리",
+      "회기본능",
+      "archie",
+      "PCR",
+      "샐리에브리웨어",
+      "오이스터즈"
+    ],
+    "location": "신촌 베이비돌 / 인피니티 클럽",
+    "startTime": "2025-08-30T16:00:00",
+    "date": "2025-08-30",
+    "eventUrl": "https://wise-sweater-91c.notion.site/22f36d47a7ec807e8dbdc849ff519928",
+    "entry": "예매 링크",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "2849",
+    "source": "showdee",
+    "artists": [
+      "와비킹",
+      "모노폴리",
+      "언더독",
+      "파이안",
+      "The Pooh",
+      "히치하이커스"
+    ],
+    "location": "창원 용지문화공원",
+    "startTime": "2025-09-13T18:00:00",
+    "date": "2025-09-13",
+    "eventUrl": "https://www.instagram.com/p/DNKQnRbpUUv/",
+    "entry": "무료 입장",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "2856",
+    "source": "showdee",
+    "artists": [
+      "곰치",
+      "국빈관진상들",
+      "스매쉬",
+      "셰이디",
+      "블레이",
+      "뮤직파워"
+    ],
+    "location": "창원 용지문화공원",
+    "startTime": "2025-09-14T18:00:00",
+    "date": "2025-09-14",
+    "eventUrl": "https://www.instagram.com/p/DNKQnRbpUUv/",
+    "entry": "무료 입장",
     "unmatchedReason": "unknown"
   },
   {
@@ -107,17 +180,6 @@
   },
   {
     "date": "2025-08-23T00:00:00.000",
-    "startTime": "2025-08-23T13:00:00.000",
-    "endTime": "2025-08-23T21:00:00.000",
-    "eventUrl": "https://ra.co/events/2229222",
-    "title": "Côte Beach Club Vol. 4 (Coffee in the Sun)",
-    "location": "TBA - atp Seoul",
-    "artists": [],
-    "source": "ra",
-    "unmatchedReason": "TBA"
-  },
-  {
-    "date": "2025-08-23T00:00:00.000",
     "startTime": "2025-08-23T12:00:00.000",
     "endTime": "2025-08-23T20:00:00.000",
     "eventUrl": "https://ra.co/events/2230208",
@@ -135,6 +197,17 @@
       "Apachi",
       "AVALON"
     ],
+    "source": "ra",
+    "unmatchedReason": "TBA"
+  },
+  {
+    "date": "2025-08-23T00:00:00.000",
+    "startTime": "2025-08-23T13:00:00.000",
+    "endTime": "2025-08-23T21:00:00.000",
+    "eventUrl": "https://ra.co/events/2229222",
+    "title": "Côte Beach Club Vol. 4 (Coffee in the Sun)",
+    "location": "TBA - atp Seoul",
+    "artists": [],
     "source": "ra",
     "unmatchedReason": "TBA"
   },
