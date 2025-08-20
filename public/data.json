@@ -200,6 +200,22 @@
         "ra_id": 127189,
         "events": [
           {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T22:00:00.000",
+            "endTime": "2025-08-23T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2239833",
+            "title": "BBCB22082025",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "Nolove",
+              "givogi",
+              "Vovian",
+              "psyche (2)"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          },
+          {
             "date": "2025-08-23T00:00:00.000",
             "startTime": "2025-08-23T22:00:00.000",
             "endTime": "2025-08-24T06:00:00.000",
@@ -269,6 +285,50 @@
               "BAAWLA",
               "Xena (KR)"
             ],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-08-21T00:00:00.000",
+            "startTime": "2025-08-21T22:00:00.000",
+            "endTime": "2025-08-22T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2239639",
+            "title": "BOLERO: KALEIDOSCOPE",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T22:00:00.000",
+            "endTime": "2025-08-23T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2239643",
+            "title": "BOLERO: GET LOOSE",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-08-23T00:00:00.000",
+            "startTime": "2025-08-23T22:00:00.000",
+            "endTime": "2025-08-24T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2239644",
+            "title": "BOLERO: DEADEND",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-08-30T00:00:00.000",
+            "startTime": "2025-08-30T22:00:00.000",
+            "endTime": "2025-08-31T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2239673",
+            "title": "BOLERO: BUDxBEATS 'SING ALONG'",
+            "location": "Bolero",
+            "artists": [],
             "source": "ra",
             "ra_id": 198937
           }
@@ -7488,19 +7548,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "2699",
-            "source": "showdee",
-            "artists": [
-              "Jelusick 내한",
-              "YB"
-            ],
-            "location": "롤링홀",
-            "startTime": "2025-08-19T20:00:00",
-            "date": "2025-08-19",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211668",
-            "entry": "예매 링크"
-          },
-          {
             "showdeeId": "2771",
             "source": "showdee",
             "artists": [
@@ -8128,7 +8175,6 @@
             "title": "SCR x Human Records Pres: Human Frequencies",
             "location": "Seoul Community Radio",
             "artists": [
-              "Xena (KR)",
               "Coziest",
               "IVRO",
               "FAKEDEEPLEE",
@@ -8622,22 +8668,7 @@
         "kakaoMaps": "http://place.map.kakao.com/1964441344",
         "googleMaps": "https://maps.google.com/?cid=17711388530512994291&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/58461702",
-        "events": [
-          {
-            "showdeeId": "2700",
-            "source": "showdee",
-            "artists": [
-              "컨트리공방",
-              "폴카이트",
-              "모트"
-            ],
-            "location": "홍대 우주정거장",
-            "startTime": "2025-08-19T20:00:00",
-            "date": "2025-08-19",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211745",
-            "entry": "예매 링크"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -8761,19 +8792,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/38015320",
         "ra_id": 138268,
         "events": [
-          {
-            "showdeeId": "2698",
-            "source": "showdee",
-            "artists": [
-              "윤석철트리오",
-              "Monsieur Doumani"
-            ],
-            "location": "스트레인지 프룻",
-            "startTime": "2025-08-19T20:00:00",
-            "date": "2025-08-19",
-            "eventUrl": "https://www.instagram.com/p/DMrQqSyy3Ty/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "2703",
             "source": "showdee",
@@ -11716,7 +11734,38 @@
         "kakaoMaps": "https://place.map.kakao.com/1733549039",
         "googleMaps": "https://maps.app.goo.gl/nMaKEh6MDUntetjCA",
         "ra_id": 262888,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T22:00:00.000",
+            "endTime": "2025-08-23T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2239785",
+            "title": "house with RTRP",
+            "location": "House",
+            "artists": [
+              "RTRP",
+              "Gumi",
+              "grid (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 262888
+          },
+          {
+            "date": "2025-08-23T00:00:00.000",
+            "startTime": "2025-08-23T22:00:00.000",
+            "endTime": "2025-08-24T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2239787",
+            "title": "house with Afrodite",
+            "location": "House",
+            "artists": [
+              "Afrodite (2)",
+              "DOHWA",
+              "Gumi"
+            ],
+            "source": "ra",
+            "ra_id": 262888
+          }
+        ]
       }
     },
     {
@@ -11855,6 +11904,25 @@
             ],
             "source": "ra",
             "ra_id": 133352
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T23:00:00.000",
+            "endTime": "2025-09-07T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2239747",
+            "title": "Volnost Invites 'Atomic moog'",
+            "location": "Volnost",
+            "artists": [
+              "Atomic moog",
+              "Hogun",
+              "Siot",
+              "Hender",
+              "YOKIE",
+              "Yeonju",
+              "Jooheon"
+            ],
+            "source": "ra",
+            "ra_id": 133352
           }
         ]
       }
@@ -11965,7 +12033,52 @@
         "kakaoMaps": "http://place.map.kakao.com/948096615",
         "googleMaps": "https://maps.google.com/?cid=17441298849254633058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "ra_id": 225363,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-21T00:00:00.000",
+            "startTime": "2025-08-21T23:00:00.000",
+            "endTime": "2025-08-22T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2239987",
+            "title": "TTSD",
+            "location": "Arga",
+            "artists": [
+              "Moeuv",
+              "RTRP",
+              "Cityboy from Seoul"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          },
+          {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T23:00:00.000",
+            "endTime": "2025-08-23T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2239992",
+            "title": "4TTF",
+            "location": "Arga",
+            "artists": [
+              "Joshüa",
+              "Youngisland"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          },
+          {
+            "date": "2025-08-23T00:00:00.000",
+            "startTime": "2025-08-23T23:00:00.000",
+            "endTime": "2025-08-24T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2239996",
+            "title": "Kosmos: Kontrast",
+            "location": "Arga",
+            "artists": [
+              "Yusuf",
+              "Gio (KR)",
+              "Yoru (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          }
+        ]
       }
     },
     {
@@ -12102,7 +12215,22 @@
         "googleMaps": "https://maps.google.com/?cid=7853402513793363628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/FZ2ip7EF",
         "ra_id": 242471,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T22:00:00.000",
+            "endTime": "2025-08-23T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2239717",
+            "title": "999 PROJEKT Vol.53 [PSYTRANCE]",
+            "location": "Luka",
+            "artists": [
+              "PSYTONIC",
+              "JAMIEST"
+            ],
+            "source": "ra",
+            "ra_id": 242471
+          }
+        ]
       }
     },
     {
@@ -12689,7 +12817,54 @@
         "googleMaps": "https://maps.google.com/?cid=3242294893625765136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/IGZ2DqR1",
         "ra_id": 269802,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-21T00:00:00.000",
+            "startTime": "2025-08-21T21:00:00.000",
+            "endTime": "2025-08-22T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2239583",
+            "title": "Grain Haus",
+            "location": "Grain Haus",
+            "artists": [
+              "KIKI (KR)",
+              "Oho.",
+              "Lyumin",
+              "DOMAAHN"
+            ],
+            "source": "ra",
+            "ra_id": 269802
+          },
+          {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T21:00:00.000",
+            "endTime": "2025-08-23T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2239586",
+            "title": "Grain Haus",
+            "location": "Grain Haus",
+            "artists": [
+              "Daul",
+              "SKiiDA"
+            ],
+            "source": "ra",
+            "ra_id": 269802
+          },
+          {
+            "date": "2025-08-23T00:00:00.000",
+            "startTime": "2025-08-23T21:00:00.000",
+            "endTime": "2025-08-24T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2239587",
+            "title": "Grain Haus",
+            "location": "Grain Haus",
+            "artists": [
+              "Apachi",
+              "KIKOH",
+              "HAGY",
+              "BILL.E"
+            ],
+            "source": "ra",
+            "ra_id": 269802
+          }
+        ]
       }
     },
     {
