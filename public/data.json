@@ -578,20 +578,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/34016066",
         "events": [
           {
-            "showdeeId": "2704",
-            "source": "showdee",
-            "artists": [
-              "소각소각",
-              "윤새",
-              "시와"
-            ],
-            "location": "카페 언플러그드 홍대",
-            "startTime": "2025-08-20T20:00:00",
-            "date": "2025-08-20",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211746",
-            "entry": "예매 링크"
-          },
-          {
             "showdeeId": "2715",
             "source": "showdee",
             "artists": [
@@ -751,20 +737,6 @@
         "googleMaps": "https://maps.google.com/?cid=884018115186850439&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1476560900",
         "events": [
-          {
-            "showdeeId": "2702",
-            "source": "showdee",
-            "artists": [
-              "신썸머",
-              "김윤희",
-              "임예송"
-            ],
-            "location": "언플러그드 라운지",
-            "startTime": "2025-08-20T19:30:00",
-            "date": "2025-08-20",
-            "eventUrl": "https://www.instagram.com/p/DNCdLKJvkuA/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "2731",
             "source": "showdee",
@@ -1470,22 +1442,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/11633175",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "2701",
-            "source": "showdee",
-            "artists": [
-              "이웃신사",
-              "고기민",
-              "윰피",
-              "달위의콜린스",
-              "황은하"
-            ],
-            "location": "클럽빵",
-            "startTime": "2025-08-20T18:30:00",
-            "date": "2025-08-20",
-            "eventUrl": "https://www.instagram.com/p/DNdGcpaygy8/",
-            "entry": "현장 예매"
-          },
           {
             "showdeeId": "2705",
             "source": "showdee",
@@ -5712,13 +5668,30 @@
             "ra_id": 140937
           },
           {
+            "date": "2025-08-30T00:00:00.000",
+            "startTime": "2025-08-30T23:00:00.000",
+            "endTime": "2025-08-31T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2240750",
+            "title": "Sina Hill 'DIGITAL SOUL' VOL.2 Vinyl Release Party x Sambo Records 2nd Anniversary",
+            "location": "Modeci",
+            "artists": [
+              "SINAHILL",
+              "DJ Funny",
+              "bojvck"
+            ],
+            "source": "ra",
+            "ra_id": 140937
+          },
+          {
             "date": "2025-09-06T00:00:00.000",
             "startTime": "2025-09-06T22:00:00.000",
             "endTime": "2025-09-07T05:00:00.000",
             "eventUrl": "https://ra.co/events/2239059",
             "title": "DJ SOULSCAPE All-Night-Operation",
             "location": "Modeci",
-            "artists": [],
+            "artists": [
+              "DJ Soulscape"
+            ],
             "source": "ra",
             "ra_id": 140937
           },
@@ -8793,20 +8766,6 @@
         "ra_id": 138268,
         "events": [
           {
-            "showdeeId": "2703",
-            "source": "showdee",
-            "artists": [
-              "다브다",
-              "멋진인생",
-              "Shallow Levée"
-            ],
-            "location": "스트레인지 프룻",
-            "startTime": "2025-08-20T20:00:00",
-            "date": "2025-08-20",
-            "eventUrl": "https://www.instagram.com/p/DNCVnjfSYhY/",
-            "entry": "예매 정보 링크"
-          },
-          {
             "showdeeId": "2708",
             "source": "showdee",
             "artists": [
@@ -9539,7 +9498,19 @@
         "googleMaps": "https://maps.google.com/?cid=18239732963541701885",
         "naverMaps": "https://map.naver.com/p/entry/place/1512008933",
         "ra_id": 260734,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-26T00:00:00.000",
+            "startTime": "2025-09-26T21:00:00.000",
+            "endTime": "2025-09-27T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2241265",
+            "title": "[Blind Ticket Open] GOOD PEOPLE SEOUL INVITES SECRET GUEST (AFTERLIFE)",
+            "location": "UNDERCITY",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 260734
+          }
+        ]
       }
     },
     {
@@ -10230,19 +10201,6 @@
         "ra_id": 196474,
         "events": [
           {
-            "date": "2025-08-20T00:00:00.000",
-            "startTime": "2025-08-20T21:00:00.000",
-            "endTime": "2025-08-21T01:00:00.000",
-            "eventUrl": "https://ra.co/events/2234875",
-            "title": "OYAT, Stann Lumo",
-            "location": "Atdge Seoul",
-            "artists": [
-              "Stann Lumo"
-            ],
-            "source": "ra",
-            "ra_id": 196474
-          },
-          {
             "date": "2025-08-22T00:00:00.000",
             "startTime": "2025-08-22T22:30:00.000",
             "endTime": "2025-08-23T04:00:00.000",
@@ -10727,6 +10685,37 @@
         "ra_id": 220595,
         "events": [
           {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T23:00:00.000",
+            "endTime": "2025-08-23T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2240967",
+            "title": "Young Invites Nulek and KIIATKINA",
+            "location": "teller",
+            "artists": [
+              "Nulek",
+              "KIIATKINA",
+              "Young Sun",
+              "Lyumin"
+            ],
+            "source": "ra",
+            "ra_id": 220595
+          },
+          {
+            "date": "2025-08-23T00:00:00.000",
+            "startTime": "2025-08-23T23:00:00.000",
+            "endTime": "2025-08-24T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2240972",
+            "title": "Saturday, August 23, 2025,",
+            "location": "teller",
+            "artists": [
+              "Oho.",
+              "Krijka",
+              "Mihak"
+            ],
+            "source": "ra",
+            "ra_id": 220595
+          },
+          {
             "date": "2025-08-29T00:00:00.000",
             "startTime": "2025-08-29T23:00:00.000",
             "endTime": "2025-08-30T06:00:00.000",
@@ -10887,7 +10876,37 @@
         "googleMaps": "https://maps.google.com/?cid=12732997250264221298",
         "naverMaps": "https://map.naver.com/p/entry/place/1561485208",
         "ra_id": 213717,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T22:00:00.000",
+            "endTime": "2025-08-23T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2240686",
+            "title": "[Hard Techno] Gwangju with VERSION 34",
+            "location": "Deep Ocean Lab Gwangju",
+            "artists": [
+              "VERSION 34",
+              "DADA (SK)"
+            ],
+            "source": "ra",
+            "ra_id": 213717
+          },
+          {
+            "date": "2025-08-23T00:00:00.000",
+            "startTime": "2025-08-23T22:00:00.000",
+            "endTime": "2025-08-24T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2240690",
+            "title": "[Hard House] BUMPY SEOUL at Gwangju Deepocean",
+            "location": "Deep Ocean Lab Gwangju",
+            "artists": [
+              "BLUMIN",
+              "GGAX2",
+              "DADA (SK)"
+            ],
+            "source": "ra",
+            "ra_id": 213717
+          }
+        ]
       }
     },
     {
@@ -11390,7 +11409,7 @@
             "startTime": "2025-08-30T23:00:00.000",
             "endTime": "2025-08-31T06:00:00.000",
             "eventUrl": "https://ra.co/events/2238842",
-            "title": "vurtnight with Peter Van Hoesen LIVE",
+            "title": "vurtnight with Peter Van Hoesen: L I V E",
             "location": "vurt.",
             "artists": [
               "Peter Van Hoesen",
@@ -11821,6 +11840,32 @@
         "ra_id": 198699,
         "events": [
           {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T22:00:00.000",
+            "endTime": "2025-08-23T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2240940",
+            "title": "BEACH SOUND PARADE",
+            "location": "Melt",
+            "artists": [
+              "G1KIM"
+            ],
+            "source": "ra",
+            "ra_id": 198699
+          },
+          {
+            "date": "2025-08-23T00:00:00.000",
+            "startTime": "2025-08-23T22:00:00.000",
+            "endTime": "2025-08-24T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2240947",
+            "title": "HASHTAGPOPE",
+            "location": "Melt",
+            "artists": [
+              "HASHTAGPOPE"
+            ],
+            "source": "ra",
+            "ra_id": 198699
+          },
+          {
             "date": "2025-08-29T00:00:00.000",
             "startTime": "2025-08-29T22:00:00.000",
             "endTime": "2025-08-30T04:00:00.000",
@@ -11980,7 +12025,32 @@
         "googleMaps": "https://maps.google.com/?cid=17029120266020152727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/IGJYa3FR",
         "ra_id": 216993,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T23:00:00.000",
+            "endTime": "2025-08-23T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2240834",
+            "title": "MOMENT presents: CRIMSON FOREST",
+            "location": "Moment",
+            "artists": [
+              "earring"
+            ],
+            "source": "ra",
+            "ra_id": 216993
+          },
+          {
+            "date": "2025-08-23T00:00:00.000",
+            "startTime": "2025-08-23T23:00:00.000",
+            "endTime": "2025-08-24T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2240842",
+            "title": "Waok Paok in MOMENT",
+            "location": "Moment",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 216993
+          }
+        ]
       }
     },
     {
@@ -12576,7 +12646,42 @@
         "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/xY4sFFgP",
         "ra_id": 267778,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-22T00:00:00.000",
+            "startTime": "2025-08-22T21:00:00.000",
+            "endTime": "2025-08-24T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2240581",
+            "title": "Waikiki Utopia 'STARLIGHT PARTY'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "H93 (KR)",
+              "TERRA (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "HARRY SPARKL"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          },
+          {
+            "date": "2025-08-23T00:00:00.000",
+            "startTime": "2025-08-22T21:00:00.000",
+            "endTime": "2025-08-24T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2240581",
+            "title": "Waikiki Utopia 'STARLIGHT PARTY'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "H93 (KR)",
+              "TERRA (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "HARRY SPARKL"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          }
+        ]
       }
     },
     {
@@ -13085,19 +13190,6 @@
           228099
         ],
         "events": [
-          {
-            "date": "2025-08-20T00:00:00.000",
-            "startTime": "2025-08-20T19:00:00.000",
-            "endTime": "2025-08-20T21:00:00.000",
-            "eventUrl": "https://ra.co/events/2239424",
-            "title": "MIXMIX Pres. Castillonaire",
-            "location": "Ximxim Bar",
-            "artists": [
-              "Castillonaire"
-            ],
-            "source": "ra",
-            "ra_id": 228419
-          },
           {
             "date": "2025-08-31T00:00:00.000",
             "startTime": "2025-08-31T14:00:00.000",
