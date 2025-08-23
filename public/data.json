@@ -10285,6 +10285,35 @@
             "ra_id": 196474
           },
           {
+            "date": "2025-08-28T00:00:00.000",
+            "startTime": "2025-08-28T21:00:00.000",
+            "endTime": "2025-08-29T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2242895",
+            "title": "Stelios Vassiloudis, Niko Dalagelis",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Stelios Vassiloudis"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
+            "date": "2025-08-29T00:00:00.000",
+            "startTime": "2025-08-29T22:00:00.000",
+            "endTime": "2025-08-30T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2242897",
+            "title": "K.O.P. 32",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Hii.",
+              "ASYNC",
+              "Pyramid of Knowledge",
+              "Hogun"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
             "date": "2025-09-27T00:00:00.000",
             "startTime": "2025-09-27T22:00:00.000",
             "endTime": "2025-09-28T04:00:00.000",
@@ -14309,6 +14338,400 @@
             ],
             "source": "ra",
             "ra_id": 241823
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.93667142222,
+          37.5569792757261
+        ]
+      },
+      "properties": {
+        "name_ko": "신촌 스타광장",
+        "name": "Sinchon Star Square",
+        "address_ko": "",
+        "address": "Changcheon-dong, Seodaemun-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울 서대문구 창천동",
+        "kakaoMaps": "http://place.map.kakao.com/1846396457",
+        "googleMaps": "https://maps.google.com/?cid=13221644807570293791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "events": [
+          {
+            "showdeeId": "2876",
+            "source": "showdee",
+            "artists": [
+              "너드커넥션",
+              "박소은",
+              "루아멜",
+              "에일",
+              "네버마인드"
+            ],
+            "location": "신천 스타광장",
+            "startTime": "2025-09-05T17:20:00",
+            "date": "2025-09-05",
+            "eventUrl": "https://www.instagram.com/p/DNki-F4pfEO/",
+            "entry": "무료 입장"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.147864557958,
+          35.811938927374
+        ]
+      },
+      "properties": {
+        "name_ko": "문화공판장 모이장",
+        "name": "Moijang",
+        "address_ko": "전북특별자치도 전주시 완산구 풍남문1길 9-5 1층",
+        "address": "9-5, Pungnammun 1-gil, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea",
+        "address_jibun": "전북특별자치도 전주시 완산구 전동 303-183 1층",
+        "website": "https://moijang.creatorlink.net/",
+        "instagram": "https://www.instagram.com/moijang_local/",
+        "googleMaps": "https://maps.google.com/?cid=12454060058536346630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "events": [
+          {
+            "showdeeId": "2902",
+            "source": "showdee",
+            "artists": [
+              "커런트",
+              "고니아",
+              "행간소음"
+            ],
+            "location": "전주 문화공판장 모이장",
+            "startTime": "2025-09-07T18:00:00",
+            "date": "2025-09-07",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211858",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9052806,
+          37.5523401
+        ]
+      },
+      "properties": {
+        "name_ko": "전조",
+        "name": "Jeonjjo",
+        "address_ko": "서울특별시 마포구 동교로 27 2층 전조",
+        "address": "27, Donggyo-ro, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 망원동 394-116 2층 전조",
+        "instagram": "https://www.instagram.com/jeonjjo/",
+        "kakaoMaps": "http://place.map.kakao.com/321818491",
+        "googleMaps": "https://maps.google.com/?cid=2703009857106856935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/x8tookFv",
+        "events": [
+          {
+            "showdeeId": "2919",
+            "source": "showdee",
+            "artists": [
+              "위댄스"
+            ],
+            "location": "전조",
+            "startTime": "2025-09-13T18:30:00",
+            "date": "2025-09-13",
+            "eventUrl": "https://www.instagram.com/p/DNilmCmv7mg/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0019035,
+          37.5871785
+        ]
+      },
+      "properties": {
+        "name_ko": "JCC아트센터",
+        "name": "JCC Art Center",
+        "address_ko": "서울특별시 종로구 창경궁로35길 29",
+        "address": "29, Changgyeonggung-ro 35-gil, Jongno-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 종로구 혜화동 53-21",
+        "website": "http://www.jeijcc.org/",
+        "kakaoMaps": "https://place.map.kakao.com/24690509",
+        "googleMaps": "https://maps.google.com/?cid=16304753398286188968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/5tJaAPr7",
+        "events": [
+          {
+            "showdeeId": "2930",
+            "source": "showdee",
+            "artists": [
+              "조소정"
+            ],
+            "location": "JCC아트센터 콘서트홀",
+            "startTime": "2025-09-14T17:00:00",
+            "date": "2025-09-14",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211838",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0184716,
+          37.5126692
+        ]
+      },
+      "properties": {
+        "name_ko": "재즈클럽 그루브",
+        "name": "Groove Jazz Club",
+        "address_ko": "서울특별시 서초구 신반포로47길 52 동구빌딩",
+        "address": "52, Sinbanpo-ro 47-gil, Seocho-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 서초구 잠원동 36-3 동구빌딩",
+        "website": "http://www.groove.kr/",
+        "instagram": "https://www.instagram.com/jazzclubgroove/",
+        "kakaoMaps": "http://place.map.kakao.com/8814564",
+        "googleMaps": "https://maps.google.com/?cid=10469024144103497378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "events": [
+          {
+            "showdeeId": "2938",
+            "source": "showdee",
+            "artists": [
+              "전찬준",
+              "나희경",
+              "좋아서하는밴드"
+            ],
+            "location": "그루브",
+            "startTime": "2025-09-18T20:00:00",
+            "date": "2025-09-18",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211849",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8935331,
+          35.115932
+        ]
+      },
+      "properties": {
+        "name_ko": "오션컬처팩토리",
+        "name": "Ocean Culture Factory",
+        "address_ko": "부산광역시 강서구 낙동남로682번길 262 B1",
+        "address": "262, Nakdongnam-ro 682beon-gil, Gangseo-gu, Busan, Republic of Korea",
+        "address_jibun": "부산광역시 강서구 녹산동 215 B1",
+        "instagram": "https://www.instagram.com/oceanculturefactory/",
+        "googleMaps": "https://maps.google.com/?cid=3756833878847950319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/Fc5xapoc",
+        "events": [
+          {
+            "showdeeId": "2970",
+            "source": "showdee",
+            "artists": [
+              "이사흘",
+              "홍영호트리오",
+              "리치맨 & 그루브나이스"
+            ],
+            "location": "오션컬쳐팩토리",
+            "startTime": "2025-09-28T18:00:00",
+            "date": "2025-09-28",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211867",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3112415,
+          35.5470499
+        ]
+      },
+      "properties": {
+        "name_ko": "파프리카",
+        "name": "Paprica",
+        "address_ko": "울산광역시 남구 중앙로290번길 13-1",
+        "address": "13-1, Jungang-ro 290beon-gil, Nam-gu, Ulsan, Republic of Korea",
+        "address_jibun": "울산광역시 남구 신정동 464-5",
+        "instagram": "https://www.instagram.com/paprica__store/",
+        "kakaoMaps": "http://place.map.kakao.com/1634420957",
+        "googleMaps": "https://maps.google.com/?cid=12638030214060379545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/FoENhwBt",
+        "events": [
+          {
+            "showdeeId": "2975",
+            "source": "showdee",
+            "artists": [
+              "Paniyolo (파니욜로) 내한"
+            ],
+            "location": "울산 파프리카",
+            "startTime": "2025-10-25T18:00:00",
+            "date": "2025-10-25",
+            "eventUrl": "https://www.instagram.com/p/DNmgD6Sp29h/?img_index=1",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1428941,
+          35.8177434
+        ]
+      },
+      "properties": {
+        "name_ko": "백일몽",
+        "name": "Daydream",
+        "address_ko": "전북특별자치도 전주시 완산구 전주객사3길 10",
+        "address": "10, Jeonjugaeksa 3-gil, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea",
+        "address_jibun": "전북특별자치도 전주시 완산구 중앙동2가 31-8",
+        "instagram": "https://www.instagram.com/hindaydream/",
+        "kakaoMaps": "http://place.map.kakao.com/1620771952",
+        "googleMaps": "https://maps.google.com/?cid=7066036490169919182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/xq3a1j7e",
+        "events": [
+          {
+            "showdeeId": "2976",
+            "source": "showdee",
+            "artists": [
+              "Paniyolo (파니욜로) 내한"
+            ],
+            "location": "전주 백일몽",
+            "startTime": "2025-10-26T16:00:00",
+            "date": "2025-10-26",
+            "eventUrl": "https://www.instagram.com/p/DNmgD6Sp29h/?img_index=1",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9211585,
+          37.5609656
+        ]
+      },
+      "properties": {
+        "name_ko": "스테디에브리웨어",
+        "name": "Steady Everywear",
+        "address_ko": "서울특별시 마포구 연남로3길 26 1~2층",
+        "address": "26, Yeonnam-ro 3-gil, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 연남동 561-65 1~2층",
+        "website": "https://www.steadyeverywear.com/",
+        "instagram": "https://www.instagram.com/steadyeverywear_official",
+        "kakaoMaps": "http://place.map.kakao.com/804840030",
+        "googleMaps": "https://maps.google.com/?cid=5341985867303636749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/GJTgyddS",
+        "events": [
+          {
+            "showdeeId": "2977",
+            "source": "showdee",
+            "artists": [
+              "Paniyolo (파니욜로) 내한"
+            ],
+            "location": "스테디에브리웨어",
+            "startTime": "2025-10-27T19:30:00",
+            "date": "2025-10-27",
+            "eventUrl": "https://www.instagram.com/p/DNmgD6Sp29h/?img_index=1",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9108722,
+          37.5581062
+        ]
+      },
+      "properties": {
+        "name_ko": "카페 물루",
+        "name": "Cafe Mulu",
+        "address_ko": "서울특별시 마포구 성미산로6길 8 1층",
+        "address": "8, Seongmisan-ro 6-gil, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 성산동 646-17 1층",
+        "instagram": "http://instagram.com/cafe.mulu",
+        "googleMaps": "https://maps.google.com/?cid=997736856738830902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/GCvqJe8v",
+        "events": [
+          {
+            "showdeeId": "2978",
+            "source": "showdee",
+            "artists": [
+              "Paniyolo (파니욜로) 내한"
+            ],
+            "location": "카페 물루",
+            "startTime": "2025-10-28T19:30:00",
+            "date": "2025-10-28",
+            "eventUrl": "https://www.instagram.com/p/DNmgD6Sp29h/?img_index=1",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9677543,
+          37.5389436
+        ]
+      },
+      "properties": {
+        "name_ko": "레이어스튜디오 20",
+        "name": "Layer Studio 20",
+        "address_ko": "서울특별시 용산구 원효로 236",
+        "address": "236, Wonhyo-ro, Yongsan-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 용산구 원효로1가 129-20",
+        "instagram": "https://www.instagram.com/layerstudios__",
+        "googleMaps": "https://maps.app.goo.gl/2RQJAXQBiSjHcRXm6",
+        "naverMaps": "https://naver.me/GeUXgfXR",
+        "ra_id": 236671,
+        "events": [
+          {
+            "date": "2025-09-04T00:00:00.000",
+            "startTime": "2025-09-04T18:30:00.000",
+            "endTime": "2025-09-04T23:00:00.000",
+            "eventUrl": "https://ra.co/events/2242335",
+            "title": "ESHS Opening Ceremony LOT.0",
+            "location": "Layer Studio 20",
+            "artists": [
+              "RQ-HQ",
+              "Sebibadboy",
+              "plomo"
+            ],
+            "source": "ra",
+            "ra_id": 236671
           }
         ]
       }
