@@ -7375,6 +7375,7 @@
   {
     "name": "Oil Tank Culture Park T2 Stage",
     "name_ko": "문화비축기지 T2 공연장",
+    "ra_id": 272134,
     "address": "87, Jeungsan-ro, Mapo-gu, Seoul, Republic of Korea",
     "address_ko": "서울특별시 마포구 증산로 87",
     "website": "https://parks.seoul.go.kr/template/sub/culturetank.do",
@@ -7509,7 +7510,10 @@
   {
     "name": "Ximxim Bar",
     "name_ko": "심심",
-    "ra_id": [228419, 228099],
+    "ra_id": [
+      228419,
+      228099
+    ],
     "address": "11, Yeonmujang 15-gil, Seongdong-gu, Seoul, Republic of Korea",
     "address_ko": "서울특별시 성동구 연무장15길 11 B동 3층 308호",
     "address_jibun": "서울특별시 성동구 성수동2가 273-13 B동 3층 308호",
@@ -8236,88 +8240,104 @@
   {
     "name": "Paprica",
     "name_ko": "파프리카",
-      "address": "13-1, Jungang-ro 290beon-gil, Nam-gu, Ulsan, Republic of Korea",
-      "address_ko": "울산광역시 남구 중앙로290번길 13-1",
-      "address_jibun": "울산광역시 남구 신정동 464-5",
-      "lat": 35.5470499,
-      "lng": 129.3112415,
-      "instagram": "https://www.instagram.com/paprica__store/",
-      "googleMaps": "https://maps.google.com/?cid=12638030214060379545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
-      "kakaoMaps": "http://place.map.kakao.com/1634420957",
-      "naverMaps": "https://naver.me/FoENhwBt",
-      "alias": [
-        "파프리카",
-        "울산 파프리카"
-      ]
-    },
-    {
-      "name": "Daydream",
-      "name_ko": "백일몽",
-      "address": "10, Jeonjugaeksa 3-gil, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea",
-      "address_ko": "전북특별자치도 전주시 완산구 전주객사3길 10",
-      "address_jibun": "전북특별자치도 전주시 완산구 중앙동2가 31-8",
-      "lat": 35.8177434,
-      "lng": 127.1428941,
-      "instagram": "https://www.instagram.com/hindaydream/",
-      "googleMaps": "https://maps.google.com/?cid=7066036490169919182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
-      "kakaoMaps": "http://place.map.kakao.com/1620771952",
-      "naverMaps": "https://naver.me/xq3a1j7e",
-      "alias": [
-        "백일몽",
-        "전주 백일몽"
-      ]
-    },
-    {
-      "name": "Steady Everywear",
-      "name_ko": "스테디에브리웨어",
-      "address": "26, Yeonnam-ro 3-gil, Mapo-gu, Seoul, Republic of Korea",
-      "address_ko": "서울특별시 마포구 연남로3길 26 1~2층",
-      "address_jibun": "서울특별시 마포구 연남동 561-65 1~2층",
-      "lat": 37.5609656,
-      "lng": 126.9211585,
-      "website": "https://www.steadyeverywear.com/",
-      "instagram": "https://www.instagram.com/steadyeverywear_official",
-      "googleMaps": "https://maps.google.com/?cid=5341985867303636749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
-      "naverMaps": "https://naver.me/GJTgyddS",
-      "kakaoMaps": "http://place.map.kakao.com/804840030",
-      "alias": [
-        "스테디에브리웨어 스테디라이프컴퍼니",
-        "스테디 에브리웨어",
-        "스테디에브리웨어"
-      ]
-    },
-    {
-      "name": "Cafe Mulu",
-      "name_ko": "카페 물루",
-      "address": "8, Seongmisan-ro 6-gil, Mapo-gu, Seoul, Republic of Korea",
-      "address_ko": "서울특별시 마포구 성미산로6길 8 1층",
-      "address_jibun": "서울특별시 마포구 성산동 646-17 1층",
-      "lat": 37.5581062,
-      "lng": 126.9108722,
-      "googleMaps": "https://maps.google.com/?cid=997736856738830902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
-      "naverMaps": "https://naver.me/GCvqJe8v",
-      "alias": [
-        "카페 물루",
-        "cafe mulu",
-        "카페 물루"
-      ],
-      "instagram": "http://instagram.com/cafe.mulu"
-    },
-    {
-      "name": "Layer Studio 20",
-      "name_ko": "레이어스튜디오 20",
-      "ra_id": 236671,
-      "address": "236, Wonhyo-ro, Yongsan-gu, Seoul, Republic of Korea",
-      "address_ko": "서울특별시 용산구 원효로 236",
-      "address_jibun": "서울특별시 용산구 원효로1가 129-20",
-      "lat": 37.5389436,
-      "lng": 126.9677543,
-      "googleMaps": "https://maps.app.goo.gl/2RQJAXQBiSjHcRXm6",
-      "naverMaps": "https://naver.me/GeUXgfXR",
-      "instagram": "https://www.instagram.com/layerstudios__",
-      "alias": [
-        "레이어스튜디오 20",
-        "layer studio 20"
-      ]
-    }
-  ]
+    "address": "13-1, Jungang-ro 290beon-gil, Nam-gu, Ulsan, Republic of Korea",
+    "address_ko": "울산광역시 남구 중앙로290번길 13-1",
+    "address_jibun": "울산광역시 남구 신정동 464-5",
+    "lat": 35.5470499,
+    "lng": 129.3112415,
+    "instagram": "https://www.instagram.com/paprica__store/",
+    "googleMaps": "https://maps.google.com/?cid=12638030214060379545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1634420957",
+    "naverMaps": "https://naver.me/FoENhwBt",
+    "alias": [
+      "파프리카",
+      "울산 파프리카"
+    ]
+  },
+  {
+    "name": "Daydream",
+    "name_ko": "백일몽",
+    "address": "10, Jeonjugaeksa 3-gil, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea",
+    "address_ko": "전북특별자치도 전주시 완산구 전주객사3길 10",
+    "address_jibun": "전북특별자치도 전주시 완산구 중앙동2가 31-8",
+    "lat": 35.8177434,
+    "lng": 127.1428941,
+    "instagram": "https://www.instagram.com/hindaydream/",
+    "googleMaps": "https://maps.google.com/?cid=7066036490169919182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1620771952",
+    "naverMaps": "https://naver.me/xq3a1j7e",
+    "alias": [
+      "백일몽",
+      "전주 백일몽"
+    ]
+  },
+  {
+    "name": "Steady Everywear",
+    "name_ko": "스테디에브리웨어",
+    "address": "26, Yeonnam-ro 3-gil, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 연남로3길 26 1~2층",
+    "address_jibun": "서울특별시 마포구 연남동 561-65 1~2층",
+    "lat": 37.5609656,
+    "lng": 126.9211585,
+    "website": "https://www.steadyeverywear.com/",
+    "instagram": "https://www.instagram.com/steadyeverywear_official",
+    "googleMaps": "https://maps.google.com/?cid=5341985867303636749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "naverMaps": "https://naver.me/GJTgyddS",
+    "kakaoMaps": "http://place.map.kakao.com/804840030",
+    "alias": [
+      "스테디에브리웨어 스테디라이프컴퍼니",
+      "스테디 에브리웨어",
+      "스테디에브리웨어"
+    ]
+  },
+  {
+    "name": "Cafe Mulu",
+    "name_ko": "카페 물루",
+    "address": "8, Seongmisan-ro 6-gil, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 성미산로6길 8 1층",
+    "address_jibun": "서울특별시 마포구 성산동 646-17 1층",
+    "lat": 37.5581062,
+    "lng": 126.9108722,
+    "googleMaps": "https://maps.google.com/?cid=997736856738830902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "naverMaps": "https://naver.me/GCvqJe8v",
+    "alias": [
+      "카페 물루",
+      "cafe mulu",
+      "카페 물루"
+    ],
+    "instagram": "http://instagram.com/cafe.mulu"
+  },
+  {
+    "name": "Layer Studio 20",
+    "name_ko": "레이어스튜디오 20",
+    "ra_id": 236671,
+    "address": "236, Wonhyo-ro, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 원효로 236",
+    "address_jibun": "서울특별시 용산구 원효로1가 129-20",
+    "lat": 37.5389436,
+    "lng": 126.9677543,
+    "googleMaps": "https://maps.app.goo.gl/2RQJAXQBiSjHcRXm6",
+    "naverMaps": "https://naver.me/GeUXgfXR",
+    "instagram": "https://www.instagram.com/layerstudios__",
+    "alias": [
+      "레이어스튜디오 20",
+      "layer studio 20"
+    ]
+  },
+  {
+    "name": "Sound Factory",
+    "name_ko": "사운드팩토리",
+    "address": "185, Gyeyang-daero, Gyeyang-gu, Incheon, Republic of Korea",
+    "address_ko": "인천광역시 계양구 계양대로 185 4층",
+    "address_jibun": "인천광역시 계양구 계산동 942-43 4층",
+    "kakaoMaps": "https://place.map.kakao.com/1964479610",
+    "naverMaps": "https://naver.me/5ZSJo6wp",
+    "lat": 37.5404174,
+    "lng": 126.722351,
+    "alias": [
+      "음악처럼",
+      "인천 음악처럼",
+      "인천 사운드팩토리"
+    ]
+  }
+]
