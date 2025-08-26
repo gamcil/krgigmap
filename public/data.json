@@ -252,6 +252,17 @@
         "ra_id": 198937,
         "events": [
           {
+            "date": "2025-08-29T00:00:00.000",
+            "startTime": "2025-08-29T22:00:00.000",
+            "endTime": "2025-08-30T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2243602",
+            "title": "BOLERO: BOLERO PRESENTS",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
             "date": "2025-08-30T00:00:00.000",
             "startTime": "2025-08-30T22:00:00.000",
             "endTime": "2025-08-31T06:00:00.000",
@@ -1750,22 +1761,7 @@
         "googleMaps": "https://maps.google.com/?cid=12670926227524563100",
         "naverMaps": "https://map.naver.com/p/entry/place/342057948",
         "ra_id": null,
-        "events": [
-          {
-            "showdeeId": "2785",
-            "source": "showdee",
-            "artists": [
-              "팎",
-              "리뎀션즈",
-              "카키마젬"
-            ],
-            "location": "클럽 샤프",
-            "startTime": "2025-08-25T20:00:00",
-            "date": "2025-08-25",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211752",
-            "entry": "예매 링크"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -3345,6 +3341,52 @@
               "Stann Lumo",
               "Kerrie",
               "DAMIE (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 106806
+          },
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T23:00:00.000",
+            "endTime": "2025-09-07T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2243587",
+            "title": "Faust NACHT",
+            "location": "Faust",
+            "artists": [
+              "Kim Bo Yeon",
+              "Mars Parck",
+              "VAIBS"
+            ],
+            "source": "ra",
+            "ra_id": 106806
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T23:00:00.000",
+            "endTime": "2025-09-07T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2243415",
+            "title": "INVITES: Yavin (DE)",
+            "location": "Faust",
+            "artists": [
+              "DAMIE (KR)",
+              "Yavin",
+              "NUSNOOM",
+              "Nocturnal (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 106806
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-05T23:00:00.000",
+            "endTime": "2025-09-07T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2243587",
+            "title": "Faust NACHT",
+            "location": "Faust",
+            "artists": [
+              "Kim Bo Yeon",
+              "Mars Parck",
+              "VAIBS"
             ],
             "source": "ra",
             "ra_id": 106806
@@ -6634,7 +6676,39 @@
         "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
         "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
         "ra_id": 194402,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-30T00:00:00.000",
+            "startTime": "2025-08-30T23:00:00.000",
+            "endTime": "2025-08-31T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2243632",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Hyejin",
+              "JNS",
+              "Zoonpark"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-08-31T00:00:00.000",
+            "startTime": "2025-08-31T22:00:00.000",
+            "endTime": "2025-09-01T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2243634",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "FOI(1)",
+              "Jimin",
+              "Jirus (MELA)",
+              "Riskii (2)"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          }
+        ]
       }
     },
     {
@@ -7341,20 +7415,6 @@
         "ra_id": 155706,
         "events": [
           {
-            "showdeeId": "2784",
-            "source": "showdee",
-            "artists": [
-              "선셋온더브릿지",
-              "낙원",
-              "전기뱀장어"
-            ],
-            "location": "생기 스튜디오",
-            "startTime": "2025-08-25T20:00:00",
-            "date": "2025-08-25",
-            "eventUrl": "https://www.instagram.com/p/DNNoj0ThHfT/",
-            "entry": "예매 정보 링크"
-          },
-          {
             "showdeeId": "2830",
             "source": "showdee",
             "artists": [
@@ -7395,6 +7455,39 @@
             "date": "2025-09-13",
             "eventUrl": "https://www.instagram.com/p/DNiAPklPvTT/",
             "entry": "예매 정보 링크"
+          },
+          {
+            "date": "2025-09-07T00:00:00.000",
+            "startTime": "2025-09-07T18:00:00.000",
+            "endTime": "2025-09-09T20:30:00.000",
+            "eventUrl": "https://ra.co/events/2243408",
+            "title": "Future Sound Series #2",
+            "location": "Senggi Studio",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 155706
+          },
+          {
+            "date": "2025-09-08T00:00:00.000",
+            "startTime": "2025-09-07T18:00:00.000",
+            "endTime": "2025-09-09T20:30:00.000",
+            "eventUrl": "https://ra.co/events/2243408",
+            "title": "Future Sound Series #2",
+            "location": "Senggi Studio",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 155706
+          },
+          {
+            "date": "2025-09-09T00:00:00.000",
+            "startTime": "2025-09-07T18:00:00.000",
+            "endTime": "2025-09-09T20:30:00.000",
+            "eventUrl": "https://ra.co/events/2243408",
+            "title": "Future Sound Series #2",
+            "location": "Senggi Studio",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 155706
           }
         ]
       }
@@ -7925,7 +8018,44 @@
         "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
         "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
         "ra_id": 195346,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-29T00:00:00.000",
+            "startTime": "2025-08-29T23:00:00.000",
+            "endTime": "2025-08-30T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2243628",
+            "title": "Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "X2C (1)",
+              "Honn",
+              "HYUNHXEE",
+              "bumv",
+              "Bagagee Viphex13",
+              "CHANGYUNFLUG"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          },
+          {
+            "date": "2025-08-30T00:00:00.000",
+            "startTime": "2025-08-30T23:00:00.000",
+            "endTime": "2025-08-31T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2243630",
+            "title": "Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "X2C (1)",
+              "Kuro",
+              "Honn",
+              "JUNG(KR)",
+              "ALIVE999",
+              "bumv"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          }
+        ]
       }
     },
     {
@@ -8200,18 +8330,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1991841630",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "2786",
-            "source": "showdee",
-            "artists": [
-              "일루반"
-            ],
-            "location": "스페이스 한강",
-            "startTime": "2025-08-25T20:00:00",
-            "date": "2025-08-25",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211729",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "2793",
             "source": "showdee",
@@ -8904,7 +9022,24 @@
         "googleMaps": "https://maps.google.com/?cid=10999242426785382585",
         "naverMaps": "https://map.naver.com/p/entry/place/729345052",
         "ra_id": 155109,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T20:00:00.000",
+            "endTime": "2025-09-06T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2243659",
+            "title": "Shins & Friends at The Edge",
+            "location": "The Edge Seoul",
+            "artists": [
+              "Shins",
+              "Mindspray",
+              "Mordecai",
+              "Tab Jones"
+            ],
+            "source": "ra",
+            "ra_id": 155109
+          }
+        ]
       }
     },
     {
@@ -9120,6 +9255,22 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1512008933",
         "ra_id": 260734,
         "events": [
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T20:00:00.000",
+            "endTime": "2025-09-14T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2243677",
+            "title": "GESTALT – Tokyo Rave in Seoul",
+            "location": "UNDERCITY",
+            "artists": [
+              "EVE (1)",
+              "Lupion",
+              "Risa Taniguchi",
+              "Ryunosuke Urabe"
+            ],
+            "source": "ra",
+            "ra_id": 260734
+          },
           {
             "date": "2025-09-26T00:00:00.000",
             "startTime": "2025-09-26T21:00:00.000",
@@ -10847,6 +10998,21 @@
         "ra_id": 101673,
         "events": [
           {
+            "date": "2025-08-29T00:00:00.000",
+            "startTime": "2025-08-29T22:00:00.000",
+            "endTime": "2025-08-30T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2243432",
+            "title": "VANTA",
+            "location": "vurt.",
+            "artists": [
+              "Lisa Mizuno",
+              "Siot",
+              "chukimaandal"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
             "date": "2025-08-30T00:00:00.000",
             "startTime": "2025-08-30T23:00:00.000",
             "endTime": "2025-08-31T06:00:00.000",
@@ -10909,7 +11075,49 @@
         "googleMaps": "https://maps.google.com/?cid=17812340175984750650&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1636831236",
         "ra_id": 232385,
-        "events": []
+        "events": [
+          {
+            "date": "2025-08-29T00:00:00.000",
+            "startTime": "2025-08-29T21:00:00.000",
+            "endTime": "2025-08-31T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2243712",
+            "title": "Contact Invites: Kimmingi",
+            "location": "Contact",
+            "artists": [
+              "Kimmingi"
+            ],
+            "source": "ra",
+            "ra_id": 232385
+          },
+          {
+            "date": "2025-08-30T00:00:00.000",
+            "startTime": "2025-08-29T21:00:00.000",
+            "endTime": "2025-08-31T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2243712",
+            "title": "Contact Invites: Kimmingi",
+            "location": "Contact",
+            "artists": [
+              "Kimmingi"
+            ],
+            "source": "ra",
+            "ra_id": 232385
+          },
+          {
+            "date": "2025-08-30T00:00:00.000",
+            "startTime": "2025-08-30T21:00:00.000",
+            "endTime": "2025-08-31T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2243717",
+            "title": "Contact x Yin.Yang Project",
+            "location": "Contact",
+            "artists": [
+              "J.bin (2)",
+              "Hyunsung",
+              "Ginger"
+            ],
+            "source": "ra",
+            "ra_id": 232385
+          }
+        ]
       }
     },
     {
