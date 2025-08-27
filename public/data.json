@@ -7008,6 +7008,21 @@
           },
           {
             "date": "2025-08-30T00:00:00.000",
+            "startTime": "2025-08-30T23:00:00.000",
+            "endTime": "2025-08-31T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2243632",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Hyejin",
+              "JNS",
+              "Zoonpark"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-08-30T00:00:00.000",
             "startTime": "2025-08-29T23:00:00.000",
             "endTime": "2025-08-31T05:00:00.000",
             "eventUrl": "https://ra.co/events/2244710",
@@ -7018,21 +7033,6 @@
               "DARIMI TABLE",
               "kyogi",
               "Moeuv"
-            ],
-            "source": "ra",
-            "ra_id": 194402
-          },
-          {
-            "date": "2025-08-30T00:00:00.000",
-            "startTime": "2025-08-30T23:00:00.000",
-            "endTime": "2025-08-31T05:00:00.000",
-            "eventUrl": "https://ra.co/events/2243632",
-            "title": "Paper Seoul",
-            "location": "Paper",
-            "artists": [
-              "Hyejin",
-              "JNS",
-              "Zoonpark"
             ],
             "source": "ra",
             "ra_id": 194402
@@ -13055,7 +13055,7 @@
             "date": "2025-08-28T00:00:00.000",
             "startTime": "2025-08-28T21:00:00.000",
             "endTime": "2025-08-29T04:00:00.000",
-            "eventUrl": "https://ra.co/events/2244376",
+            "eventUrl": "https://ra.co/events/2244169",
             "title": "Grain Haus [WHAT HAVE WE DONE] Party with pH-1",
             "location": "Grain Haus",
             "artists": [
@@ -13070,7 +13070,7 @@
             "date": "2025-08-28T00:00:00.000",
             "startTime": "2025-08-28T21:00:00.000",
             "endTime": "2025-08-29T04:00:00.000",
-            "eventUrl": "https://ra.co/events/2244169",
+            "eventUrl": "https://ra.co/events/2244376",
             "title": "Grain Haus [WHAT HAVE WE DONE] Party with pH-1",
             "location": "Grain Haus",
             "artists": [
@@ -14828,6 +14828,191 @@
             "startTime": "2025-09-13T19:00:00",
             "date": "2025-09-13",
             "eventUrl": "https://www.instagram.com/p/DNrzQqGUo11/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.0830267,
+          35.1951193
+        ]
+      },
+      "properties": {
+        "name_ko": "진주문화제작소",
+        "name": "Jinju Creative Studio",
+        "address_ko": "경상남도 진주시 촉석로190번길 3",
+        "address": "3, Chokseok-ro 190beon-gil, Jinju-si, Gyeongsangnam-do, Republic of Korea",
+        "address_jibun": "경상남도 진주시 대안동 15-12",
+        "website": "https://jjct.or.kr/jcs/",
+        "kakaoMaps": "http://place.map.kakao.com/927597542",
+        "googleMaps": "https://maps.google.com/?cid=2515192759811730286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/GKUQIs1M",
+        "events": [
+          {
+            "showdeeId": "2854",
+            "source": "showdee",
+            "artists": [
+              "야자수",
+              "여유와 설빈"
+            ],
+            "location": "진주문화제작소 1층",
+            "startTime": "2025-08-30T19:00:00",
+            "date": "2025-08-30",
+            "eventUrl": "https://www.instagram.com/p/DNNQdMlyGc-/",
+            "entry": "무료 입장"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1860199,
+          36.8208858
+        ]
+      },
+      "properties": {
+        "name_ko": "리각미술관",
+        "name": "Ligak Museum",
+        "address_ko": "충청남도 천안시 동남구 태조산길 245 리각미술관",
+        "address": "245, Taejosan-gil, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea",
+        "address_jibun": "충청남도 천안시 동남구 유량동 4-1 리각미술관",
+        "website": "http://ligakmuseum.co.kr/",
+        "kakaoMaps": "http://place.map.kakao.com/11785998",
+        "googleMaps": "https://maps.google.com/?cid=11741565094073460728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/Gj6XlHuw",
+        "events": [
+          {
+            "showdeeId": "2882",
+            "source": "showdee",
+            "artists": [
+              "옥상달빛",
+              "장들레"
+            ],
+            "location": "천안 리각미술관",
+            "startTime": "2025-08-31T19:00:00",
+            "date": "2025-08-31",
+            "eventUrl": "https://www.instagram.com/p/DNwpT9Q5hns/",
+            "entry": "무료 입장"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9827238,
+          37.5790931
+        ]
+      },
+      "properties": {
+        "name_ko": "전북도립미술관 서울분관",
+        "name": "Jeonbuk Museum of Art Seoul Branch",
+        "address_ko": "서울특별시 종로구 율곡로3길 74-9 1층",
+        "address": "74-9, Yulgok-ro 3-gil, Jongno-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 종로구 화동 137-1 1층",
+        "website": "http://www.jma.go.kr/",
+        "kakaoMaps": "http://place.map.kakao.com/11991801",
+        "googleMaps": "https://maps.google.com/?cid=12327075314686465222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/G8s4Syj8",
+        "events": [
+          {
+            "showdeeId": "2889",
+            "source": "showdee",
+            "artists": [
+              "사바하",
+              "지수",
+              "콘트라젤리",
+              "최미루"
+            ],
+            "location": "전북도립미술관 서울분관 앞마당",
+            "startTime": "2025-09-04T18:00:00",
+            "date": "2025-09-04",
+            "eventUrl": "https://www.instagram.com/p/DNz-p3tYj4a/",
+            "entry": "버스킹"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.257683644442,
+          36.490513950074
+        ]
+      },
+      "properties": {
+        "name_ko": "아트밸리",
+        "name": "Art Valley",
+        "address_ko": "세종특별자치시 나성로 133-15",
+        "address": "133-15, Naseong-ro, Sejong-si, Republic of Korea",
+        "address_jibun": "세종특별자치시 나성동 791",
+        "website": "https://cafe.naver.com/sejongbandstudio/28875",
+        "instagram": "https://www.instagram.com/sejongband/",
+        "kakaoMaps": "http://place.map.kakao.com/2055186130",
+        "googleMaps": "https://maps.google.com/?cid=16431213813076676403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/xAFyF3mj",
+        "events": [
+          {
+            "showdeeId": "3023",
+            "source": "showdee",
+            "artists": [
+              "세이트",
+              "매니악킹즈",
+              "원오프",
+              "레미디",
+              "브라운스톤",
+              "무단외박"
+            ],
+            "location": "세종시 아트밸리",
+            "startTime": "2025-09-27T17:30:00",
+            "date": "2025-09-27",
+            "eventUrl": "https://www.instagram.com/p/DNxj8jN5omP/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9900498,
+          37.5697051
+        ]
+      },
+      "properties": {
+        "name_ko": "국일관성인콜라텍",
+        "name": "Gukilgwan Adult Colatheque",
+        "address_ko": "서울특별시 종로구 수표로 96 9층 국일관성인콜라텍",
+        "address": "96, Supyo-ro, Jongno-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 종로구 관수동 20 9층 국일관성인콜라텍",
+        "kakaoMaps": "http://place.map.kakao.com/10140128",
+        "googleMaps": "https://maps.google.com/?cid=8680573584811084070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/GUwec5Ag",
+        "events": [
+          {
+            "showdeeId": "3041",
+            "source": "showdee",
+            "artists": [
+              "신바람 이박사"
+            ],
+            "location": "콜라텍 국일관",
+            "startTime": "2025-11-29T18:30:00",
+            "date": "2025-11-29",
+            "eventUrl": "https://www.instagram.com/p/DNxbf6rZJsP/?img_index=1",
             "entry": "예매 정보 링크"
           }
         ]
