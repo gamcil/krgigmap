@@ -197,7 +197,35 @@
         "googleMaps": "https://maps.google.com/?cid=16875159901163087725",
         "naverMaps": "https://map.naver.com/p/entry/place/1370859601",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T23:00:00.000",
+            "endTime": "2025-09-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250313",
+            "title": "FFF",
+            "location": "FFF",
+            "artists": [
+              "Sebibadboy",
+              "Jenna"
+            ],
+            "source": "ra"
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T23:00:00.000",
+            "endTime": "2025-09-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250312",
+            "title": "Opening",
+            "location": "FFF",
+            "artists": [
+              "Psyche",
+              "Moeuv",
+              "Stayshay"
+            ],
+            "source": "ra"
+          }
+        ]
       }
     },
     {
@@ -282,6 +310,39 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1123909060",
         "ra_id": 198937,
         "events": [
+          {
+            "date": "2025-09-03T00:00:00.000",
+            "startTime": "2025-09-03T22:00:00.000",
+            "endTime": "2025-09-04T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2249145",
+            "title": "BOLERO: MICHAEL JAEJOON KIM",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T22:00:00.000",
+            "endTime": "2025-09-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2249146",
+            "title": "BOLERO: sexy • cult",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T22:00:00.000",
+            "endTime": "2025-09-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2249148",
+            "title": "BOLERO: PLUG&PLAY",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
           {
             "date": "2025-09-18T00:00:00.000",
             "startTime": "2025-09-18T22:00:00.000",
@@ -2287,21 +2348,7 @@
         "googleMaps": "https://maps.google.com/?cid=13202505711601239838",
         "naverMaps": "https://map.naver.com/p/entry/place/1797356132",
         "ra_id": null,
-        "events": [
-          {
-            "showdeeId": "2889",
-            "source": "showdee",
-            "artists": [
-              "한받",
-              "JDHD"
-            ],
-            "location": "범골커피",
-            "startTime": "2025-09-02T19:30:00",
-            "date": "2025-09-02",
-            "eventUrl": "https://www.instagram.com/p/DNqGeCmyyfF/",
-            "entry": "현장 예매"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -4748,7 +4795,26 @@
         "googleMaps": "https://maps.google.com/?cid=11881259354384405760",
         "naverMaps": "https://map.naver.com/p/entry/place/19882507",
         "ra_id": 105806,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T23:00:00.000",
+            "endTime": "2025-09-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250302",
+            "title": "JJ Mahoney‘s Night",
+            "location": "J.J. Mahoney's Bar",
+            "artists": [
+              "HYUNHXEE",
+              "Liu Lee",
+              "llama (1)",
+              "SVRS",
+              "Multivsn",
+              "KINDA"
+            ],
+            "source": "ra",
+            "ra_id": 105806
+          }
+        ]
       }
     },
     {
@@ -7890,6 +7956,24 @@
         "ra_id": 204286,
         "events": [
           {
+            "date": "2025-09-03T00:00:00.000",
+            "startTime": "2025-09-03T22:00:00.000",
+            "endTime": "2025-09-04T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2250283",
+            "title": "3393",
+            "location": "Stoked&stoned",
+            "artists": [
+              "SRL (1)",
+              "Irene",
+              "Honn",
+              "Gyusco",
+              "Gumi",
+              "Xena"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
             "date": "2025-09-04T00:00:00.000",
             "startTime": "2025-09-04T20:00:00.000",
             "endTime": "2025-09-05T03:00:00.000",
@@ -7902,6 +7986,51 @@
               "Ligrye",
               "HYUNHXEE",
               "T.T.E"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T22:00:00.000",
+            "endTime": "2025-09-06T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2250284",
+            "title": "Stoked&Stoned",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Jiwoo",
+              "Youngseok",
+              "DJ Botermelk",
+              "Gyusco"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T22:00:00.000",
+            "endTime": "2025-09-07T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2250285",
+            "title": "Stoked&Stoned",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Radiofear",
+              "ISLAND",
+              "Ryota (JP)"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-09-07T00:00:00.000",
+            "startTime": "2025-09-07T22:00:00.000",
+            "endTime": "2025-09-08T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2250286",
+            "title": "Stoked&Stoned",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Othervision",
+              "Jucid"
             ],
             "source": "ra",
             "ra_id": 204286
@@ -9124,7 +9253,22 @@
         "googleMaps": "https://maps.google.com/?cid=8117447550621285429",
         "naverMaps": "https://map.naver.com/p/entry/place/1421929019",
         "ra_id": 244076,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T23:00:00.000",
+            "endTime": "2025-09-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250296",
+            "title": "TCC Open Air",
+            "location": "TCC Seoul",
+            "artists": [
+              "DARIMI TABLE",
+              "Jetset Trash"
+            ],
+            "source": "ra",
+            "ra_id": 244076
+          }
+        ]
       }
     },
     {
@@ -9322,7 +9466,32 @@
         "googleMaps": "https://maps.google.com/?cid=6115104111454704340",
         "naverMaps": "https://map.naver.com/p/entry/place/1588457550",
         "ra_id": 128746,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T23:00:00.000",
+            "endTime": "2025-09-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250306",
+            "title": "BABY PARTY by KIMSFRUITS",
+            "location": "The Henz Club",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 128746
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T23:00:00.000",
+            "endTime": "2025-09-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250307",
+            "title": "’corny plots‘ Release Party",
+            "location": "The Henz Club",
+            "artists": [
+              "Multivsn"
+            ],
+            "source": "ra",
+            "ra_id": 128746
+          }
+        ]
       }
     },
     {
@@ -11415,6 +11584,36 @@
             ],
             "source": "ra",
             "ra_id": 262068
+          },
+          {
+            "date": "2025-09-12T00:00:00.000",
+            "startTime": "2025-09-12T23:59:00.000",
+            "endTime": "2025-09-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2249784",
+            "title": "Hertz 헤르츠: *Time Illusion* with XIAOLIN, Soyo, Jucid",
+            "location": "Hertz",
+            "artists": [
+              "XIAOLIN",
+              "Soyo",
+              "Jucid"
+            ],
+            "source": "ra",
+            "ra_id": 262068
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T23:59:00.000",
+            "endTime": "2025-09-14T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2249836",
+            "title": "Hertz 헤르츠 meets: Zwi (VN, Savage) Jimin Jesse You",
+            "location": "Hertz",
+            "artists": [
+              "Zwi",
+              "Jesse You",
+              "Jimin"
+            ],
+            "source": "ra",
+            "ra_id": 262068
           }
         ]
       }
@@ -11537,7 +11736,32 @@
         "kakaoMaps": "http://place.map.kakao.com/1033496753",
         "naverMaps": "https://naver.me/x67YuiyR",
         "ra_id": 198699,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T22:00:00.000",
+            "endTime": "2025-09-06T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2249634",
+            "title": "DEEP GROOVE",
+            "location": "Melt",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198699
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T22:00:00.000",
+            "endTime": "2025-09-07T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2249639",
+            "title": "DUDE GATHERING",
+            "location": "Melt",
+            "artists": [
+              "G1KIM"
+            ],
+            "source": "ra",
+            "ra_id": 198699
+          }
+        ]
       }
     },
     {
@@ -11825,7 +12049,45 @@
         "instagram": "https://www.instagram.com/timesapgu",
         "kakaoMaps": "http://place.map.kakao.com/1413392414",
         "ra_id": 218481,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-04T00:00:00.000",
+            "startTime": "2025-09-04T23:00:00.000",
+            "endTime": "2025-09-05T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250298",
+            "title": "TIMES",
+            "location": "Times",
+            "artists": [
+              "SKiiDA",
+              "Austen",
+              "Daul"
+            ],
+            "source": "ra",
+            "ra_id": 218481
+          },
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T22:00:00.000",
+            "endTime": "2025-09-06T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2250299",
+            "title": "TIMES",
+            "location": "Times",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 218481
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T23:00:00.000",
+            "endTime": "2025-09-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250300",
+            "title": "TIMES",
+            "location": "Times",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 218481
+          }
+        ]
       }
     },
     {
@@ -11956,7 +12218,35 @@
         "instagram": "https://www.instagram.com/evening.seoul/",
         "googleMaps": "https://maps.app.goo.gl/6JKbzBmdsZjViK9cA",
         "ra_id": 268137,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T23:00:00.000",
+            "endTime": "2025-09-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250310",
+            "title": "Evening",
+            "location": "Evening",
+            "artists": [
+              "Yeonju"
+            ],
+            "source": "ra",
+            "ra_id": 268137
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T22:00:00.000",
+            "endTime": "2025-09-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250311",
+            "title": "Evening",
+            "location": "Evening",
+            "artists": [
+              "givogi",
+              "Kihm"
+            ],
+            "source": "ra",
+            "ra_id": 268137
+          }
+        ]
       }
     },
     {
@@ -12136,7 +12426,44 @@
         "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/xY4sFFgP",
         "ra_id": 267778,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T21:00:00.000",
+            "endTime": "2025-09-07T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2249456",
+            "title": "Waikiki Utopia 'GLOW SEASON'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "Advanced (SK)",
+              "H93 (KR)",
+              "TERRA (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "SKY (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-05T21:00:00.000",
+            "endTime": "2025-09-07T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2249456",
+            "title": "Waikiki Utopia 'GLOW SEASON'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "Advanced (SK)",
+              "H93 (KR)",
+              "TERRA (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "SKY (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          }
+        ]
       }
     },
     {
@@ -12605,7 +12932,21 @@
           228419,
           228099
         ],
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-25T00:00:00.000",
+            "startTime": "2025-09-25T20:00:00.000",
+            "endTime": "2025-09-25T23:59:00.000",
+            "eventUrl": "https://ra.co/events/2249491",
+            "title": "THURSDAY_8PM (VINYL SET)",
+            "location": "Ximxim Bar",
+            "artists": [
+              "Beejay"
+            ],
+            "source": "ra",
+            "ra_id": 228419
+          }
+        ]
       }
     },
     {
@@ -12783,7 +13124,64 @@
         "googleMaps": "https://maps.google.com/?cid=17409967961621911697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/xQehWCOQ",
         "ra_id": 202409,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-03T00:00:00.000",
+            "startTime": "2025-09-03T23:00:00.000",
+            "endTime": "2025-09-04T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250291",
+            "title": "WWF Artwork Programme",
+            "location": "Kockiri",
+            "artists": [
+              "Taelyn",
+              "Nosaj Thing",
+              "Minkyu"
+            ],
+            "source": "ra",
+            "ra_id": 202409
+          },
+          {
+            "date": "2025-09-04T00:00:00.000",
+            "startTime": "2025-09-04T23:00:00.000",
+            "endTime": "2025-09-05T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250292",
+            "title": "Kockiri",
+            "location": "Kockiri",
+            "artists": [
+              "Wang Tough",
+              "Xing Xing"
+            ],
+            "source": "ra",
+            "ra_id": 202409
+          },
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T23:00:00.000",
+            "endTime": "2025-09-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250293",
+            "title": "사랑과 전쟁: L.A.W",
+            "location": "Kockiri",
+            "artists": [
+              "Bolm",
+              "Uni (3)"
+            ],
+            "source": "ra",
+            "ra_id": 202409
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T23:00:00.000",
+            "endTime": "2025-09-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250294",
+            "title": "Seaamus Haji",
+            "location": "Kockiri",
+            "artists": [
+              "Radio Revolution"
+            ],
+            "source": "ra",
+            "ra_id": 202409
+          }
+        ]
       }
     },
     {
