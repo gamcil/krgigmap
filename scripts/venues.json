@@ -4212,20 +4212,18 @@
     "_dir": "253_서울_리벤지_revenge"
   },
   {
-    "name": "Rabbithole Arcade Pub",
+    "name": "Rabbithole",
     "address": "Seoul, Yongsan District, Sinheung-ro, 37 지하 1층",
     "lat": 37.5417998,
     "lng": 126.98720329999999,
-    "website": "",
     "googleMaps": "https://maps.google.com/?cid=7208182087092707373",
-    "ra_id": 249959,
+    "ra_id": [249959, 273276],
     "name_ko": "래빗홀",
     "address_ko": "서울 용산구 신흥로 37",
-    "kakaoMaps": "http://place.map.kakao.com/855948628",
     "address_jibun": "서울 용산구 용산동2가 39-17",
     "instagram": "https://www.instagram.com/rabbithole_hbc/",
-    "naverMaps": "https://map.naver.com/p/entry/place/1784814732",
-    "_dir": "212_서울_래빗홀_rabbitholearcadepub"
+    "kakaoMaps": "http://place.map.kakao.com/855948628",
+    "naverMaps": "https://map.naver.com/p/entry/place/1784814732"
   },
   {
     "name": "Redroom",
@@ -8425,6 +8423,128 @@
       "국일관성인콜라텍",
       "국일관노래방",
       "콜라텍 국일관"
+    ]
+  },
+  {
+    "name": "Gwangalli Meeting Square",
+    "name_ko": "광안리 만남의광장",
+    "address": "29, Millak-ro 6beon-gil, Suyeong-gu, Busan, Republic of Korea",
+    "address_ko": "부산광역시 수영구 민락로6번길 29",
+    "address_jibun": "부산광역시 수영구 민락동 192-7",
+    "lat": 35.1541232,
+    "lng": 129.119743,
+    "kakaoMaps": "http://place.map.kakao.com/2074337020",
+    "naverMaps": "https://naver.me/FRLRFEE1",
+    "alias": [
+      "광안리 만남의광장",
+      "광안리만남의광장",
+      "광안리 만남의 광장"
+    ]
+  },
+  {
+    "name": "Walden Samgeori",
+    "name_ko": "월든삼거리",
+    "address": "190, Gimpohangang 9-ro 75beon-gil, Gimpo-si, Gyeonggi-do, Republic of Korea",
+    "address_ko": "경기도 김포시 김포한강9로75번길 190 이너매스한강 3층 309호",
+    "address_jibun": "경기도 김포시 구래동 6882-5 이너매스한강 3층 309호",
+    "lat": 37.6448127,
+    "lng": 126.6249,
+    "instagram": "https://www.instagram.com/walden_samgeori",
+    "naverMaps": "https://naver.me/58NfisQm",
+    "kakaoMaps": "http://place.map.kakao.com/1840248202",
+    "alias": [
+      "월든삼거리",
+      "김포 월든삼거리"
+    ]
+  },
+  {
+    "name": "FFF",
+    "name_ko": "FFF",
+    "ra_id": 272983,
+    "address": "7, Hangang-daero 54-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 한강대로54길 7 3층",
+    "address_jibun": "서울특별시 용산구 한강로1가 231-19 3층",
+    "lat": 37.5328467,
+    "lng": 126.9720577,
+    "googleMaps": "https://maps.google.com/?cid=15446392049390047283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "naverMaps": "https://naver.me/xNnWSr1s",
+    "kakaoMaps": "http://place.map.kakao.com/1867672574",
+    "alias": [
+      "FFF",
+      "fff"
+    ],
+    "instagram": "https://www.instagram.com/fff_samgakji"
+  },
+  {
+    "name": "Tilt",
+    "name_ko": "틸트",
+    "ra_id": 273434,
+    "address": "10, Yeonhui-ro 1-gil, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 연희로1길 10 지1층",
+    "address_jibun": "서울특별시 마포구 동교동 113-90 지1층",
+    "lat": 37.5597758,
+    "lng": 126.9259674,
+    "kakaoMaps": "http://place.map.kakao.com/1084798121",
+    "naverMaps": "https://naver.me/GGCmKH6d",
+    "instagram": "https://www.instagram.com/tiltxfnst",
+    "alias": [
+      "틸트",
+      "tiltxfnst"
+    ]
+  },
+  {
+    "name": "Kompakt Record Bar",
+    "name_ko": "콤팩트 레코드바",
+    "ra_id": 164927,
+    "address": "46, Dosan-daero 25-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 강남구 도산대로25길 46 1층",
+    "address_jibun": "서울특별시 강남구 신사동 566-1 1층",
+    "lat": 37.5225006,
+    "lng": 127.0259898,
+    "website": "http://kompakt.kr/",
+    "instagram": "https://www.instagram.com/kompaktrecordbar",
+    "googleMaps": "https://maps.google.com/?cid=16631991733874219710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "naverMaps": "https://naver.me/xX7OQr35",
+    "kakaoMaps": "http://place.map.kakao.com/1173351342",
+    "alias": [
+      "Kompakt Record Bar",
+      "콤팩트 레코드바",
+      "kompakt"
+    ]
+  },
+  {
+    "name": "Hard Material",
+    "name_ko": "하드마테리얼",
+    "address": "102, Donggyo-ro, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 동교로 102 1층 102호",
+    "address_jibun": "서울특별시 마포구 서교동 480-24 1층 102호",
+    "lat": 37.5543916,
+    "lng": 126.9133672,
+    "instagram": "https://www.instagram.com/hardmaterialseoul/",
+    "googleMaps": "https://maps.google.com/?cid=10915696228571640575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "naverMaps": "https://naver.me/FK00IsJM",
+    "kakaoMaps": "http://place.map.kakao.com/335970359",
+    "alias": [
+      "하드마테리얼",
+      "Hard material",
+      "하드마테리얼"
+    ]
+  },
+  {
+    "name": "The Air House Beach Terrace",
+    "name_ko": "디에어하우스 비치테라스",
+    "ra_id": 157732,
+    "address": "900, Haean-ro, Sacheon-myeon, Gangneung-si, Gangwon-do, Republic of Korea",
+    "address_ko": "강원특별자치도 강릉시 사천면 해안로 900 1층",
+    "address_jibun": "강원특별자치도 강릉시 사천면 방동리 111 1층",
+    "lat": 37.8310817,
+    "lng": 128.8769121,
+    "instagram": "https://www.instagram.com/theairhouse_beachterrace/",
+    "naverMaps": "https://naver.me/xBwHJR6P",
+    "kakaoMaps": "http://place.map.kakao.com/505727862",
+    "alias": [
+      "디에어 하우스 비치테라스",
+      "디에어하우스 비치테라스"
     ]
   }
 ]

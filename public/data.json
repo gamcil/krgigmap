@@ -7661,17 +7661,33 @@
       },
       "properties": {
         "name_ko": "래빗홀",
-        "name": "Rabbithole Arcade Pub",
+        "name": "Rabbithole",
         "address_ko": "서울 용산구 신흥로 37",
         "address": "Seoul, Yongsan District, Sinheung-ro, 37 지하 1층",
         "address_jibun": "서울 용산구 용산동2가 39-17",
-        "website": "",
         "instagram": "https://www.instagram.com/rabbithole_hbc/",
         "kakaoMaps": "http://place.map.kakao.com/855948628",
         "googleMaps": "https://maps.google.com/?cid=7208182087092707373",
         "naverMaps": "https://map.naver.com/p/entry/place/1784814732",
-        "ra_id": 249959,
-        "events": []
+        "ra_id": [
+          249959,
+          273276
+        ],
+        "events": [
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T20:00:00.000",
+            "endTime": "2025-09-07T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2248822",
+            "title": "FLUIDICA x SATURSLAY: Vol XIII",
+            "location": "Hole HBC",
+            "artists": [
+              "Akudama"
+            ],
+            "source": "ra",
+            "ra_id": 273276
+          }
+        ]
       }
     },
     {
@@ -13440,7 +13456,13 @@
             "eventUrl": "https://ra.co/events/2246064",
             "title": "EUSEXUA SEOUL",
             "location": "Grain Haus",
-            "artists": [],
+            "artists": [
+              "FKA twigs",
+              "Kitty",
+              "Mount XLR",
+              "Daul",
+              "Joon Kwak"
+            ],
             "source": "ra",
             "ra_id": 269802
           }
@@ -15131,6 +15153,326 @@
             "date": "2025-11-29",
             "eventUrl": "https://www.instagram.com/p/DNxbf6rZJsP/?img_index=1",
             "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.119743,
+          35.1541232
+        ]
+      },
+      "properties": {
+        "name_ko": "광안리 만남의광장",
+        "name": "Gwangalli Meeting Square",
+        "address_ko": "부산광역시 수영구 민락로6번길 29",
+        "address": "29, Millak-ro 6beon-gil, Suyeong-gu, Busan, Republic of Korea",
+        "address_jibun": "부산광역시 수영구 민락동 192-7",
+        "kakaoMaps": "http://place.map.kakao.com/2074337020",
+        "naverMaps": "https://naver.me/FRLRFEE1",
+        "events": [
+          {
+            "showdeeId": "2915",
+            "source": "showdee",
+            "artists": [
+              "2025 민락 페스타"
+            ],
+            "location": "광안리 만남의 광장",
+            "startTime": "2025-09-06T14:00:00",
+            "date": "2025-09-06",
+            "eventUrl": "https://www.instagram.com/p/DN0DGM8SGK7/",
+            "entry": "무료 입장"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6249,
+          37.6448127
+        ]
+      },
+      "properties": {
+        "name_ko": "월든삼거리",
+        "name": "Walden Samgeori",
+        "address_ko": "경기도 김포시 김포한강9로75번길 190 이너매스한강 3층 309호",
+        "address": "190, Gimpohangang 9-ro 75beon-gil, Gimpo-si, Gyeonggi-do, Republic of Korea",
+        "address_jibun": "경기도 김포시 구래동 6882-5 이너매스한강 3층 309호",
+        "instagram": "https://www.instagram.com/walden_samgeori",
+        "kakaoMaps": "http://place.map.kakao.com/1840248202",
+        "naverMaps": "https://naver.me/58NfisQm",
+        "events": [
+          {
+            "showdeeId": "3087",
+            "source": "showdee",
+            "artists": [
+              "김두수"
+            ],
+            "location": "김포 월든삼거리",
+            "startTime": "2025-09-23T20:00:00",
+            "date": "2025-09-23",
+            "eventUrl": "https://blog.naver.com/kbollin/223981959809",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9720577,
+          37.5328467
+        ]
+      },
+      "properties": {
+        "name_ko": "FFF",
+        "name": "FFF",
+        "address_ko": "서울특별시 용산구 한강대로54길 7 3층",
+        "address": "7, Hangang-daero 54-gil, Yongsan-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 용산구 한강로1가 231-19 3층",
+        "instagram": "https://www.instagram.com/fff_samgakji",
+        "kakaoMaps": "http://place.map.kakao.com/1867672574",
+        "googleMaps": "https://maps.google.com/?cid=15446392049390047283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/xNnWSr1s",
+        "ra_id": 272983,
+        "events": [
+          {
+            "date": "2025-09-05T00:00:00.000",
+            "startTime": "2025-09-05T23:00:00.000",
+            "endTime": "2025-09-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250313",
+            "title": "FFF",
+            "location": "FFF",
+            "artists": [
+              "Sebibadboy",
+              "Jenna"
+            ],
+            "source": "ra",
+            "ra_id": 272983
+          },
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T23:00:00.000",
+            "endTime": "2025-09-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250312",
+            "title": "Opening",
+            "location": "FFF",
+            "artists": [
+              "Psyche",
+              "Moeuv",
+              "Stayshay"
+            ],
+            "source": "ra",
+            "ra_id": 272983
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9259674,
+          37.5597758
+        ]
+      },
+      "properties": {
+        "name_ko": "틸트",
+        "name": "Tilt",
+        "address_ko": "서울특별시 마포구 연희로1길 10 지1층",
+        "address": "10, Yeonhui-ro 1-gil, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 동교동 113-90 지1층",
+        "instagram": "https://www.instagram.com/tiltxfnst",
+        "kakaoMaps": "http://place.map.kakao.com/1084798121",
+        "naverMaps": "https://naver.me/GGCmKH6d",
+        "ra_id": 273434,
+        "events": [
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T20:00:00.000",
+            "endTime": "2025-09-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250324",
+            "title": "ALC_LIVE_Session : Yoosin Kim & Vegetable Wife — Straight Hairs’ Patches",
+            "location": "Tiltxfnst",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 273434
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0259898,
+          37.5225006
+        ]
+      },
+      "properties": {
+        "name_ko": "콤팩트 레코드바",
+        "name": "Kompakt Record Bar",
+        "address_ko": "서울특별시 강남구 도산대로25길 46 1층",
+        "address": "46, Dosan-daero 25-gil, Gangnam-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 강남구 신사동 566-1 1층",
+        "website": "http://kompakt.kr/",
+        "instagram": "https://www.instagram.com/kompaktrecordbar",
+        "kakaoMaps": "http://place.map.kakao.com/1173351342",
+        "googleMaps": "https://maps.google.com/?cid=16631991733874219710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/xX7OQr35",
+        "ra_id": 164927,
+        "events": [
+          {
+            "date": "2025-09-06T00:00:00.000",
+            "startTime": "2025-09-06T23:00:00.000",
+            "endTime": "2025-09-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250342",
+            "title": "Kompakt Record Bar",
+            "location": "Kompakt Record Bar",
+            "artists": [
+              "Kango",
+              "ROOF"
+            ],
+            "source": "ra",
+            "ra_id": 164927
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9133672,
+          37.5543916
+        ]
+      },
+      "properties": {
+        "name_ko": "하드마테리얼",
+        "name": "Hard Material",
+        "address_ko": "서울특별시 마포구 동교로 102 1층 102호",
+        "address": "102, Donggyo-ro, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 서교동 480-24 1층 102호",
+        "instagram": "https://www.instagram.com/hardmaterialseoul/",
+        "kakaoMaps": "http://place.map.kakao.com/335970359",
+        "googleMaps": "https://maps.google.com/?cid=10915696228571640575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/FK00IsJM",
+        "events": [
+          {
+            "date": "2025-09-11T00:00:00.000",
+            "startTime": "2025-09-11T23:00:00.000",
+            "endTime": "2025-09-12T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250529",
+            "title": "GRAND OPENING",
+            "location": "Hard Materials",
+            "artists": [],
+            "source": "ra"
+          },
+          {
+            "date": "2025-09-12T00:00:00.000",
+            "startTime": "2025-09-12T23:00:00.000",
+            "endTime": "2025-09-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250530",
+            "title": "Hard Materials",
+            "location": "Hard Materials",
+            "artists": [
+              "Reverie",
+              "Hangman"
+            ],
+            "source": "ra"
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T23:00:00.000",
+            "endTime": "2025-09-14T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250531",
+            "title": "Hard Materials",
+            "location": "Hard Materials",
+            "artists": [
+              "JI Soo"
+            ],
+            "source": "ra"
+          },
+          {
+            "date": "2025-09-14T00:00:00.000",
+            "startTime": "2025-09-14T23:00:00.000",
+            "endTime": "2025-09-15T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2250532",
+            "title": "Zine Launch",
+            "location": "Hard Materials",
+            "artists": [],
+            "source": "ra"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8769121,
+          37.8310817
+        ]
+      },
+      "properties": {
+        "name_ko": "디에어하우스 비치테라스",
+        "name": "The Air House Beach Terrace",
+        "address_ko": "강원특별자치도 강릉시 사천면 해안로 900 1층",
+        "address": "900, Haean-ro, Sacheon-myeon, Gangneung-si, Gangwon-do, Republic of Korea",
+        "address_jibun": "강원특별자치도 강릉시 사천면 방동리 111 1층",
+        "instagram": "https://www.instagram.com/theairhouse_beachterrace/",
+        "kakaoMaps": "http://place.map.kakao.com/505727862",
+        "naverMaps": "https://naver.me/xBwHJR6P",
+        "ra_id": 157732,
+        "events": [
+          {
+            "date": "2025-09-12T00:00:00.000",
+            "startTime": "2025-09-12T14:00:00.000",
+            "endTime": "2025-09-14T14:00:00.000",
+            "eventUrl": "https://ra.co/events/2251410",
+            "title": "Tortuga Bus Raving",
+            "location": "The Air House",
+            "artists": [
+              "Gumi",
+              "JAMIEST",
+              "KYO (2)",
+              "OENN",
+              "Slowmouth",
+              "Tellme"
+            ],
+            "source": "ra",
+            "ra_id": 157732
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-12T14:00:00.000",
+            "endTime": "2025-09-14T14:00:00.000",
+            "eventUrl": "https://ra.co/events/2251410",
+            "title": "Tortuga Bus Raving",
+            "location": "The Air House",
+            "artists": [
+              "Gumi",
+              "JAMIEST",
+              "KYO (2)",
+              "OENN",
+              "Slowmouth",
+              "Tellme"
+            ],
+            "source": "ra",
+            "ra_id": 157732
           }
         ]
       }
