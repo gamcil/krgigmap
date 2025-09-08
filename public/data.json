@@ -5093,7 +5093,7 @@
         ]
       },
       "properties": {
-        "name_ko": "중구문화의전당 함월홀",
+        "name_ko": "중구문화의전당",
         "name": "Junggu Arts Center",
         "address_ko": "울산 중구 종가로 405",
         "address": "405 Jongga-ro, Jung-gu, Ulsan",
@@ -5103,7 +5103,23 @@
         "googleMaps": "https://maps.google.com/?cid=15171536325763286589",
         "naverMaps": "https://map.naver.com/p/entry/place/1078688695",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3114",
+            "source": "showdee",
+            "artists": [
+              "까치산",
+              "크리스피",
+              "김승주",
+              "극동아시아타이거즈"
+            ],
+            "location": "울산 중구 문화의전당 야외 잔디마당",
+            "startTime": "2025-09-24T19:30:00",
+            "date": "2025-09-24",
+            "eventUrl": "https://www.instagram.com/p/DONXbtVkpTH/",
+            "entry": "무료 사전 신청"
+          }
+        ]
       }
     },
     {
@@ -11914,25 +11930,7 @@
         "instagram": "https://www.instagram.com/casacoronaseoul",
         "kakaoMaps": "http://place.map.kakao.com/1974912405",
         "ra_id": 177268,
-        "events": [
-          {
-            "date": "2025-09-19T00:00:00.000",
-            "startTime": "2025-09-19T23:00:00.000",
-            "endTime": "2025-09-20T06:00:00.000",
-            "eventUrl": "https://ra.co/events/2250335",
-            "title": "ORANGE CLUB",
-            "location": "Casa Corona Seoul",
-            "artists": [
-              "Bagagee Viphex13",
-              "Better",
-              "Claire",
-              "Fur Coat",
-              "Hogi"
-            ],
-            "source": "ra",
-            "ra_id": 177268
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -14166,6 +14164,110 @@
             ],
             "source": "ra",
             "ra_id": 157732
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.11080682062,
+          37.3201178580642
+        ]
+      },
+      "properties": {
+        "name_ko": "옐로우서브마린",
+        "name": "Yellow Submarine",
+        "address_ko": "경기 용인시 기흥구 죽전로 20",
+        "address": "20, Jukjeon-ro, Giheung-gu, Yongin-si, Gyeonggi-do, Republic of Korea",
+        "address_jibun": "경기 용인시 기흥구 보정동 1263",
+        "instagram": "https://www.instagram.com/yellow_submarine_lpbar/",
+        "kakaoMaps": "http://place.map.kakao.com/16515297",
+        "googleMaps": "https://maps.google.com/?cid=5529464876390019996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/5apQ5tjY",
+        "events": [
+          {
+            "showdeeId": "2982",
+            "source": "showdee",
+            "artists": [
+              "후맵네"
+            ],
+            "location": "용인 옐로서브마린",
+            "startTime": "2025-09-12T20:00:00",
+            "date": "2025-09-12",
+            "eventUrl": "https://www.instagram.com/p/DOSrRFJEiYe/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2807169,
+          37.4185671
+        ]
+      },
+      "properties": {
+        "name_ko": "캠핑어스717",
+        "name": "Camping Us 717",
+        "address_ko": "경기도 광주시 초월읍 현산로385번길 23",
+        "address": "23, Hyeonsan-ro 385beon-gil, Chowol-eup, Gwangju-si, Gyeonggi-do, Republic of Korea",
+        "address_jibun": "경기도 광주시 초월읍 지월리 716-1",
+        "instagram": "https://www.instagram.com/camping.us.717",
+        "kakaoMaps": "http://place.map.kakao.com/1160431641",
+        "googleMaps": "https://maps.google.com/?cid=12098628180755467014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "naverMaps": "https://naver.me/Fw7iPRGv",
+        "events": [
+          {
+            "showdeeId": "3133",
+            "source": "showdee",
+            "artists": [
+              "해서웨이"
+            ],
+            "location": "캠핑어스717",
+            "startTime": "2025-09-27T17:00:00",
+            "date": "2025-09-27",
+            "eventUrl": "https://www.instagram.com/p/DOLPb8SkUM9/",
+            "entry": "무료 사전 신청"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9141066,
+          37.5828545
+        ]
+      },
+      "properties": {
+        "name_ko": "홈숍집",
+        "name": "Home.Shop.Zip",
+        "address_ko": "서울특별시 서대문구 응암로 116-5 1층",
+        "address": "116-5, Eungam-ro, Seodaemun-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 서대문구 북가좌동 278-8 1층",
+        "instagram": "https://www.instagram.com/home.shop.zip_kr",
+        "kakaoMaps": "https://place.map.kakao.com/1591545061",
+        "naverMaps": "https://naver.me/55r9E2T6",
+        "events": [
+          {
+            "showdeeId": "3156",
+            "source": "showdee",
+            "artists": [
+              "베리코이버니"
+            ],
+            "location": "홈숍집",
+            "startTime": "2025-09-28T19:00:00",
+            "date": "2025-09-28",
+            "eventUrl": "https://www.instagram.com/p/DONH2UtE1gE/",
+            "entry": "예매 정보 링크"
           }
         ]
       }

@@ -2834,9 +2834,10 @@
   },
   {
     "name": "Junggu Arts Center",
-    "name_ko": "중구문화의전당 함월홀",
+    "name_ko": "중구문화의전당",
     "alias": [
-      "울산 중구문화의전당 함월홀"
+      "울산 중구문화의전당 함월홀",
+      "울산 중구 문화의전당 야외 잔디마당"
     ],
     "address_ko": "울산 중구 종가로 405",
     "address_jibun": "울산 중구 성안동 244",
@@ -2847,8 +2848,7 @@
     "ra_id": null,
     "address": "405 Jongga-ro, Jung-gu, Ulsan",
     "website": "https://artscenter.junggu.ulsan.kr/03_Menu/03.do",
-    "naverMaps": "https://map.naver.com/p/entry/place/1078688695",
-    "_dir": "131_울산_중구문화의전당함월홀_jungguartscenter"
+    "naverMaps": "https://map.naver.com/p/entry/place/1078688695"
   },
   {
     "name": "KCS Kumsung Cultural Space",
@@ -8545,6 +8545,55 @@
     "alias": [
       "디에어 하우스 비치테라스",
       "디에어하우스 비치테라스"
+    ]
+  },
+  {
+    "name": "Yellow Submarine",
+    "name_ko": "옐로우서브마린",
+    "address": "20, Jukjeon-ro, Giheung-gu, Yongin-si, Gyeonggi-do, Republic of Korea",
+    "address_ko": "경기 용인시 기흥구 죽전로 20",
+    "address_jibun": "경기 용인시 기흥구 보정동 1263",
+    "lat": 37.3201178580642,
+    "lng": 127.11080682062,
+    "instagram": "https://www.instagram.com/yellow_submarine_lpbar/",
+    "naverMaps": "https://naver.me/5apQ5tjY",
+    "googleMaps": "https://maps.google.com/?cid=5529464876390019996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/16515297",
+    "alias": [
+      "옐로우서브마린",
+      "용인 옐로서브마린"
+    ]
+  },
+  {
+    "name": "Camping Us 717",
+    "name_ko": "캠핑어스717",
+    "address": "23, Hyeonsan-ro 385beon-gil, Chowol-eup, Gwangju-si, Gyeonggi-do, Republic of Korea",
+    "address_ko": "경기도 광주시 초월읍 현산로385번길 23",
+    "address_jibun": "경기도 광주시 초월읍 지월리 716-1",
+    "lat": 37.4185671,
+    "lng": 127.2807169,
+    "googleMaps": "https://maps.google.com/?cid=12098628180755467014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+    "naverMaps": "https://naver.me/Fw7iPRGv",
+    "kakaoMaps": "http://place.map.kakao.com/1160431641",
+    "alias": [
+      "캠핑어스717"
+    ],
+    "instagram": "https://www.instagram.com/camping.us.717"
+  },
+  {
+    "name": "Home.Shop.Zip",
+    "name_ko": "홈숍집",
+    "address": "116-5, Eungam-ro, Seodaemun-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 서대문구 응암로 116-5 1층",
+    "address_jibun": "서울특별시 서대문구 북가좌동 278-8 1층",
+    "lat": 37.5828545,
+    "lng": 126.9141066,
+    "instagram": "https://www.instagram.com/home.shop.zip_kr",
+    "naverMaps": "https://naver.me/55r9E2T6",
+    "kakaoMaps": "https://place.map.kakao.com/1591545061",
+    "alias": [
+      "홈숍집 1유로 프로젝트 북가좌",
+      "홈숍집"
     ]
   }
 ]
