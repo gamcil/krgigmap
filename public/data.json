@@ -68,7 +68,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/13413018",
         "events": [
           {
-            "showdeeId": "3136",
+            "showdeeId": "3165",
             "source": "showdee",
             "artists": [
               "신촌블루스"
@@ -105,7 +105,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3146",
+            "showdeeId": "3178",
             "source": "showdee",
             "artists": [
               "포그",
@@ -147,7 +147,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3098",
+            "showdeeId": "3117",
             "source": "showdee",
             "artists": [
               "104"
@@ -159,7 +159,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3177",
+            "showdeeId": "3221",
             "source": "showdee",
             "artists": [
               "FUKURO 내한",
@@ -347,6 +347,17 @@
             "ra_id": 198937
           },
           {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T22:00:00.000",
+            "endTime": "2025-09-14T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2256042",
+            "title": "BOLERO: PARKOUR",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
             "date": "2025-09-18T00:00:00.000",
             "startTime": "2025-09-18T22:00:00.000",
             "endTime": "2025-09-19T05:00:00.000",
@@ -385,7 +396,34 @@
         "kakaoMaps": "http://place.map.kakao.com/329742373",
         "googleMaps": "https://maps.google.com/?cid=5594593342366876755&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1772316440",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3083",
+            "source": "showdee",
+            "artists": [
+              "소닉스톤즈"
+            ],
+            "location": "홍대 벤더",
+            "startTime": "2025-09-20T18:00:00",
+            "date": "2025-09-20",
+            "eventUrl": "https://www.instagram.com/p/DOXZ0FNkmoq/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3218",
+            "source": "showdee",
+            "artists": [
+              "Husking Bee 내한",
+              "검엑스",
+              "라이엇키즈"
+            ],
+            "location": "홍대 벤더",
+            "startTime": "2025-10-18T18:00:00",
+            "date": "2025-10-18",
+            "eventUrl": "https://www.instagram.com/p/DOVeAynkpLf/",
+            "entry": "예매 정보 링크"
+          }
+        ]
       }
     },
     {
@@ -431,7 +469,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/681059029",
         "events": [
           {
-            "showdeeId": "3023",
+            "showdeeId": "3034",
             "source": "showdee",
             "artists": [
               "뷰렛",
@@ -510,7 +548,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3053",
+            "showdeeId": "3067",
             "source": "showdee",
             "artists": [
               "전기뱀장어",
@@ -523,7 +561,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3145",
+            "showdeeId": "3177",
             "source": "showdee",
             "artists": [
               "정원영밴드"
@@ -535,7 +573,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3153",
+            "showdeeId": "3188",
             "source": "showdee",
             "artists": [
               "정원영밴드"
@@ -663,20 +701,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/34016066",
         "events": [
           {
-            "showdeeId": "2966",
-            "source": "showdee",
-            "artists": [
-              "이종서",
-              "송민석"
-            ],
-            "location": "카페 언플러그드 홍대",
-            "startTime": "2025-09-10T20:00:00",
-            "date": "2025-09-10",
-            "eventUrl": "https://www.instagram.com/p/DNw8un9YkFa/",
-            "entry": "예매 정보 링크"
-          },
-          {
-            "showdeeId": "2980",
+            "showdeeId": "2983",
             "source": "showdee",
             "artists": [
               "권결밴드",
@@ -690,7 +715,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "2998",
+            "showdeeId": "3002",
             "source": "showdee",
             "artists": [
               "오드",
@@ -704,7 +729,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3027",
+            "showdeeId": "3039",
             "source": "showdee",
             "artists": [
               "우주의상실",
@@ -718,7 +743,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3088",
+            "showdeeId": "3107",
             "source": "showdee",
             "artists": [
               "수 (sooth)",
@@ -732,7 +757,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3102",
+            "showdeeId": "3121",
             "source": "showdee",
             "artists": [
               "리치리치",
@@ -746,7 +771,21 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3150",
+            "showdeeId": "3138",
+            "source": "showdee",
+            "artists": [
+              "임예송",
+              "바바사",
+              "기묘말"
+            ],
+            "location": "카페 언플러그드 홍대",
+            "startTime": "2025-09-24T20:00:00",
+            "date": "2025-09-24",
+            "eventUrl": "https://www.instagram.com/p/DOVX0AEET6j/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3183",
             "source": "showdee",
             "artists": [
               "이종서",
@@ -784,21 +823,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1476560900",
         "events": [
           {
-            "showdeeId": "2967",
-            "source": "showdee",
-            "artists": [
-              "최애리",
-              "배유나",
-              "주오"
-            ],
-            "location": "언플러그드 라운지",
-            "startTime": "2025-09-10T20:00:00",
-            "date": "2025-09-10",
-            "eventUrl": "https://www.instagram.com/p/DNw8-eWZvfz/",
-            "entry": "예매 정보 링크"
-          },
-          {
-            "showdeeId": "2969",
+            "showdeeId": "2971",
             "source": "showdee",
             "artists": [
               "김초록",
@@ -812,7 +837,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "2988",
+            "showdeeId": "2991",
             "source": "showdee",
             "artists": [
               "사기소멀",
@@ -826,7 +851,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "2999",
+            "showdeeId": "3003",
             "source": "showdee",
             "artists": [
               "여리밴드",
@@ -840,7 +865,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3016",
+            "showdeeId": "3026",
             "source": "showdee",
             "artists": [
               "박나경",
@@ -853,7 +878,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3026",
+            "showdeeId": "3038",
             "source": "showdee",
             "artists": [
               "기묘말",
@@ -866,7 +891,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3031",
+            "showdeeId": "3044",
             "source": "showdee",
             "artists": [
               "이아직",
@@ -879,7 +904,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3036",
+            "showdeeId": "3049",
             "source": "showdee",
             "artists": [
               "한가",
@@ -893,7 +918,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3040",
+            "showdeeId": "3053",
             "source": "showdee",
             "artists": [
               "세로",
@@ -907,7 +932,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3059",
+            "showdeeId": "3073",
             "source": "showdee",
             "artists": [
               "옛그리움",
@@ -921,7 +946,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3064",
+            "showdeeId": "3079",
             "source": "showdee",
             "artists": [
               "신아영",
@@ -935,7 +960,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3081",
+            "showdeeId": "3099",
             "source": "showdee",
             "artists": [
               "최윤영",
@@ -948,7 +973,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3087",
+            "showdeeId": "3106",
             "source": "showdee",
             "artists": [
               "장여름",
@@ -962,7 +987,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3097",
+            "showdeeId": "3116",
             "source": "showdee",
             "artists": [
               "피난",
@@ -976,7 +1001,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3104",
+            "showdeeId": "3123",
             "source": "showdee",
             "artists": [
               "백색소음",
@@ -989,7 +1014,34 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3116",
+            "showdeeId": "3127",
+            "source": "showdee",
+            "artists": [
+              "오영",
+              "Boxy Tarantula"
+            ],
+            "location": "언플러그드 라운지",
+            "startTime": "2025-09-22T20:00:00",
+            "date": "2025-09-22",
+            "eventUrl": "https://www.instagram.com/p/DOV0i_LE9M0/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3137",
+            "source": "showdee",
+            "artists": [
+              "스무공일",
+              "우주왕복선싸이드미러",
+              "김재헌"
+            ],
+            "location": "언플러그드 라운지",
+            "startTime": "2025-09-24T20:00:00",
+            "date": "2025-09-24",
+            "eventUrl": "https://www.instagram.com/p/DOV0bXTE76a/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3140",
             "source": "showdee",
             "artists": [
               "아스라이",
@@ -1002,7 +1054,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3123",
+            "showdeeId": "3148",
             "source": "showdee",
             "artists": [
               "빈스프라우트",
@@ -1016,7 +1068,35 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3143",
+            "showdeeId": "3151",
+            "source": "showdee",
+            "artists": [
+              "Hangman's Tree",
+              "박만조",
+              "고히"
+            ],
+            "location": "언플러그드 라운지",
+            "startTime": "2025-09-26T20:00:00",
+            "date": "2025-09-26",
+            "eventUrl": "https://www.instagram.com/p/DOYIm0ME5au/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3160",
+            "source": "showdee",
+            "artists": [
+              "전기승",
+              "집단지성",
+              "퀜치"
+            ],
+            "location": "언플러그드 라운지",
+            "startTime": "2025-09-27T15:00:00",
+            "date": "2025-09-27",
+            "eventUrl": "https://www.instagram.com/p/DOTNFC-E2b0/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3175",
             "source": "showdee",
             "artists": [
               "마이샐러드데이즈",
@@ -1030,7 +1110,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3149",
+            "showdeeId": "3182",
             "source": "showdee",
             "artists": [
               "이고요",
@@ -1044,7 +1124,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3160",
+            "showdeeId": "3199",
             "source": "showdee",
             "artists": [
               "박태욱",
@@ -1055,6 +1135,20 @@
             "startTime": "2025-10-02T20:00:00",
             "date": "2025-10-02",
             "eventUrl": "https://www.instagram.com/p/DOCy1GjE7F4/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3202",
+            "source": "showdee",
+            "artists": [
+              "모든",
+              "윤준",
+              "심각한개구리"
+            ],
+            "location": "언플러그드 라운지",
+            "startTime": "2025-10-03T15:00:00",
+            "date": "2025-10-03",
+            "eventUrl": "https://www.instagram.com/p/DOYZOwFE2_g/",
             "entry": "예매 정보 링크"
           }
         ]
@@ -1400,7 +1494,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1058124615",
         "events": [
           {
-            "showdeeId": "3152",
+            "showdeeId": "3187",
             "source": "showdee",
             "artists": [
               "이지카이트"
@@ -1479,7 +1573,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/12403956",
         "events": [
           {
-            "showdeeId": "3076",
+            "showdeeId": "3093",
             "source": "showdee",
             "artists": [
               "남재섭",
@@ -1563,7 +1657,68 @@
         "googleMaps": "https://maps.google.com/?cid=15764128219466662741",
         "naverMaps": "https://map.naver.com/p/entry/place/11633175",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "showdeeId": "2970",
+            "source": "showdee",
+            "artists": [
+              "폴디드",
+              "알파고기",
+              "시스터레이",
+              "웰컴투초초랜드",
+              "가로인들"
+            ],
+            "location": "클럽빵",
+            "startTime": "2025-09-11T19:30:00",
+            "date": "2025-09-11",
+            "eventUrl": "https://www.instagram.com/p/DOaA-StEQil/",
+            "entry": "현장 예매"
+          },
+          {
+            "showdeeId": "2980",
+            "source": "showdee",
+            "artists": [
+              "사양",
+              "웨이크업핀",
+              "회기본능",
+              "스위머스"
+            ],
+            "location": "클럽빵",
+            "startTime": "2025-09-12T19:30:00",
+            "date": "2025-09-12",
+            "eventUrl": "https://www.instagram.com/p/DOaA-StEQil/",
+            "entry": "현장 예매"
+          },
+          {
+            "showdeeId": "3007",
+            "source": "showdee",
+            "artists": [
+              "브론",
+              "빅베트"
+            ],
+            "location": "클럽빵",
+            "startTime": "2025-09-13T19:00:00",
+            "date": "2025-09-13",
+            "eventUrl": "https://www.instagram.com/p/DOaA-StEQil/",
+            "entry": "현장 예매"
+          },
+          {
+            "showdeeId": "3037",
+            "source": "showdee",
+            "artists": [
+              "양상상",
+              "덕",
+              "수플",
+              "바다와시인",
+              "박연두"
+            ],
+            "location": "클럽빵",
+            "startTime": "2025-09-14T18:30:00",
+            "date": "2025-09-14",
+            "eventUrl": "https://www.instagram.com/p/DOaA-StEQil/",
+            "entry": "현장 예매"
+          }
+        ]
       }
     },
     {
@@ -1588,7 +1743,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "2971",
+            "showdeeId": "2973",
             "source": "showdee",
             "artists": [
               "윤지상",
@@ -1603,7 +1758,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "2976",
+            "showdeeId": "2978",
             "source": "showdee",
             "artists": [
               "오오오 (O.O.O)",
@@ -1619,7 +1774,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3012",
+            "showdeeId": "3022",
             "source": "showdee",
             "artists": [
               "차세대",
@@ -1633,7 +1788,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3018",
+            "showdeeId": "3028",
             "source": "showdee",
             "artists": [
               "규도",
@@ -1649,7 +1804,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3034",
+            "showdeeId": "3047",
             "source": "showdee",
             "artists": [
               "김대중",
@@ -1664,7 +1819,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3049",
+            "showdeeId": "3061",
             "source": "showdee",
             "artists": [
               "아사달",
@@ -1680,7 +1835,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3086",
+            "showdeeId": "3105",
             "source": "showdee",
             "artists": [
               "셔츠보이프랭크",
@@ -1695,7 +1850,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3091",
+            "showdeeId": "3110",
             "source": "showdee",
             "artists": [
               "메써드",
@@ -1712,7 +1867,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3118",
+            "showdeeId": "3142",
             "source": "showdee",
             "artists": [
               "네이비이펙트",
@@ -1727,7 +1882,23 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3164",
+            "showdeeId": "3174",
+            "source": "showdee",
+            "artists": [
+              "데디오레디오",
+              "버닝햅번",
+              "스모킹구스",
+              "펑크온파이어",
+              "스윗가솔린"
+            ],
+            "location": "클럽 FF",
+            "startTime": "2025-09-27T19:20:00",
+            "date": "2025-09-27",
+            "eventUrl": "https://www.instagram.com/p/DOYGVgbEX5C/",
+            "entry": "현장 예매"
+          },
+          {
+            "showdeeId": "3205",
             "source": "showdee",
             "artists": [
               "티치",
@@ -1741,6 +1912,20 @@
             "date": "2025-10-03",
             "eventUrl": "https://www.instagram.com/p/DOK0ThtkRPi/",
             "entry": "현장 예매"
+          },
+          {
+            "showdeeId": "3211",
+            "source": "showdee",
+            "artists": [
+              "초록불꽃소년단",
+              "스카썩스",
+              "Hige & Misoshiru"
+            ],
+            "location": "클럽 FF",
+            "startTime": "2025-10-11T18:00:00",
+            "date": "2025-10-11",
+            "eventUrl": "https://www.instagram.com/p/DOUZ46akxPH/?img_index=1",
+            "entry": "예매 정보 링크"
           }
         ]
       }
@@ -1790,7 +1975,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3013",
+            "showdeeId": "3023",
             "source": "showdee",
             "artists": [
               "데드챈트"
@@ -1824,7 +2009,36 @@
         "kakaoMaps": "http://place.map.kakao.com/289436685",
         "googleMaps": "https://maps.google.com/?cid=4648708801660596501&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1853172659",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "2993",
+            "source": "showdee",
+            "artists": [
+              "블레이즈",
+              "세이렌",
+              "제로지"
+            ],
+            "location": "인천 노크",
+            "startTime": "2025-09-13T18:00:00",
+            "date": "2025-09-13",
+            "eventUrl": "https://www.instagram.com/p/DOTbTvkkj7f/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3031",
+            "source": "showdee",
+            "artists": [
+              "혼파멸",
+              "널드쿨",
+              "아크몽"
+            ],
+            "location": "인천 노크",
+            "startTime": "2025-09-14T18:00:00",
+            "date": "2025-09-14",
+            "eventUrl": "https://www.instagram.com/p/DOV3qbiEpEw/",
+            "entry": "무료입장 자율페이"
+          }
+        ]
       }
     },
     {
@@ -1849,7 +2063,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3032",
+            "showdeeId": "3045",
             "source": "showdee",
             "artists": [
               "숨비"
@@ -1861,7 +2075,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3044",
+            "showdeeId": "3057",
             "source": "showdee",
             "artists": [
               "화이트유즈드삭스",
@@ -1874,7 +2088,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3109",
+            "showdeeId": "3130",
             "source": "showdee",
             "artists": [
               "피어"
@@ -2023,7 +2237,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "2989",
+            "showdeeId": "2992",
             "source": "showdee",
             "artists": [
               "와이프 메테리얼",
@@ -2039,7 +2253,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3022",
+            "showdeeId": "3033",
             "source": "showdee",
             "artists": [
               "Universe Last a Ward 내한",
@@ -2053,7 +2267,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3085",
+            "showdeeId": "3103",
             "source": "showdee",
             "artists": [
               "칩포스트갱",
@@ -2068,7 +2282,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3139",
+            "showdeeId": "3168",
             "source": "showdee",
             "artists": [
               "No Model",
@@ -2085,7 +2299,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3174",
+            "showdeeId": "3217",
             "source": "showdee",
             "artists": [
               "What is your name? 내한",
@@ -2244,7 +2458,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/34922808",
         "events": [
           {
-            "showdeeId": "3011",
+            "showdeeId": "3021",
             "source": "showdee",
             "artists": [
               "갓오브유니버스",
@@ -2394,7 +2608,22 @@
         "naverMaps": "https://map.naver.com/p/entry/place/33869505",
         "events": [
           {
-            "showdeeId": "3050",
+            "showdeeId": "3011",
+            "source": "showdee",
+            "artists": [
+              "도그라스트페이지",
+              "베티애스",
+              "더티라콘",
+              "디겐즈"
+            ],
+            "location": "광주 부직",
+            "startTime": "2025-09-13T19:30:00",
+            "date": "2025-09-13",
+            "eventUrl": "https://www.instagram.com/p/DOU0-7AE56B/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3062",
             "source": "showdee",
             "artists": [
               "Don't Turn Away",
@@ -2433,7 +2662,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1225457374",
         "events": [
           {
-            "showdeeId": "2985",
+            "showdeeId": "2988",
             "source": "showdee",
             "artists": [
               "공원",
@@ -2447,7 +2676,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3000",
+            "showdeeId": "3004",
             "source": "showdee",
             "artists": [
               "워시드데님즈",
@@ -2461,7 +2690,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3067",
+            "showdeeId": "3082",
             "source": "showdee",
             "artists": [
               "더 사운드",
@@ -2521,7 +2750,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1664174039",
         "events": [
           {
-            "showdeeId": "2991",
+            "showdeeId": "2995",
             "source": "showdee",
             "artists": [
               "레드씨",
@@ -2535,7 +2764,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3077",
+            "showdeeId": "3094",
             "source": "showdee",
             "artists": [
               "이디어츠",
@@ -2574,7 +2803,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "2977",
+            "showdeeId": "2979",
             "source": "showdee",
             "artists": [
               "디애틱",
@@ -2589,7 +2818,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3001",
+            "showdeeId": "3006",
             "source": "showdee",
             "artists": [
               "포고어택",
@@ -2604,7 +2833,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3025",
+            "showdeeId": "3036",
             "source": "showdee",
             "artists": [
               "58D",
@@ -2619,7 +2848,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3052",
+            "showdeeId": "3065",
             "source": "showdee",
             "artists": [
               "앤섬밴드",
@@ -2634,7 +2863,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3066",
+            "showdeeId": "3081",
             "source": "showdee",
             "artists": [
               "펑크온파이어",
@@ -2655,7 +2884,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3100",
+            "showdeeId": "3119",
             "source": "showdee",
             "artists": [
               "13칠드런",
@@ -2670,7 +2899,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3119",
+            "showdeeId": "3143",
             "source": "showdee",
             "artists": [
               "예결밴드",
@@ -2732,7 +2961,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1153418498",
         "events": [
           {
-            "showdeeId": "3070",
+            "showdeeId": "3086",
             "source": "showdee",
             "artists": [
               "티치",
@@ -2885,7 +3114,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/37658107",
         "events": [
           {
-            "showdeeId": "3004",
+            "showdeeId": "3012",
             "source": "showdee",
             "artists": [
               "찰리빈웍스"
@@ -3031,7 +3260,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/11678426",
         "events": [
           {
-            "showdeeId": "2990",
+            "showdeeId": "2994",
             "source": "showdee",
             "artists": [
               "두억시니",
@@ -3113,7 +3342,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1125000982",
         "events": [
           {
-            "showdeeId": "3055",
+            "showdeeId": "3069",
             "source": "showdee",
             "artists": [
               "발싸",
@@ -3126,7 +3355,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3140",
+            "showdeeId": "3169",
             "source": "showdee",
             "artists": [
               "이태훈",
@@ -3164,7 +3393,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/13413025",
         "events": [
           {
-            "showdeeId": "3134",
+            "showdeeId": "3163",
             "source": "showdee",
             "artists": [
               "잭킹콩",
@@ -3225,7 +3454,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3030",
+            "showdeeId": "3043",
             "source": "showdee",
             "artists": [
               "네온더키즈",
@@ -3235,6 +3464,19 @@
             "startTime": "2025-09-15T20:00:00",
             "date": "2025-09-15",
             "eventUrl": "https://www.instagram.com/p/DN4O5d2k6qR/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3194",
+            "source": "showdee",
+            "artists": [
+              "민물결",
+              "김혜성"
+            ],
+            "location": "이들스",
+            "startTime": "2025-09-29T20:00:00",
+            "date": "2025-09-29",
+            "eventUrl": "https://www.instagram.com/p/DOVS68Rk4RZ/",
             "entry": "예매 정보 링크"
           }
         ]
@@ -3597,7 +3839,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3131",
+            "showdeeId": "3159",
             "source": "showdee",
             "artists": [
               "차세대"
@@ -3633,7 +3875,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3112",
+            "showdeeId": "3134",
             "source": "showdee",
             "artists": [
               "인페이즈",
@@ -3762,7 +4004,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3038",
+            "showdeeId": "3051",
             "source": "showdee",
             "artists": [
               "리뎀션즈",
@@ -3845,7 +4087,22 @@
         "googleMaps": "https://maps.app.goo.gl/icezTN8nYzwPAb6T8",
         "naverMaps": "https://map.naver.com/p/entry/place/38310871",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3008",
+            "source": "showdee",
+            "artists": [
+              "라일락",
+              "에이스원",
+              "리벤제커"
+            ],
+            "location": "인천 공감",
+            "startTime": "2025-09-13T19:00:00",
+            "date": "2025-09-13",
+            "eventUrl": "https://www.instagram.com/p/DOWAmJkEyx8/",
+            "entry": "현장 예매"
+          }
+        ]
       }
     },
     {
@@ -3871,7 +4128,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3071",
+            "showdeeId": "3087",
             "source": "showdee",
             "artists": [
               "최인경"
@@ -3883,7 +4140,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3092",
+            "showdeeId": "3111",
             "source": "showdee",
             "artists": [
               "최인경"
@@ -3895,7 +4152,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3159",
+            "showdeeId": "3196",
             "source": "showdee",
             "artists": [
               "정제"
@@ -3997,7 +4254,7 @@
         "kakaoMaps": "http://place.map.kakao.com/1776453908",
         "events": [
           {
-            "showdeeId": "2979",
+            "showdeeId": "2982",
             "source": "showdee",
             "artists": [
               "안진영"
@@ -4006,6 +4263,18 @@
             "startTime": "2025-09-12T20:00:00",
             "date": "2025-09-12",
             "eventUrl": "https://www.instagram.com/p/DNpsAtJS-sA/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3186",
+            "source": "showdee",
+            "artists": [
+              "김현산"
+            ],
+            "location": "고요의 방",
+            "startTime": "2025-09-28T17:00:00",
+            "date": "2025-09-28",
+            "eventUrl": "https://www.instagram.com/p/DOaQZl_k0AT/",
             "entry": "예매 정보 링크"
           }
         ]
@@ -4433,7 +4702,7 @@
         "googleMaps": "https://maps.google.com/?cid=12505801656077236560&g_mp=EAAYBCAA",
         "events": [
           {
-            "showdeeId": "3051",
+            "showdeeId": "3064",
             "source": "showdee",
             "artists": [
               "캐쥬얼리커넥티드",
@@ -4446,7 +4715,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3080",
+            "showdeeId": "3098",
             "source": "showdee",
             "artists": [
               "아이오",
@@ -4459,7 +4728,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3121",
+            "showdeeId": "3145",
             "source": "showdee",
             "artists": [
               "The Biscats 내한",
@@ -4472,7 +4741,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3137",
+            "showdeeId": "3166",
             "source": "showdee",
             "artists": [
               "13칠드런",
@@ -4533,7 +4802,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3144",
+            "showdeeId": "3176",
             "source": "showdee",
             "artists": [
               "지천",
@@ -4739,7 +5008,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1596602362",
         "events": [
           {
-            "showdeeId": "3187",
+            "showdeeId": "3234",
             "source": "showdee",
             "artists": [
               "CRYPTOPSY (크립탑시) 내한"
@@ -4797,7 +5066,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1108291438",
         "events": [
           {
-            "showdeeId": "2974",
+            "showdeeId": "2976",
             "source": "showdee",
             "artists": [
               "이내꿈",
@@ -4813,7 +5082,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "2986",
+            "showdeeId": "2989",
             "source": "showdee",
             "artists": [
               "nuh (서명훈)",
@@ -4834,7 +5103,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3014",
+            "showdeeId": "3024",
             "source": "showdee",
             "artists": [
               "야자수",
@@ -4853,7 +5122,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3054",
+            "showdeeId": "3068",
             "source": "showdee",
             "artists": [
               "남재섭",
@@ -4867,7 +5136,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3089",
+            "showdeeId": "3108",
             "source": "showdee",
             "artists": [
               "남재섭",
@@ -4881,7 +5150,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3138",
+            "showdeeId": "3167",
             "source": "showdee",
             "artists": [
               "사람또사람",
@@ -4942,19 +5211,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "2968",
-            "source": "showdee",
-            "artists": [
-              "신잔디"
-            ],
-            "location": "제비다방",
-            "startTime": "2025-09-10T20:00:00",
-            "date": "2025-09-10",
-            "eventUrl": "https://www.ctrplus.com/jebi",
-            "entry": "무료입장 자율페이"
-          },
-          {
-            "showdeeId": "2970",
+            "showdeeId": "2972",
             "source": "showdee",
             "artists": [
               "곽푸른하늘"
@@ -4966,7 +5223,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "2983",
+            "showdeeId": "2986",
             "source": "showdee",
             "artists": [
               "리뎀션즈"
@@ -4978,7 +5235,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3007",
+            "showdeeId": "3016",
             "source": "showdee",
             "artists": [
               "김마스타"
@@ -4990,7 +5247,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3029",
+            "showdeeId": "3042",
             "source": "showdee",
             "artists": [
               "구교진 하헌진 오준석 조재범"
@@ -5002,7 +5259,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3041",
+            "showdeeId": "3054",
             "source": "showdee",
             "artists": [
               "블루파프리카"
@@ -5014,7 +5271,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3060",
+            "showdeeId": "3075",
             "source": "showdee",
             "artists": [
               "구구"
@@ -5026,7 +5283,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3084",
+            "showdeeId": "3102",
             "source": "showdee",
             "artists": [
               "오드"
@@ -5038,7 +5295,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3105",
+            "showdeeId": "3124",
             "source": "showdee",
             "artists": [
               "차세대"
@@ -5050,7 +5307,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3111",
+            "showdeeId": "3132",
             "source": "showdee",
             "artists": [
               "프리카인드"
@@ -5062,7 +5319,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3117",
+            "showdeeId": "3141",
             "source": "showdee",
             "artists": [
               "김성은 전제곤 듀오"
@@ -5074,7 +5331,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3126",
+            "showdeeId": "3153",
             "source": "showdee",
             "artists": [
               "스모킹구스"
@@ -5086,7 +5343,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3147",
+            "showdeeId": "3180",
             "source": "showdee",
             "artists": [
               "김마누"
@@ -5098,7 +5355,7 @@
             "entry": "무료입장 자율페이"
           },
           {
-            "showdeeId": "3157",
+            "showdeeId": "3193",
             "source": "showdee",
             "artists": [
               "여진우와 친구들"
@@ -5155,7 +5412,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3114",
+            "showdeeId": "3136",
             "source": "showdee",
             "artists": [
               "까치산",
@@ -5216,7 +5473,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3171",
+            "showdeeId": "3213",
             "source": "showdee",
             "artists": [
               "아디오스오디오",
@@ -5281,7 +5538,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3035",
+            "showdeeId": "3048",
             "source": "showdee",
             "artists": [
               "정강이",
@@ -5296,7 +5553,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3048",
+            "showdeeId": "3060",
             "source": "showdee",
             "artists": [
               "삼산",
@@ -5314,7 +5571,7 @@
             "entry": "무료 사전 신청"
           },
           {
-            "showdeeId": "3069",
+            "showdeeId": "3085",
             "source": "showdee",
             "artists": [
               "이랑"
@@ -5326,7 +5583,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3096",
+            "showdeeId": "3115",
             "source": "showdee",
             "artists": [
               "이랑"
@@ -5338,7 +5595,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3154",
+            "showdeeId": "3189",
             "source": "showdee",
             "artists": [
               "찬민"
@@ -5350,7 +5607,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3166",
+            "showdeeId": "3207",
             "source": "showdee",
             "artists": [
               "까치산"
@@ -5430,7 +5687,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3073",
+            "showdeeId": "3090",
             "source": "showdee",
             "artists": [
               "애니멀다이버스",
@@ -5444,7 +5701,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3075",
+            "showdeeId": "3092",
             "source": "showdee",
             "artists": [
               "PIGBANK",
@@ -5456,6 +5713,19 @@
             "date": "2025-09-20",
             "eventUrl": "http://kuchu-camp.net/xe/board_free/91468",
             "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "3230",
+            "source": "showdee",
+            "artists": [
+              "YG Brazilian Lab",
+              "화분"
+            ],
+            "location": "공중캠프",
+            "startTime": "2025-11-22T19:00:00",
+            "date": "2025-11-22",
+            "eventUrl": "https://www.instagram.com/p/DOahZjxAJ4j/",
+            "entry": "예매 정보 링크"
           }
         ]
       }
@@ -5480,7 +5750,21 @@
         "kakaoMaps": "http://place.map.kakao.com/719115078",
         "googleMaps": "https://maps.google.com/?cid=6613410086573205587&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/2095277836",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3172",
+            "source": "showdee",
+            "artists": [
+              "강동수",
+              "Masumoto Kota"
+            ],
+            "location": "국제악기",
+            "startTime": "2025-09-27T19:00:00",
+            "date": "2025-09-27",
+            "eventUrl": "https://www.instagram.com/p/DOaifMlEzIG/",
+            "entry": "예매 정보 링크"
+          }
+        ]
       }
     },
     {
@@ -5569,7 +5853,7 @@
         "googleMaps": "https://maps.google.com/?cid=7758683060802834924&g_mp=EAAYBCAA",
         "events": [
           {
-            "showdeeId": "3175",
+            "showdeeId": "3219",
             "source": "showdee",
             "artists": [
               "PERSEFONE 내한",
@@ -5606,7 +5890,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1675028791",
         "events": [
           {
-            "showdeeId": "3128",
+            "showdeeId": "3156",
             "source": "showdee",
             "artists": [
               "유애포",
@@ -5642,7 +5926,22 @@
         "kakaoMaps": "http://place.map.kakao.com/12274859",
         "googleMaps": "https://maps.google.com/?cid=14700898932137741788&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/19449359",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3015",
+            "source": "showdee",
+            "artists": [
+              "매드킨",
+              "카오스",
+              "스매쉬"
+            ],
+            "location": "대구 레드제플린",
+            "startTime": "2025-09-13T20:00:00",
+            "date": "2025-09-13",
+            "eventUrl": "https://www.instagram.com/p/DOTJLXskWQp/",
+            "entry": "예매 정보 링크"
+          }
+        ]
       }
     },
     {
@@ -5728,7 +6027,24 @@
         "instagram": "https://www.instagram.com/livepub_tarock",
         "kakaoMaps": "http://place.map.kakao.com/330901129",
         "naverMaps": "https://map.naver.com/p/entry/place/1189700696",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3179",
+            "source": "showdee",
+            "artists": [
+              "선수",
+              "피난",
+              "정장에슬리퍼",
+              "리즈",
+              "써플러스"
+            ],
+            "location": "대구 타락",
+            "startTime": "2025-09-27T20:00:00",
+            "date": "2025-09-27",
+            "eventUrl": "https://www.instagram.com/p/DOTsZ46E84Z/?img_index=1",
+            "entry": "예매 정보 링크"
+          }
+        ]
       }
     },
     {
@@ -5927,7 +6243,20 @@
         "kakaoMaps": "http://place.map.kakao.com/9708824",
         "googleMaps": "https://maps.google.com/?cid=12409772630568849466&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1360389373",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3198",
+            "source": "showdee",
+            "artists": [
+              "아사달"
+            ],
+            "location": "엠피엠지 2층 LOUNGE M.",
+            "startTime": "2025-10-02T19:30:00",
+            "date": "2025-10-02",
+            "eventUrl": "https://tickets.interpark.com/goods/25013263",
+            "entry": "예매 링크"
+          }
+        ]
       }
     },
     {
@@ -6092,7 +6421,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1077046109",
         "events": [
           {
-            "showdeeId": "3008",
+            "showdeeId": "3017",
             "source": "showdee",
             "artists": [
               "아이러닉휴",
@@ -6192,7 +6521,7 @@
         "naverMaps": "https://www.instagram.com/morene__sukha/",
         "events": [
           {
-            "showdeeId": "3006",
+            "showdeeId": "3014",
             "source": "showdee",
             "artists": [
               "레이지본",
@@ -6299,7 +6628,7 @@
         "ra_id": 227739,
         "events": [
           {
-            "showdeeId": "3002",
+            "showdeeId": "3009",
             "source": "showdee",
             "artists": [
               "3호선버터플라이"
@@ -6311,7 +6640,19 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3170",
+            "showdeeId": "3097",
+            "source": "showdee",
+            "artists": [
+              "까데호"
+            ],
+            "location": "무신사 개러지",
+            "startTime": "2025-09-20T19:00:00",
+            "date": "2025-09-20",
+            "eventUrl": "https://ticket.29cm.co.kr/catalog/3487642?categoryLargeCode=265100100&categoryMediumCode=265101100&categorySmallCode=",
+            "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "3212",
             "source": "showdee",
             "artists": [
               "백현진"
@@ -6323,7 +6664,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3172",
+            "showdeeId": "3214",
             "source": "showdee",
             "artists": [
               "백현진"
@@ -6496,7 +6837,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3113",
+            "showdeeId": "3135",
             "source": "showdee",
             "artists": [
               "전자양"
@@ -6508,7 +6849,19 @@
             "entry": "무료 사전 신청"
           },
           {
-            "showdeeId": "3184",
+            "showdeeId": "3224",
+            "source": "showdee",
+            "artists": [
+              "2025 서울국제블루스페스티벌"
+            ],
+            "location": "노들섬 라이브하우스",
+            "startTime": "2025-10-26T13:00:00",
+            "date": "2025-10-26",
+            "eventUrl": "https://tickets.interpark.com/goods/25009955",
+            "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "3231",
             "source": "showdee",
             "artists": [
               "Mew (뮤) 내한"
@@ -6589,7 +6942,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1624729751",
         "events": [
           {
-            "showdeeId": "3072",
+            "showdeeId": "3089",
             "source": "showdee",
             "artists": [
               "선과영"
@@ -6601,7 +6954,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3090",
+            "showdeeId": "3109",
             "source": "showdee",
             "artists": [
               "윤숭"
@@ -6839,7 +7192,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3132",
+            "showdeeId": "3162",
             "source": "showdee",
             "artists": [
               "로스오브인펙션",
@@ -6852,8 +7205,8 @@
             "location": "옥타바리움 라이브홀",
             "startTime": "2025-09-27T17:00:00",
             "date": "2025-09-27",
-            "eventUrl": "https://www.instagram.com/p/DM0BeIpTtZm/",
-            "entry": "예매 정보 링크"
+            "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeyIUpIgENYGGnJxDd7ZICDI2V97ESsiSE-TAvYyn65Y9s1aA/viewform",
+            "entry": "예매 링크"
           }
         ]
       }
@@ -6974,7 +7327,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1164867689",
         "events": [
           {
-            "showdeeId": "2981",
+            "showdeeId": "2984",
             "source": "showdee",
             "artists": [
               "에로틱웜스익스히비션",
@@ -6987,7 +7340,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3083",
+            "showdeeId": "3101",
             "source": "showdee",
             "artists": [
               "야자수",
@@ -7000,7 +7353,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3093",
+            "showdeeId": "3112",
             "source": "showdee",
             "artists": [
               "더 사운드",
@@ -7037,7 +7390,52 @@
         "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
         "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
         "ra_id": 194402,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-12T00:00:00.000",
+            "startTime": "2025-09-12T22:00:00.000",
+            "endTime": "2025-09-13T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2255922",
+            "title": "Rainbow Paper X Bonsaek",
+            "location": "Paper",
+            "artists": [
+              "Nerd (2)",
+              "Arondight"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T23:00:00.000",
+            "endTime": "2025-09-14T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2255925",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "FOI (SK)",
+              "Ligrye",
+              "Jucid",
+              "JUNG(KR)"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-09-14T00:00:00.000",
+            "startTime": "2025-09-14T22:00:00.000",
+            "endTime": "2025-09-15T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2255926",
+            "title": "JNS & Jesse You_Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "JNS",
+              "Jesse You"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          }
+        ]
       }
     },
     {
@@ -7105,7 +7503,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1074060817",
         "events": [
           {
-            "showdeeId": "3115",
+            "showdeeId": "3139",
             "source": "showdee",
             "artists": [
               "크라잉넛",
@@ -7119,7 +7517,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3120",
+            "showdeeId": "3144",
             "source": "showdee",
             "artists": [
               "노브레인",
@@ -7158,7 +7556,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3079",
+            "showdeeId": "3096",
             "source": "showdee",
             "artists": [
               "A Wordless Orange 내한",
@@ -7194,7 +7592,21 @@
         "googleMaps": "https://maps.google.com/?cid=16751232188602700942",
         "naverMaps": "https://map.naver.com/p/entry/place/35045009",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3005",
+            "source": "showdee",
+            "artists": [
+              "물도둑",
+              "금모래"
+            ],
+            "location": "펫사운즈",
+            "startTime": "2025-09-13T19:00:00",
+            "date": "2025-09-13",
+            "eventUrl": "https://www.instagram.com/p/DOaYCyGjxPL/",
+            "entry": "무료입장 자율페이"
+          }
+        ]
       }
     },
     {
@@ -7265,7 +7677,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1822709531",
         "events": [
           {
-            "showdeeId": "3063",
+            "showdeeId": "3078",
             "source": "showdee",
             "artists": [
               "워킹애프터유"
@@ -7322,7 +7734,23 @@
         "kakaoMaps": "http://place.map.kakao.com/1233168702",
         "googleMaps": "https://maps.google.com/?cid=1953157422169164644&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1010508991",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3020",
+            "source": "showdee",
+            "artists": [
+              "펄스44",
+              "크럭스",
+              "이근형",
+              "존스탁톤"
+            ],
+            "location": "안양 퍼플홀",
+            "startTime": "2025-09-13T20:00:00",
+            "date": "2025-09-13",
+            "eventUrl": "https://www.instagram.com/p/DOalXNTiVjZ/",
+            "entry": "현장 예매"
+          }
+        ]
       }
     },
     {
@@ -7510,7 +7938,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3062",
+            "showdeeId": "3077",
             "source": "showdee",
             "artists": [
               "하즈",
@@ -7596,7 +8024,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3042",
+            "showdeeId": "3055",
             "source": "showdee",
             "artists": [
               "컨파인드화이트"
@@ -7608,7 +8036,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3107",
+            "showdeeId": "3128",
             "source": "showdee",
             "artists": [
               "피에타",
@@ -7622,7 +8050,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3129",
+            "showdeeId": "3157",
             "source": "showdee",
             "artists": [
               "키위"
@@ -7634,7 +8062,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3161",
+            "showdeeId": "3200",
             "source": "showdee",
             "artists": [
               "폴리아모리"
@@ -7646,7 +8074,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3162",
+            "showdeeId": "3203",
             "source": "showdee",
             "artists": [
               "김푸름"
@@ -7658,7 +8086,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3165",
+            "showdeeId": "3206",
             "source": "showdee",
             "artists": [
               "취향상점"
@@ -7670,7 +8098,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3167",
+            "showdeeId": "3208",
             "source": "showdee",
             "artists": [
               "노아코스트"
@@ -7679,6 +8107,18 @@
             "startTime": "2025-10-10T20:00:00",
             "date": "2025-10-10",
             "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211927",
+            "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "3216",
+            "source": "showdee",
+            "artists": [
+              "루아멜"
+            ],
+            "location": "롤링홀",
+            "startTime": "2025-10-16T20:00:00",
+            "date": "2025-10-16",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211940",
             "entry": "예매 링크"
           }
         ]
@@ -7706,7 +8146,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/21342403",
         "events": [
           {
-            "showdeeId": "3163",
+            "showdeeId": "3204",
             "source": "showdee",
             "artists": [
               "더 디머스",
@@ -7798,7 +8238,7 @@
         "ra_id": 155706,
         "events": [
           {
-            "showdeeId": "2978",
+            "showdeeId": "2981",
             "source": "showdee",
             "artists": [
               "애리",
@@ -7813,7 +8253,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3003",
+            "showdeeId": "3010",
             "source": "showdee",
             "artists": [
               "스키틀즈",
@@ -7826,7 +8266,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3047",
+            "showdeeId": "3059",
             "source": "showdee",
             "artists": [
               "Sombra 내한",
@@ -7840,7 +8280,21 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3125",
+            "showdeeId": "3126",
+            "source": "showdee",
+            "artists": [
+              "파사드",
+              "지베뉴",
+              "이피"
+            ],
+            "location": "생기 스튜디오",
+            "startTime": "2025-09-22T20:00:00",
+            "date": "2025-09-22",
+            "eventUrl": "https://www.instagram.com/p/DOV5hqngdTP/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3150",
             "source": "showdee",
             "artists": [
               "쿠인",
@@ -7854,7 +8308,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3151",
+            "showdeeId": "3184",
             "source": "showdee",
             "artists": [
               "신타펑크",
@@ -7988,7 +8442,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "2972",
+            "showdeeId": "2974",
             "source": "showdee",
             "artists": [
               "윤덕원",
@@ -8001,7 +8455,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3020",
+            "showdeeId": "3030",
             "source": "showdee",
             "artists": [
               "로맨틱펀치"
@@ -8013,7 +8467,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3057",
+            "showdeeId": "3071",
             "source": "showdee",
             "artists": [
               "선앤메어",
@@ -8026,7 +8480,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3130",
+            "showdeeId": "3158",
             "source": "showdee",
             "artists": [
               "몽니"
@@ -8154,7 +8608,7 @@
         "ra_id": 135553,
         "events": [
           {
-            "showdeeId": "2973",
+            "showdeeId": "2975",
             "source": "showdee",
             "artists": [
               "Wack",
@@ -8167,7 +8621,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3005",
+            "showdeeId": "3013",
             "source": "showdee",
             "artists": [
               "다정 포",
@@ -8178,6 +8632,21 @@
             "date": "2025-09-13",
             "eventUrl": "https://www.instagram.com/p/DN-bC5FEVgE/",
             "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3066",
+            "source": "showdee",
+            "artists": [
+              "키세와",
+              "예람",
+              "팻햄스터&캉뉴",
+              "세일러허니문"
+            ],
+            "location": "신도시 별관",
+            "startTime": "2025-09-19T19:30:00",
+            "date": "2025-09-19",
+            "eventUrl": "https://www.instagram.com/p/DOXc2ZMkbF_/",
+            "entry": "현장 예매"
           }
         ]
       }
@@ -8204,7 +8673,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3142",
+            "showdeeId": "3173",
             "source": "showdee",
             "artists": [
               "3호선버터플라이"
@@ -8216,7 +8685,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3186",
+            "showdeeId": "3233",
             "source": "showdee",
             "artists": [
               "지윤해"
@@ -8294,7 +8763,21 @@
         "website": "http://parks.seoul.go.kr/template/sub/seonyudo.do",
         "googleMaps": "https://maps.google.com/?cid=17245252709311556031&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/12366522",
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-19T00:00:00.000",
+            "startTime": "2025-09-19T17:00:00.000",
+            "endTime": "2025-09-19T21:00:00.000",
+            "eventUrl": "https://ra.co/events/2256184",
+            "title": "MiNi outdoor club by Good People Seoul",
+            "location": "Dosan Park",
+            "artists": [
+              "Minji",
+              "blancat"
+            ],
+            "source": "ra"
+          }
+        ]
       }
     },
     {
@@ -8365,7 +8848,43 @@
         "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
         "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
         "ra_id": 195346,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-12T00:00:00.000",
+            "startTime": "2025-09-12T23:00:00.000",
+            "endTime": "2025-09-13T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2255928",
+            "title": "Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "X2C (1)",
+              "MOVIN.KR",
+              "WUGU",
+              "Riskii (2)",
+              "bumv",
+              "Honn"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T23:00:00.000",
+            "endTime": "2025-09-14T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2255929",
+            "title": "Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "X2C (1)",
+              "MOVIN.KR",
+              "bumv",
+              "Honn",
+              "Gamma Knife"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          }
+        ]
       }
     },
     {
@@ -8587,7 +9106,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "2996",
+            "showdeeId": "3000",
             "source": "showdee",
             "artists": [
               "데드와이어",
@@ -8599,6 +9118,20 @@
             "startTime": "2025-09-13T19:00:00",
             "date": "2025-09-13",
             "eventUrl": "https://www.instagram.com/p/DNc0cutSnbO/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3228",
+            "source": "showdee",
+            "artists": [
+              "그리즈부스",
+              "서스테인",
+              "루프텔"
+            ],
+            "location": "사운드마인드",
+            "startTime": "2025-10-31T20:00:00",
+            "date": "2025-10-31",
+            "eventUrl": "https://www.instagram.com/p/DOYDIITkceP/",
             "entry": "예매 정보 링크"
           }
         ]
@@ -8649,7 +9182,51 @@
         "googleMaps": "https://maps.google.com/?cid=6409972684104332098",
         "naverMaps": "https://map.naver.com/p/entry/place/1991841630",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3074",
+            "source": "showdee",
+            "artists": [
+              "세븐아워스",
+              "노아코스트",
+              "일루반"
+            ],
+            "location": "스페이스 한강",
+            "startTime": "2025-09-19T20:00:00",
+            "date": "2025-09-19",
+            "eventUrl": "https://www.instagram.com/p/DOVly9QCV4j/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3152",
+            "source": "showdee",
+            "artists": [
+              "S!o",
+              "Echoes of Summer",
+              "더그레입스"
+            ],
+            "location": "스페이스 한강",
+            "startTime": "2025-09-26T20:00:00",
+            "date": "2025-09-26",
+            "eventUrl": "https://www.instagram.com/p/DOVrQSsCbYY/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3190",
+            "source": "showdee",
+            "artists": [
+              "류화정",
+              "초림",
+              "류석원",
+              "최수웅"
+            ],
+            "location": "스페이스 한강",
+            "startTime": "2025-09-28T18:00:00",
+            "date": "2025-09-28",
+            "eventUrl": "https://www.instagram.com/p/DOVrjIjCUW-/",
+            "entry": "예매 정보 링크"
+          }
+        ]
       }
     },
     {
@@ -8790,7 +9367,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3010",
+            "showdeeId": "3019",
             "source": "showdee",
             "artists": [
               "시아나",
@@ -8805,7 +9382,22 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3065",
+            "showdeeId": "3041",
+            "source": "showdee",
+            "artists": [
+              "바니쉬",
+              "일곱시막차",
+              "난장",
+              "어니스트"
+            ],
+            "location": "스팀펑크락",
+            "startTime": "2025-09-14T19:00:00",
+            "date": "2025-09-14",
+            "eventUrl": "https://www.instagram.com/p/DOYJnvJk4Py/",
+            "entry": "현장 예매"
+          },
+          {
+            "showdeeId": "3080",
             "source": "showdee",
             "artists": [
               "롱타임노쉿"
@@ -8815,6 +9407,20 @@
             "date": "2025-09-20",
             "eventUrl": "https://www.instagram.com/p/DOP-tUeAJQq/",
             "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3104",
+            "source": "showdee",
+            "artists": [
+              "뱀파이어호텔",
+              "시나몬잼",
+              "마인드애틱"
+            ],
+            "location": "스팀펑크락",
+            "startTime": "2025-09-20T20:00:00",
+            "date": "2025-09-20",
+            "eventUrl": "https://www.instagram.com/p/DOaWQsFkwQP/",
+            "entry": "현장 예매"
           }
         ]
       }
@@ -8841,7 +9447,7 @@
         "ra_id": 138268,
         "events": [
           {
-            "showdeeId": "3009",
+            "showdeeId": "3018",
             "source": "showdee",
             "artists": [
               "Qu",
@@ -8854,7 +9460,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3106",
+            "showdeeId": "3125",
             "source": "showdee",
             "artists": [
               "Bruce Katz Band",
@@ -8865,6 +9471,20 @@
             "startTime": "2025-09-21T20:00:00",
             "date": "2025-09-21",
             "eventUrl": "https://www.instagram.com/p/DOSIUWbD1oB/",
+            "entry": "현장 예매"
+          },
+          {
+            "showdeeId": "3133",
+            "source": "showdee",
+            "artists": [
+              "Elements of Dust",
+              "두억시니",
+              "Heili"
+            ],
+            "location": "스트레인지 프룻",
+            "startTime": "2025-09-23T20:00:00",
+            "date": "2025-09-23",
+            "eventUrl": "https://www.instagram.com/p/DOU2PBnDw1k/",
             "entry": "현장 예매"
           }
         ]
@@ -8931,7 +9551,7 @@
         "kakaoMaps": "http://place.map.kakao.com/1097258808",
         "events": [
           {
-            "showdeeId": "3148",
+            "showdeeId": "3181",
             "source": "showdee",
             "artists": [
               "한솔",
@@ -8968,7 +9588,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3058",
+            "showdeeId": "3072",
             "source": "showdee",
             "artists": [
               "보리"
@@ -8980,7 +9600,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3078",
+            "showdeeId": "3095",
             "source": "showdee",
             "artists": [
               "김제형"
@@ -8992,7 +9612,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3124",
+            "showdeeId": "3149",
             "source": "showdee",
             "artists": [
               "아른"
@@ -9004,7 +9624,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3141",
+            "showdeeId": "3170",
             "source": "showdee",
             "artists": [
               "우희준"
@@ -9062,7 +9682,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1498032249",
         "events": [
           {
-            "showdeeId": "3028",
+            "showdeeId": "3040",
             "source": "showdee",
             "artists": [
               "모노슬립",
@@ -9072,6 +9692,20 @@
             "startTime": "2025-09-14T19:00:00",
             "date": "2025-09-14",
             "eventUrl": "https://www.instagram.com/p/DODnN6dE-YF/",
+            "entry": "현장 예매"
+          },
+          {
+            "showdeeId": "3155",
+            "source": "showdee",
+            "artists": [
+              "Masumoto Kota 내한",
+              "정서사",
+              "omm.."
+            ],
+            "location": "서브라이엇 HBC",
+            "startTime": "2025-09-26T20:00:00",
+            "date": "2025-09-26",
+            "eventUrl": "https://www.instagram.com/p/DOYSkFlE5oz/",
             "entry": "현장 예매"
           }
         ]
@@ -9409,7 +10043,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1575293324",
         "events": [
           {
-            "showdeeId": "2995",
+            "showdeeId": "2999",
             "source": "showdee",
             "artists": [
               "더 사운드",
@@ -9613,7 +10247,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3037",
+            "showdeeId": "3050",
             "source": "showdee",
             "artists": [
               "아월 (OurR)",
@@ -9627,7 +10261,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3173",
+            "showdeeId": "3215",
             "source": "showdee",
             "artists": [
               "오지은서영호"
@@ -9686,7 +10320,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1281344578",
         "events": [
           {
-            "showdeeId": "2994",
+            "showdeeId": "2998",
             "source": "showdee",
             "artists": [
               "ddbb",
@@ -9790,7 +10424,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3101",
+            "showdeeId": "3120",
             "source": "showdee",
             "artists": [
               "My Dying Pride 내한",
@@ -9850,7 +10484,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/11718383",
         "events": [
           {
-            "showdeeId": "3095",
+            "showdeeId": "3114",
             "source": "showdee",
             "artists": [
               "사혼",
@@ -9866,7 +10500,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3168",
+            "showdeeId": "3209",
             "source": "showdee",
             "artists": [
               "Alphoenix",
@@ -9887,7 +10521,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3179",
+            "showdeeId": "3223",
             "source": "showdee",
             "artists": [
               "Archgoat 내한",
@@ -9922,7 +10556,21 @@
         "kakaoMaps": "http://place.map.kakao.com/957772814",
         "googleMaps": "https://maps.google.com/?cid=12740068756927645158&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1359259761",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3201",
+            "source": "showdee",
+            "artists": [
+              "신인류",
+              "KIK"
+            ],
+            "location": "YES24 원더로크홀",
+            "startTime": "2025-10-02T20:00:00",
+            "date": "2025-10-02",
+            "eventUrl": "https://ticket.yes24.com/Perf/55192?Gcode=009_303",
+            "entry": "예매 링크"
+          }
+        ]
       }
     },
     {
@@ -10017,7 +10665,7 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3122",
+            "showdeeId": "3147",
             "source": "showdee",
             "artists": [
               "브로콜리너마저"
@@ -10143,6 +10791,93 @@
         "ra_id": 196474,
         "events": [
           {
+            "date": "2025-09-12T00:00:00.000",
+            "startTime": "2025-09-12T22:30:00.000",
+            "endTime": "2025-09-13T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2255963",
+            "title": "NON IDENTITY, KEEMBOGYEOM, KAISENDON",
+            "location": "Atdge Seoul",
+            "artists": [
+              "NON IDENTITY",
+              "KEEMBOGYEOM",
+              "KAISENDON"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T22:00:00.000",
+            "endTime": "2025-09-14T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2255966",
+            "title": "GOBLIN No.3",
+            "location": "Atdge Seoul",
+            "artists": [
+              "YOKIE",
+              "Jooheon",
+              "Yeonju"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
+            "date": "2025-09-17T00:00:00.000",
+            "startTime": "2025-09-17T21:00:00.000",
+            "endTime": "2025-09-18T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2255968",
+            "title": "YOOJIN, Seungwon, PAHSELEAD",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Seungwon",
+              "PhaseLead"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
+            "date": "2025-09-19T00:00:00.000",
+            "startTime": "2025-09-19T23:00:00.000",
+            "endTime": "2025-09-20T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2255970",
+            "title": "Pseudobaul, SEO, KHIM",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Pseudobaul",
+              "Seo (1)"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
+            "date": "2025-09-20T00:00:00.000",
+            "startTime": "2025-09-20T22:30:00.000",
+            "endTime": "2025-09-21T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2255971",
+            "title": "Sanghwan, NOVA ANIMUS, HCY",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Sanghwan",
+              "Animus.",
+              "hcy."
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
+            "date": "2025-09-26T00:00:00.000",
+            "startTime": "2025-09-26T22:30:00.000",
+            "endTime": "2025-09-27T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2255977",
+            "title": "DRCONI, Sasha Kalra, HYREANG",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Sasha Kalra",
+              "Hyerang"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
             "date": "2025-09-27T00:00:00.000",
             "startTime": "2025-09-27T22:00:00.000",
             "endTime": "2025-09-28T04:00:00.000",
@@ -10183,7 +10918,7 @@
         "ra_id": 130324,
         "events": [
           {
-            "showdeeId": "2984",
+            "showdeeId": "2987",
             "source": "showdee",
             "artists": [
               "로큰롤라디오",
@@ -10197,7 +10932,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3061",
+            "showdeeId": "3076",
             "source": "showdee",
             "artists": [
               "펑크에듀클럽",
@@ -10210,7 +10945,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3094",
+            "showdeeId": "3113",
             "source": "showdee",
             "artists": [
               "오이스터즈",
@@ -10225,7 +10960,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3127",
+            "showdeeId": "3154",
             "source": "showdee",
             "artists": [
               "팁시",
@@ -10236,17 +10971,6 @@
             "date": "2025-09-26",
             "eventUrl": "https://www.instagram.com/p/DOFMdsngagL/",
             "entry": "현장 예매"
-          },
-          {
-            "date": "2025-09-10T00:00:00.000",
-            "startTime": "2025-09-10T23:00:00.000",
-            "endTime": "2025-09-11T06:00:00.000",
-            "eventUrl": "https://ra.co/events/2250332",
-            "title": "수요 초대석 vol.89",
-            "location": "Channel 1969",
-            "artists": [],
-            "source": "ra",
-            "ra_id": 130324
           },
           {
             "date": "2025-09-12T00:00:00.000",
@@ -10316,7 +11040,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/13530149",
         "events": [
           {
-            "showdeeId": "3099",
+            "showdeeId": "3118",
             "source": "showdee",
             "artists": [
               "Sombra",
@@ -10328,6 +11052,36 @@
             "startTime": "2025-09-21T18:30:00",
             "date": "2025-09-21",
             "eventUrl": "https://www.instagram.com/p/DONHxfzE74N/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3146",
+            "source": "showdee",
+            "artists": [
+              "그리고윤성혁",
+              "파파더캅",
+              "디아틱",
+              "급한노새"
+            ],
+            "location": "클럽 A.O.R",
+            "startTime": "2025-09-26T19:30:00",
+            "date": "2025-09-26",
+            "eventUrl": "https://www.instagram.com/p/DOXj2IkCch2/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3185",
+            "source": "showdee",
+            "artists": [
+              "선셋온더브릿지",
+              "데킬라올드패션드",
+              "모노폴리",
+              "베이루트택시"
+            ],
+            "location": "클럽 A.O.R",
+            "startTime": "2025-09-28T17:00:00",
+            "date": "2025-09-28",
+            "eventUrl": "https://www.instagram.com/p/DOXkh85iRex/",
             "entry": "예매 정보 링크"
           }
         ]
@@ -10427,7 +11181,7 @@
         "ra_id": 257131,
         "events": [
           {
-            "showdeeId": "3039",
+            "showdeeId": "3052",
             "source": "showdee",
             "artists": [
               "모임별"
@@ -10535,7 +11289,7 @@
         "ra_id": 112363,
         "events": [
           {
-            "showdeeId": "3074",
+            "showdeeId": "3091",
             "source": "showdee",
             "artists": [
               "잔류파",
@@ -10550,7 +11304,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3103",
+            "showdeeId": "3122",
             "source": "showdee",
             "artists": [
               "오대리",
@@ -10564,6 +11318,21 @@
             "startTime": "2025-09-21T19:00:00",
             "date": "2025-09-21",
             "eventUrl": "https://www.instagram.com/p/DON36VKk7oJ/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3171",
+            "source": "showdee",
+            "artists": [
+              "현서베이스",
+              "이호",
+              "모호프로젝트",
+              "트리키네코"
+            ],
+            "location": "무대륙",
+            "startTime": "2025-09-27T19:00:00",
+            "date": "2025-09-27",
+            "eventUrl": "https://www.instagram.com/p/DOU4w_KkyjR/",
             "entry": "예매 정보 링크"
           }
         ]
@@ -10834,7 +11603,19 @@
         "googleMaps": "https://maps.google.com/?cid=1887431102401745996",
         "naverMaps": "https://map.naver.com/p/entry/place/1630177846",
         "ra_id": 262055,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-27T00:00:00.000",
+            "startTime": "2025-09-27T20:00:00.000",
+            "endTime": "2025-09-27T22:00:00.000",
+            "eventUrl": "https://ra.co/events/2256489",
+            "title": "Live Ambient: Coa x Primeiro x Navie x Mohani",
+            "location": "Kunst Kabinett Seoul",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 262055
+          }
+        ]
       }
     },
     {
@@ -10916,7 +11697,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1269805883",
         "events": [
           {
-            "showdeeId": "3021",
+            "showdeeId": "3032",
             "source": "showdee",
             "artists": [
               "뉴어",
@@ -10931,7 +11712,7 @@
             "entry": "현장 예매"
           },
           {
-            "showdeeId": "3056",
+            "showdeeId": "3070",
             "source": "showdee",
             "artists": [
               "헤이1996",
@@ -10946,7 +11727,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3169",
+            "showdeeId": "3210",
             "source": "showdee",
             "artists": [
               "제인과 산호초",
@@ -10984,7 +11765,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1277828060",
         "events": [
           {
-            "showdeeId": "3176",
+            "showdeeId": "3220",
             "source": "showdee",
             "artists": [
               "What is your name? (2 0 2 1) 내한",
@@ -11269,7 +12050,7 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1154329487",
         "events": [
           {
-            "showdeeId": "2975",
+            "showdeeId": "2977",
             "source": "showdee",
             "artists": [
               "블레니",
@@ -11282,7 +12063,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3046",
+            "showdeeId": "3063",
             "source": "showdee",
             "artists": [
               "선셋온더브릿지",
@@ -11291,8 +12072,8 @@
             "location": "우무지",
             "startTime": "2025-09-19T19:00:00",
             "date": "2025-09-19",
-            "eventUrl": "https://www.instagram.com/p/DOLDWV3EaVm/",
-            "entry": "예매 정보 링크"
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211936",
+            "entry": "예매 링크"
           }
         ]
       }
@@ -11815,6 +12596,20 @@
             "location": "Moment",
             "artists": [
               "Andrew Moore"
+            ],
+            "source": "ra",
+            "ra_id": 216993
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T23:00:00.000",
+            "endTime": "2025-09-14T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2256281",
+            "title": "Mankinart Meets MOMENT Busan",
+            "location": "Moment",
+            "artists": [
+              "Soseol",
+              "Nujeat"
             ],
             "source": "ra",
             "ra_id": 216993
@@ -12373,7 +13168,30 @@
         "kakaoMaps": "http://place.map.kakao.com/980924554",
         "googleMaps": "https://maps.google.com/?cid=2937189992226926322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "ra_id": 230225,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-12T00:00:00.000",
+            "startTime": "2025-09-12T22:00:00.000",
+            "endTime": "2025-09-13T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2255934",
+            "title": "Mushroom BASS MUSIC",
+            "location": "Mushroom",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 230225
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T22:00:00.000",
+            "endTime": "2025-09-14T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2255935",
+            "title": "Mushroom BASS MUSIC",
+            "location": "Mushroom",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 230225
+          }
+        ]
       }
     },
     {
@@ -12395,7 +13213,23 @@
         "instagram": "https://www.instagram.com/casacoronaseoul",
         "kakaoMaps": "http://place.map.kakao.com/1974912405",
         "ra_id": 177268,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-19T00:00:00.000",
+            "startTime": "2025-09-19T18:00:00.000",
+            "endTime": "2025-09-20T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2251483",
+            "title": "ORANGE ALIVE: Fur Coat",
+            "location": "Casa Corona Seoul",
+            "artists": [
+              "Bagagee Viphex13",
+              "Better",
+              "Fur Coat"
+            ],
+            "source": "ra",
+            "ra_id": 177268
+          }
+        ]
       }
     },
     {
@@ -12463,7 +13297,42 @@
         "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/xY4sFFgP",
         "ra_id": 267778,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-12T00:00:00.000",
+            "startTime": "2025-09-12T21:00:00.000",
+            "endTime": "2025-09-14T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2256233",
+            "title": "WAKIKI UTOPIA 'ULTRA PREVIEW NIGHT'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "Advanced (SK)",
+              "TERRA (KR)",
+              "H93 (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-12T21:00:00.000",
+            "endTime": "2025-09-14T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2256233",
+            "title": "WAKIKI UTOPIA 'ULTRA PREVIEW NIGHT'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "Advanced (SK)",
+              "TERRA (KR)",
+              "H93 (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          }
+        ]
       }
     },
     {
@@ -12614,7 +13483,22 @@
         "kakaoMaps": "http://place.map.kakao.com/26825771",
         "googleMaps": "https://maps.google.com/?cid=11213427731252273279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/G0DXWlzL",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3088",
+            "source": "showdee",
+            "artists": [
+              "갓오브유니버스",
+              "서스픽스",
+              "식트랙"
+            ],
+            "location": "사운드시티 합주실 합정 본점",
+            "startTime": "2025-09-20T18:20:00",
+            "date": "2025-09-20",
+            "eventUrl": "https://www.instagram.com/p/DOVofcKj-yJ/",
+            "entry": "현장 예매"
+          }
+        ]
       }
     },
     {
@@ -12638,7 +13522,7 @@
         "naverMaps": "https://naver.me/FhU0bsR4",
         "events": [
           {
-            "showdeeId": "3033",
+            "showdeeId": "3046",
             "source": "showdee",
             "artists": [
               "벤치위레오"
@@ -12650,7 +13534,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3108",
+            "showdeeId": "3129",
             "source": "showdee",
             "artists": [
               "시인을 위하여"
@@ -12662,7 +13546,7 @@
             "entry": "예매 링크"
           },
           {
-            "showdeeId": "3158",
+            "showdeeId": "3195",
             "source": "showdee",
             "artists": [
               "버둥"
@@ -12671,6 +13555,18 @@
             "startTime": "2025-09-29T20:00:00",
             "date": "2025-09-29",
             "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211920",
+            "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "3197",
+            "source": "showdee",
+            "artists": [
+              "예빛"
+            ],
+            "location": "숲세권 라이브",
+            "startTime": "2025-09-30T20:00:00",
+            "date": "2025-09-30",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211937",
             "entry": "예매 링크"
           }
         ]
@@ -12717,7 +13613,7 @@
         "naverMaps": "https://naver.me/FdCxhqrh",
         "events": [
           {
-            "showdeeId": "3183",
+            "showdeeId": "3229",
             "source": "showdee",
             "artists": [
               "새소년"
@@ -13417,7 +14313,7 @@
         "naverMaps": "https://naver.me/x3j1s0jb",
         "events": [
           {
-            "showdeeId": "3017",
+            "showdeeId": "3027",
             "source": "showdee",
             "artists": [
               "더 사운드",
@@ -13561,7 +14457,7 @@
         "naverMaps": "https://naver.me/FXkLxb5O",
         "events": [
           {
-            "showdeeId": "2987",
+            "showdeeId": "2990",
             "source": "showdee",
             "artists": [
               "로맨틱펀치",
@@ -13578,7 +14474,7 @@
             "entry": "무료 입장"
           },
           {
-            "showdeeId": "3015",
+            "showdeeId": "3025",
             "source": "showdee",
             "artists": [
               "노브레인",
@@ -13638,7 +14534,7 @@
         "naverMaps": "https://naver.me/5Bcu3q8g",
         "events": [
           {
-            "showdeeId": "2992",
+            "showdeeId": "2996",
             "source": "showdee",
             "artists": [
               "와비킹",
@@ -13655,7 +14551,7 @@
             "entry": "무료 입장"
           },
           {
-            "showdeeId": "3024",
+            "showdeeId": "3035",
             "source": "showdee",
             "artists": [
               "곰치",
@@ -13756,7 +14652,7 @@
         "naverMaps": "https://naver.me/FRLnPomX",
         "events": [
           {
-            "showdeeId": "3045",
+            "showdeeId": "3058",
             "source": "showdee",
             "artists": [
               "극동아시아타이거즈",
@@ -13770,7 +14666,7 @@
             "entry": "무료 사전 신청"
           },
           {
-            "showdeeId": "3068",
+            "showdeeId": "3084",
             "source": "showdee",
             "artists": [
               "잭킹콩",
@@ -13916,7 +14812,7 @@
         "naverMaps": "https://naver.me/x8tookFv",
         "events": [
           {
-            "showdeeId": "2993",
+            "showdeeId": "2997",
             "source": "showdee",
             "artists": [
               "위댄스"
@@ -13951,7 +14847,7 @@
         "naverMaps": "https://naver.me/5tJaAPr7",
         "events": [
           {
-            "showdeeId": "3019",
+            "showdeeId": "3029",
             "source": "showdee",
             "artists": [
               "조소정"
@@ -13986,7 +14882,7 @@
         "googleMaps": "https://maps.google.com/?cid=10469024144103497378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "events": [
           {
-            "showdeeId": "3043",
+            "showdeeId": "3056",
             "source": "showdee",
             "artists": [
               "전찬준",
@@ -14022,7 +14918,7 @@
         "naverMaps": "https://naver.me/Fc5xapoc",
         "events": [
           {
-            "showdeeId": "3155",
+            "showdeeId": "3191",
             "source": "showdee",
             "artists": [
               "이사흘",
@@ -14059,7 +14955,7 @@
         "naverMaps": "https://naver.me/FoENhwBt",
         "events": [
           {
-            "showdeeId": "3178",
+            "showdeeId": "3222",
             "source": "showdee",
             "artists": [
               "Paniyolo (파니욜로) 내한"
@@ -14094,7 +14990,7 @@
         "naverMaps": "https://naver.me/xq3a1j7e",
         "events": [
           {
-            "showdeeId": "3180",
+            "showdeeId": "3225",
             "source": "showdee",
             "artists": [
               "Paniyolo (파니욜로) 내한"
@@ -14130,7 +15026,7 @@
         "naverMaps": "https://naver.me/GJTgyddS",
         "events": [
           {
-            "showdeeId": "3181",
+            "showdeeId": "3226",
             "source": "showdee",
             "artists": [
               "Paniyolo (파니욜로) 내한"
@@ -14164,7 +15060,7 @@
         "naverMaps": "https://naver.me/GCvqJe8v",
         "events": [
           {
-            "showdeeId": "3182",
+            "showdeeId": "3227",
             "source": "showdee",
             "artists": [
               "Paniyolo (파니욜로) 내한"
@@ -14219,7 +15115,7 @@
         "naverMaps": "https://naver.me/5ZSJo6wp",
         "events": [
           {
-            "showdeeId": "2997",
+            "showdeeId": "3001",
             "source": "showdee",
             "artists": [
               "톰밴드",
@@ -14234,7 +15130,7 @@
             "entry": "예매 정보 링크"
           },
           {
-            "showdeeId": "3082",
+            "showdeeId": "3100",
             "source": "showdee",
             "artists": [
               "메리헤이데이",
@@ -14338,7 +15234,7 @@
         "naverMaps": "https://naver.me/xAFyF3mj",
         "events": [
           {
-            "showdeeId": "3135",
+            "showdeeId": "3164",
             "source": "showdee",
             "artists": [
               "세이트",
@@ -14377,7 +15273,7 @@
         "naverMaps": "https://naver.me/GUwec5Ag",
         "events": [
           {
-            "showdeeId": "3185",
+            "showdeeId": "3232",
             "source": "showdee",
             "artists": [
               "신바람 이박사"
@@ -14431,7 +15327,7 @@
         "naverMaps": "https://naver.me/58NfisQm",
         "events": [
           {
-            "showdeeId": "3110",
+            "showdeeId": "3131",
             "source": "showdee",
             "artists": [
               "김두수"
@@ -14662,7 +15558,7 @@
         "naverMaps": "https://naver.me/5apQ5tjY",
         "events": [
           {
-            "showdeeId": "2982",
+            "showdeeId": "2985",
             "source": "showdee",
             "artists": [
               "후맵네"
@@ -14697,7 +15593,7 @@
         "naverMaps": "https://naver.me/Fw7iPRGv",
         "events": [
           {
-            "showdeeId": "3133",
+            "showdeeId": "3161",
             "source": "showdee",
             "artists": [
               "해서웨이"
@@ -14731,7 +15627,7 @@
         "naverMaps": "https://naver.me/55r9E2T6",
         "events": [
           {
-            "showdeeId": "3156",
+            "showdeeId": "3192",
             "source": "showdee",
             "artists": [
               "베리코이버니"
