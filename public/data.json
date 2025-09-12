@@ -15816,6 +15816,68 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.995361199303,
+          37.5343567627132
+        ]
+      },
+      "properties": {
+        "name_ko": "퍼블릭서울",
+        "name": "Public Seoul",
+        "address_ko": "서울 용산구 이태원로 192 지하1층",
+        "address": "192, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울 용산구 이태원동 127-2 지하1층",
+        "website": "https://www.publicseoul.co.kr/",
+        "instagram": "https://www.instagram.com/public_seoul/",
+        "kakaoMaps": "http://place.map.kakao.com/293021462",
+        "googleMaps": "https://maps.google.com/?cid=16423684464709315300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
+        "ra_id": 272985,
+        "events": [
+          {
+            "date": "2025-09-12T00:00:00.000",
+            "startTime": "2025-09-12T23:00:00.000",
+            "endTime": "2025-09-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2256974",
+            "title": "Public SEOUL",
+            "location": "Public Seoul",
+            "artists": [
+              "Ligrye"
+            ],
+            "source": "ra",
+            "ra_id": 272985
+          },
+          {
+            "date": "2025-09-13T00:00:00.000",
+            "startTime": "2025-09-13T22:00:00.000",
+            "endTime": "2025-09-14T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2256975",
+            "title": "Public SEOUL",
+            "location": "Public Seoul",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 272985
+          },
+          {
+            "date": "2025-09-14T00:00:00.000",
+            "startTime": "2025-09-14T22:00:00.000",
+            "endTime": "2025-09-15T08:00:00.000",
+            "eventUrl": "https://ra.co/events/2256976",
+            "title": "Public SEOUL",
+            "location": "Public Seoul",
+            "artists": [
+              "Navi",
+              "SUBUN"
+            ],
+            "source": "ra",
+            "ra_id": 272985
+          }
+        ]
+      }
     }
   ]
 }
