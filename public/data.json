@@ -4972,22 +4972,7 @@
         "kakaoMaps": "http://place.map.kakao.com/13301689",
         "googleMaps": "https://maps.google.com/?cid=2596465441042983597&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1675028791",
-        "events": [
-          {
-            "showdeeId": "3160",
-            "source": "showdee",
-            "artists": [
-              "유애포",
-              "드링킹소년소녀합창단",
-              "오칠"
-            ],
-            "location": "대구 클럽 레드제플린",
-            "startTime": "2025-09-26T20:00:00",
-            "date": "2025-09-26",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211865",
-            "entry": "예매 링크"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -5010,7 +4995,22 @@
         "kakaoMaps": "http://place.map.kakao.com/12274859",
         "googleMaps": "https://maps.google.com/?cid=14700898932137741788&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/19449359",
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3160",
+            "source": "showdee",
+            "artists": [
+              "유애포",
+              "드링킹소년소녀합창단",
+              "오칠"
+            ],
+            "location": "대구 클럽 레드제플린",
+            "startTime": "2025-09-26T20:00:00",
+            "date": "2025-09-26",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211865",
+            "entry": "예매 링크"
+          }
+        ]
       }
     },
     {
@@ -7222,7 +7222,22 @@
         "googleMaps": "https://maps.google.com/?cid=17791490631383192613",
         "naverMaps": "https://map.naver.com/p/entry/place/1195670464",
         "ra_id": 204286,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-25T00:00:00.000",
+            "startTime": "2025-09-25T20:00:00.000",
+            "endTime": "2025-09-26T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2264030",
+            "title": "TACO&DISCO",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Pingpong (KR)",
+              "Gyusco"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          }
+        ]
       }
     },
     {
@@ -10473,6 +10488,23 @@
             ],
             "source": "ra",
             "ra_id": 70614
+          },
+          {
+            "date": "2025-11-01T00:00:00.000",
+            "startTime": "2025-11-01T22:00:00.000",
+            "endTime": "2025-11-02T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2264373",
+            "title": "More Breaks with T5UMUT5UMU",
+            "location": "Cakeshop",
+            "artists": [
+              "T5UMUT5UMU",
+              "Arexibo",
+              "Nimvy",
+              "Tabris",
+              "HASHTAGPOPE"
+            ],
+            "source": "ra",
+            "ra_id": 70614
           }
         ]
       }
@@ -10524,6 +10556,21 @@
             "artists": [
               "Amulador",
               "ANSOL"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
+            "date": "2025-10-03T00:00:00.000",
+            "startTime": "2025-10-03T23:00:00.000",
+            "endTime": "2025-10-04T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2264417",
+            "title": "Ancient Future with Aiken (Timeline / Madrid)",
+            "location": "vurt.",
+            "artists": [
+              "Aiken",
+              "Djilogue",
+              "OYYMMIT"
             ],
             "source": "ra",
             "ra_id": 101673
