@@ -13565,6 +13565,194 @@
         "ra_id": 272985,
         "events": []
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4304194,
+          36.3264
+        ]
+      },
+      "properties": {
+        "name_ko": "대전음악창작소",
+        "name": "Daejeon Music Creative Center",
+        "address_ko": "대전광역시 중구 대흥로175번길 25 홍명프리존",
+        "address": "25, Daeheung-ro 175beon-gil, Jung-gu, Daejeon, Republic of Korea",
+        "address_jibun": "대전광역시 중구 대흥동 4-8 홍명프리존",
+        "website": "http://music.dicia.or.kr/",
+        "instagram": "https://www.instagram.com/dicia_music",
+        "kakaoMaps": "http://place.map.kakao.com/613163072",
+        "naverMaps": "https://naver.me/FQVGOaxh",
+        "events": [
+          {
+            "showdeeId": "3295",
+            "source": "showdee",
+            "artists": [
+              "W24"
+            ],
+            "location": "대전 음악창작소 다목적홀",
+            "startTime": "2025-10-25T18:00:00",
+            "date": "2025-10-25",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211962",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9425787,
+          37.5578237
+        ]
+      },
+      "properties": {
+        "name_ko": "아지토 라이브 홀",
+        "name": "Azito Livehall",
+        "address_ko": "서울특별시 서대문구 신촌역로 13 지층",
+        "address": "13, Sinchonnyeok-ro, Seodaemun-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 서대문구 대현동 104-1 지층",
+        "website": "https://www.livehall.azito.kr/",
+        "instagram": "https://www.instagram.com/azito_livehall",
+        "kakaoMaps": "http://place.map.kakao.com/1279097943",
+        "events": [
+          {
+            "showdeeId": "3279",
+            "source": "showdee",
+            "artists": [
+              "전자양"
+            ],
+            "location": "경주 아지토",
+            "startTime": "2025-10-18T17:00:00",
+            "date": "2025-10-18",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211982",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0522842,
+          37.54307
+        ]
+      },
+      "properties": {
+        "name_ko": "카인드서울",
+        "name": "Kind Seoul",
+        "address_ko": "서울특별시 성동구 연무장길 28-12 5층",
+        "address": "28-12, Yeonmujang-gil, Seongdong-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 성동구 성수동2가 310-53 5층",
+        "instagram": "https://www.instagram.com/kindseoul.kr",
+        "kakaoMaps": "http://place.map.kakao.com/614036143",
+        "googleMaps": "https://maps.google.com/?cid=7855199652409796780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/5mh9YvVv",
+        "events": [
+          {
+            "showdeeId": "3252",
+            "source": "showdee",
+            "artists": [
+              "잭킹콩"
+            ],
+            "location": "카인드 서울",
+            "startTime": "2025-10-10T20:00:00",
+            "date": "2025-10-10",
+            "eventUrl": "https://www.ticketlink.co.kr/product/58761",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7549465,
+          37.6619145
+        ]
+      },
+      "properties": {
+        "name_ko": "EBS 스페이스홀",
+        "name": "EBS Space Hall",
+        "address_ko": "경기도 고양시 일산동구 한류월드로 281 1층",
+        "address": "281, Hallyu world-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do, Republic of Korea",
+        "address_jibun": "경기도 고양시 일산동구 장항동 1775 1층",
+        "website": "http://www.ebsspace.com/",
+        "kakaoMaps": "http://place.map.kakao.com/651017060",
+        "naverMaps": "https://naver.me/IItJXNWc",
+        "events": [
+          {
+            "showdeeId": "3211",
+            "source": "showdee",
+            "artists": [
+              "키라라"
+            ],
+            "location": "EBS 스페이스 홀",
+            "startTime": "2025-09-30T20:00:00",
+            "date": "2025-09-30",
+            "eventUrl": "https://www.instagram.com/p/DOqEUvogHKA/",
+            "entry": "무료 사전 신청"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9685334,
+          37.5775323
+        ]
+      },
+      "properties": {
+        "name_ko": "서간",
+        "name": "Seogan",
+        "address_ko": "서울특별시 종로구 필운대로1길 15 1층 서간",
+        "address": "15, Pirundae-ro 1-gil, Jongno-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 종로구 필운동 71 1층 서간",
+        "website": "https://seogan.kr",
+        "instagram": "https://www.instagram.com/seogan.kr",
+        "kakaoMaps": "http://place.map.kakao.com/833110637",
+        "googleMaps": "https://maps.google.com/?cid=15146904272610623542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://map.naver.com/p/entry/place/1806171280?placePath=%2Fhome",
+        "events": [
+          {
+            "showdeeId": "3167",
+            "source": "showdee",
+            "artists": [
+              "지윤해",
+              "차울"
+            ],
+            "location": "서간",
+            "startTime": "2025-09-27T17:00:00",
+            "date": "2025-09-27",
+            "eventUrl": "https://www.instagram.com/p/DOcjPPrk6lg/",
+            "entry": "예매 정보 링크"
+          },
+          {
+            "showdeeId": "3194",
+            "source": "showdee",
+            "artists": [
+              "지윤해",
+              "차울"
+            ],
+            "location": "서간",
+            "startTime": "2025-09-28T17:00:00",
+            "date": "2025-09-28",
+            "eventUrl": "https://www.instagram.com/p/DOcjPPrk6lg/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
     }
   ]
 }
