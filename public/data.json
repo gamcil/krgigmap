@@ -720,19 +720,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1476560900",
         "events": [
           {
-            "showdeeId": "3130",
-            "source": "showdee",
-            "artists": [
-              "오영",
-              "Boxy Tarantula"
-            ],
-            "location": "언플러그드 라운지",
-            "startTime": "2025-09-22T20:00:00",
-            "date": "2025-09-22",
-            "eventUrl": "https://www.instagram.com/p/DOV0i_LE9M0/",
-            "entry": "예매 정보 링크"
-          },
-          {
             "showdeeId": "3140",
             "source": "showdee",
             "artists": [
@@ -1728,18 +1715,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1196131538",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3133",
-            "source": "showdee",
-            "artists": [
-              "피어"
-            ],
-            "location": "클럽온에어",
-            "startTime": "2025-09-22T20:00:00",
-            "date": "2025-09-22",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211909",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3243",
             "source": "showdee",
@@ -5258,6 +5233,21 @@
             ],
             "source": "ra",
             "ra_id": 140937
+          },
+          {
+            "date": "2025-10-02T00:00:00.000",
+            "startTime": "2025-10-02T22:00:00.000",
+            "endTime": "2025-10-03T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2264928",
+            "title": "HI-NRG",
+            "location": "Modeci",
+            "artists": [
+              "DJ Co.kr",
+              "Quandol",
+              "Jayhan 2000"
+            ],
+            "source": "ra",
+            "ra_id": 140937
           }
         ]
       }
@@ -5542,7 +5532,22 @@
         "kakaoMaps": "http://place.map.kakao.com/1929678823",
         "googleMaps": "https://maps.google.com/?cid=1589411198267313265&g_mp=EAAYBCAA",
         "naverMaps": "https://www.instagram.com/morene__sukha/",
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-28T00:00:00.000",
+            "startTime": "2025-09-28T18:00:00.000",
+            "endTime": "2025-09-28T20:30:00.000",
+            "eventUrl": "https://ra.co/events/2264642",
+            "title": "Tasho Ishi (PRESTO!?, MILAN), Arexibo, Mount XLR",
+            "location": "Morene Sukha",
+            "artists": [
+              "Tasho Ishi",
+              "Mount XLR",
+              "Arexibo"
+            ],
+            "source": "ra"
+          }
+        ]
       }
     },
     {
@@ -6855,20 +6860,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3131",
-            "source": "showdee",
-            "artists": [
-              "피에타",
-              "D82",
-              "더베인"
-            ],
-            "location": "롤링홀",
-            "startTime": "2025-09-22T20:00:00",
-            "date": "2025-09-22",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211850",
-            "entry": "예매 링크"
-          },
-          {
             "showdeeId": "3161",
             "source": "showdee",
             "artists": [
@@ -7069,20 +7060,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1336128827",
         "ra_id": 155706,
         "events": [
-          {
-            "showdeeId": "3129",
-            "source": "showdee",
-            "artists": [
-              "파사드",
-              "지베뉴",
-              "이피"
-            ],
-            "location": "생기 스튜디오",
-            "startTime": "2025-09-22T20:00:00",
-            "date": "2025-09-22",
-            "eventUrl": "https://www.instagram.com/p/DOV5hqngdTP/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "3154",
             "source": "showdee",
@@ -9932,6 +9909,49 @@
             ],
             "source": "ra",
             "ra_id": 220595
+          },
+          {
+            "date": "2025-10-04T00:00:00.000",
+            "startTime": "2025-10-04T23:00:00.000",
+            "endTime": "2025-10-05T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2265148",
+            "title": "Invites Andrew James Gustav",
+            "location": "teller",
+            "artists": [
+              "Andrew James Gustav",
+              "Lyumin",
+              ".2ndfloor"
+            ],
+            "source": "ra",
+            "ra_id": 220595
+          },
+          {
+            "date": "2025-10-08T00:00:00.000",
+            "startTime": "2025-10-08T23:00:00.000",
+            "endTime": "2025-10-09T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2265149",
+            "title": "Invites Kino",
+            "location": "teller",
+            "artists": [
+              "KINO (UY)",
+              "Young Sun"
+            ],
+            "source": "ra",
+            "ra_id": 220595
+          },
+          {
+            "date": "2025-10-10T00:00:00.000",
+            "startTime": "2025-10-10T23:00:00.000",
+            "endTime": "2025-10-11T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2265152",
+            "title": "Invites DJ Masda",
+            "location": "teller",
+            "artists": [
+              "DJ Masda",
+              "Mihak"
+            ],
+            "source": "ra",
+            "ra_id": 220595
           }
         ]
       }
@@ -10490,6 +10510,23 @@
             "ra_id": 70614
           },
           {
+            "date": "2025-10-16T00:00:00.000",
+            "startTime": "2025-10-16T22:00:00.000",
+            "endTime": "2025-10-17T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2264655",
+            "title": "Thursday Club with Fliss Mayo & St. Amp",
+            "location": "Cakeshop",
+            "artists": [
+              "Fliss Mayo",
+              "St. Amp",
+              "NIMNOI",
+              "Nimvy",
+              "Tabris"
+            ],
+            "source": "ra",
+            "ra_id": 70614
+          },
+          {
             "date": "2025-11-01T00:00:00.000",
             "startTime": "2025-11-01T22:00:00.000",
             "endTime": "2025-11-02T06:00:00.000",
@@ -10571,6 +10608,21 @@
               "Aiken",
               "Djilogue",
               "OYYMMIT"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
+            "date": "2025-10-04T00:00:00.000",
+            "startTime": "2025-10-04T23:00:00.000",
+            "endTime": "2025-10-05T05:30:00.000",
+            "eventUrl": "https://ra.co/events/2264780",
+            "title": "Salix",
+            "location": "vurt.",
+            "artists": [
+              "Jama (2)",
+              "Zorba",
+              "Deekay"
             ],
             "source": "ra",
             "ra_id": 101673
@@ -10812,7 +10864,37 @@
         "kakaoMaps": "https://place.map.kakao.com/1467508620",
         "naverMaps": "https://map.naver.com/p/entry/place/2074498239",
         "ra_id": 262068,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-26T00:00:00.000",
+            "startTime": "2025-09-26T23:59:00.000",
+            "endTime": "2025-09-27T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2265007",
+            "title": "Hertz 헤르츠 meets: Baldo (ES, Subwax) Acidwork Chanbin",
+            "location": "Hertz",
+            "artists": [
+              "Baldo",
+              "Acidwork"
+            ],
+            "source": "ra",
+            "ra_id": 262068
+          },
+          {
+            "date": "2025-09-27T00:00:00.000",
+            "startTime": "2025-09-27T23:59:00.000",
+            "endTime": "2025-09-28T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2265014",
+            "title": "Hertz 헤르츠: *Clique Records Nights - with Isoz Aso J.U.N.E Odd J",
+            "location": "Hertz",
+            "artists": [
+              "Isoz",
+              "Aso.",
+              "J.U.N.E"
+            ],
+            "source": "ra",
+            "ra_id": 262068
+          }
+        ]
       }
     },
     {
@@ -11579,7 +11661,42 @@
         "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/xY4sFFgP",
         "ra_id": 267778,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-26T00:00:00.000",
+            "startTime": "2025-09-26T21:00:00.000",
+            "endTime": "2025-09-28T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2264628",
+            "title": "Waikiki Utopia 'RUNNING CREW'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "H93 (KR)",
+              "TERRA (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "HARRY SPARKL"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          },
+          {
+            "date": "2025-09-27T00:00:00.000",
+            "startTime": "2025-09-26T21:00:00.000",
+            "endTime": "2025-09-28T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2264628",
+            "title": "Waikiki Utopia 'RUNNING CREW'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "H93 (KR)",
+              "TERRA (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "HARRY SPARKL"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          }
+        ]
       }
     },
     {
@@ -11753,18 +11870,6 @@
         "kakaoMaps": "http://place.map.kakao.com/1315457525",
         "naverMaps": "https://naver.me/FhU0bsR4",
         "events": [
-          {
-            "showdeeId": "3132",
-            "source": "showdee",
-            "artists": [
-              "시인을 위하여"
-            ],
-            "location": "숲세권 라이브",
-            "startTime": "2025-09-22T20:00:00",
-            "date": "2025-09-22",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211899",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3210",
             "source": "showdee",
