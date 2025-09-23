@@ -13905,6 +13905,41 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0644778,
+          35.1566047
+        ]
+      },
+      "properties": {
+        "name_ko": "유리겔라",
+        "name": "Uri Geller",
+        "address_ko": "부산광역시 부산진구 전포대로223번길 14 B1",
+        "address": "14, Jeonpo-daero 223beon-gil, Busanjin-gu, Busan, Republic of Korea",
+        "address_jibun": "부산광역시 부산진구 전포동 671-6 B1",
+        "instagram": "https://www.instagram.com/urigeller.35.15660.129.06448/",
+        "kakaoMaps": "https://place.map.kakao.com/727945231",
+        "naverMaps": "https://naver.me/xSFkkCsb",
+        "events": [
+          {
+            "date": "2025-09-27T00:00:00.000",
+            "startTime": "2025-09-27T20:00:00.000",
+            "endTime": "2025-09-28T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2264405",
+            "title": "enTranced by: melody",
+            "location": "Urigeller",
+            "artists": [
+              "HASHTAGPOPE",
+              "Tabris"
+            ],
+            "source": "ra"
+          }
+        ]
+      }
     }
   ]
 }
