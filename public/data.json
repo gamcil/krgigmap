@@ -232,6 +232,20 @@
         "ra_id": 127189,
         "events": [
           {
+            "date": "2025-09-25T00:00:00.000",
+            "startTime": "2025-09-25T21:00:00.000",
+            "endTime": "2025-09-26T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2265866",
+            "title": "bio/acc V4: Synthetic Seoul",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "MUSHXXX",
+              "KOLLIN"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          },
+          {
             "date": "2025-10-04T00:00:00.000",
             "startTime": "2025-10-04T22:00:00.000",
             "endTime": "2025-10-05T06:00:00.000",
@@ -3203,22 +3217,7 @@
         "googleMaps": "https://maps.google.com/?cid=3605372474081004137",
         "naverMaps": "https://map.naver.com/p/entry/place/1735781356",
         "ra_id": null,
-        "events": [
-          {
-            "showdeeId": "3137",
-            "source": "showdee",
-            "artists": [
-              "인페이즈",
-              "언더독",
-              "네미시스"
-            ],
-            "location": "플렉스홀 3호점",
-            "startTime": "2025-09-23T20:00:00",
-            "date": "2025-09-23",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211851",
-            "entry": "예매 링크"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -4402,18 +4401,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3135",
-            "source": "showdee",
-            "artists": [
-              "프리카인드"
-            ],
-            "location": "제비다방",
-            "startTime": "2025-09-23T20:00:00",
-            "date": "2025-09-23",
-            "eventUrl": "https://www.ctrplus.com/jebi",
-            "entry": "무료입장 자율페이"
-          },
-          {
             "showdeeId": "3144",
             "source": "showdee",
             "artists": [
@@ -4620,6 +4607,20 @@
             "date": "2025-10-25",
             "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211994",
             "entry": "예매 링크"
+          },
+          {
+            "date": "2025-10-11T00:00:00.000",
+            "startTime": "2025-10-11T13:00:00.000",
+            "endTime": "2025-10-11T18:00:00.000",
+            "eventUrl": "https://ra.co/events/2265800",
+            "title": "KOLLEKTIV NOIR [LIVE] 1",
+            "location": "Kt&g Sangsangmadang Chuncheon",
+            "artists": [
+              "ZOEHAN",
+              "Minjoon",
+              "Leejunghyuk"
+            ],
+            "source": "ra"
           }
         ]
       }
@@ -5989,7 +5990,22 @@
         "googleMaps": "https://maps.google.com/?cid=16860899073188708708",
         "naverMaps": "https://map.naver.com/p/entry/place/1366856505",
         "ra_id": 227077,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-27T00:00:00.000",
+            "startTime": "2025-09-27T21:00:00.000",
+            "endTime": "2025-09-28T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2265333",
+            "title": "한잔애: HANJANAE— A TOAST TO LOVE",
+            "location": "Nué Seoul",
+            "artists": [
+              "Slowmouth",
+              "Gumgo"
+            ],
+            "source": "ra",
+            "ra_id": 227077
+          }
+        ]
       }
     },
     {
@@ -6018,12 +6034,14 @@
             "startTime": "2025-09-26T23:00:00.000",
             "endTime": "2025-09-27T06:00:00.000",
             "eventUrl": "https://ra.co/events/2255164",
-            "title": "Nyapi 3rd Anniversary",
+            "title": "Nyapi 3rd Anniversary w/ Powder (JP)",
             "location": "Nyapi",
             "artists": [
               "Powder",
-              "5ive",
-              "CHIDA"
+              "Kyper",
+              "Jimin",
+              "Yeonju",
+              "Youknowsong"
             ],
             "source": "ra",
             "ra_id": 203289
@@ -6033,12 +6051,16 @@
             "startTime": "2025-09-27T23:00:00.000",
             "endTime": "2025-09-28T06:00:00.000",
             "eventUrl": "https://ra.co/events/2255165",
-            "title": "Nyapi 3rd Anniversary",
+            "title": "Nyapi 3rd Anniversary w/ Mascaras (CHIDA & 5ive / JP)",
             "location": "Nyapi",
             "artists": [
-              "Powder (DE)",
               "5ive",
-              "CHIDA"
+              "CHIDA",
+              "FFAN",
+              "Mimiq (2)",
+              "Juncheol",
+              "Kugel",
+              "DJ Jinwook"
             ],
             "source": "ra",
             "ra_id": 203289
@@ -8133,22 +8155,7 @@
         "googleMaps": "https://maps.google.com/?cid=4431162103475215003",
         "naverMaps": "https://map.naver.com/p/entry/place/38015320",
         "ra_id": 138268,
-        "events": [
-          {
-            "showdeeId": "3136",
-            "source": "showdee",
-            "artists": [
-              "Elements of Dust",
-              "두억시니",
-              "Heili"
-            ],
-            "location": "스트레인지 프룻",
-            "startTime": "2025-09-23T20:00:00",
-            "date": "2025-09-23",
-            "eventUrl": "https://www.instagram.com/p/DOU2PBnDw1k/",
-            "entry": "현장 예매"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -8807,6 +8814,17 @@
               "Minji",
               "YH (KR)"
             ],
+            "source": "ra",
+            "ra_id": 260734
+          },
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-18T20:00:00.000",
+            "endTime": "2025-10-19T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2265810",
+            "title": "[BLIND TICKET] UNDERCITY presents SECRET ARTIST (DRUMCODE/FILTH ON ACID)",
+            "location": "UNDERCITY",
+            "artists": [],
             "source": "ra",
             "ra_id": 260734
           }
@@ -10216,6 +10234,19 @@
             ],
             "source": "ra",
             "ra_id": 245277
+          },
+          {
+            "date": "2025-10-12T00:00:00.000",
+            "startTime": "2025-10-12T19:00:00.000",
+            "endTime": "2025-10-12T20:00:00.000",
+            "eventUrl": "https://ra.co/events/2265339",
+            "title": "SOUND JIHA : DGURU",
+            "location": "Thila Ground",
+            "artists": [
+              "dguru"
+            ],
+            "source": "ra",
+            "ra_id": 245277
           }
         ]
       }
@@ -10602,7 +10633,7 @@
             "startTime": "2025-10-03T23:00:00.000",
             "endTime": "2025-10-04T06:00:00.000",
             "eventUrl": "https://ra.co/events/2264417",
-            "title": "Ancient Future with Aiken (Timeline / Madrid)",
+            "title": "Ancient Future with Aiken (Timeline / Spain)",
             "location": "vurt.",
             "artists": [
               "Aiken",
@@ -11196,7 +11227,53 @@
         "kakaoMaps": "http://place.map.kakao.com/948096615",
         "googleMaps": "https://maps.google.com/?cid=17441298849254633058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "ra_id": 225363,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-25T00:00:00.000",
+            "startTime": "2025-09-25T23:00:00.000",
+            "endTime": "2025-09-26T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2265270",
+            "title": "Hender & Friends",
+            "location": "Arga",
+            "artists": [
+              "Hender",
+              "Millim"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          },
+          {
+            "date": "2025-09-26T00:00:00.000",
+            "startTime": "2025-09-26T23:00:00.000",
+            "endTime": "2025-09-27T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2265272",
+            "title": "Dancing neighbor",
+            "location": "Arga",
+            "artists": [
+              "HAGY",
+              "Muyeol",
+              "Sun of June",
+              "Moeuv"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          },
+          {
+            "date": "2025-09-27T00:00:00.000",
+            "startTime": "2025-09-27T23:00:00.000",
+            "endTime": "2025-09-28T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2265274",
+            "title": "Masters",
+            "location": "Arga",
+            "artists": [
+              "RTRP",
+              "dguru",
+              "Youngisland"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          }
+        ]
       }
     },
     {
@@ -11319,9 +11396,9 @@
             "location": "Luka",
             "artists": [
               "VCL (FR)",
+              "VERSION 34",
               "D.E.F",
-              "ZENA (KR)",
-              "BEATTEKNIKS"
+              "ZENA (KR)"
             ],
             "source": "ra",
             "ra_id": 242471
@@ -13424,20 +13501,7 @@
         "instagram": "https://www.instagram.com/walden_samgeori",
         "kakaoMaps": "http://place.map.kakao.com/1840248202",
         "naverMaps": "https://naver.me/58NfisQm",
-        "events": [
-          {
-            "showdeeId": "3134",
-            "source": "showdee",
-            "artists": [
-              "김두수"
-            ],
-            "location": "김포 월든삼거리",
-            "startTime": "2025-09-23T20:00:00",
-            "date": "2025-09-23",
-            "eventUrl": "https://blog.naver.com/kbollin/223981959809",
-            "entry": "예매 정보 링크"
-          }
-        ]
+        "events": []
       }
     },
     {
