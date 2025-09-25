@@ -15142,6 +15142,218 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0261483,
+          35.1035075
+        ]
+      },
+      "properties": {
+        "name_ko": "코스모스 달",
+        "name": "Cafe Cosmosdal",
+        "address_ko": "부산광역시 중구 흑교로46번길 10-2 1층",
+        "address": "10-2, Heukgyo-ro 46beon-gil, Jung-gu, Busan, Republic of Korea",
+        "address_jibun": "부산광역시 중구 보수동1가 125-21 1층",
+        "instagram": "https://www.instagram.com/cosmosdal",
+        "kakaoMaps": "http://place.map.kakao.com/538845208",
+        "googleMaps": "https://maps.google.com/?cid=1215840102731003501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/FeXjZ6Jc",
+        "events": [
+          {
+            "showdeeId": "3164",
+            "source": "showdee",
+            "artists": [
+              "김태춘"
+            ],
+            "location": "보수동 코스모스달",
+            "startTime": "2025-09-26T20:00:00",
+            "date": "2025-09-26",
+            "eventUrl": "https://www.instagram.com/p/DO502jXkiwe/",
+            "entry": "현장 예매"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.583475,
+          38.1985154
+        ]
+      },
+      "properties": {
+        "name_ko": "칠성조선소",
+        "name": "Chilsung Boatyard",
+        "address_ko": "강원특별자치도 속초시 중앙로46번길 45 칠성조선소",
+        "address": "45, Jungang-ro 46beon-gil, Sokcho-si, Gangwon-do, Republic of Korea",
+        "address_jibun": "강원특별자치도 속초시 교동 664-110 칠성조선소",
+        "instagram": "https://www.instagram.com/chilsungboatyard/?hl=ko",
+        "kakaoMaps": "http://place.map.kakao.com/945954282",
+        "googleMaps": "https://maps.google.com/?cid=5965350517817799370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/GyYb1eID",
+        "events": [
+          {
+            "showdeeId": "3191",
+            "source": "showdee",
+            "artists": [
+              "구남과여라이딩스텔라"
+            ],
+            "location": "속초 칠성조선소",
+            "startTime": "2025-09-27T19:00:00",
+            "date": "2025-09-27",
+            "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSexw31xb9clT7XHpLiFLST2v9O1ABiZ-2P2NWxVMe2iu_gMLg/viewform",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.937081,
+          36.9647176
+        ]
+      },
+      "properties": {
+        "name_ko": "소셜클럽 아워딜라잇",
+        "name": "Our Delight Social Club",
+        "address_ko": "충청북도 충주시 거룡2길 78 1층",
+        "address": "78, Georyong 2-gil, Chungju-si, Chungcheongbuk-do, Republic of Korea",
+        "address_jibun": "충청북도 충주시 용산동 667 1층",
+        "instagram": "https://www.instagram.com/social_club_od/",
+        "kakaoMaps": "http://place.map.kakao.com/1345852952",
+        "naverMaps": "https://naver.me/F421INOm",
+        "events": [
+          {
+            "showdeeId": "3290",
+            "source": "showdee",
+            "artists": [
+              "구남과여라이딩스텔라",
+              "수코지",
+              "김세영 재즈밴드"
+            ],
+            "location": "충주 소셜클럽 아워딜라잇",
+            "startTime": "2025-10-11T18:00:00",
+            "date": "2025-10-11",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212004",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0682123,
+          35.1695863
+        ]
+      },
+      "properties": {
+        "name_ko": "마스터피스 복합문화공간",
+        "name": "Masterpiece Culture Space",
+        "address_ko": "부산광역시 부산진구 중앙대로 883 지하1층",
+        "address": "883, Jungang-daero, Busanjin-gu, Busan, Republic of Korea",
+        "address_jibun": "부산광역시 부산진구 양정동 402-25 지하1층",
+        "instagram": "https://www.instagram.com/masterpiece_culture_space",
+        "kakaoMaps": "https://place.map.kakao.com/796875518",
+        "naverMaps": "https://naver.me/5yPauktJ",
+        "events": [
+          {
+            "showdeeId": "3337",
+            "source": "showdee",
+            "artists": [
+              "루트49",
+              "문소문",
+              "민주신"
+            ],
+            "location": "마스터피스 복합문화공간",
+            "startTime": "2025-10-19T18:00:00",
+            "date": "2025-10-19",
+            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212011",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1988156,
+          37.2318073
+        ]
+      },
+      "properties": {
+        "name_ko": "용인시문예회관 처인홀",
+        "name": "Yongin Cultural Foundation Cheoin Hall",
+        "address_ko": "경기도 용인시 처인구 김량장동 중부대로1392번길 15",
+        "address_jibun": "경기도 용인시 처인구 김량장동 346",
+        "website": "https://www.yicf.or.kr/mainPage.do",
+        "kakaoMaps": "http://place.map.kakao.com/11475551",
+        "naverMaps": "https://naver.me/5vcib3hq",
+        "events": [
+          {
+            "showdeeId": "3377",
+            "source": "showdee",
+            "artists": [
+              "너드커넥션",
+              "히미츠"
+            ],
+            "location": "용인시문예회관 처인홀",
+            "startTime": "2025-11-08T17:00:00",
+            "date": "2025-11-08",
+            "eventUrl": "https://tickets.interpark.com/goods/25012703",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.989225,
+          37.4280679
+        ]
+      },
+      "properties": {
+        "name_ko": "과천시민회관 소극장",
+        "name": "Gwacheon Foundation for Arts and Culture Little Theater",
+        "address_ko": "경기도 과천시 통영로 5 과천시민회관",
+        "address": "5, Tongyeong-ro, Gwacheon-si, Gyeonggi-do, Republic of Korea",
+        "address_jibun": "경기도 과천시 중앙동 6-2 과천시민회관",
+        "website": "http://www.gcart.or.kr/",
+        "instagram": "https://www.instagram.com/gcartspr21",
+        "kakaoMaps": "http://place.map.kakao.com/11026505",
+        "googleMaps": "https://maps.google.com/?cid=17293584138362377476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/x67WZeR5",
+        "events": [
+          {
+            "showdeeId": "3382",
+            "source": "showdee",
+            "artists": [
+              "서도밴드"
+            ],
+            "location": "과천시민회관 소극장",
+            "startTime": "2025-11-22T17:00:00",
+            "date": "2025-11-22",
+            "eventUrl": "https://tickets.interpark.com/goods/25014106#",
+            "entry": "예매 링크"
+          }
+        ]
+      }
     }
   ]
 }
