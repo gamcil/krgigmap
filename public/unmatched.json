@@ -1,6 +1,32 @@
 [
   {
-    "showdeeId": "3224",
+    "showdeeId": "3164",
+    "source": "showdee",
+    "artists": [
+      "김태춘"
+    ],
+    "location": "보수동 코스모스달",
+    "startTime": "2025-09-26T20:00:00",
+    "date": "2025-09-26",
+    "eventUrl": "https://www.instagram.com/p/DO502jXkiwe/",
+    "entry": "현장 예매",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "3191",
+    "source": "showdee",
+    "artists": [
+      "구남과여라이딩스텔라"
+    ],
+    "location": "속초 칠성조선소",
+    "startTime": "2025-09-27T19:00:00",
+    "date": "2025-09-27",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSexw31xb9clT7XHpLiFLST2v9O1ABiZ-2P2NWxVMe2iu_gMLg/viewform",
+    "entry": "예매 링크",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "3242",
     "source": "showdee",
     "artists": [
       "자우림",
@@ -17,7 +43,7 @@
     "unmatchedReason": "unknown"
   },
   {
-    "showdeeId": "3232",
+    "showdeeId": "3251",
     "source": "showdee",
     "artists": [
       "이츠",
@@ -31,6 +57,63 @@
     "date": "2025-10-04",
     "eventUrl": "https://festivalgm.or.kr/2025/",
     "entry": "무료 입장",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "3290",
+    "source": "showdee",
+    "artists": [
+      "구남과여라이딩스텔라",
+      "수코지",
+      "김세영 재즈밴드"
+    ],
+    "location": "충주 소셜클럽 아워딜라잇",
+    "startTime": "2025-10-11T18:00:00",
+    "date": "2025-10-11",
+    "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212004",
+    "entry": "예매 링크",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "3337",
+    "source": "showdee",
+    "artists": [
+      "루트49",
+      "문소문",
+      "민주신"
+    ],
+    "location": "마스터피스 복합문화공간",
+    "startTime": "2025-10-19T18:00:00",
+    "date": "2025-10-19",
+    "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212011",
+    "entry": "예매 링크",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "3377",
+    "source": "showdee",
+    "artists": [
+      "너드커넥션",
+      "히미츠"
+    ],
+    "location": "용인시문예회관 처인홀",
+    "startTime": "2025-11-08T17:00:00",
+    "date": "2025-11-08",
+    "eventUrl": "https://tickets.interpark.com/goods/25012703",
+    "entry": "예매 링크",
+    "unmatchedReason": "unknown"
+  },
+  {
+    "showdeeId": "3382",
+    "source": "showdee",
+    "artists": [
+      "서도밴드"
+    ],
+    "location": "과천시민회관 소극장",
+    "startTime": "2025-11-22T17:00:00",
+    "date": "2025-11-22",
+    "eventUrl": "https://tickets.interpark.com/goods/25014106#",
+    "entry": "예매 링크",
     "unmatchedReason": "unknown"
   },
   {
@@ -67,5 +150,32 @@
     "artists": [],
     "source": "ra",
     "unmatchedReason": "TBA"
+  },
+  {
+    "date": "2025-09-28T00:00:00.000",
+    "startTime": "2025-09-28T16:00:00.000",
+    "endTime": "2025-09-28T20:00:00.000",
+    "eventUrl": "https://ra.co/events/2266319",
+    "title": "ceiling service vol.7 - Penique Productions [ES]",
+    "location": "TBA - 코사이어티 성수, Cociety Sungsoo",
+    "artists": [
+      "Pyramid of Knowledge",
+      "sooom"
+    ],
+    "source": "ra",
+    "unmatchedReason": "TBA"
+  },
+  {
+    "date": "2025-10-12T00:00:00.000",
+    "startTime": "2025-10-12T19:00:00.000",
+    "endTime": "2025-10-12T20:00:00.000",
+    "eventUrl": "https://ra.co/events/2265339",
+    "title": "SOUND JIHA : DGURU",
+    "location": "Thila Jiha",
+    "artists": [
+      "dguru"
+    ],
+    "source": "ra",
+    "unmatchedReason": "no match"
   }
 ]
