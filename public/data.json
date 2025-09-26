@@ -251,38 +251,6 @@
         "ra_id": 127189,
         "events": [
           {
-            "date": "2025-09-25T00:00:00.000",
-            "startTime": "2025-09-25T20:00:00.000",
-            "endTime": "2025-09-26T04:00:00.000",
-            "eventUrl": "https://ra.co/events/2266334",
-            "title": "[BBCB] bio/acc V4: Synthetic Seoul",
-            "location": "BBCB: Beton Brut+Concrete Bar",
-            "artists": [
-              "VOID (KR)",
-              "Christian Smith",
-              "KOLLIN",
-              "Short Finger",
-              "Closet Yi",
-              "MUSHXXX"
-            ],
-            "source": "ra",
-            "ra_id": 127189
-          },
-          {
-            "date": "2025-09-25T00:00:00.000",
-            "startTime": "2025-09-25T21:00:00.000",
-            "endTime": "2025-09-26T04:00:00.000",
-            "eventUrl": "https://ra.co/events/2265866",
-            "title": "bio/acc V4: Synthetic Seoul",
-            "location": "BBCB: Beton Brut+Concrete Bar",
-            "artists": [
-              "MUSHXXX",
-              "KOLLIN"
-            ],
-            "source": "ra",
-            "ra_id": 127189
-          },
-          {
             "date": "2025-09-26T00:00:00.000",
             "startTime": "2025-09-26T22:00:00.000",
             "endTime": "2025-09-27T06:00:00.000",
@@ -369,6 +337,18 @@
             "ra_id": 198937
           },
           {
+            "date": "2025-09-26T00:00:00.000",
+            "startTime": "2025-09-26T23:59:00.000",
+            "endTime": "2025-09-28T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2267792",
+            "title": "Astral",
+            "location": "Elrow Seoul",
+            "artists": [
+              "You Liang"
+            ],
+            "source": "ra"
+          },
+          {
             "date": "2025-09-27T00:00:00.000",
             "startTime": "2025-09-27T22:00:00.000",
             "endTime": "2025-09-28T06:00:00.000",
@@ -376,6 +356,37 @@
             "title": "BOLERO: A+K1989",
             "location": "Bolero",
             "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-09-27T00:00:00.000",
+            "startTime": "2025-09-26T23:59:00.000",
+            "endTime": "2025-09-28T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2267792",
+            "title": "Astral",
+            "location": "Elrow Seoul",
+            "artists": [
+              "You Liang"
+            ],
+            "source": "ra"
+          },
+          {
+            "date": "2025-10-02T00:00:00.000",
+            "startTime": "2025-10-02T23:59:00.000",
+            "endTime": "2025-10-03T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2266734",
+            "title": "CiliCON 실리콘 with Pangaea (Hessle Audio)",
+            "location": "Bolero",
+            "artists": [
+              "Pangaea",
+              "HYUNHXEE",
+              "givogi",
+              "KIKOH",
+              "KOLLIN",
+              "Apachi",
+              "T.K (KR)"
+            ],
             "source": "ra",
             "ra_id": 198937
           }
@@ -880,19 +891,6 @@
         "googleMaps": "https://maps.google.com/?cid=884018115186850439&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1476560900",
         "events": [
-          {
-            "showdeeId": "3145",
-            "source": "showdee",
-            "artists": [
-              "아스라이",
-              "언더플로우"
-            ],
-            "location": "언플러그드 라운지",
-            "startTime": "2025-09-25T20:00:00",
-            "date": "2025-09-25",
-            "eventUrl": "https://www.instagram.com/p/DN4p__QE1_4/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "3155",
             "source": "showdee",
@@ -1565,21 +1563,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3144",
-            "source": "showdee",
-            "artists": [
-              "odman",
-              "카스테라순애보",
-              "홈스테이",
-              "보드키위스카"
-            ],
-            "location": "클럽빵",
-            "startTime": "2025-09-25T19:30:00",
-            "date": "2025-09-25",
-            "eventUrl": "https://www.instagram.com/p/DO3IMxvEfIT/",
-            "entry": "현장 예매"
-          },
-          {
             "showdeeId": "3153",
             "source": "showdee",
             "artists": [
@@ -1664,21 +1647,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/20917624",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3147",
-            "source": "showdee",
-            "artists": [
-              "네이비이펙트",
-              "넉아웃",
-              "모음",
-              "갈릭파스타 소셜클럽"
-            ],
-            "location": "클럽 FF",
-            "startTime": "2025-09-25T20:00:00",
-            "date": "2025-09-25",
-            "eventUrl": "https://www.instagram.com/p/DOLjeq_EZgC/",
-            "entry": "현장 예매"
-          },
           {
             "showdeeId": "3192",
             "source": "showdee",
@@ -2694,20 +2662,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1465530626",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3148",
-            "source": "showdee",
-            "artists": [
-              "예결밴드",
-              "레고",
-              "원일"
-            ],
-            "location": "클럽 빅팀",
-            "startTime": "2025-09-25T20:00:00",
-            "date": "2025-09-25",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211864",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3189",
             "source": "showdee",
@@ -4862,18 +4816,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3146",
-            "source": "showdee",
-            "artists": [
-              "김성은 전제곤 듀오"
-            ],
-            "location": "제비다방",
-            "startTime": "2025-09-25T20:00:00",
-            "date": "2025-09-25",
-            "eventUrl": "https://www.ctrplus.com/jebi",
-            "entry": "무료입장 자율페이"
-          },
-          {
             "showdeeId": "3160",
             "source": "showdee",
             "artists": [
@@ -6800,7 +6742,30 @@
         "googleMaps": "https://maps.google.com/?cid=8758007913999319309",
         "naverMaps": "https://map.naver.com/p/entry/place/305759101",
         "ra_id": 147098,
-        "events": []
+        "events": [
+          {
+            "date": "2025-09-26T00:00:00.000",
+            "startTime": "2025-09-26T23:00:00.000",
+            "endTime": "2025-09-27T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2267285",
+            "title": "MUSHXXX— Special 3 Hours Long Set",
+            "location": "Output",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 147098
+          },
+          {
+            "date": "2025-09-27T00:00:00.000",
+            "startTime": "2025-09-27T23:00:00.000",
+            "endTime": "2025-09-28T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2267284",
+            "title": "'Output FRIENDS_ [Vocal & Percussion Live Session] S G S Y '",
+            "location": "Output",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 147098
+          }
+        ]
       }
     },
     {
@@ -7067,20 +7032,6 @@
         "googleMaps": "https://maps.google.com/?cid=7514945414668023905&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1074060817",
         "events": [
-          {
-            "showdeeId": "3143",
-            "source": "showdee",
-            "artists": [
-              "크라잉넛",
-              "오오오 (O.O.O)",
-              "피싱걸스"
-            ],
-            "location": "ㅎㄷ카페 루프탑",
-            "startTime": "2025-09-25T18:30:00",
-            "date": "2025-09-25",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211807",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3149",
             "source": "showdee",
@@ -7937,22 +7888,7 @@
         "googleMaps": "https://maps.google.com/?cid=17791490631383192613",
         "naverMaps": "https://map.naver.com/p/entry/place/1195670464",
         "ra_id": 204286,
-        "events": [
-          {
-            "date": "2025-09-25T00:00:00.000",
-            "startTime": "2025-09-25T20:00:00.000",
-            "endTime": "2025-09-26T03:00:00.000",
-            "eventUrl": "https://ra.co/events/2264030",
-            "title": "TACO&DISCO",
-            "location": "Stoked&stoned",
-            "artists": [
-              "Pingpong (KR)",
-              "Gyusco"
-            ],
-            "source": "ra",
-            "ra_id": 204286
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -11890,25 +11826,6 @@
             "ra_id": 262068
           },
           {
-            "date": "2025-10-02T00:00:00.000",
-            "startTime": "2025-10-02T23:59:00.000",
-            "endTime": "2025-10-03T06:00:00.000",
-            "eventUrl": "https://ra.co/events/2266734",
-            "title": "CiliCON 실리콘 with Pangaea (Hessle Audio)",
-            "location": "Hertz",
-            "artists": [
-              "Pangaea",
-              "HYUNHXEE",
-              "givogi",
-              "KIKOH",
-              "KOLLIN",
-              "Apachi",
-              "T.K (KR)"
-            ],
-            "source": "ra",
-            "ra_id": 262068
-          },
-          {
             "date": "2025-10-08T00:00:00.000",
             "startTime": "2025-10-08T23:59:00.000",
             "endTime": "2025-10-09T06:00:00.000",
@@ -12096,21 +12013,6 @@
         "ra_id": 133352,
         "events": [
           {
-            "date": "2025-09-25T00:00:00.000",
-            "startTime": "2025-09-25T21:00:00.000",
-            "endTime": "2025-09-26T02:30:00.000",
-            "eventUrl": "https://ra.co/events/2254161",
-            "title": "THURSDAY Volnost",
-            "location": "Volnost",
-            "artists": [
-              "ComaRobot",
-              "Deekay",
-              "Xanexx"
-            ],
-            "source": "ra",
-            "ra_id": 133352
-          },
-          {
             "date": "2025-09-26T00:00:00.000",
             "startTime": "2025-09-26T23:00:00.000",
             "endTime": "2025-09-27T05:00:00.000",
@@ -12277,20 +12179,6 @@
         "ra_id": 225363,
         "events": [
           {
-            "date": "2025-09-25T00:00:00.000",
-            "startTime": "2025-09-25T23:00:00.000",
-            "endTime": "2025-09-26T05:00:00.000",
-            "eventUrl": "https://ra.co/events/2265270",
-            "title": "Hender & Friends",
-            "location": "Arga",
-            "artists": [
-              "Hender",
-              "Millim"
-            ],
-            "source": "ra",
-            "ra_id": 225363
-          },
-          {
             "date": "2025-09-26T00:00:00.000",
             "startTime": "2025-09-26T23:00:00.000",
             "endTime": "2025-09-27T06:00:00.000",
@@ -12391,9 +12279,9 @@
         "ra_id": 257968,
         "events": [
           {
-            "date": "2025-09-27T00:00:00.000",
-            "startTime": "2025-09-27T23:00:00.000",
-            "endTime": "2025-09-28T06:00:00.000",
+            "date": "2025-09-26T00:00:00.000",
+            "startTime": "2025-09-26T23:00:00.000",
+            "endTime": "2025-09-27T06:00:00.000",
             "eventUrl": "https://ra.co/events/2267297",
             "title": "Bar Piment",
             "location": "Bar Piment",
