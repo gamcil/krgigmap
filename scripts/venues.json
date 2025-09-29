@@ -6201,19 +6201,23 @@
     "_dir": "245_서울_쿤스트카비넷_kunstkabinett"
   },
   {
-    "name": "Thila Ground",
+    "name": "Thila",
+    "name_ko": "틸라 그라운드",
+    "ra_id": 245277,
+    "address_ko": "서울 마포구 토정로9길 2",
+    "address_jibun": "서울 마포구 상수동 354-12",
     "address": "Seoul, Mapo-gu, Tojeong-ro 9-gil, 2 지하 2층",
     "lat": 37.545072999999995,
     "lng": 126.9244752,
     "website": "http://wesa.kr/",
+    "instagram": "https://www.instagram.com/thila.seoul",
     "googleMaps": "https://maps.google.com/?cid=5966426608085257045",
-    "ra_id": 245277,
-    "address_ko": "서울 마포구 토정로9길 2",
     "kakaoMaps": "http://place.map.kakao.com/28358961",
-    "name_ko": "틸라 그라운드",
-    "address_jibun": "서울 마포구 상수동 354-12",
     "naverMaps": "https://map.naver.com/p/entry/place/1696755618",
-    "_dir": "266_서울_틸라그라운드_thilaground"
+    "alias": [
+      "Thila Jiha",
+      "Thila Ground"
+    ]
   },
   {
     "name": "Wavy Seoul",
@@ -8832,5 +8836,22 @@
       "과천시민회관 소극장",
       "과천시민회관 소극장"
     ]
+  },
+  {
+    "name": "Cuco",
+    "name_ko": "쿠코",
+    "address": "12, Achasan-ro 11-gil, Seongdong-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 성동구 아차산로11길 12 진일빌딩 1층",
+    "address_jibun": "서울특별시 성동구 성수동2가 277-169 진일빌딩 1층",
+    "lat": 37.5448882,
+    "lng": 127.0597268,
+    "googleMaps": "https://maps.google.com/?cid=17941402561356665126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "naverMaps": "https://naver.me/FxFtDdfC",
+    "kakaoMaps": "http://place.map.kakao.com/924717447",
+    "alias": [
+      "cuco",
+      "쿠코"
+    ],
+    "instagram": "https://www.instagram.com/cuco.gogo/"
   }
 ]

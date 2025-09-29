@@ -10094,11 +10094,12 @@
       },
       "properties": {
         "name_ko": "틸라 그라운드",
-        "name": "Thila Ground",
+        "name": "Thila",
         "address_ko": "서울 마포구 토정로9길 2",
         "address": "Seoul, Mapo-gu, Tojeong-ro 9-gil, 2 지하 2층",
         "address_jibun": "서울 마포구 상수동 354-12",
         "website": "http://wesa.kr/",
+        "instagram": "https://www.instagram.com/thila.seoul",
         "kakaoMaps": "http://place.map.kakao.com/28358961",
         "googleMaps": "https://maps.google.com/?cid=5966426608085257045",
         "naverMaps": "https://map.naver.com/p/entry/place/1696755618",
@@ -13904,6 +13905,41 @@
             "startTime": "2025-11-22T17:00:00",
             "date": "2025-11-22",
             "eventUrl": "https://tickets.interpark.com/goods/25014106#",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0597268,
+          37.5448882
+        ]
+      },
+      "properties": {
+        "name_ko": "쿠코",
+        "name": "Cuco",
+        "address_ko": "서울특별시 성동구 아차산로11길 12 진일빌딩 1층",
+        "address": "12, Achasan-ro 11-gil, Seongdong-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 성동구 성수동2가 277-169 진일빌딩 1층",
+        "instagram": "https://www.instagram.com/cuco.gogo/",
+        "kakaoMaps": "http://place.map.kakao.com/924717447",
+        "googleMaps": "https://maps.google.com/?cid=17941402561356665126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/FxFtDdfC",
+        "events": [
+          {
+            "showdeeId": "3269",
+            "source": "showdee",
+            "artists": [
+              "까데호"
+            ],
+            "location": "쿠코",
+            "startTime": "2025-10-08T18:00:00",
+            "date": "2025-10-08",
+            "eventUrl": "https://docs.google.com/forms/d/1hIxRCUGuZvnLu5cLDreaOgndYsTL2W4teBC4gLCvS1c/viewform?fbclid=PAZXh0bgNhZW0CMTEAAadzmbEORLRGba6mpRY6XJntviL41YVJSi2WUkNSqW_2VP7oue2IgKcuG6pH6g_aem_OY1xxvJRfZwqfdzOxu9CAw&edit_requested=true",
             "entry": "예매 링크"
           }
         ]
