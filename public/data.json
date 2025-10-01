@@ -933,7 +933,20 @@
         "googleMaps": "https://maps.google.com/?cid=3799715142104239103",
         "naverMaps": "https://map.naver.com/p/entry/place/1289792209",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-11T00:00:00.000",
+            "startTime": "2025-10-11T22:00:00.000",
+            "endTime": "2025-10-12T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2270792",
+            "title": "Billion Beats",
+            "location": "Billion Bar",
+            "artists": [
+              "EMOSI"
+            ],
+            "source": "ra"
+          }
+        ]
       }
     },
     {
@@ -1859,18 +1872,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1937292462",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3229",
-            "source": "showdee",
-            "artists": [
-              "LITVRGT 내한"
-            ],
-            "location": "베이비돌",
-            "startTime": "2025-09-30T20:00:00",
-            "date": "2025-09-30",
-            "eventUrl": "https://www.funlifecrew.info/product-page/liturgy-solo-performance-in-seoul-with-isher",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3262",
             "source": "showdee",
@@ -3155,7 +3156,7 @@
               "Marcal",
               "DAMIE (KR)",
               "NUSNOOM",
-              "hv9 (KR)"
+              "Yuriko (2)"
             ],
             "source": "ra",
             "ra_id": 106806
@@ -3171,7 +3172,8 @@
               "Stann Lumo",
               "Marcus L",
               "Kim Bo Yeon",
-              "rerekat"
+              "rerekat",
+              "hv9 (KR)"
             ],
             "source": "ra",
             "ra_id": 106806
@@ -3478,18 +3480,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/37438798",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3227",
-            "source": "showdee",
-            "artists": [
-              "정제"
-            ],
-            "location": "공상온도",
-            "startTime": "2025-09-30T20:00:00",
-            "date": "2025-09-30",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211928",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3346",
             "source": "showdee",
@@ -6531,7 +6521,33 @@
         "googleMaps": "https://maps.google.com/?cid=10504334388587349733",
         "naverMaps": "https://map.naver.com/p/entry/place/37009058",
         "ra_id": 104589,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-04T00:00:00.000",
+            "startTime": "2025-10-04T21:00:00.000",
+            "endTime": "2025-10-05T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2270921",
+            "title": "Pistil presents Pedro D. Saiz (ES)",
+            "location": "Pistil",
+            "artists": [
+              "Pedro D. Saiz",
+              "Song Youngnam"
+            ],
+            "source": "ra",
+            "ra_id": 104589
+          },
+          {
+            "date": "2025-10-04T00:00:00.000",
+            "startTime": "2025-10-04T23:00:00.000",
+            "endTime": "2025-10-05T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2270975",
+            "title": "PEDRO D. SAIZ",
+            "location": "Pistil",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 104589
+          }
+        ]
       }
     },
     {
@@ -8088,20 +8104,6 @@
         "ra_id": 138268,
         "events": [
           {
-            "showdeeId": "3226",
-            "source": "showdee",
-            "artists": [
-              "Don Mastuo 내한",
-              "삵",
-              "팝엔츠"
-            ],
-            "location": "스트레인지 프룻",
-            "startTime": "2025-09-30T20:00:00",
-            "date": "2025-09-30",
-            "eventUrl": "https://www.instagram.com/p/DOr3XnPD75m/",
-            "entry": "현장 예매"
-          },
-          {
             "showdeeId": "3360",
             "source": "showdee",
             "artists": [
@@ -8758,7 +8760,7 @@
             "startTime": "2025-10-02T20:00:00.000",
             "endTime": "2025-10-03T02:00:00.000",
             "eventUrl": "https://ra.co/events/2261397",
-            "title": "UNDERCITY presents Isabelle Beaucamp",
+            "title": "[CANCELLED] UNDERCITY presents Isabelle Beaucamp",
             "location": "UNDERCITY",
             "artists": [
               "Isabelle Beaucamp",
@@ -8791,9 +8793,14 @@
             "startTime": "2025-10-18T20:00:00.000",
             "endTime": "2025-10-19T03:00:00.000",
             "eventUrl": "https://ra.co/events/2265810",
-            "title": "UNDERCITY presents SECRET ARTIST (DRUMCODE/FILTH ON ACID)",
+            "title": "UNDERCITY presents Mha iri (DRUMCODE/FILTH ON ACID)",
             "location": "UNDERCITY",
-            "artists": [],
+            "artists": [
+              "Mha iri",
+              "Gosha",
+              "LORI (KR)",
+              "Taff"
+            ],
             "source": "ra",
             "ra_id": 260734
           }
@@ -9886,6 +9893,21 @@
         "ra_id": 220595,
         "events": [
           {
+            "date": "2025-10-03T00:00:00.000",
+            "startTime": "2025-10-03T23:00:00.000",
+            "endTime": "2025-10-04T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2271953",
+            "title": "Friday, October 03, 2025",
+            "location": "teller",
+            "artists": [
+              "Nomal",
+              "Jongho",
+              "Mihak"
+            ],
+            "source": "ra",
+            "ra_id": 220595
+          },
+          {
             "date": "2025-10-04T00:00:00.000",
             "startTime": "2025-10-04T23:00:00.000",
             "endTime": "2025-10-05T06:00:00.000",
@@ -10497,7 +10519,7 @@
             "startTime": "2025-10-18T22:00:00.000",
             "endTime": "2025-10-19T05:00:00.000",
             "eventUrl": "https://ra.co/events/2269336",
-            "title": "Seoul footwork presents: Royalties",
+            "title": "Seoul Footwork presents: TALARIA with DJ Spinn & Traxman (TEKLIFE / Chicago)",
             "location": "Cakeshop",
             "artists": [
               "DJ Spinn",
@@ -10592,6 +10614,21 @@
               "fleika",
               "Marie Pravda",
               "Inger"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
+            "date": "2025-10-10T00:00:00.000",
+            "startTime": "2025-10-10T23:00:00.000",
+            "endTime": "2025-10-11T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2270827",
+            "title": "17[seventeen]",
+            "location": "vurt.",
+            "artists": [
+              "SUZAN (2)",
+              "ANSOL",
+              "SJK (1)"
             ],
             "source": "ra",
             "ra_id": 101673
@@ -11094,6 +11131,19 @@
         "googleMaps": "https://maps.google.com/?cid=528081830924855418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "ra_id": 133352,
         "events": [
+          {
+            "date": "2025-10-02T00:00:00.000",
+            "startTime": "2025-10-02T21:00:00.000",
+            "endTime": "2025-10-03T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2271025",
+            "title": "Thursday Volnost",
+            "location": "Volnost",
+            "artists": [
+              "odkis"
+            ],
+            "source": "ra",
+            "ra_id": 133352
+          },
           {
             "date": "2025-10-03T00:00:00.000",
             "startTime": "2025-10-03T23:00:00.000",
@@ -11998,18 +12048,6 @@
         "kakaoMaps": "http://place.map.kakao.com/1315457525",
         "naverMaps": "https://naver.me/FhU0bsR4",
         "events": [
-          {
-            "showdeeId": "3228",
-            "source": "showdee",
-            "artists": [
-              "예빛"
-            ],
-            "location": "숲세권 라이브",
-            "startTime": "2025-09-30T20:00:00",
-            "date": "2025-09-30",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211937",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3295",
             "source": "showdee",
@@ -13940,20 +13978,7 @@
         "website": "http://www.ebsspace.com/",
         "kakaoMaps": "http://place.map.kakao.com/651017060",
         "naverMaps": "https://naver.me/IItJXNWc",
-        "events": [
-          {
-            "showdeeId": "3225",
-            "source": "showdee",
-            "artists": [
-              "키라라"
-            ],
-            "location": "EBS 스페이스 홀",
-            "startTime": "2025-09-30T20:00:00",
-            "date": "2025-09-30",
-            "eventUrl": "https://www.instagram.com/p/DOqEUvogHKA/",
-            "entry": "무료 사전 신청"
-          }
-        ]
+        "events": []
       }
     },
     {
