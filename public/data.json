@@ -971,20 +971,7 @@
         "googleMaps": "https://maps.google.com/?cid=3799715142104239103",
         "naverMaps": "https://map.naver.com/p/entry/place/1289792209",
         "ra_id": null,
-        "events": [
-          {
-            "date": "2025-10-11T00:00:00.000",
-            "startTime": "2025-10-11T22:00:00.000",
-            "endTime": "2025-10-12T05:00:00.000",
-            "eventUrl": "https://ra.co/events/2270792",
-            "title": "Billion Beats",
-            "location": "Billion Bar",
-            "artists": [
-              "EMOSI"
-            ],
-            "source": "ra"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -16534,6 +16521,254 @@
             "artists": [],
             "source": "ra",
             "ra_id": 210171
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7256179,
+          37.5107694
+        ]
+      },
+      "properties": {
+        "name_ko": "부평문화사랑방",
+        "name": "Bupyeong Culture Sarangbang",
+        "address_ko": "인천광역시 부평구 주부토로 173",
+        "address": "173, Jubuto-ro, Bupyeong-gu, Incheon, Republic of Korea",
+        "address_jibun": "인천광역시 부평구 갈산동 365-1",
+        "kakaoMaps": "http://place.map.kakao.com/9796454",
+        "naverMaps": "https://naver.me/FLyLo7YB",
+        "events": [
+          {
+            "showdeeId": "3399",
+            "source": "showdee",
+            "artists": [
+              "김두수",
+              "이정선"
+            ],
+            "location": "부평문화사랑방",
+            "startTime": "2025-10-18T18:00:00",
+            "date": "2025-10-18",
+            "eventUrl": "https://tickets.interpark.com/goods/25014267",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.988274,
+          37.5388608
+        ]
+      },
+      "properties": {
+        "name_ko": "타코 아미고",
+        "name": "Taco Amigo",
+        "address_ko": "서울특별시 용산구 회나무로 13 2층, 3층",
+        "address": "13, Hoenamu-ro, Yongsan-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 용산구 이태원동 305-5 2층, 3층",
+        "website": "http://tacoamigokorea.com/",
+        "kakaoMaps": "http://place.map.kakao.com/8111953",
+        "googleMaps": "https://maps.google.com/?cid=17426059292325409548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/5wWeKlkR",
+        "events": [
+          {
+            "showdeeId": "3411",
+            "source": "showdee",
+            "artists": [
+              "지애",
+              "신아영 (이파란)",
+              "이서현"
+            ],
+            "location": "타코아미고",
+            "startTime": "2025-10-18T20:00:00",
+            "date": "2025-10-18",
+            "eventUrl": "https://muzikey.com/events/320f1851-9d79-4933-a569-431eac1d6cb6",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.289461,
+          33.4288029
+        ]
+      },
+      "properties": {
+        "name_ko": "재주도좋아",
+        "name": "Jaejudojoa",
+        "address_ko": "제주특별자치도 제주시 한림읍 귀덕6길 192",
+        "address": "192, Gwideok 6-gil, Hallim-eup, Jeju-si, Jeju-do, Republic of Korea",
+        "address_jibun": "제주특별자치도 제주시 한림읍 귀덕리 2488",
+        "website": "http://www.jaejudojoa.com/",
+        "instagram": "https://www.instagram.com/jaejudojoa",
+        "kakaoMaps": "http://place.map.kakao.com/1259089054",
+        "googleMaps": "https://maps.google.com/?cid=14660081502666030763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/xBwHemac",
+        "events": [
+          {
+            "showdeeId": "3509",
+            "source": "showdee",
+            "artists": [
+              "장들레"
+            ],
+            "location": "제주 재주도좋아",
+            "startTime": "2025-11-01T18:00:00",
+            "date": "2025-11-01",
+            "eventUrl": "https://booking.naver.com/booking/12/bizes/258117/items/7112363?startDateTime=2025-11-01T00%3A00%3A00%2B09%3A00&tab=book",
+            "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "3523",
+            "source": "showdee",
+            "artists": [
+              "김목인"
+            ],
+            "location": "제주 재주도좋아",
+            "startTime": "2025-11-08T18:00:00",
+            "date": "2025-11-08",
+            "eventUrl": "https://booking.naver.com/booking/12/bizes/258117/items/7112487?startDateTime=2025-11-08T00%3A00%3A00%2B09%3A00",
+            "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "3535",
+            "source": "showdee",
+            "artists": [
+              "여유와 설빈"
+            ],
+            "location": "제주 재주도좋아",
+            "startTime": "2025-11-15T18:00:00",
+            "date": "2025-11-15",
+            "eventUrl": "https://booking.naver.com/booking/12/bizes/258117/items/7112545?startDateTime=2025-11-15T00%3A00%3A00%2B09%3A00",
+            "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "3542",
+            "source": "showdee",
+            "artists": [
+              "이아립"
+            ],
+            "location": "제주 재주도좋아",
+            "startTime": "2025-11-22T18:00:00",
+            "date": "2025-11-22",
+            "eventUrl": "https://booking.naver.com/booking/12/bizes/258117/items/7112557?startDateTime=2025-11-22T00%3A00%3A00%2B09%3A00",
+            "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "3547",
+            "source": "showdee",
+            "artists": [
+              "권나무"
+            ],
+            "location": "제주 재주도좋아",
+            "startTime": "2025-11-29T18:00:00",
+            "date": "2025-11-29",
+            "eventUrl": "https://booking.naver.com/booking/12/bizes/258117/items/7112572?startDateTime=2025-11-29T00%3A00%3A00%2B09%3A00",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.5976674,
+          35.8696999
+        ]
+      },
+      "properties": {
+        "name_ko": "2.28기념중앙공원",
+        "name": "2.28 Jungang Memorial Park",
+        "address_ko": "대구광역시 중구 동성로2길 80",
+        "address": "80, Dongseong-ro 2-gil, Jung-gu, Daegu, Republic of Korea",
+        "address_jibun": "대구광역시 중구 공평동 15",
+        "kakaoMaps": "http://place.map.kakao.com/17566252",
+        "googleMaps": "https://maps.google.com/?cid=275341595603687619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/xP8mXcTL",
+        "events": [
+          {
+            "showdeeId": "3518",
+            "source": "showdee",
+            "artists": [
+              "이내꿈",
+              "비제로"
+            ],
+            "location": "대구 228기념중앙공원",
+            "startTime": "2025-11-07T15:00:00",
+            "date": "2025-11-07",
+            "eventUrl": "https://www.instagram.com/p/DPWKUMOkwtl/",
+            "entry": "버스킹"
+          },
+          {
+            "showdeeId": "3524",
+            "source": "showdee",
+            "artists": [
+              "쏘노로스",
+              "GR2N!",
+              "퍼플오션",
+              "하즈"
+            ],
+            "location": "대구 228기념중앙공원",
+            "startTime": "2025-11-08T18:00:00",
+            "date": "2025-11-08",
+            "eventUrl": "https://www.instagram.com/p/DPWKUMOkwtl/",
+            "entry": "버스킹"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9225184,
+          37.5530947
+        ]
+      },
+      "properties": {
+        "name_ko": "마익스 케빈",
+        "name": "Mike's Cabin",
+        "address_ko": "서울특별시 마포구 어울마당로 94-13 마법의 성",
+        "address": "94-13, Eoulmadang-ro, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 서교동 358-110 마법의 성",
+        "instagram": "https://www.instagram.com/mikescabinhongdae",
+        "kakaoMaps": "http://place.map.kakao.com/24065724",
+        "googleMaps": "https://maps.google.com/?cid=1035231274614168110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/x9BxTbqP",
+        "ra_id": 275467,
+        "events": [
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-18T22:00:00.000",
+            "endTime": "2025-10-19T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2267670",
+            "title": "KORE DNB SEOUL 2ND ANNIVERSARY",
+            "location": "Mike's Cabin",
+            "artists": [
+              "KEiTA",
+              "Navi",
+              "AUBE",
+              "YUNI",
+              "Xeomi",
+              "Jamjari",
+              "Deletable"
+            ],
+            "source": "ra",
+            "ra_id": 275467
           }
         ]
       }
