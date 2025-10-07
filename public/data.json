@@ -266,6 +266,22 @@
             "ra_id": 198937
           },
           {
+            "date": "2025-10-11T00:00:00.000",
+            "startTime": "2025-10-11T22:00:00.000",
+            "endTime": "2025-10-12T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2276103",
+            "title": "BOLERO: BIT EP.3",
+            "location": "Bolero",
+            "artists": [
+              "Austen",
+              "FAKEDEEPLEE",
+              "Keenote",
+              "DJ POOL"
+            ],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
             "date": "2025-10-17T00:00:00.000",
             "startTime": "2025-10-17T22:00:00.000",
             "endTime": "2025-10-18T05:00:00.000",
@@ -4493,7 +4509,22 @@
         "googleMaps": "https://maps.google.com/?cid=14110179934710968218",
         "naverMaps": "https://map.naver.com/p/entry/place/1277828060",
         "ra_id": 232880,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-24T00:00:00.000",
+            "startTime": "2025-10-24T19:00:00.000",
+            "endTime": "2025-10-25T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2266249",
+            "title": "BeLowFreq",
+            "location": "1nfinity Club",
+            "artists": [
+              "Ondea",
+              "SANSHITA"
+            ],
+            "source": "ra",
+            "ra_id": 232880
+          }
+        ]
       }
     },
     {
@@ -5766,7 +5797,22 @@
         "googleMaps": "https://maps.google.com/?cid=11447821975425180152",
         "naverMaps": "https://map.naver.com/p/entry/place/1008218783",
         "ra_id": 140937,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-18T22:00:00.000",
+            "endTime": "2025-10-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2275802",
+            "title": "[FROM DEEP] with DJ Spinna",
+            "location": "Modeci",
+            "artists": [
+              "JAE SANG",
+              "DJ Spinna"
+            ],
+            "source": "ra",
+            "ra_id": 140937
+          }
+        ]
       }
     },
     {
@@ -7988,49 +8034,6 @@
         "ra_id": 204286,
         "events": [
           {
-            "date": "2025-10-06T00:00:00.000",
-            "startTime": "2025-10-06T20:00:00.000",
-            "endTime": "2025-10-07T02:00:00.000",
-            "eventUrl": "https://ra.co/events/2272327",
-            "title": "Stoked&stoned 6 OCT - 12 OCT",
-            "location": "Stoked&stoned",
-            "artists": [
-              "Youngseok",
-              "Gyusco",
-              "Leo Leonski",
-              "Jimin",
-              "DJ SIN",
-              "Gumi",
-              "Imogene",
-              "TRUEUNSOL",
-              "Hokyung",
-              "Nolove",
-              "Airbear",
-              "Jiwoo Ahn",
-              "Moeuv",
-              "Conan",
-              "Robbie Akbal",
-              "Nuyad"
-            ],
-            "source": "ra",
-            "ra_id": 204286
-          },
-          {
-            "date": "2025-10-06T00:00:00.000",
-            "startTime": "2025-10-06T20:00:00.000",
-            "endTime": "2025-10-07T03:00:00.000",
-            "eventUrl": "https://ra.co/events/2274844",
-            "title": "Leo Leoski",
-            "location": "Stoked&stoned",
-            "artists": [
-              "Leo Leonski",
-              "Sebibadboy",
-              "Gyusco"
-            ],
-            "source": "ra",
-            "ra_id": 204286
-          },
-          {
             "date": "2025-10-07T00:00:00.000",
             "startTime": "2025-10-07T23:00:00.000",
             "endTime": "2025-10-08T06:00:00.000",
@@ -8051,6 +8054,20 @@
             "endTime": "2025-10-09T04:30:00.000",
             "eventUrl": "https://ra.co/events/2273161",
             "title": "STOKED&STONED",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Gyusco",
+              "Imogene"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-10-08T00:00:00.000",
+            "startTime": "2025-10-08T20:00:00.000",
+            "endTime": "2025-10-09T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2275403",
+            "title": "House Bakery with Wine Bargain",
             "location": "Stoked&stoned",
             "artists": [
               "Gyusco",
@@ -8100,6 +8117,22 @@
               "Moeuv",
               "Conan",
               "Robbie Akbal",
+              "Gyusco"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-10-11T00:00:00.000",
+            "startTime": "2025-10-11T20:00:00.000",
+            "endTime": "2025-10-12T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2275401",
+            "title": "Robbie Akbal",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Robbie Akbal",
+              "Conan",
+              "Moeuv",
               "Gyusco"
             ],
             "source": "ra",
@@ -11878,7 +11911,39 @@
             "title": "vurtnight with Feral LIVE",
             "location": "vurt.",
             "artists": [
-              "Feral"
+              "Feral",
+              "OYYMMIT",
+              "SUZAN (2)"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-18T23:00:00.000",
+            "endTime": "2025-10-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2275410",
+            "title": "합정동테크노",
+            "location": "vurt.",
+            "artists": [
+              "Dong",
+              "Ujean"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
+            "date": "2025-10-31T00:00:00.000",
+            "startTime": "2025-10-31T23:00:00.000",
+            "endTime": "2025-11-01T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2275413",
+            "title": "무경계 with Koichi Shimizu Live (Japan)",
+            "location": "vurt.",
+            "artists": [
+              "Koichi Shimizu",
+              "OYYMMIT",
+              "ANSOL",
+              "Djilogue"
             ],
             "source": "ra",
             "ra_id": 101673
@@ -12335,6 +12400,20 @@
         "googleMaps": "https://maps.google.com/?cid=528081830924855418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "ra_id": 133352,
         "events": [
+          {
+            "date": "2025-10-09T00:00:00.000",
+            "startTime": "2025-10-09T21:00:00.000",
+            "endTime": "2025-10-10T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2275564",
+            "title": "Thursday Volnost",
+            "location": "Volnost",
+            "artists": [
+              "DJ SIN",
+              "LAYA"
+            ],
+            "source": "ra",
+            "ra_id": 133352
+          },
           {
             "date": "2025-10-10T00:00:00.000",
             "startTime": "2025-10-10T23:00:00.000",
@@ -13137,23 +13216,6 @@
         "naverMaps": "https://naver.me/xY4sFFgP",
         "ra_id": 267778,
         "events": [
-          {
-            "date": "2025-10-06T00:00:00.000",
-            "startTime": "2025-10-02T21:00:00.000",
-            "endTime": "2025-10-08T07:00:00.000",
-            "eventUrl": "https://ra.co/events/2273372",
-            "title": "Waikiki Utopia 'THANKS GIVING DAY'",
-            "location": "Waikiki Club Utopia",
-            "artists": [
-              "H93 (KR)",
-              "TERRA (KR)",
-              "AVEN (KR)",
-              "STAN MYLOR",
-              "KEY:NA"
-            ],
-            "source": "ra",
-            "ra_id": 267778
-          },
           {
             "date": "2025-10-07T00:00:00.000",
             "startTime": "2025-10-02T21:00:00.000",
