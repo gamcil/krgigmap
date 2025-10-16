@@ -234,7 +234,58 @@
         "googleMaps": "https://maps.google.com/?cid=302532961150360413",
         "naverMaps": "https://map.naver.com/p/entry/place/38643584",
         "ra_id": 127189,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-16T00:00:00.000",
+            "startTime": "2025-10-16T22:00:00.000",
+            "endTime": "2025-10-17T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2282756",
+            "title": "[BBCB] 5/NIL",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "Gumi",
+              "DEVIN (BE/KR)",
+              "Zoonpark",
+              "DJ Sweed",
+              "Manikk",
+              "Sun of June",
+              "Afrodite (2)",
+              "Jimin",
+              "KYO (2)"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          },
+          {
+            "date": "2025-10-17T00:00:00.000",
+            "startTime": "2025-10-17T22:00:00.000",
+            "endTime": "2025-10-18T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2282762",
+            "title": "[BBCB] TR!BE",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "kyogi",
+              "rerekat",
+              "VOID (KR)",
+              "blancat"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          },
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-18T22:00:00.000",
+            "endTime": "2025-10-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2282760",
+            "title": "[BBCB] SATURDAY",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "Nujeat"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          }
+        ]
       }
     },
     {
@@ -271,6 +322,17 @@
               "DJ Jeyon",
               "DJ Soulscape"
             ],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-18T22:00:00.000",
+            "endTime": "2025-10-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2282828",
+            "title": "BOLERO: BRIDGE PRESENTS",
+            "location": "Bolero",
+            "artists": [],
             "source": "ra",
             "ra_id": 198937
           },
@@ -572,19 +634,6 @@
         "googleMaps": "https://maps.google.com/?cid=15139853402419538862&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/34016066",
         "events": [
-          {
-            "showdeeId": "3378",
-            "source": "showdee",
-            "artists": [
-              "이재경",
-              "이종서"
-            ],
-            "location": "카페 언플러그드 홍대",
-            "startTime": "2025-10-15T20:00:00",
-            "date": "2025-10-15",
-            "eventUrl": "https://www.instagram.com/p/DPOZQveEXJ7/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "3395",
             "source": "showdee",
@@ -1489,22 +1538,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3377",
-            "source": "showdee",
-            "artists": [
-              "사랑",
-              "보리",
-              "카케쿠쿠카",
-              "다소다",
-              "일라잇"
-            ],
-            "location": "클럽빵",
-            "startTime": "2025-10-15T19:30:00",
-            "date": "2025-10-15",
-            "eventUrl": "https://www.instagram.com/p/DPtHCt9kYkl/",
-            "entry": "현장 예매"
-          },
-          {
             "showdeeId": "3383",
             "source": "showdee",
             "artists": [
@@ -1834,19 +1867,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1196131538",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3381",
-            "source": "showdee",
-            "artists": [
-              "크리스탈 티",
-              "행로난"
-            ],
-            "location": "클럽온에어",
-            "startTime": "2025-10-15T20:00:00",
-            "date": "2025-10-15",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=211995",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3496",
             "source": "showdee",
@@ -3133,7 +3153,34 @@
         "googleMaps": "https://maps.google.com/?cid=198432001237254142",
         "naverMaps": "https://map.naver.com/p/entry/place/1165095738",
         "ra_id": 202330,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-17T00:00:00.000",
+            "startTime": "2025-10-17T20:00:00.000",
+            "endTime": "2025-10-17T23:59:00.000",
+            "eventUrl": "https://ra.co/events/2282767",
+            "title": "Sukji & friends",
+            "location": "Department.en",
+            "artists": [
+              "KONA (2)"
+            ],
+            "source": "ra",
+            "ra_id": 202330
+          },
+          {
+            "date": "2025-10-19T00:00:00.000",
+            "startTime": "2025-10-19T14:00:00.000",
+            "endTime": "2025-10-19T22:00:00.000",
+            "eventUrl": "https://ra.co/events/2282772",
+            "title": "Oyster & Oracle",
+            "location": "Department.en",
+            "artists": [
+              "NYB (1)"
+            ],
+            "source": "ra",
+            "ra_id": 202330
+          }
+        ]
       }
     },
     {
@@ -5023,18 +5070,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3380",
-            "source": "showdee",
-            "artists": [
-              "챤민"
-            ],
-            "location": "제비다방",
-            "startTime": "2025-10-15T20:00:00",
-            "date": "2025-10-15",
-            "eventUrl": "https://www.ctrplus.com/jebi",
-            "entry": "무료입장 자율페이"
-          },
-          {
             "showdeeId": "3386",
             "source": "showdee",
             "artists": [
@@ -6000,6 +6035,20 @@
             "artists": [
               "JAE SANG",
               "DJ Spinna"
+            ],
+            "source": "ra",
+            "ra_id": 140937
+          },
+          {
+            "date": "2025-11-01T00:00:00.000",
+            "startTime": "2025-11-01T22:00:00.000",
+            "endTime": "2025-11-02T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2282686",
+            "title": "Go Dam presents: Gloria with Cleymoore & Rubi",
+            "location": "Modeci",
+            "artists": [
+              "Cleymoore",
+              "rubi*"
             ],
             "source": "ra",
             "ra_id": 140937
@@ -7121,20 +7170,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/305759101",
         "ra_id": 147098,
         "events": [
-          {
-            "date": "2025-10-15T00:00:00.000",
-            "startTime": "2025-10-10T23:00:00.000",
-            "endTime": "2025-10-18T05:00:00.000",
-            "eventUrl": "https://ra.co/events/2274776",
-            "title": "7Days Output",
-            "location": "Output",
-            "artists": [
-              "Special Guest (US)",
-              "Taku Hirayama"
-            ],
-            "source": "ra",
-            "ra_id": 147098
-          },
           {
             "date": "2025-10-16T00:00:00.000",
             "startTime": "2025-10-10T23:00:00.000",
@@ -9550,24 +9585,7 @@
         "googleMaps": "https://maps.google.com/?cid=12022267688604035598",
         "naverMaps": "https://map.naver.com/p/entry/place/1176405023",
         "ra_id": null,
-        "events": [
-          {
-            "showdeeId": "3382",
-            "source": "showdee",
-            "artists": [
-              "키라라",
-              "에조",
-              "슬랙스",
-              "조민규",
-              "디제이티즈"
-            ],
-            "location": "수상한거리 2호점",
-            "startTime": "2025-10-15T20:00:00",
-            "date": "2025-10-15",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212008",
-            "entry": "예매 링크"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -10956,18 +10974,6 @@
         "ra_id": 130324,
         "events": [
           {
-            "showdeeId": "3379",
-            "source": "showdee",
-            "artists": [
-              "김산돌"
-            ],
-            "location": "채널1969",
-            "startTime": "2025-10-15T20:00:00",
-            "date": "2025-10-15",
-            "eventUrl": "https://www.instagram.com/p/DPip_lhkZpU/",
-            "entry": "예매 정보 링크"
-          },
-          {
             "showdeeId": "3407",
             "source": "showdee",
             "artists": [
@@ -12002,6 +12008,20 @@
             "ra_id": 70614
           },
           {
+            "date": "2025-10-24T00:00:00.000",
+            "startTime": "2025-10-24T22:00:00.000",
+            "endTime": "2025-10-25T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2283006",
+            "title": "[UnderNationWide] Listening Party",
+            "location": "Cakeshop",
+            "artists": [
+              "bojvck",
+              "DJ Co.kr"
+            ],
+            "source": "ra",
+            "ra_id": 70614
+          },
+          {
             "date": "2025-11-01T00:00:00.000",
             "startTime": "2025-11-01T22:00:00.000",
             "endTime": "2025-11-02T06:00:00.000",
@@ -12068,6 +12088,7 @@
             "artists": [
               "Dong",
               "Ujean",
+              "SUNA",
               "SUNA"
             ],
             "source": "ra",
@@ -12126,7 +12147,35 @@
         "googleMaps": "https://maps.google.com/?cid=17812340175984750650&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1636831236",
         "ra_id": 232385,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-17T00:00:00.000",
+            "startTime": "2025-10-17T21:00:00.000",
+            "endTime": "2025-10-18T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2282741",
+            "title": "Contact INVITE: S.Telecom & Yun Line",
+            "location": "Contact",
+            "artists": [
+              "S.Telecom",
+              "Yun Line"
+            ],
+            "source": "ra",
+            "ra_id": 232385
+          },
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-18T21:00:00.000",
+            "endTime": "2025-10-19T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2282742",
+            "title": "Contact INVITE: Hwiah",
+            "location": "Contact",
+            "artists": [
+              "Hwiah"
+            ],
+            "source": "ra",
+            "ra_id": 232385
+          }
+        ]
       }
     },
     {
@@ -12400,20 +12449,6 @@
           },
           {
             "date": "2025-10-18T00:00:00.000",
-            "startTime": "2025-10-17T23:59:00.000",
-            "endTime": "2025-10-19T06:00:00.000",
-            "eventUrl": "https://ra.co/events/2280150",
-            "title": "Hertz 헤르츠 Selectors: Soyo ODD J Jucid",
-            "location": "Hertz",
-            "artists": [
-              "Soyo",
-              "Jucid"
-            ],
-            "source": "ra",
-            "ra_id": 262068
-          },
-          {
-            "date": "2025-10-18T00:00:00.000",
             "startTime": "2025-10-18T23:59:00.000",
             "endTime": "2025-10-19T06:00:00.000",
             "eventUrl": "https://ra.co/events/2280152",
@@ -12423,6 +12458,20 @@
               "JUAAN",
               "Acidwork",
               "Jimin"
+            ],
+            "source": "ra",
+            "ra_id": 262068
+          },
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-17T23:59:00.000",
+            "endTime": "2025-10-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2280150",
+            "title": "Hertz 헤르츠 Selectors: Soyo ODD J Jucid",
+            "location": "Hertz",
+            "artists": [
+              "Soyo",
+              "Jucid"
             ],
             "source": "ra",
             "ra_id": 262068
@@ -12536,6 +12585,32 @@
         "naverMaps": "https://naver.me/x67YuiyR",
         "ra_id": 198699,
         "events": [
+          {
+            "date": "2025-10-17T00:00:00.000",
+            "startTime": "2025-10-17T22:00:00.000",
+            "endTime": "2025-10-18T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2283225",
+            "title": "LOCALISM",
+            "location": "Melt",
+            "artists": [
+              "G1KIM"
+            ],
+            "source": "ra",
+            "ra_id": 198699
+          },
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-18T22:00:00.000",
+            "endTime": "2025-10-19T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2283228",
+            "title": "SYNTHCITY",
+            "location": "Melt",
+            "artists": [
+              "SKETCH ON BLUE"
+            ],
+            "source": "ra",
+            "ra_id": 198699
+          },
           {
             "date": "2025-11-15T00:00:00.000",
             "startTime": "2025-11-15T22:00:00.000",
@@ -13708,6 +13783,17 @@
             "artists": [
               "Ken Ishii"
             ],
+            "source": "ra",
+            "ra_id": 269802
+          },
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-15T22:00:00.000",
+            "endTime": "2025-11-16T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2282754",
+            "title": "MAR VISTA presents 'lifestream X NEED2FREAK'",
+            "location": "Grain Haus",
+            "artists": [],
             "source": "ra",
             "ra_id": 269802
           }
