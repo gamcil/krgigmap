@@ -10891,6 +10891,20 @@
             ],
             "source": "ra",
             "ra_id": 196474
+          },
+          {
+            "date": "2025-10-22T00:00:00.000",
+            "startTime": "2025-10-22T21:00:00.000",
+            "endTime": "2025-10-23T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2285520",
+            "title": "Haemi Park, NON IDENTITY",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Haemi Park",
+              "NON IDENTITY"
+            ],
+            "source": "ra",
+            "ra_id": 196474
           }
         ]
       }
@@ -16392,6 +16406,115 @@
             ],
             "source": "ra",
             "ra_id": 277085
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3885489,
+          37.2777071
+        ]
+      },
+      "properties": {
+        "name_ko": "과수원 프로젝트",
+        "name": "Gwasuwon Project",
+        "address_ko": "경기도 이천시 마장면 이장로 300 1동 1층",
+        "address": "300, Ijang-ro, Majang-myeon, Icheon-si, Gyeonggi-do, Republic of Korea",
+        "address_jibun": "경기도 이천시 마장면 장암리 466-1 1동 1층",
+        "instagram": "https://www.instagram.com/gsw_project",
+        "kakaoMaps": "http://place.map.kakao.com/1390931708",
+        "googleMaps": "https://maps.google.com/?cid=3676054178172604244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/xVGHmawB",
+        "events": [
+          {
+            "showdeeId": "3540",
+            "source": "showdee",
+            "artists": [
+              "김목인"
+            ],
+            "location": "과수원프로젝트 야외정원",
+            "startTime": "2025-10-26T16:00:00",
+            "date": "2025-10-26",
+            "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdn761DNWHGICJ6SpJ4Voj3iSLf37WJenQjE6Ix7QPtSsu2og/viewform",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9170348,
+          37.568219
+        ]
+      },
+      "properties": {
+        "name_ko": "사천교",
+        "name": "Sacheongyo Bridge",
+        "address_ko": "서울특별시 서대문구 남가좌동",
+        "address": "Namgajwa-dong, Seodaemun-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 서대문구 남가좌동",
+        "kakaoMaps": "http://place.map.kakao.com/7915380",
+        "naverMaps": "https://naver.me/GKURDsOE",
+        "events": [
+          {
+            "showdeeId": "3587",
+            "source": "showdee",
+            "artists": [
+              "예람",
+              "모허",
+              "야생마와 자유부인",
+              "타잔로카",
+              "아토"
+            ],
+            "location": "사천교 아래",
+            "startTime": "2025-10-31T20:00:00",
+            "date": "2025-10-31",
+            "eventUrl": "https://www.instagram.com/p/DP5KGAnEt3p/",
+            "entry": "무료입장 자율페이"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0373389,
+          37.5251408
+        ]
+      },
+      "properties": {
+        "name_ko": "엠엠에스",
+        "name": "MMS",
+        "address_ko": "서울특별시 강남구 도산대로49길 32-1 1층",
+        "address": "32-1, Dosan-daero 49-gil, Gangnam-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 강남구 신사동 656-22 1층",
+        "instagram": "https://www.instagram.com/mms_maltmixologyspace",
+        "kakaoMaps": "http://place.map.kakao.com/1975800167",
+        "googleMaps": "https://maps.google.com/?cid=6639447820584072599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/Gj6XujAB",
+        "ra_id": 272984,
+        "events": [
+          {
+            "date": "2025-10-18T00:00:00.000",
+            "startTime": "2025-10-18T22:00:00.000",
+            "endTime": "2025-10-19T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2284853",
+            "title": "NI+TRO+GEN Vol.016",
+            "location": "MMS",
+            "artists": [
+              "DASTY"
+            ],
+            "source": "ra",
+            "ra_id": 272984
           }
         ]
       }
