@@ -11490,13 +11490,28 @@
             "startTime": "2025-10-24T23:00:00.000",
             "endTime": "2025-10-25T06:00:00.000",
             "eventUrl": "https://ra.co/events/2281592",
-            "title": "춤은 자유다 I / Freedon To Dance I",
+            "title": "춤은 자유다 I / Freedom To Dance I",
             "location": "vurt.",
             "artists": [
               "Noidman",
               "Xanexx",
               "SJK (1)",
               "SUNA"
+            ],
+            "source": "ra",
+            "ra_id": 101673
+          },
+          {
+            "date": "2025-10-25T00:00:00.000",
+            "startTime": "2025-10-25T23:00:00.000",
+            "endTime": "2025-10-26T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2281595",
+            "title": "춤은 자유다 II / Freedom To Dance II",
+            "location": "vurt.",
+            "artists": [
+              "SUNA",
+              "Siot",
+              "Inger"
             ],
             "source": "ra",
             "ra_id": 101673
@@ -15607,6 +15622,113 @@
         "naverMaps": "https://naver.me/Gj6XujAB",
         "ra_id": 272984,
         "events": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.603774,
+          34.8473143
+        ]
+      },
+      "properties": {
+        "name_ko": "쿠키아",
+        "name": "Cookia",
+        "address_ko": "전라남도 여수시 율촌면 여순로 513-43",
+        "address": "513-43, Yeosun-ro, Yulchon-myeon, Yeosu-si, Jeollanam-do, Republic of Korea",
+        "address_jibun": "전라남도 여수시 율촌면 신풍리 906-2",
+        "kakaoMaps": "http://place.map.kakao.com/58068057",
+        "naverMaps": "https://naver.me/5duJ8eMC",
+        "events": [
+          {
+            "showdeeId": "3513",
+            "source": "showdee",
+            "artists": [
+              "구남과여라이딩스텔라"
+            ],
+            "location": "여수 뚜부칩",
+            "startTime": "2025-10-25T17:00:00",
+            "date": "2025-10-25",
+            "eventUrl": "https://m.booking.naver.com/booking/12/bizes/171680/items/6394476?area=ple&fbclid=PAZXh0bgNhZW0CMTEAAadnJrB8cojmhUkHzHfUzHOfN8WcsIAEsiAEouhY0xtYX3hlP8Wqg0hEQVba4g_aem_ok6IdlTCWPlnpFU6JjjCMw&lang=ko&startDateTime=2025-10-25T00%3A00%3A00%2B09%3A00&theme=place",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6475516,
+          37.475774
+        ]
+      },
+      "properties": {
+        "name_ko": "동구문화체육센터",
+        "name": "Dong-gu Cultural & Sports Center",
+        "address_ko": "인천광역시 동구 송림로110번길 5-8",
+        "address": "5-8, Songnim-ro 110beon-gil, Dong-gu, Incheon, Republic of Korea",
+        "address_jibun": "인천광역시 동구 송림동 125-24",
+        "website": "https://cscenter.icdonggu.go.kr",
+        "instagram": "https://www.instagram.com/icdonggu_center",
+        "kakaoMaps": "https://place.map.kakao.com/1089014020",
+        "googleMaps": "https://maps.google.com/?cid=6764740104977938102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/xWTnpWfP",
+        "events": [
+          {
+            "showdeeId": "3695",
+            "source": "showdee",
+            "artists": [
+              "옥상달빛",
+              "스탠딩에그"
+            ],
+            "location": "동구문화체육센터 공연장",
+            "startTime": "2025-11-15T17:00:00",
+            "date": "2025-11-15",
+            "eventUrl": "https://tickets.interpark.com/goods/25013885#",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.7231391,
+          34.8671156
+        ]
+      },
+      "properties": {
+        "name_ko": "거제문화예술회관",
+        "name": "Geoje Arts Center",
+        "address_ko": "경상남도 거제시 장승로 145 거제문화예술회관",
+        "address": "145, Jangseung-ro, Geoje-si, Gyeongsangnam-do, Republic of Korea",
+        "address_jibun": "경상남도 거제시 장승포동 426-33 거제문화예술회관",
+        "website": "http://www.geojeart.or.kr/",
+        "instagram": "https://www.instagram.com/geojeart_official",
+        "kakaoMaps": "http://place.map.kakao.com/8171753",
+        "googleMaps": "https://maps.google.com/?cid=5446996765230987917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/FOZ3OEoz",
+        "events": [
+          {
+            "showdeeId": "3742",
+            "source": "showdee",
+            "artists": [
+              "로맨틱펀치",
+              "브로콜리너마저"
+            ],
+            "location": "거제문화예술회관 소극장",
+            "startTime": "2025-12-27T17:00:00",
+            "date": "2025-12-27",
+            "eventUrl": "https://ticket.geojeart.or.kr/eventView.do?group_id=2001850",
+            "entry": "예매 링크"
+          }
+        ]
       }
     }
   ]
