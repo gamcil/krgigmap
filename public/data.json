@@ -603,20 +603,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/34016066",
         "events": [
           {
-            "showdeeId": "3479",
-            "source": "showdee",
-            "artists": [
-              "뛰놀며",
-              "눈물공장",
-              "하루살이프로젝트"
-            ],
-            "location": "카페 언플러그드 홍대",
-            "startTime": "2025-10-22T20:00:00",
-            "date": "2025-10-22",
-            "eventUrl": "https://www.instagram.com/p/DPibfkcEYov/",
-            "entry": "예매 정보 링크"
-          },
-          {
             "showdeeId": "3509",
             "source": "showdee",
             "artists": [
@@ -779,20 +765,6 @@
         "googleMaps": "https://maps.google.com/?cid=884018115186850439&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1476560900",
         "events": [
-          {
-            "showdeeId": "3480",
-            "source": "showdee",
-            "artists": [
-              "라바토리",
-              "복밴드",
-              "리뎀션즈"
-            ],
-            "location": "언플러그드 라운지",
-            "startTime": "2025-10-22T20:00:00",
-            "date": "2025-10-22",
-            "eventUrl": "https://www.instagram.com/p/DPf6PyVk4Sv/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "3485",
             "source": "showdee",
@@ -1487,23 +1459,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/11633175",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3476",
-            "source": "showdee",
-            "artists": [
-              "아이",
-              "케빈",
-              "집단지성",
-              "김다혜",
-              "민광진",
-              "새닉"
-            ],
-            "location": "클럽빵",
-            "startTime": "2025-10-22T19:30:00",
-            "date": "2025-10-22",
-            "eventUrl": "https://www.instagram.com/p/DQBCh9jDLSj/",
-            "entry": "현장 예매"
-          },
           {
             "showdeeId": "3483",
             "source": "showdee",
@@ -4918,18 +4873,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3481",
-            "source": "showdee",
-            "artists": [
-              "양반들"
-            ],
-            "location": "제비다방",
-            "startTime": "2025-10-22T20:00:00",
-            "date": "2025-10-22",
-            "eventUrl": "https://www.ctrplus.com/jebi",
-            "entry": "무료입장 자율페이"
-          },
-          {
             "showdeeId": "3486",
             "source": "showdee",
             "artists": [
@@ -7044,7 +6987,53 @@
         "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
         "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
         "ra_id": 194402,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-24T00:00:00.000",
+            "startTime": "2025-10-24T23:00:00.000",
+            "endTime": "2025-10-25T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2288261",
+            "title": "Passar_Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Cozyhoon",
+              "Justruud",
+              "RTRP"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-10-25T00:00:00.000",
+            "startTime": "2025-10-25T23:00:00.000",
+            "endTime": "2025-10-26T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2288267",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "givogi",
+              "Ligrye",
+              "FOI (SK)"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-10-26T00:00:00.000",
+            "startTime": "2025-10-26T23:00:00.000",
+            "endTime": "2025-10-27T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2288272",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "DOMAAHN",
+              "Jesse You",
+              "Shinyoung"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          }
+        ]
       }
     },
     {
@@ -8343,7 +8332,43 @@
         "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
         "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
         "ra_id": 195346,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-24T00:00:00.000",
+            "startTime": "2025-10-24T23:00:00.000",
+            "endTime": "2025-10-25T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2288276",
+            "title": "Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "X2C (1)",
+              "MOVIN.KR",
+              "JUNG(KR)",
+              "Honn",
+              "KINGMCK",
+              "bumv"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          },
+          {
+            "date": "2025-10-25T00:00:00.000",
+            "startTime": "2025-10-25T23:00:00.000",
+            "endTime": "2025-10-26T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2288282",
+            "title": "Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "X2C (1)",
+              "bumv",
+              "Apachi",
+              "Honn",
+              "SØYEØN"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          }
+        ]
       }
     },
     {
@@ -8654,19 +8679,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1991841630",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3478",
-            "source": "showdee",
-            "artists": [
-              "영롱",
-              "슈야"
-            ],
-            "location": "스페이스 한강",
-            "startTime": "2025-10-22T20:00:00",
-            "date": "2025-10-22",
-            "eventUrl": "https://www.instagram.com/p/DPLiqohgbvc/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "3497",
             "source": "showdee",
@@ -9829,19 +9841,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3482",
-            "source": "showdee",
-            "artists": [
-              "전기뱀장어",
-              "팔칠댄스"
-            ],
-            "location": "벨로주 홍대",
-            "startTime": "2025-10-22T20:00:00",
-            "date": "2025-10-22",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212086",
-            "entry": "예매 링크"
-          },
-          {
             "showdeeId": "3599",
             "source": "showdee",
             "artists": [
@@ -10454,20 +10453,6 @@
         "ra_id": 196474,
         "events": [
           {
-            "date": "2025-10-22T00:00:00.000",
-            "startTime": "2025-10-22T21:00:00.000",
-            "endTime": "2025-10-23T01:00:00.000",
-            "eventUrl": "https://ra.co/events/2285520",
-            "title": "Haemi Park, NON IDENTITY",
-            "location": "Atdge Seoul",
-            "artists": [
-              "Haemi Park",
-              "NON IDENTITY"
-            ],
-            "source": "ra",
-            "ra_id": 196474
-          },
-          {
             "date": "2025-10-24T00:00:00.000",
             "startTime": "2025-10-24T22:00:00.000",
             "endTime": "2025-10-25T04:00:00.000",
@@ -10955,18 +10940,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1196910752",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3477",
-            "source": "showdee",
-            "artists": [
-              "Asuna (아수나) 내한"
-            ],
-            "location": "TINC",
-            "startTime": "2025-10-22T19:30:00",
-            "date": "2025-10-22",
-            "eventUrl": "https://tickets.interpark.com/goods/25011888#",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3484",
             "source": "showdee",
@@ -11508,6 +11481,24 @@
               "Nimvy",
               "Tabris",
               "HASHTAGPOPE"
+            ],
+            "source": "ra",
+            "ra_id": 70614
+          },
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T22:00:00.000",
+            "endTime": "2025-11-15T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2287976",
+            "title": "Phantoms Of Riddim with Commodo",
+            "location": "Cakeshop",
+            "artists": [
+              "Commodo",
+              "Von Bueno",
+              "DJ Soulscape",
+              "Quandol",
+              "Nimvy",
+              "Tabris"
             ],
             "source": "ra",
             "ra_id": 70614
@@ -12160,7 +12151,30 @@
         "googleMaps": "https://maps.google.com/?cid=17029120266020152727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/IGJYa3FR",
         "ra_id": 216993,
-        "events": []
+        "events": [
+          {
+            "date": "2025-10-24T00:00:00.000",
+            "startTime": "2025-10-24T23:00:00.000",
+            "endTime": "2025-10-25T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2288821",
+            "title": "MOMENT 251024",
+            "location": "Moment",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 216993
+          },
+          {
+            "date": "2025-10-25T00:00:00.000",
+            "startTime": "2025-10-25T23:00:00.000",
+            "endTime": "2025-10-26T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2288823",
+            "title": "MOMENT 251025",
+            "location": "Moment",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 216993
+          }
+        ]
       }
     },
     {
@@ -12487,7 +12501,9 @@
             "title": "FLUIDICA RAVE: VOL II",
             "location": "Eagle Seoul",
             "artists": [
-              "Akudama"
+              "Akudama",
+              "Authenticslvt",
+              "ZENA (KR)"
             ],
             "source": "ra",
             "ra_id": 212333
@@ -13296,6 +13312,17 @@
             "artists": [
               "DCR MILDA"
             ],
+            "source": "ra",
+            "ra_id": 228419
+          },
+          {
+            "date": "2025-10-31T00:00:00.000",
+            "startTime": "2025-10-31T20:00:00.000",
+            "endTime": "2025-11-01T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2288396",
+            "title": "UNKNOWN VOL4 (Poor Things)",
+            "location": "Ximxim Bar",
+            "artists": [],
             "source": "ra",
             "ra_id": 228419
           },
@@ -15281,7 +15308,7 @@
             "startTime": "2025-11-01T22:00:00.000",
             "endTime": "2025-11-02T06:00:00.000",
             "eventUrl": "https://ra.co/events/2272149",
-            "title": "FRISK: Halloween with Daniel Orpi(Es/Cuttin' Hedz)",
+            "title": "FRISK: Halloween with Daniel Orpi(Es/Cuttin' Headz)",
             "location": "TONE SEOUL",
             "artists": [
               "Daniel Orpi",
