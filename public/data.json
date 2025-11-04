@@ -7521,7 +7521,20 @@
         "googleMaps": "https://maps.google.com/?cid=12284896182741796950",
         "naverMaps": "https://map.naver.com/p/entry/place/1169054674",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "showdeeId": "3885",
+            "source": "showdee",
+            "artists": [
+              "브로콜리너마저"
+            ],
+            "location": "노무현시민센터 지하2층 다목적홀",
+            "startTime": "2025-11-30T16:00:00",
+            "date": "2025-11-30",
+            "eventUrl": "https://www.knowhow.or.kr/center/program_detail.php?seq=533",
+            "entry": "예매 링크"
+          }
+        ]
       }
     },
     {
@@ -11196,6 +11209,24 @@
               "Quandol",
               "Nimvy",
               "Tabris"
+            ],
+            "source": "ra",
+            "ra_id": 70614
+          },
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-15T22:00:00.000",
+            "endTime": "2025-11-16T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2296839",
+            "title": "The Internatiiional presents: Toma Kami",
+            "location": "Cakeshop",
+            "artists": [
+              "Toma Kami",
+              "Yetsuby",
+              "Arexibo",
+              "Moon Ki",
+              "Tabris",
+              "NIMNOI"
             ],
             "source": "ra",
             "ra_id": 70614
@@ -15504,6 +15535,72 @@
             "date": "2025-12-28",
             "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212196",
             "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9069599,
+          37.5543492
+        ]
+      },
+      "properties": {
+        "name_ko": "바 사뭇",
+        "name": "Bar Samut",
+        "address_ko": "서울특별시 마포구 월드컵로19길 74 어쩌다가게 205호",
+        "address": "74, World Cup-ro 19-gil, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 망원동 57-194 어쩌다가게 205호",
+        "kakaoMaps": "http://place.map.kakao.com/1193142547",
+        "naverMaps": "https://naver.me/Fmf5EXOl",
+        "events": [
+          {
+            "showdeeId": "3671",
+            "source": "showdee",
+            "artists": [
+              "이태훈"
+            ],
+            "location": "망원 사뭇",
+            "startTime": "2025-11-06T20:00:00",
+            "date": "2025-11-06",
+            "eventUrl": "https://www.instagram.com/p/DQeaD1jidWK/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9181457,
+          37.6192318
+        ]
+      },
+      "properties": {
+        "name_ko": "은평생활문화센터 인디스테이션",
+        "name": "Eunpyeong Indie Station",
+        "address_ko": "서울특별시 은평구 연서로29길 19 지층",
+        "address": "19, Yeonseo-ro 29-gil, Eunpyeong-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 은평구 갈현동 453-1 지층",
+        "kakaoMaps": "http://place.map.kakao.com/1884236373",
+        "naverMaps": "https://naver.me/xjg5oXYG",
+        "events": [
+          {
+            "showdeeId": "3833",
+            "source": "showdee",
+            "artists": [
+              "무릉도원"
+            ],
+            "location": "은평생활문화센터 인디스테이션",
+            "startTime": "2025-11-22T16:00:00",
+            "date": "2025-11-22",
+            "eventUrl": "https://www.instagram.com/p/DQYylY9D5aR/",
+            "entry": "무료 사전 신청"
           }
         ]
       }

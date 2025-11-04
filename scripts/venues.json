@@ -4354,7 +4354,10 @@
     "address": "73 Changdeokgung-gil, Jongno District, Seoul",
     "website": "https://www.knowhow.or.kr/center/main.php",
     "naverMaps": "https://map.naver.com/p/entry/place/1169054674",
-    "_dir": "36_서울_노무현시민센터_rohmoohyunciviccenter"
+    "_dir": "36_서울_노무현시민센터_rohmoohyunciviccenter",
+    "alias": [
+      "노무현시민센터 지하2층 다목적홀"
+    ]
   },
   {
     "name": "Rolling Hall",
@@ -9273,6 +9276,36 @@
     "kakaoMaps": "http://place.map.kakao.com/1847666883",
     "alias": [
       "세종문화회관 S씨어터"
+    ]
+  },
+  {
+    "name": "Bar Samut",
+    "name_ko": "바 사뭇",
+    "address": "74, World Cup-ro 19-gil, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 월드컵로19길 74 어쩌다가게 205호",
+    "address_jibun": "서울특별시 마포구 망원동 57-194 어쩌다가게 205호",
+    "lat": 37.5543492,
+    "lng": 126.9069599,
+    "naverMaps": "https://naver.me/Fmf5EXOl",
+    "kakaoMaps": "http://place.map.kakao.com/1193142547",
+    "alias": [
+      "바 사뭇",
+      "망원 사뭇"
+    ]
+  },
+  {
+    "name": "Eunpyeong Indie Station",
+    "name_ko": "은평생활문화센터 인디스테이션",
+    "address": "19, Yeonseo-ro 29-gil, Eunpyeong-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 은평구 연서로29길 19 지층",
+    "address_jibun": "서울특별시 은평구 갈현동 453-1 지층",
+    "lat": 37.6192318,
+    "lng": 126.9181457,
+    "naverMaps": "https://naver.me/xjg5oXYG",
+    "kakaoMaps": "http://place.map.kakao.com/1884236373",
+    "alias": [
+      "은평생활문화센터",
+      "은평생활문화센터 인디스테이션"
     ]
   }
 ]
