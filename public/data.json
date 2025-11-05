@@ -3678,18 +3678,6 @@
         "ra_id": null,
         "events": [
           {
-            "showdeeId": "3662",
-            "source": "showdee",
-            "artists": [
-              "베이루트 택시"
-            ],
-            "location": "공상온도",
-            "startTime": "2025-11-04T20:00:00",
-            "date": "2025-11-04",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212091",
-            "entry": "예매 링크"
-          },
-          {
             "showdeeId": "3685",
             "source": "showdee",
             "artists": [
@@ -6951,6 +6939,16 @@
             "date": "2025-11-23",
             "eventUrl": "https://www.instagram.com/p/DQY3W02Eta0/",
             "entry": "예매 정보 링크"
+          },
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T19:00:00.000",
+            "endTime": "2025-11-14T22:30:00.000",
+            "eventUrl": "https://ra.co/events/2297613",
+            "title": "교환일기 Exchange Dairy in BUSAN",
+            "location": "Ovantgarde",
+            "artists": [],
+            "source": "ra"
           }
         ]
       }
@@ -6975,7 +6973,53 @@
         "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
         "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
         "ra_id": 194402,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T23:00:00.000",
+            "endTime": "2025-11-08T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2297497",
+            "title": "Space Cowboy_Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Semo",
+              "Imogene"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-08T23:00:00.000",
+            "endTime": "2025-11-09T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2297506",
+            "title": "2Difficult(CN) & Lukey(ES)_Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "2Difficult",
+              "Lukey",
+              "Zoonpark"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-11-09T00:00:00.000",
+            "startTime": "2025-11-09T23:00:00.000",
+            "endTime": "2025-11-10T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2297514",
+            "title": "ARGA TAKES OVER_Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "HAGY",
+              "Cityboy from Seoul",
+              "Youngisland",
+              "Joshüa"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          }
+        ]
       }
     },
     {
@@ -7890,7 +7934,32 @@
         "googleMaps": "https://maps.google.com/?cid=17791490631383192613",
         "naverMaps": "https://map.naver.com/p/entry/place/1195670464",
         "ra_id": 204286,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-06T00:00:00.000",
+            "startTime": "2025-11-06T20:00:00.000",
+            "endTime": "2025-11-07T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2296989",
+            "title": "Team Contact",
+            "location": "Stoked&stoned",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-11-09T00:00:00.000",
+            "startTime": "2025-11-09T20:00:00.000",
+            "endTime": "2025-11-10T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2296991",
+            "title": "Sunday Record",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Gyusco"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          }
+        ]
       }
     },
     {
@@ -8293,7 +8362,40 @@
         "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
         "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
         "ra_id": 195346,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T23:00:00.000",
+            "endTime": "2025-11-08T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2297502",
+            "title": "POSTER KOREA VOL. 5 'DE STYX'_Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "MUSHXXX",
+              "A6IIR"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          },
+          {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-08T23:00:00.000",
+            "endTime": "2025-11-09T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2297511",
+            "title": "Shelter Seoul presents 'Errortica'",
+            "location": "Shelter",
+            "artists": [
+              "X2C (1)",
+              "PRIMIT",
+              "Errortica",
+              "HYUNHXEE",
+              "bumv",
+              "Honn"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          }
+        ]
       }
     },
     {
@@ -9216,7 +9318,23 @@
         "googleMaps": "https://maps.google.com/?cid=6115104111454704340",
         "naverMaps": "https://map.naver.com/p/entry/place/1588457550",
         "ra_id": 128746,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T23:00:00.000",
+            "endTime": "2025-11-08T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296854",
+            "title": "The Henz Club",
+            "location": "The Henz Club",
+            "artists": [
+              "SKiiDA",
+              "Yunu",
+              "Multivsn"
+            ],
+            "source": "ra",
+            "ra_id": 128746
+          }
+        ]
       }
     },
     {
@@ -9467,6 +9585,19 @@
               "Collé",
               "LORI (KR)",
               "YH (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 260734
+          },
+          {
+            "date": "2026-02-01T00:00:00.000",
+            "startTime": "2026-02-01T17:00:00.000",
+            "endTime": "2026-02-02T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2297593",
+            "title": "UNDERCITY presents Ben Klock",
+            "location": "UNDERCITY",
+            "artists": [
+              "Ben Klock"
             ],
             "source": "ra",
             "ra_id": 260734
@@ -10106,6 +10237,34 @@
         "ra_id": 196474,
         "events": [
           {
+            "date": "2025-11-05T00:00:00.000",
+            "startTime": "2025-11-05T21:00:00.000",
+            "endTime": "2025-11-06T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2297807",
+            "title": "Millim, KYVU",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Millim",
+              "KYVU"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T22:30:00.000",
+            "endTime": "2025-11-08T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2297811",
+            "title": "GOBLIN 4",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Jooheon",
+              "Yeonju"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
             "date": "2025-11-08T00:00:00.000",
             "startTime": "2025-11-08T22:00:00.000",
             "endTime": "2025-11-09T04:00:00.000",
@@ -10197,6 +10356,83 @@
             "date": "2025-11-14",
             "eventUrl": "https://www.instagram.com/p/DQZAgGqD0wQ/",
             "entry": "예매 정보 링크"
+          },
+          {
+            "date": "2025-11-05T00:00:00.000",
+            "startTime": "2025-11-05T23:00:00.000",
+            "endTime": "2025-11-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296868",
+            "title": "수요초대석",
+            "location": "Channel 1969",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 130324
+          },
+          {
+            "date": "2025-11-06T00:00:00.000",
+            "startTime": "2025-11-06T22:00:00.000",
+            "endTime": "2025-11-07T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2296869",
+            "title": "수요초대석",
+            "location": "Channel 1969",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 130324
+          },
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T22:00:00.000",
+            "endTime": "2025-11-08T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2296871",
+            "title": "채널 1969 LIVE",
+            "location": "Channel 1969",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 130324
+          },
+          {
+            "date": "2025-11-09T00:00:00.000",
+            "startTime": "2025-11-09T21:00:00.000",
+            "endTime": "2025-11-10T05:30:00.000",
+            "eventUrl": "https://ra.co/events/2296872",
+            "title": "구남과여라이딩스텔라 마지막 앵콜",
+            "location": "Channel 1969",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 130324
+          },
+          {
+            "date": "2025-11-12T00:00:00.000",
+            "startTime": "2025-11-12T20:00:00.000",
+            "endTime": "2025-11-13T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2296873",
+            "title": "수요초대석",
+            "location": "Channel 1969",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 130324
+          },
+          {
+            "date": "2025-11-13T00:00:00.000",
+            "startTime": "2025-11-13T20:00:00.000",
+            "endTime": "2025-11-14T06:30:00.000",
+            "eventUrl": "https://ra.co/events/2296876",
+            "title": "목요음악생활",
+            "location": "Channel 1969",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 130324
+          },
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T20:00:00.000",
+            "endTime": "2025-11-15T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2296877",
+            "title": "NAMDO CALLING 쇼케이스",
+            "location": "Channel 1969",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 130324
           }
         ]
       }
@@ -10716,7 +10952,19 @@
         "googleMaps": "https://maps.google.com/?cid=12215941447602648811",
         "naverMaps": "https://map.naver.com/p/entry/place/1804769603",
         "ra_id": 251177,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-15T23:00:00.000",
+            "endTime": "2025-11-16T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296863",
+            "title": "4 EVA",
+            "location": "Super Soul Seoul",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 251177
+          }
+        ]
       }
     },
     {
@@ -10787,7 +11035,21 @@
         "googleMaps": "https://maps.google.com/?cid=16781130234346560515",
         "naverMaps": "https://map.naver.com/p/entry/place/1069707700",
         "ra_id": 263368,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-11T00:00:00.000",
+            "startTime": "2025-11-11T23:00:00.000",
+            "endTime": "2025-11-12T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296884",
+            "title": "Objktt listening session",
+            "location": "Objktt Record Bar",
+            "artists": [
+              "Hwangbaxa"
+            ],
+            "source": "ra",
+            "ra_id": 263368
+          }
+        ]
       }
     },
     {
@@ -11778,6 +12040,19 @@
             "ra_id": 198699
           },
           {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-08T22:00:00.000",
+            "endTime": "2025-11-09T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2297020",
+            "title": "CODE: RED",
+            "location": "Melt",
+            "artists": [
+              "G1KIM"
+            ],
+            "source": "ra",
+            "ra_id": 198699
+          },
+          {
             "date": "2025-11-15T00:00:00.000",
             "startTime": "2025-11-15T22:00:00.000",
             "endTime": "2025-11-16T04:00:00.000",
@@ -11996,7 +12271,30 @@
         "googleMaps": "https://maps.google.com/?cid=17029120266020152727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/IGJYa3FR",
         "ra_id": 216993,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T23:00:00.000",
+            "endTime": "2025-11-08T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2297167",
+            "title": "MMT. 251107",
+            "location": "Moment",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 216993
+          },
+          {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-08T23:00:00.000",
+            "endTime": "2025-11-09T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2297169",
+            "title": "MMT. 251108",
+            "location": "Moment",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 216993
+          }
+        ]
       }
     },
     {
@@ -12038,7 +12336,57 @@
         "kakaoMaps": "http://place.map.kakao.com/1433833662",
         "naverMaps": "https://naver.me/GQ15Gjfr",
         "ra_id": 257133,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-06T00:00:00.000",
+            "startTime": "2025-11-06T23:00:00.000",
+            "endTime": "2025-11-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298036",
+            "title": "ROSSO",
+            "location": "Rosso",
+            "artists": [
+              "KARAYAN"
+            ],
+            "source": "ra",
+            "ra_id": 257133
+          },
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T23:00:00.000",
+            "endTime": "2025-11-08T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298034",
+            "title": "ROSSO 1st Anniversary",
+            "location": "Rosso",
+            "artists": [
+              "Kiril",
+              "KARAYAN",
+              "Guno",
+              "Charlie",
+              "SERA (2)",
+              "BIGTER"
+            ],
+            "source": "ra",
+            "ra_id": 257133
+          },
+          {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-08T23:00:00.000",
+            "endTime": "2025-11-09T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298035",
+            "title": "ROSSO",
+            "location": "Rosso",
+            "artists": [
+              "brother j",
+              "Minje",
+              "ANDOW",
+              "Yunu",
+              "JADA",
+              "Minhyun Koo"
+            ],
+            "source": "ra",
+            "ra_id": 257133
+          }
+        ]
       }
     },
     {
@@ -12103,7 +12451,110 @@
         "instagram": "https://www.instagram.com/culsec_seoul",
         "googleMaps": "https://maps.google.com/?cid=7971217441007667550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "ra_id": 268468,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T23:00:00.000",
+            "endTime": "2025-11-08T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298023",
+            "title": "CULSEC",
+            "location": "Cul Sec",
+            "artists": [
+              "DJ Jinwook"
+            ],
+            "source": "ra",
+            "ra_id": 268468
+          },
+          {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-08T22:00:00.000",
+            "endTime": "2025-11-09T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2298024",
+            "title": "CULSEC",
+            "location": "Cul Sec",
+            "artists": [
+              "dguru"
+            ],
+            "source": "ra",
+            "ra_id": 268468
+          },
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T23:00:00.000",
+            "endTime": "2025-11-15T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298025",
+            "title": "CUL SEC",
+            "location": "Cul Sec",
+            "artists": [
+              "Soyo"
+            ],
+            "source": "ra",
+            "ra_id": 268468
+          },
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-15T23:00:00.000",
+            "endTime": "2025-11-16T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298026",
+            "title": "CUL SEC",
+            "location": "Cul Sec",
+            "artists": [
+              "range vak"
+            ],
+            "source": "ra",
+            "ra_id": 268468
+          },
+          {
+            "date": "2025-11-21T00:00:00.000",
+            "startTime": "2025-11-21T23:00:00.000",
+            "endTime": "2025-11-22T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298028",
+            "title": "Cul Sec",
+            "location": "Cul Sec",
+            "artists": [
+              "ranomin"
+            ],
+            "source": "ra",
+            "ra_id": 268468
+          },
+          {
+            "date": "2025-11-22T00:00:00.000",
+            "startTime": "2025-11-22T23:00:00.000",
+            "endTime": "2025-11-23T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298029",
+            "title": "Cul Sec",
+            "location": "Cul Sec",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 268468
+          },
+          {
+            "date": "2025-11-28T00:00:00.000",
+            "startTime": "2025-11-28T23:00:00.000",
+            "endTime": "2025-11-29T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298030",
+            "title": "Cul Sec",
+            "location": "Cul Sec",
+            "artists": [
+              "Lyrical daniel"
+            ],
+            "source": "ra",
+            "ra_id": 268468
+          },
+          {
+            "date": "2025-11-29T00:00:00.000",
+            "startTime": "2025-11-29T23:00:00.000",
+            "endTime": "2025-11-30T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2298032",
+            "title": "Cul Sec",
+            "location": "Cul Sec",
+            "artists": [
+              "Nanbong"
+            ],
+            "source": "ra",
+            "ra_id": 268468
+          }
+        ]
       }
     },
     {
@@ -12428,6 +12879,17 @@
         "ra_id": 177268,
         "events": [
           {
+            "date": "2025-11-06T00:00:00.000",
+            "startTime": "2025-11-06T23:00:00.000",
+            "endTime": "2025-11-07T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296861",
+            "title": "김희나 trio",
+            "location": "Casa Corona Seoul",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 177268
+          },
+          {
             "date": "2025-11-09T00:00:00.000",
             "startTime": "2025-11-09T18:00:00.000",
             "endTime": "2025-11-10T03:00:00.000",
@@ -12436,6 +12898,21 @@
             "location": "Casa Corona Seoul",
             "artists": [
               "Piem",
+              "Better",
+              "Grace Kim"
+            ],
+            "source": "ra",
+            "ra_id": 177268
+          },
+          {
+            "date": "2025-11-09T00:00:00.000",
+            "startTime": "2025-11-09T23:00:00.000",
+            "endTime": "2025-11-10T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296860",
+            "title": "PIEM in Seoul",
+            "location": "Casa Corona Seoul",
+            "artists": [
+              "Ruta",
               "Better",
               "Grace Kim"
             ],
@@ -12510,7 +12987,42 @@
         "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/xY4sFFgP",
         "ra_id": 267778,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T21:00:00.000",
+            "endTime": "2025-11-09T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2297118",
+            "title": "Waikiki Utopia 'PEPERO DAY'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "H93 (KR)",
+              "TERRA (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "KEY:NA"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          },
+          {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-07T21:00:00.000",
+            "endTime": "2025-11-09T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2297118",
+            "title": "Waikiki Utopia 'PEPERO DAY'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "H93 (KR)",
+              "TERRA (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "KEY:NA"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          }
+        ]
       }
     },
     {
@@ -12835,6 +13347,55 @@
         "naverMaps": "https://naver.me/IGZ2DqR1",
         "ra_id": 269802,
         "events": [
+          {
+            "date": "2025-11-06T00:00:00.000",
+            "startTime": "2025-11-06T23:00:00.000",
+            "endTime": "2025-11-07T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2296990",
+            "title": "Grain Haus [ Curated By OUIDAEHAN ]",
+            "location": "Grain Haus",
+            "artists": [
+              "BILL.E",
+              "Blanche"
+            ],
+            "source": "ra",
+            "ra_id": 269802
+          },
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T23:00:00.000",
+            "endTime": "2025-11-08T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2297010",
+            "title": "Grain Haus [Curated By OUIDAEHAN & Daul ] with Miamor (UK)",
+            "location": "Grain Haus",
+            "artists": [
+              "Miamor",
+              "DJ Soulscape",
+              "KINGMCK",
+              "Daul",
+              "BILL.E"
+            ],
+            "source": "ra",
+            "ra_id": 269802
+          },
+          {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-08T23:00:00.000",
+            "endTime": "2025-11-09T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2297005",
+            "title": "Grain Haus [ PROCESS ITW 2YEAR BLOCK PARTY ]",
+            "location": "Grain Haus",
+            "artists": [
+              "ryota dj",
+              "ShioriyBradshaw",
+              "KINGMCK",
+              "DJ Co.kr",
+              "Daul",
+              "Xing Xing"
+            ],
+            "source": "ra",
+            "ra_id": 269802
+          },
           {
             "date": "2025-11-15T00:00:00.000",
             "startTime": "2025-11-15T22:00:00.000",
@@ -13210,6 +13771,21 @@
               "Rhyw",
               "Djilogue",
               "ANSOL"
+            ],
+            "source": "ra",
+            "ra_id": 202409
+          },
+          {
+            "date": "2025-11-09T00:00:00.000",
+            "startTime": "2025-11-09T23:00:00.000",
+            "endTime": "2025-11-10T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296857",
+            "title": "vurt. TAKE OVER at Kockiri",
+            "location": "Kockiri",
+            "artists": [
+              "Rhyw",
+              "ANSOL",
+              "Djilogue"
             ],
             "source": "ra",
             "ra_id": 202409
@@ -14268,7 +14844,35 @@
         "googleMaps": "https://maps.google.com/?cid=15446392049390047283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/xNnWSr1s",
         "ra_id": 272983,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-07T00:00:00.000",
+            "startTime": "2025-11-07T23:00:00.000",
+            "endTime": "2025-11-08T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296882",
+            "title": "FFF",
+            "location": "FFF",
+            "artists": [
+              "Aidin (KR)",
+              "maro"
+            ],
+            "source": "ra",
+            "ra_id": 272983
+          },
+          {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-08T22:00:00.000",
+            "endTime": "2025-11-09T03:30:00.000",
+            "eventUrl": "https://ra.co/events/2296883",
+            "title": "FFF",
+            "location": "FFF",
+            "artists": [
+              "Sterling Silver"
+            ],
+            "source": "ra",
+            "ra_id": 272983
+          }
+        ]
       }
     },
     {
@@ -14303,6 +14907,39 @@
             "date": "2025-11-11",
             "eventUrl": "https://www.instagram.com/p/DQap9J8jLf4/",
             "entry": "예매 정보 링크"
+          },
+          {
+            "date": "2025-11-05T00:00:00.000",
+            "startTime": "2025-11-05T21:30:00.000",
+            "endTime": "2025-11-06T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296879",
+            "title": "함께 배우는 전자음악 at TILT",
+            "location": "Tiltxfnst",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 273434
+          },
+          {
+            "date": "2025-11-08T00:00:00.000",
+            "startTime": "2025-11-08T23:00:00.000",
+            "endTime": "2025-11-09T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296881",
+            "title": "Autechre Live Set Series — AE_LIVE_GRAFENHAINICHEN_170715",
+            "location": "Tiltxfnst",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 273434
+          },
+          {
+            "date": "2025-11-25T00:00:00.000",
+            "startTime": "2025-11-25T20:30:00.000",
+            "endTime": "2025-11-26T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2296878",
+            "title": "SPECIAL LISTENING",
+            "location": "Tiltxfnst",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 273434
           }
         ]
       }
@@ -14937,7 +15574,7 @@
             "startTime": "2025-11-08T22:00:00.000",
             "endTime": "2025-11-09T06:00:00.000",
             "eventUrl": "https://ra.co/events/2294780",
-            "title": "FRISK: Cameron Jack",
+            "title": "FRISK: Cameron Jack(UK/Crosstown lebels)",
             "location": "TONE SEOUL",
             "artists": [
               "Cameron Jack",
@@ -15259,7 +15896,23 @@
         "googleMaps": "https://maps.google.com/?cid=5155351889641647138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
         "naverMaps": "https://naver.me/xFLZgysG",
         "ra_id": 277085,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-06T00:00:00.000",
+            "startTime": "2025-11-06T20:00:00.000",
+            "endTime": "2025-11-07T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2296928",
+            "title": "AFTER THE SHOW with MELT",
+            "location": "Canopy Seoul",
+            "artists": [
+              "Beijo Bae",
+              "G1KIM",
+              "Sterling Silver"
+            ],
+            "source": "ra",
+            "ra_id": 277085
+          }
+        ]
       }
     },
     {
