@@ -16552,6 +16552,79 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0849517,
+          37.3503445
+        ]
+      },
+      "properties": {
+        "name_ko": "책가옥",
+        "name": "Chaekgaok",
+        "address_ko": "경기도 용인시 수지구 고기로173번길 10-8 1층 건물",
+        "address": "10-8, Gogi-ro 173beon-gil, Suji-gu, Yongin-si, Gyeonggi-do, Republic of Korea",
+        "address_jibun": "경기도 용인시 수지구 동천동 56 1층 건물",
+        "instagram": "https://www.instagram.com/chaekgaok",
+        "kakaoMaps": "http://place.map.kakao.com/423459051",
+        "googleMaps": "https://maps.google.com/?cid=2566144214549844748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/GNW6bUip",
+        "events": [
+          {
+            "showdeeId": "3806",
+            "source": "showdee",
+            "artists": [
+              "정밀아"
+            ],
+            "location": "용인 책가옥",
+            "startTime": "2025-11-15T18:00:00",
+            "date": "2025-11-15",
+            "eventUrl": "https://m.booking.naver.com/booking/6/bizes/354832/items/7140346?area=plt&lang=ko&startDate=2025-11-15&tab=book&theme=place",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9261046,
+          37.5633772
+        ]
+      },
+      "properties": {
+        "name_ko": "칠펍",
+        "name": "Chill Pub",
+        "address_ko": "서울특별시 마포구 성미산로 185 지하",
+        "address": "185, Seongmisan-ro, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 연남동 224-40 지하",
+        "instagram": "https://www.instagram.com/chill_pub_/",
+        "googleMaps": "https://maps.google.com/?cid=7258578339523467959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/FzSeFknH",
+        "events": [
+          {
+            "showdeeId": "3879",
+            "source": "showdee",
+            "artists": [
+              "전기뱀장어",
+              "물도둑",
+              "양동욱",
+              "레토",
+              "척토노"
+            ],
+            "location": "칠펍",
+            "startTime": "2025-11-22T19:00:00",
+            "date": "2025-11-22",
+            "eventUrl": "https://www.instagram.com/p/DQrLTJ3E2IC/",
+            "entry": "무료 입장"
+          }
+        ]
+      }
     }
   ]
 }
