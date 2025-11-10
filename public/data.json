@@ -15941,6 +15941,188 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9953896,
+          37.5343649
+        ]
+      },
+      "properties": {
+        "name_ko": "GAG Space",
+        "name": "GAG Space",
+        "address_ko": "서울특별시 용산구 이태원로 192 4층",
+        "address": "192, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 용산구 이태원동 127-2 4층",
+        "instagram": "https://www.instagram.com/gag_space/",
+        "googleMaps": "https://maps.google.com/?cid=3073461222830136278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/5tJmPrxV",
+        "ra_id": 260966,
+        "events": [
+          {
+            "date": "2025-11-22T00:00:00.000",
+            "startTime": "2025-11-22T22:00:00.000",
+            "endTime": "2025-11-23T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2301010",
+            "title": "BIAS NYC x GLTQ SEOUL: WINTER WONDERLAND",
+            "location": "GAG Lounge",
+            "artists": [
+              "Seesea",
+              "KA WAI",
+              "YUNJI",
+              "MOHOHOMO",
+              "Xena (KR)",
+              "mokhzolla",
+              "O.od"
+            ],
+            "source": "ra",
+            "ra_id": 260966
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9143773,
+          37.5294255
+        ]
+      },
+      "properties": {
+        "name_ko": "국회의원회관",
+        "name": "National Assembly",
+        "address_ko": "서울특별시 영등포구 여의도동 국회대로 741",
+        "address_jibun": "서울특별시 영등포구 여의도동 1",
+        "website": "http://www.na.go.kr/",
+        "kakaoMaps": "http://place.map.kakao.com/26370030",
+        "googleMaps": "https://maps.google.com/?cid=232843907363957214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "events": [
+          {
+            "showdeeId": "3845",
+            "source": "showdee",
+            "artists": [
+              "브로콜리너마저",
+              "선과영"
+            ],
+            "location": "국회의원회관 대회의실",
+            "startTime": "2025-11-20T19:00:00",
+            "date": "2025-11-20",
+            "eventUrl": "https://www.instagram.com/p/DQvNJDOj_Zz/",
+            "entry": "무료 사전 신청"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9194181,
+          35.1417434
+        ]
+      },
+      "properties": {
+        "name_ko": "블루서클",
+        "name": "Blue Circle",
+        "address_ko": "광주광역시 동구 양림로119번길 24 블루서클",
+        "address": "24, Yangnim-ro 119beon-gil, Dong-gu, Gwangju, Republic of Korea",
+        "address_jibun": "광주광역시 동구 학동 150-1 블루서클",
+        "instagram": "http://www.instagram.com/bluecircle.kr",
+        "kakaoMaps": "http://place.map.kakao.com/1327856023",
+        "googleMaps": "https://maps.google.com/?cid=18241609445209719383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/GbDZybUE",
+        "events": [
+          {
+            "showdeeId": "3935",
+            "source": "showdee",
+            "artists": [
+              "이장혁"
+            ],
+            "location": "광주 블루서클",
+            "startTime": "2025-11-29T19:00:00",
+            "date": "2025-11-29",
+            "eventUrl": "https://www.instagram.com/p/DQoZbTAgKds/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8658718,
+          37.4983312
+        ]
+      },
+      "properties": {
+        "name_ko": "구로창의아트홀",
+        "name": "Guro Creative Art Hall",
+        "address_ko": "서울특별시 구로구 경인로 416 4층",
+        "address": "416, Gyeongin-ro, Guro-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 구로구 고척동 63-16 4층",
+        "website": "https://www.guroartsvalley.or.kr/user/overall/overallArt10.do",
+        "kakaoMaps": "http://place.map.kakao.com/381767945",
+        "googleMaps": "https://maps.google.com/?cid=2344639505962452729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/5R4Bt4PK",
+        "events": [
+          {
+            "showdeeId": "3974",
+            "source": "showdee",
+            "artists": [
+              "악단광칠"
+            ],
+            "location": "구로창의아트홀",
+            "startTime": "2025-12-06T19:00:00",
+            "date": "2025-12-06",
+            "eventUrl": "https://tickets.interpark.com/goods/25015715",
+            "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0222036,
+          37.6037552
+        ]
+      },
+      "properties": {
+        "name_ko": "꿈빛극장",
+        "name": "Kkumbit Theatre",
+        "address_ko": "서울특별시 성북구 길음로7길 20",
+        "address": "20, Gireum-ro 7-gil, Seongbuk-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 성북구 길음동 1286-8",
+        "website": "http://kbt.sbculture.or.kr/",
+        "instagram": "https://www.instagram.com/kkumbit_theatre/",
+        "kakaoMaps": "http://place.map.kakao.com/1318425535",
+        "googleMaps": "https://maps.google.com/?cid=2546202157141214536&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/xgN2DDOc",
+        "events": [
+          {
+            "showdeeId": "3989",
+            "source": "showdee",
+            "artists": [
+              "브로콜리너마저"
+            ],
+            "location": "꿈빛극장",
+            "startTime": "2025-12-13T17:00:00",
+            "date": "2025-12-13",
+            "eventUrl": "https://tickets.interpark.com/goods/25015175",
+            "entry": "예매 링크"
+          }
+        ]
+      }
     }
   ]
 }
