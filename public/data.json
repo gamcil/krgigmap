@@ -197,7 +197,39 @@
         "googleMaps": "https://maps.google.com/?cid=302532961150360413",
         "naverMaps": "https://map.naver.com/p/entry/place/38643584",
         "ra_id": 127189,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T22:00:00.000",
+            "endTime": "2025-11-15T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2302673",
+            "title": "[BBCB PRESENTS] Mython(DE) & Jeremy Cheung(HK)",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "E3",
+              "Jeremy Cheung",
+              "Mython",
+              "Short Finger"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          },
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-15T22:00:00.000",
+            "endTime": "2025-11-16T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2302676",
+            "title": "[BBCB PRESENTS] Red Rey(FR)",
+            "location": "BBCB: Beton Brut+Concrete Bar",
+            "artists": [
+              "Josée",
+              "Red Rey",
+              "Earthbender"
+            ],
+            "source": "ra",
+            "ra_id": 127189
+          }
+        ]
       }
     },
     {
@@ -1691,18 +1723,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1196131538",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3756",
-            "source": "showdee",
-            "artists": [
-              "밍기뉴"
-            ],
-            "location": "클럽온에어",
-            "startTime": "2025-11-11T19:00:00",
-            "date": "2025-11-11",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212237",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3844",
             "source": "showdee",
@@ -4524,7 +4544,22 @@
         "googleMaps": "https://maps.google.com/?cid=11881259354384405760",
         "naverMaps": "https://map.naver.com/p/entry/place/19882507",
         "ra_id": 105806,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T20:00:00.000",
+            "endTime": "2025-11-15T02:30:00.000",
+            "eventUrl": "https://ra.co/events/2302347",
+            "title": "BACKWASH",
+            "location": "J.J. Mahoney's Bar",
+            "artists": [
+              "Multivsn",
+              "Elric"
+            ],
+            "source": "ra",
+            "ra_id": 105806
+          }
+        ]
       }
     },
     {
@@ -5020,19 +5055,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/12124933",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "3758",
-            "source": "showdee",
-            "artists": [
-              "크라잉넛",
-              "김수철"
-            ],
-            "location": "KT&G 상상마당 홍대",
-            "startTime": "2025-11-11T20:00:00",
-            "date": "2025-11-11",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212105",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "3843",
             "source": "showdee",
@@ -6998,7 +7020,50 @@
         "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
         "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
         "ra_id": 194402,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T23:00:00.000",
+            "endTime": "2025-11-15T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2302817",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Jenna",
+              "Aidin (KR)"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-15T23:00:00.000",
+            "endTime": "2025-11-16T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2302819",
+            "title": "Daïf(FR)_Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Daïf",
+              "JNS"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          },
+          {
+            "date": "2025-11-16T00:00:00.000",
+            "startTime": "2025-11-16T23:00:00.000",
+            "endTime": "2025-11-17T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2302823",
+            "title": "Paper Seoul",
+            "location": "Paper",
+            "artists": [
+              "Jesse You",
+              "Nitecaps"
+            ],
+            "source": "ra",
+            "ra_id": 194402
+          }
+        ]
       }
     },
     {
@@ -7135,7 +7200,22 @@
         "googleMaps": "https://maps.google.com/?cid=10504334388587349733",
         "naverMaps": "https://map.naver.com/p/entry/place/37009058",
         "ra_id": 104589,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T21:00:00.000",
+            "endTime": "2025-11-15T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2302643",
+            "title": "Sinqmin Long Set",
+            "location": "Pistil",
+            "artists": [
+              "Sinqmin",
+              "Lonho"
+            ],
+            "source": "ra",
+            "ra_id": 104589
+          }
+        ]
       }
     },
     {
@@ -7949,7 +8029,165 @@
         "googleMaps": "https://maps.google.com/?cid=17791490631383192613",
         "naverMaps": "https://map.naver.com/p/entry/place/1195670464",
         "ra_id": 204286,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-12T00:00:00.000",
+            "startTime": "2025-11-10T20:00:00.000",
+            "endTime": "2025-11-16T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2302488",
+            "title": "Stoked&stoned 10 NOV - 16 NOV",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Youngseok",
+              "Gyusco",
+              "psyche (2)",
+              "RTRP",
+              "Zoonpark",
+              "Othervision",
+              "vinpress",
+              "Blossom Hill",
+              "Seb Wildblood",
+              "Nolove",
+              "Airbear",
+              "TRUEUNSOL",
+              "Justruud"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-11-13T00:00:00.000",
+            "startTime": "2025-11-10T20:00:00.000",
+            "endTime": "2025-11-16T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2302488",
+            "title": "Stoked&stoned 10 NOV - 16 NOV",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Youngseok",
+              "Gyusco",
+              "psyche (2)",
+              "RTRP",
+              "Zoonpark",
+              "Othervision",
+              "vinpress",
+              "Blossom Hill",
+              "Seb Wildblood",
+              "Nolove",
+              "Airbear",
+              "TRUEUNSOL",
+              "Justruud"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-11-13T00:00:00.000",
+            "startTime": "2025-11-13T20:00:00.000",
+            "endTime": "2025-11-16T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2302491",
+            "title": "Needles",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Othervision",
+              "vinpress"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-10T20:00:00.000",
+            "endTime": "2025-11-16T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2302488",
+            "title": "Stoked&stoned 10 NOV - 16 NOV",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Youngseok",
+              "Gyusco",
+              "psyche (2)",
+              "RTRP",
+              "Zoonpark",
+              "Othervision",
+              "vinpress",
+              "Blossom Hill",
+              "Seb Wildblood",
+              "Nolove",
+              "Airbear",
+              "TRUEUNSOL",
+              "Justruud"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T20:00:00.000",
+            "endTime": "2025-11-15T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2302502",
+            "title": "Seb Wildblodd & Blossom Hill",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Seb Wildblood",
+              "Blossom Hill",
+              "Gyusco"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-13T20:00:00.000",
+            "endTime": "2025-11-16T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2302491",
+            "title": "Needles",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Othervision",
+              "vinpress"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-10T20:00:00.000",
+            "endTime": "2025-11-16T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2302488",
+            "title": "Stoked&stoned 10 NOV - 16 NOV",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Youngseok",
+              "Gyusco",
+              "psyche (2)",
+              "RTRP",
+              "Zoonpark",
+              "Othervision",
+              "vinpress",
+              "Blossom Hill",
+              "Seb Wildblood",
+              "Nolove",
+              "Airbear",
+              "TRUEUNSOL",
+              "Justruud"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          },
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-13T20:00:00.000",
+            "endTime": "2025-11-16T03:00:00.000",
+            "eventUrl": "https://ra.co/events/2302491",
+            "title": "Needles",
+            "location": "Stoked&stoned",
+            "artists": [
+              "Othervision",
+              "vinpress"
+            ],
+            "source": "ra",
+            "ra_id": 204286
+          }
+        ]
       }
     },
     {
@@ -8353,7 +8591,42 @@
         "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
         "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
         "ra_id": 195346,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T23:00:00.000",
+            "endTime": "2025-11-15T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2302829",
+            "title": "'GESTALT'_Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "EVE (1)",
+              "Lupion",
+              "Ryunosuke Urabe",
+              "earring"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          },
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-15T23:00:00.000",
+            "endTime": "2025-11-16T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2302832",
+            "title": "Shelter Seoul",
+            "location": "Shelter",
+            "artists": [
+              "X2C (1)",
+              "rerekat",
+              "NO.LINK",
+              "Apachi",
+              "bumv",
+              "Honn"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          }
+        ]
       }
     },
     {
@@ -11053,21 +11326,7 @@
         "googleMaps": "https://maps.google.com/?cid=16781130234346560515",
         "naverMaps": "https://map.naver.com/p/entry/place/1069707700",
         "ra_id": 263368,
-        "events": [
-          {
-            "date": "2025-11-11T00:00:00.000",
-            "startTime": "2025-11-11T23:00:00.000",
-            "endTime": "2025-11-12T06:00:00.000",
-            "eventUrl": "https://ra.co/events/2296884",
-            "title": "Objktt listening session",
-            "location": "Objktt Record Bar",
-            "artists": [
-              "Hwangbaxa"
-            ],
-            "source": "ra",
-            "ra_id": 263368
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -11459,6 +11718,21 @@
               "Moon Ki",
               "Tabris",
               "NIMNOI"
+            ],
+            "source": "ra",
+            "ra_id": 70614
+          },
+          {
+            "date": "2025-11-21T00:00:00.000",
+            "startTime": "2025-11-21T22:00:00.000",
+            "endTime": "2025-11-22T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2302871",
+            "title": "SOAR",
+            "location": "Cakeshop",
+            "artists": [
+              "Yoyou",
+              "DDD (2)",
+              "Lil Farm"
             ],
             "source": "ra",
             "ra_id": 70614
@@ -12078,6 +12352,19 @@
         "ra_id": 133352,
         "events": [
           {
+            "date": "2025-11-13T00:00:00.000",
+            "startTime": "2025-11-13T21:00:00.000",
+            "endTime": "2025-11-14T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2302477",
+            "title": "Thursday Volnost",
+            "location": "Volnost",
+            "artists": [
+              "SEOD"
+            ],
+            "source": "ra",
+            "ra_id": 133352
+          },
+          {
             "date": "2025-11-14T00:00:00.000",
             "startTime": "2025-11-14T23:00:00.000",
             "endTime": "2025-11-15T05:00:00.000",
@@ -12285,7 +12572,40 @@
         "kakaoMaps": "http://place.map.kakao.com/948096615",
         "googleMaps": "https://maps.google.com/?cid=17441298849254633058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "ra_id": 225363,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-13T00:00:00.000",
+            "startTime": "2025-11-13T23:00:00.000",
+            "endTime": "2025-11-14T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2302432",
+            "title": "The Boss",
+            "location": "Arga",
+            "artists": [
+              "Cityboy from Seoul",
+              "Hogun",
+              "Kim.Qna",
+              "Crab"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          },
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T23:00:00.000",
+            "endTime": "2025-11-15T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2302436",
+            "title": "James Falco(Italy)",
+            "location": "Arga",
+            "artists": [
+              "Jaezae",
+              "James Falco",
+              "Youngisland",
+              "Joshüa"
+            ],
+            "source": "ra",
+            "ra_id": 225363
+          }
+        ]
       }
     },
     {
@@ -12764,7 +13084,42 @@
         "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
         "naverMaps": "https://naver.me/xY4sFFgP",
         "ra_id": 267778,
-        "events": []
+        "events": [
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T21:00:00.000",
+            "endTime": "2025-11-16T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2302722",
+            "title": "Waikiki Utopia 'SUN SET'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "TERRA (KR)",
+              "H93 (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "KEY:NA"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          },
+          {
+            "date": "2025-11-15T00:00:00.000",
+            "startTime": "2025-11-14T21:00:00.000",
+            "endTime": "2025-11-16T07:00:00.000",
+            "eventUrl": "https://ra.co/events/2302722",
+            "title": "Waikiki Utopia 'SUN SET'",
+            "location": "Waikiki Club Utopia",
+            "artists": [
+              "TERRA (KR)",
+              "H93 (KR)",
+              "AVEN (KR)",
+              "STAN MYLOR",
+              "KEY:NA"
+            ],
+            "source": "ra",
+            "ra_id": 267778
+          }
+        ]
       }
     },
     {
@@ -12939,18 +13294,6 @@
         "naverMaps": "https://naver.me/FhU0bsR4",
         "events": [
           {
-            "showdeeId": "3759",
-            "source": "showdee",
-            "artists": [
-              "차세대"
-            ],
-            "location": "숲세권 라이브",
-            "startTime": "2025-11-11T20:00:00",
-            "date": "2025-11-11",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212162",
-            "entry": "예매 링크"
-          },
-          {
             "showdeeId": "3770",
             "source": "showdee",
             "artists": [
@@ -13077,6 +13420,36 @@
         "naverMaps": "https://naver.me/IGZ2DqR1",
         "ra_id": 269802,
         "events": [
+          {
+            "date": "2025-11-13T00:00:00.000",
+            "startTime": "2025-11-13T23:00:00.000",
+            "endTime": "2025-11-14T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2302418",
+            "title": "Grain Haus [ Dear.K ]",
+            "location": "Grain Haus",
+            "artists": [
+              "KIKI (KR)",
+              "Kitty",
+              "Hyejin",
+              "KIKOH"
+            ],
+            "source": "ra",
+            "ra_id": 269802
+          },
+          {
+            "date": "2025-11-14T00:00:00.000",
+            "startTime": "2025-11-14T23:00:00.000",
+            "endTime": "2025-11-15T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2302421",
+            "title": "Grain Haus [ 𝐁𝐔𝐃𝐗𝐁𝐄𝐀𝐓𝐒 ]",
+            "location": "Grain Haus",
+            "artists": [
+              "Conan",
+              "DECV"
+            ],
+            "source": "ra",
+            "ra_id": 269802
+          },
           {
             "date": "2025-11-15T00:00:00.000",
             "startTime": "2025-11-15T22:00:00.000",
@@ -14501,19 +14874,6 @@
         "naverMaps": "https://naver.me/GGCmKH6d",
         "ra_id": 273434,
         "events": [
-          {
-            "showdeeId": "3757",
-            "source": "showdee",
-            "artists": [
-              "이언",
-              "gubd다"
-            ],
-            "location": "틸트",
-            "startTime": "2025-11-11T19:45:00",
-            "date": "2025-11-11",
-            "eventUrl": "https://www.instagram.com/p/DQap9J8jLf4/",
-            "entry": "예매 정보 링크"
-          },
           {
             "date": "2025-11-25T00:00:00.000",
             "startTime": "2025-11-25T20:30:00.000",
