@@ -3522,6 +3522,7 @@
   {
     "name": "Morene Sukha",
     "name_ko": "모래내 극락",
+    "ra_id": 275144,
     "address": "7, Susaek-ro 4-gil, Seodaemun-gu, Seoul, Republic of Korea",
     "address_ko": "서울 서대문구 수색로4길 7",
     "address_jibun": "서울 서대문구 남가좌동 289-6",
@@ -3531,10 +3532,6 @@
     "googleMaps": "https://maps.google.com/?cid=1589411198267313265&g_mp=EAAYBCAA",
     "kakaoMaps": "http://place.map.kakao.com/1929678823",
     "naverMaps": "https://www.instagram.com/morene__sukha/",
-    "sources": [
-      "kakao",
-      "google"
-    ],
     "alias": [
       "모래내 극락",
       "극락",
@@ -9426,6 +9423,59 @@
       "성북꿈빛극장",
       "성북미디어문화마루",
       "꿈빛극장"
+    ]
+  },
+  {
+    "name": "Incheon Brewery Tiger",
+    "name_ko": "인천맥주 호랑이",
+    "address": "3, Jemullyang-ro 218beon-gil, Jung-gu, Incheon, Republic of Korea",
+    "address_ko": "인천광역시 중구 제물량로218번길 3 인천아트플랫폼 H동 1층",
+    "address_jibun": "인천광역시 중구 해안동1가 1-5 인천아트플랫폼 H동 1층",
+    "lat": 37.4728109,
+    "lng": 126.6205639,
+    "kakaoMaps": "https://place.map.kakao.com/1485980985",
+    "naverMaps": "https://naver.me/FfeOAsIe",
+    "instagram": "https://www.instagram.com/incheon_brewery_tiger/",
+    "alias": [
+      "인천맥주 호랑이굴",
+      "인천맥주 호랑이",
+      "인천 맥주 호랑이"
+    ]
+  },
+  {
+    "name": "Sakkot",
+    "name_ko": "사꽃",
+    "address": "53, World Cup-ro, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 월드컵로 53 지하1층",
+    "address_jibun": "서울특별시 마포구 합정동 427-3 지하1층",
+    "lat": 37.5540091,
+    "lng": 126.9114607,
+    "instagram": "https://www.instagram.com/_sakkot_/",
+    "naverMaps": "https://naver.me/FBeXFbYr",
+    "kakaoMaps": "https://place.map.kakao.com/2071054932",
+    "alias": [
+      "사꽃",
+      "사는게꽃같네",
+      "sakkot"
+    ]
+  },
+  {
+    "name": "Kamar",
+    "name_ko": "카마르",
+    "ra_id": 272804,
+    "address": "16, Itaewon-ro 23-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 이태원로23길 16 2층",
+    "address_jibun": "서울특별시 용산구 이태원동 116-21 2층",
+    "lat": 37.5351626,
+    "lng": 126.9927188,
+    "instagram": "https://www.instagram.com/kamar_seoul",
+    "naverMaps": "https://naver.me/xyTG8tuY",
+    "googleMaps": "https://maps.google.com/?cid=3870842016584388025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/679845344",
+    "alias": [
+      "카마르",
+      "카마르(kamar)",
+      "kamar"
     ]
   }
 ]
