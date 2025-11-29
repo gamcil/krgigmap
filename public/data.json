@@ -10507,7 +10507,7 @@
       },
       "properties": {
         "name_ko": "제너두레코드바",
-        "name": "Xanadu record bar",
+        "name": "Xanadu Record Bar",
         "address_ko": "서울 광진구 자양번영로 69",
         "address": "Seoul, Gwangjin District, Jayang-dong, Jayangbeonyeong-ro, 69 5층",
         "address_jibun": "서울 광진구 자양동 227-263",
@@ -10517,7 +10517,20 @@
         "googleMaps": "https://maps.google.com/?cid=17571656330296871498",
         "naverMaps": "https://map.naver.com/p/entry/place/1049723149",
         "ra_id": null,
-        "events": []
+        "events": [
+          {
+            "showdeeId": "4094",
+            "source": "showdee",
+            "artists": [
+              "진동욱"
+            ],
+            "location": "Xanadu 레코드 바",
+            "startTime": "2025-12-07T18:00:00",
+            "date": "2025-12-07",
+            "eventUrl": "https://www.instagram.com/p/DRcYkqbAHNr/",
+            "entry": "예매 정보 링크"
+          }
+        ]
       }
     },
     {
@@ -16745,7 +16758,10 @@
             "title": "Icy Sounds: Acoustic and Electronic",
             "location": "Happy Heavy Drinker",
             "artists": [
-              "AEIDA"
+              "DJ Funny",
+              "som (7)",
+              "AEIDA",
+              "WEEUN KIM"
             ],
             "source": "ra"
           }
@@ -16788,6 +16804,117 @@
             ],
             "source": "ra",
             "ra_id": 199358
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0290784,
+          37.5038144
+        ]
+      },
+      "properties": {
+        "name_ko": "서울스트리밍스테이션",
+        "name": "Seoul Streaming Station",
+        "address_ko": "서울특별시 강남구 강남대로110길 51",
+        "address": "51, Gangnam-daero 110-gil, Gangnam-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 강남구 역삼동 614-2",
+        "website": "https://www.sss-itv.com/",
+        "kakaoMaps": "http://place.map.kakao.com/2014233052",
+        "googleMaps": "https://maps.google.com/?cid=1231771306906425649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/GcKPXULv",
+        "events": [
+          {
+            "showdeeId": "4200",
+            "source": "showdee",
+            "artists": [
+              "세븐아워스",
+              "나타샤",
+              "디아틱"
+            ],
+            "location": "서울스트리밍스테이션",
+            "startTime": "2025-12-21T17:00:00",
+            "date": "2025-12-21",
+            "eventUrl": "https://www.instagram.com/p/DRbanx2Ehyt/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9852953,
+          37.5819421
+        ]
+      },
+      "properties": {
+        "name_ko": "와이레스 북촌",
+        "name": "YLESS Bukchon",
+        "address_ko": "서울특별시 종로구 북촌로 58",
+        "address": "58, Bukchon-ro, Jongno-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 종로구 가회동 26-5",
+        "instagram": "https://www.instagram.com/yless.official/",
+        "kakaoMaps": "http://place.map.kakao.com/1215974688",
+        "googleMaps": "https://maps.google.com/?cid=16008243577715693867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/5vciHS9v",
+        "ra_id": 280006,
+        "events": [
+          {
+            "date": "2025-11-29T00:00:00.000",
+            "startTime": "2025-11-29T08:00:00.000",
+            "endTime": "2025-11-29T10:30:00.000",
+            "eventUrl": "https://ra.co/events/2310931",
+            "title": "[Morning party] Bukchon Morning rave - FREE ENTRY, COFFEE, FINGERFOOD",
+            "location": "Yless",
+            "artists": [
+              "Conan",
+              "Coral the Animal",
+              "Minji"
+            ],
+            "source": "ra",
+            "ra_id": 280006
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1111142,
+          37.5091599
+        ]
+      },
+      "properties": {
+        "name_ko": "라쿤스드링크",
+        "name": "Raccoon's Drink",
+        "address_ko": "서울특별시 송파구 백제고분로 425 201호",
+        "address": "425, Baekjegobun-ro, Songpa-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 송파구 송파동 48 201호",
+        "instagram": "https://www.instagram.com/raccoonsdrink",
+        "kakaoMaps": "http://place.map.kakao.com/418063574",
+        "googleMaps": "https://maps.google.com/?cid=6565336915520395641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/xdpFBofY",
+        "ra_id": 274954,
+        "events": [
+          {
+            "date": "2025-11-29T00:00:00.000",
+            "startTime": "2025-11-29T18:00:00.000",
+            "endTime": "2025-11-30T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2315277",
+            "title": "Raccoon‘s Drink",
+            "location": "Raccoon's Drink",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 274954
           }
         ]
       }

@@ -5654,12 +5654,15 @@
     "kakaoMaps": "http://place.map.kakao.com/1412420595",
     "googleMaps": "https://maps.google.com/?cid=17571656330296871498",
     "ra_id": null,
-    "name": "Xanadu record bar",
+    "name": "Xanadu Record Bar",
     "address": "Seoul, Gwangjin District, Jayang-dong, Jayangbeonyeong-ro, 69 5층",
     "website": "",
     "instagram": "https://www.instagram.com/recordbar_xanadu",
     "naverMaps": "https://map.naver.com/p/entry/place/1049723149",
-    "_dir": "154_서울_제너두레코드바_xanadurecordbar"
+    "_dir": "154_서울_제너두레코드바_xanadurecordbar",
+    "alias": [
+      "Xanadu 레코드 바"
+    ]
   },
   {
     "name": "YES24 Live Hall",
@@ -9636,5 +9639,61 @@
       "orgasm valley"
     ],
     "instagram": "https://instagram.com/orgasmvalleyhousepool"
+  },
+  {
+    "name": "Seoul Streaming Station",
+    "name_ko": "서울스트리밍스테이션",
+    "address": "51, Gangnam-daero 110-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 강남구 강남대로110길 51",
+    "address_jibun": "서울특별시 강남구 역삼동 614-2",
+    "lat": 37.5038144,
+    "lng": 127.0290784,
+    "website": "https://www.sss-itv.com/",
+    "googleMaps": "https://maps.google.com/?cid=1231771306906425649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/2014233052",
+    "naverMaps": "https://naver.me/GcKPXULv",
+    "alias": [
+      "서울스트리밍스테이션",
+      "Seoul Streaming Station",
+      "서울스트리밍스테이션"
+    ]
+  },
+  {
+    "name": "YLESS Bukchon",
+    "name_ko": "와이레스 북촌",
+    "ra_id": 280006,
+    "address": "58, Bukchon-ro, Jongno-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 종로구 북촌로 58",
+    "address_jibun": "서울특별시 종로구 가회동 26-5",
+    "lat": 37.5819421,
+    "lng": 126.9852953,
+    "instagram": "https://www.instagram.com/yless.official/",
+    "googleMaps": "https://maps.google.com/?cid=16008243577715693867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1215974688",
+    "naverMaps": "https://naver.me/5vciHS9v",
+    "alias": [
+      "와이레스 YLESS 북촌",
+      "와이레스",
+      "와이레스 YLESS",
+      "yless"
+    ]
+  },
+  {
+    "name": "Raccoon's Drink",
+    "name_ko": "라쿤스드링크",
+    "ra_id": 274954,
+    "address": "425, Baekjegobun-ro, Songpa-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 송파구 백제고분로 425 201호",
+    "address_jibun": "서울특별시 송파구 송파동 48 201호",
+    "lat": 37.5091599,
+    "lng": 127.1111142,
+    "instagram": "https://www.instagram.com/raccoonsdrink",
+    "googleMaps": "https://maps.google.com/?cid=6565336915520395641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/418063574",
+    "naverMaps": "https://naver.me/xdpFBofY",
+    "alias": [
+      "라쿤스드링크",
+      "라쿤스드링크"
+    ]
   }
 ]
