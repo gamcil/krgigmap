@@ -10763,6 +10763,20 @@
             "ra_id": 196474
           },
           {
+            "date": "2025-12-10T00:00:00.000",
+            "startTime": "2025-12-10T21:00:00.000",
+            "endTime": "2025-12-11T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2316403",
+            "title": "Matteo Floris, Zoonpark",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Matteo Floris",
+              "Zoonpark"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
             "date": "2025-12-12T00:00:00.000",
             "startTime": "2025-12-12T22:00:00.000",
             "endTime": "2025-12-13T04:00:00.000",
@@ -16359,6 +16373,121 @@
         "naverMaps": "https://naver.me/xdpFBofY",
         "ra_id": 274954,
         "events": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9986987,
+          37.5686535
+        ]
+      },
+      "properties": {
+        "name_ko": "삼매소",
+        "name": "Samadi Lounge",
+        "address_ko": "서울특별시 중구 창경궁로8길 11 1.5층",
+        "address": "11, Changgyeonggung-ro 8-gil, Jung-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 중구 주교동 92-2 1.5층",
+        "instagram": "https://www.instagram.com/samadi.lounge",
+        "kakaoMaps": "http://place.map.kakao.com/332697929",
+        "naverMaps": "https://naver.me/52RYNPq1",
+        "events": [
+          {
+            "showdeeId": "4058",
+            "source": "showdee",
+            "artists": [
+              "우지원",
+              "중원"
+            ],
+            "location": "삼매소",
+            "startTime": "2025-12-05T20:00:00",
+            "date": "2025-12-05",
+            "eventUrl": "https://www.instagram.com/p/DRlGOmXEz6B/",
+            "entry": "현장 예매"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.4257429,
+          34.8293918
+        ]
+      },
+      "properties": {
+        "name_ko": "통영리스타트플랫폼",
+        "name": "Tongyeong Restart Platform",
+        "address_ko": "경상남도 통영시 도남로 195",
+        "address": "195, Donam-ro, Tongyeong-si, Gyeongsangnam-do, Republic of Korea",
+        "address_jibun": "경상남도 통영시 도남동 227-38",
+        "website": "http://www.tyrestart.com/",
+        "instagram": "http://www.instagram.com/ty_restartplatform_",
+        "kakaoMaps": "http://place.map.kakao.com/764468519",
+        "googleMaps": "https://maps.google.com/?cid=15581281349272826408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/FK5vFUyI",
+        "events": [
+          {
+            "showdeeId": "4145",
+            "source": "showdee",
+            "artists": [
+              "숨",
+              "유얼마인",
+              "7번국도",
+              "비제로"
+            ],
+            "location": "통영리스타트플랫폼",
+            "startTime": "2025-12-13T14:00:00",
+            "date": "2025-12-13",
+            "eventUrl": "https://www.instagram.com/p/DRmQLVZj00b/",
+            "entry": "무료 입장"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.44349762803,
+          36.31081901906117
+        ]
+      },
+      "properties": {
+        "name_ko": "대전프랑스문화원 앙트르뽀",
+        "name": "Daejeon French Cultural Center Entrepôt",
+        "address_ko": "대전 중구 대전천서로 201",
+        "address": "201, Daejeoncheonseo-ro, Jung-gu, Daejeon, Republic of Korea",
+        "address_jibun": "대전 중구 석교동 58-13",
+        "website": "http://www.afdaejeon.co.kr/",
+        "instagram": "https://www.instagram.com/entrepot_official/",
+        "kakaoMaps": "http://place.map.kakao.com/1316679491",
+        "googleMaps": "https://maps.google.com/?cid=4421673670196173053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/5apHQ385",
+        "events": [
+          {
+            "showdeeId": "4161",
+            "source": "showdee",
+            "artists": [
+              "모비딕",
+              "예레미",
+              "프리버드",
+              "디오에스",
+              "조병주",
+              "진채프로젝트"
+            ],
+            "location": "대전프랑스문화원",
+            "startTime": "2025-12-13T18:00:00",
+            "date": "2025-12-13",
+            "eventUrl": "https://tickets.interpark.com/goods/25017205",
+            "entry": "예매 링크"
+          }
+        ]
       }
     }
   ]
