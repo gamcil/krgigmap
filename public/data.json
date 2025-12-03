@@ -9376,7 +9376,23 @@
         "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
         "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
         "ra_id": 195346,
-        "events": []
+        "events": [
+          {
+            "date": "2025-12-06T00:00:00.000",
+            "startTime": "2025-12-06T23:00:00.000",
+            "endTime": "2025-12-07T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2318612",
+            "title": "OBF_Shetler Seoul",
+            "location": "Shelter",
+            "artists": [
+              "Hataken",
+              "kHOda",
+              "Moon Ki"
+            ],
+            "source": "ra",
+            "ra_id": 195346
+          }
+        ]
       }
     },
     {
@@ -16405,22 +16421,7 @@
         "instagram": "https://www.instagram.com/artcafe_acu/",
         "kakaoMaps": "http://place.map.kakao.com/473717561",
         "naverMaps": "https://naver.me/x3HgCB3P",
-        "events": [
-          {
-            "showdeeId": "4138",
-            "source": "showdee",
-            "artists": [
-              "김사월",
-              "시문",
-              "mayu"
-            ],
-            "location": "아수",
-            "startTime": "2025-12-11T20:00:00",
-            "date": "2025-12-11",
-            "eventUrl": "https://onoffmix.com/event/333724",
-            "entry": "예매 링크"
-          }
-        ]
+        "events": []
       }
     },
     {
@@ -17791,6 +17792,54 @@
             "date": "2025-12-20",
             "eventUrl": "https://www.instagram.com/p/DRt91Cmk-eb/",
             "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.915758657447,
+          37.6204185900792
+        ]
+      },
+      "properties": {
+        "name_ko": "아수",
+        "name": "açu",
+        "address_ko": "서울 은평구 갈현로33길 4",
+        "address": "4, Galhyeon-ro 33-gil, Eunpyeong-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울 은평구 갈현동 433-19",
+        "instagram": "https://www.instagram.com/artcafe_acu/",
+        "kakaoMaps": "http://place.map.kakao.com/473717561",
+        "naverMaps": "https://naver.me/x3HgCB3P",
+        "events": [
+          {
+            "showdeeId": "4070",
+            "source": "showdee",
+            "artists": [
+              "카코포니"
+            ],
+            "location": "연신내 복합예술카페 아수",
+            "startTime": "2025-12-06T16:00:00",
+            "date": "2025-12-06",
+            "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdqLMvba6rR0I1Jr0VkZ7esent6BR66uzGouzXZ4XWvkawLrQ/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnWWP4i_ZprxoSYMiEyyNRRQFlFbOduXqh_KV7yLMefltl693D3v1HyOrfZUw_aem_taQWvMHv8-0WK8CeiPbMdA",
+            "entry": "예매 링크"
+          },
+          {
+            "showdeeId": "4138",
+            "source": "showdee",
+            "artists": [
+              "김사월",
+              "시문",
+              "mayu"
+            ],
+            "location": "아수",
+            "startTime": "2025-12-11T20:00:00",
+            "date": "2025-12-11",
+            "eventUrl": "https://onoffmix.com/event/333724",
+            "entry": "예매 링크"
           }
         ]
       }
