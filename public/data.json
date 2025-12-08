@@ -10878,6 +10878,34 @@
             "ra_id": 196474
           },
           {
+            "date": "2025-12-13T00:00:00.000",
+            "startTime": "2025-12-13T23:00:00.000",
+            "endTime": "2025-12-14T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2321876",
+            "title": "ISIGQI OCEAN",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Beijo Bae",
+              "Arondight",
+              "Crab"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
+            "date": "2025-12-17T00:00:00.000",
+            "startTime": "2025-12-17T20:30:00.000",
+            "endTime": "2025-12-18T01:00:00.000",
+            "eventUrl": "https://ra.co/events/2321879",
+            "title": "Sanguz J, MASHIN, ASKWHY",
+            "location": "Atdge Seoul",
+            "artists": [
+              "Sanguz J"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
             "date": "2025-12-19T00:00:00.000",
             "startTime": "2025-12-19T22:00:00.000",
             "endTime": "2025-12-20T04:30:00.000",
@@ -10889,6 +10917,21 @@
               "KEEMBOGYEOM",
               "Khotin",
               "NON IDENTITY"
+            ],
+            "source": "ra",
+            "ra_id": 196474
+          },
+          {
+            "date": "2025-12-20T00:00:00.000",
+            "startTime": "2025-12-20T22:00:00.000",
+            "endTime": "2025-12-21T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2321885",
+            "title": "LIBITER",
+            "location": "Atdge Seoul",
+            "artists": [
+              "m.bience",
+              "PhaseLead",
+              "Zoonpark"
             ],
             "source": "ra",
             "ra_id": 196474
@@ -17103,6 +17146,76 @@
             "date": "2025-12-11",
             "eventUrl": "https://onoffmix.com/event/333724",
             "entry": "예매 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1398466,
+          37.5366588
+        ]
+      },
+      "properties": {
+        "name_ko": "LP 뮤직바 모비딕",
+        "name": "Moby Dick LP Bar",
+        "address_ko": "서울특별시 강동구 양재대로 1466 광동빌딩 지하",
+        "address": "1466, Yangjae-daero, Gangdong-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 강동구 길동 411-1 광동빌딩 지하",
+        "instagram": "https://www.instagram.com/mobydick_lpbar",
+        "kakaoMaps": "https://place.map.kakao.com/2070029406",
+        "googleMaps": "https://maps.google.com/?cid=2107596117991560200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/xX70xeAT",
+        "events": [
+          {
+            "showdeeId": "4230",
+            "source": "showdee",
+            "artists": [
+              "신촌블루스"
+            ],
+            "location": "모비딕 LP바",
+            "startTime": "2025-12-17T20:00:00",
+            "date": "2025-12-17",
+            "eventUrl": "https://www.instagram.com/p/DQldG18AJbh/",
+            "entry": "예매 정보 링크"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8964394,
+          37.7520884
+        ]
+      },
+      "properties": {
+        "name_ko": "스톤",
+        "name": "Stone",
+        "address_ko": "강원특별자치도 강릉시 중앙시장2길 14 1층",
+        "address": "14, Jungangsijang 2-gil, Gangneung-si, Gangwon-do, Republic of Korea",
+        "address_jibun": "강원특별자치도 강릉시 성남동 108-3 1층",
+        "instagram": "https://www.instagram.com/gnstone22",
+        "kakaoMaps": "http://place.map.kakao.com/787757801",
+        "googleMaps": "https://maps.google.com/?cid=4836620666841097987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/5S9Qr2Up",
+        "events": [
+          {
+            "showdeeId": "4356",
+            "source": "showdee",
+            "artists": [
+              "강산에"
+            ],
+            "location": "강릉 스톤",
+            "startTime": "2025-12-27T19:00:00",
+            "date": "2025-12-27",
+            "eventUrl": "https://www.instagram.com/p/DRzbA8mEgrz/",
+            "entry": "예매 정보 링크"
           }
         ]
       }
