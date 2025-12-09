@@ -303,7 +303,49 @@
         "googleMaps": "https://maps.google.com/?cid=16164063049611793081",
         "naverMaps": "https://map.naver.com/p/entry/place/1123909060",
         "ra_id": 198937,
-        "events": []
+        "events": [
+          {
+            "date": "2025-12-11T00:00:00.000",
+            "startTime": "2025-12-11T22:00:00.000",
+            "endTime": "2025-12-12T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2322018",
+            "title": "BOLERO: OVRTRN",
+            "location": "Bolero",
+            "artists": [
+              "rom (6)"
+            ],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-12-12T00:00:00.000",
+            "startTime": "2025-12-12T22:00:00.000",
+            "endTime": "2025-12-13T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2322019",
+            "title": "BOLERO: Manhattan Records 45th Anniv. Party",
+            "location": "Bolero",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 198937
+          },
+          {
+            "date": "2025-12-13T00:00:00.000",
+            "startTime": "2025-12-13T22:00:00.000",
+            "endTime": "2025-12-14T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2322021",
+            "title": "BOLERO: Music bar lion x BOLERO",
+            "location": "Bolero",
+            "artists": [
+              "KINGMCK",
+              "DJ POOL",
+              "JADA",
+              "CYBERHACKSYSTEM",
+              "ecec"
+            ],
+            "source": "ra",
+            "ra_id": 198937
+          }
+        ]
       }
     },
     {
@@ -693,19 +735,6 @@
         "googleMaps": "https://maps.google.com/?cid=884018115186850439&g_mp=EAAYBCAA",
         "naverMaps": "https://map.naver.com/p/entry/place/1476560900",
         "events": [
-          {
-            "showdeeId": "4126",
-            "source": "showdee",
-            "artists": [
-              "니하",
-              "손서정"
-            ],
-            "location": "언플러그드 라운지",
-            "startTime": "2025-12-08T20:00:00",
-            "date": "2025-12-08",
-            "eventUrl": "https://www.instagram.com/p/DRcO4bME_-h/",
-            "entry": "예매 정보 링크"
-          },
           {
             "showdeeId": "4132",
             "source": "showdee",
@@ -1845,18 +1874,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1196131538",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "4128",
-            "source": "showdee",
-            "artists": [
-              "디폴트"
-            ],
-            "location": "클럽온에어",
-            "startTime": "2025-12-08T20:00:00",
-            "date": "2025-12-08",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212324",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "4139",
             "source": "showdee",
@@ -5001,18 +5018,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/1596602362",
         "events": [
           {
-            "showdeeId": "4127",
-            "source": "showdee",
-            "artists": [
-              "CRYPTOPSY (크립탑시) 내한"
-            ],
-            "location": "JS 아트홀",
-            "startTime": "2025-12-08T20:00:00",
-            "date": "2025-12-08",
-            "eventUrl": "https://tickets.interpark.com/goods/25012656",
-            "entry": "예매 링크"
-          },
-          {
             "showdeeId": "4372",
             "source": "showdee",
             "artists": [
@@ -5518,19 +5523,6 @@
         "naverMaps": "https://map.naver.com/p/entry/place/12124933",
         "ra_id": null,
         "events": [
-          {
-            "showdeeId": "4130",
-            "source": "showdee",
-            "artists": [
-              "크라잉넛",
-              "10CM"
-            ],
-            "location": "KT&G 상상마당 홍대",
-            "startTime": "2025-12-08T20:00:00",
-            "date": "2025-12-08",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212355",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "4159",
             "source": "showdee",
@@ -6203,7 +6195,11 @@
             "title": "Paranoid London (Live set, UK)",
             "location": "Modeci",
             "artists": [
-              "Paranoid London"
+              "Paranoid London",
+              "Mogwaa",
+              "J.U.N.E",
+              "Eugene Blake",
+              "SEOD"
             ],
             "source": "ra",
             "ra_id": 140937
@@ -7669,6 +7665,22 @@
         "naverMaps": "https://map.naver.com/p/entry/place/37009058",
         "ra_id": 104589,
         "events": [
+          {
+            "date": "2025-12-13T00:00:00.000",
+            "startTime": "2025-12-13T21:00:00.000",
+            "endTime": "2025-12-14T04:00:00.000",
+            "eventUrl": "https://ra.co/events/2322009",
+            "title": "Vibes Inside",
+            "location": "Pistil",
+            "artists": [
+              "BAAWLA",
+              "Test Match",
+              "Shins",
+              "Juuno"
+            ],
+            "source": "ra",
+            "ra_id": 104589
+          },
           {
             "date": "2025-12-27T00:00:00.000",
             "startTime": "2025-12-27T21:00:00.000",
@@ -11683,7 +11695,19 @@
         "googleMaps": "https://maps.google.com/?cid=1887431102401745996",
         "naverMaps": "https://map.naver.com/p/entry/place/1630177846",
         "ra_id": 262055,
-        "events": []
+        "events": [
+          {
+            "date": "2025-12-27T00:00:00.000",
+            "startTime": "2025-12-27T20:00:00.000",
+            "endTime": "2025-12-27T22:30:00.000",
+            "eventUrl": "https://ra.co/events/2322077",
+            "title": "Live Ambient: Ryan J. Raffa, Mohani, Hyuhyu",
+            "location": "Kunst Kabinett Seoul",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 262055
+          }
+        ]
       }
     },
     {
@@ -12447,6 +12471,20 @@
             ],
             "source": "ra",
             "ra_id": 262346
+          },
+          {
+            "date": "2025-12-26T00:00:00.000",
+            "startTime": "2025-12-26T21:00:00.000",
+            "endTime": "2025-12-27T05:00:00.000",
+            "eventUrl": "https://ra.co/events/2322069",
+            "title": "𝗥𝗲𝗽𝘀𝘆𝗽𝗲",
+            "location": "Chunhee",
+            "artists": [
+              "Jamjari",
+              "Gamma Knife"
+            ],
+            "source": "ra",
+            "ra_id": 262346
           }
         ]
       }
@@ -12498,6 +12536,21 @@
               "Ogazón",
               "Acidwork",
               "Jesse You"
+            ],
+            "source": "ra",
+            "ra_id": 262068
+          },
+          {
+            "date": "2025-12-20T00:00:00.000",
+            "startTime": "2025-12-20T23:59:00.000",
+            "endTime": "2025-12-21T09:00:00.000",
+            "eventUrl": "https://ra.co/events/2322212",
+            "title": "ORIGIN HOTEL: Kensa (outransa, UK)",
+            "location": "Hertz",
+            "artists": [
+              "Kensa",
+              "Jucid",
+              "RAILROAD MAN"
             ],
             "source": "ra",
             "ra_id": 262068
@@ -12611,19 +12664,6 @@
         "naverMaps": "https://naver.me/x67YuiyR",
         "ra_id": 198699,
         "events": [
-          {
-            "date": "2025-12-08T00:00:00.000",
-            "startTime": "2025-12-06T22:00:00.000",
-            "endTime": "2025-12-14T04:00:00.000",
-            "eventUrl": "https://ra.co/events/2321343",
-            "title": "SARNERI in Melt",
-            "location": "Melt",
-            "artists": [
-              "SKETCH ON BLUE"
-            ],
-            "source": "ra",
-            "ra_id": 198699
-          },
           {
             "date": "2025-12-09T00:00:00.000",
             "startTime": "2025-12-06T22:00:00.000",
@@ -13653,18 +13693,6 @@
         "kakaoMaps": "http://place.map.kakao.com/1315457525",
         "naverMaps": "https://naver.me/FhU0bsR4",
         "events": [
-          {
-            "showdeeId": "4129",
-            "source": "showdee",
-            "artists": [
-              "호아"
-            ],
-            "location": "숲세권 라이브",
-            "startTime": "2025-12-08T20:00:00",
-            "date": "2025-12-08",
-            "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212337",
-            "entry": "예매 링크"
-          },
           {
             "showdeeId": "4215",
             "source": "showdee",
@@ -16014,6 +16042,33 @@
         "naverMaps": "https://naver.me/xFLZgysG",
         "ra_id": 277085,
         "events": [
+          {
+            "date": "2025-12-11T00:00:00.000",
+            "startTime": "2025-12-11T19:00:00.000",
+            "endTime": "2025-12-12T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2322147",
+            "title": "Mapo Expeditionary Unit ISO x KONRAD (vinyl all night long)",
+            "location": "Canopy Seoul",
+            "artists": [],
+            "source": "ra",
+            "ra_id": 277085
+          },
+          {
+            "date": "2025-12-12T00:00:00.000",
+            "startTime": "2025-12-12T19:00:00.000",
+            "endTime": "2025-12-13T02:00:00.000",
+            "eventUrl": "https://ra.co/events/2322151",
+            "title": "ICHI CREW NIGHT at Canopy",
+            "location": "Canopy Seoul",
+            "artists": [
+              "Harivo",
+              "Moso",
+              "JAMWON",
+              "Hyunsung"
+            ],
+            "source": "ra",
+            "ra_id": 277085
+          },
           {
             "date": "2025-12-13T00:00:00.000",
             "startTime": "2025-12-13T19:00:00.000",
