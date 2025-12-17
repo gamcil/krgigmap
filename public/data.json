@@ -9940,6 +9940,7 @@
               "untitled (2)",
               "MOONICE",
               "RAFA (KR)",
+              "Jaebin",
               "2SPADE",
               "Umi Hoshi",
               "duco",
@@ -16925,6 +16926,64 @@
             "entry": "예매 정보 링크"
           }
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4579606,
+          37.4361679
+        ]
+      },
+      "properties": {
+        "name_ko": "클럽 크로마",
+        "name": "Club Chroma",
+        "address_ko": "인천광역시 중구 영종해안남로321번길 186 파라다이스시티 크로마",
+        "address": "186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu, Incheon, Republic of Korea",
+        "address_jibun": "인천광역시 중구 운서동 2874 파라다이스시티 크로마",
+        "instagram": "http://www.instagram.com/pcitychroma/",
+        "kakaoMaps": "http://place.map.kakao.com/189275776",
+        "naverMaps": "https://naver.me/GdyGiIjW",
+        "ra_id": 163761,
+        "events": [
+          {
+            "date": "2025-12-27T00:00:00.000",
+            "startTime": "2025-12-27T02:00:00.000",
+            "endTime": "2025-12-28T06:00:00.000",
+            "eventUrl": "https://ra.co/events/2327201",
+            "title": "Maddix",
+            "location": "Club Chroma",
+            "artists": [
+              "Maddix"
+            ],
+            "source": "ra",
+            "ra_id": 163761
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9235894,
+          37.5657866
+        ]
+      },
+      "properties": {
+        "name_ko": "소프트컬러",
+        "name": "Softcolor",
+        "address_ko": "서울특별시 마포구 동교로51길 63 지층, 1층",
+        "address": "63, Donggyo-ro 51-gil, Mapo-gu, Seoul, Republic of Korea",
+        "address_jibun": "서울특별시 마포구 연남동 241-1 지층, 1층",
+        "website": "https://www.instagram.com/softcolorhouse",
+        "kakaoMaps": "https://place.map.kakao.com/1160544249",
+        "googleMaps": "https://maps.google.com/?cid=15521337725902385249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+        "naverMaps": "https://naver.me/GDa2bIUN",
+        "events": []
       }
     }
   ]

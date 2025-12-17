@@ -1864,18 +1864,19 @@
   },
   {
     "name": "Fabrik",
+    "name_ko": "파브릭서울",
     "address": "Seoul, Jung District, 16-3 1층, 2층",
+    "address_ko": "서울 중구 을지로14길 16-3",
+    "address_jibun": "서울 중구 을지로3가 302-1",
     "lat": 37.5654372,
     "lng": 126.99180539999999,
     "website": "",
     "googleMaps": "https://maps.google.com/?cid=1003564773213735116",
-    "address_ko": "서울 중구 을지로14길 16-3",
     "kakaoMaps": "http://place.map.kakao.com/974354688",
-    "name_ko": "파브릭서울",
-    "address_jibun": "서울 중구 을지로3가 302-1",
     "instagram": "http://instagram.com/fabrik_seoul",
     "naverMaps": "https://map.naver.com/p/entry/place/1651223589",
-    "_dir": "236_서울_파브릭서울_fabrik"
+    "_dir": "236_서울_파브릭서울_fabrik",
+    "alias": ["Fabrik Seoul"]
   },
   {
     "name": "Faust / Tanz Bar",
@@ -9831,6 +9832,41 @@
       "스톤",
       "강릉스톤",
       "강릉 스톤"
+    ]
+  },
+  {
+    "name": "Club Chroma",
+    "name_ko": "클럽 크로마",
+    "ra_id": 163761,
+    "address": "186, Yeongjonghaeannam-ro 321beon-gil, Jung-gu, Incheon, Republic of Korea",
+    "address_ko": "인천광역시 중구 영종해안남로321번길 186 파라다이스시티 크로마",
+    "address_jibun": "인천광역시 중구 운서동 2874 파라다이스시티 크로마",
+    "lat": 37.4361679,
+    "lng": 126.4579606,
+    "instagram": "http://www.instagram.com/pcitychroma/",
+    "kakaoMaps": "http://place.map.kakao.com/189275776",
+    "naverMaps": "https://naver.me/GdyGiIjW",
+    "alias": [
+      "클럽 크로마",
+      "크로마클럽",
+      "클럽 크로마"
+    ]
+  },
+  {
+    "name": "Softcolor",
+    "name_ko": "소프트컬러",
+    "address": "63, Donggyo-ro 51-gil, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 동교로51길 63 지층, 1층",
+    "address_jibun": "서울특별시 마포구 연남동 241-1 지층, 1층",
+    "lat": 37.5657866,
+    "lng": 126.9235894,
+    "website": "https://www.instagram.com/softcolorhouse",
+    "googleMaps": "https://maps.google.com/?cid=15521337725902385249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "naverMaps": "https://naver.me/GDa2bIUN",
+    "kakaoMaps": "https://place.map.kakao.com/1160544249",
+    "alias": [
+      "소프트컬러",
+      "softcolor"
     ]
   }
 ]
