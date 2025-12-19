@@ -168,7 +168,9 @@ async function loadMap() {
     const metadataRaw = await fetch('./metadata.json');
     const metadata = await metadataRaw.json();
     const geojsonRaw = await fetch("./data.json");
-    let geojson = await geojsonRaw.json();
+    let datajson = await geojsonRaw.json();
+    let geojson = {...datajson.geo};
+    let artists = datajson.artists;
     const today = new Date();
     today.setHours(0, 0, 0, 0);
     let displayDate = today;
@@ -362,7 +364,13 @@ async function loadMap() {
                     eventEl.querySelector('.event-title').remove();
                 }
                 if (eventData.artists.length > 0) {
-                    eventEl.querySelector('.event-artist').textContent = eventData.artists.join(', ');
+                    const nameFn = (a) => {
+                        let name = (a.name === a.name_en) ? a.name : `${a.name} (${a.name_en})`;
+                        let text = `<span class="artist-name">${name}</span>`;
+                        return (a.instagram) ? `<a href="${a.instagram}">${text}</a>` : text;
+                    }
+                    let artistStr = eventData.artists.map(a => (typeof a === "number") ? nameFn(artists[a]) : a).join(', ');
+                    eventEl.querySelector('.event-artist').innerHTML = artistStr;
                 } else {
                     eventEl.querySelector('.event-artist').previousSibling.remove();
                     eventEl.querySelector('.event-artist').remove();
