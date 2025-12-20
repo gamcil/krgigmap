@@ -32,22 +32,6 @@ function formatDateToYMD(date) {
 }
 
 async function main() {
-    if (false) {
-        const rawevents = JSON.parse(fs.readFileSync('../raw_event_data.json'));
-        // console.log(rawevents)
-        const { matchedEvents, matchedArtists, unmatchedArtists } = await matchEventsToArtists(rawevents)
-        // for (const ev of matchedEvents) {
-        //     console.log(ev);//, ev.matchedArtists.map(a => a))
-        //     console.log(ev.matchedArtists.map(id => matchedArtists[id]))
-        // }
-        const { geojson, unmatched } = await matchEventsToVenues(matchedEvents);
-        unmatched.unshift(unmatchedArtists);
-        const allData = { geo: geojson, artists: matchedArtists };
-        fs.writeFileSync('../data_artist.json', JSON.stringify(allData, null, 2))
-        fs.writeFileSync('../unmatched_aritst.json', JSON.stringify(unmatched, null, 2))
-        return
-    }
-
     const startDate = new Date();
     const endDate = addDays(startDate, 365);
     const startDateStr = formatDateToYMD(startDate);
@@ -56,11 +40,13 @@ async function main() {
     console.log(`Fetching events from ${startDateStr} to ${endDateStr}`);
     console.log("Fetching Showdee events");
     let showdeeEvents = await fetchShowdeeEvents(startDateStr);
-    const { matchedEvents, matchedArtists, unmatchedArtists } = await matchEventsToArtists(showdeeEvents);
-    showdeeEvents = matchedEvents;
 
     console.log("Fetching RA events");
     const raEvents = await fetchRAEvents(startDateStr, endDateStr);
+
+    console.log("Matching artists to events");
+    const { matchedEvents, matchedArtists, unmatchedArtists } = await matchEventsToArtists(showdeeEvents);
+    showdeeEvents = matchedEvents;
 
     console.log("Matching events to venues");
     const events = [...showdeeEvents, ...raEvents];

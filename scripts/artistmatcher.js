@@ -83,7 +83,8 @@ async function matchEventsToArtists(events) {
     for (const event of events) {
         for (const artistName of event.artists) {
             if (artistName.includes("내한")) continue;
-            uniqueArtists.add(artistName);
+            let name = artistName.replace(' ', '');
+            uniqueArtists.add(name);
         }
     }
 

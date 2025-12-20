@@ -1402,7 +1402,10 @@
     "lng": 127.10935819999999,
     "website": "",
     "googleMaps": "https://maps.google.com/?cid=3752608917940700641",
-    "ra_id": [230752, 241752],
+    "ra_id": [
+      230752,
+      241752
+    ],
     "address_ko": "서울 송파구 백제고분로45길 22",
     "kakaoMaps": "http://place.map.kakao.com/1377731281",
     "name_ko": "코르크서울 레코드바",
@@ -1876,7 +1879,9 @@
     "instagram": "http://instagram.com/fabrik_seoul",
     "naverMaps": "https://map.naver.com/p/entry/place/1651223589",
     "_dir": "236_서울_파브릭서울_fabrik",
-    "alias": ["Fabrik Seoul"]
+    "alias": [
+      "Fabrik Seoul"
+    ]
   },
   {
     "name": "Faust / Tanz Bar",
@@ -4217,7 +4222,10 @@
     "lat": 37.5417998,
     "lng": 126.98720329999999,
     "googleMaps": "https://maps.google.com/?cid=7208182087092707373",
-    "ra_id": [249959, 273276],
+    "ra_id": [
+      249959,
+      273276
+    ],
     "name_ko": "래빗홀",
     "address_ko": "서울 용산구 신흥로 37",
     "address_jibun": "서울 용산구 용산동2가 39-17",
@@ -9868,5 +9876,41 @@
       "소프트컬러",
       "softcolor"
     ]
+  },
+  {
+    "name": "Deus Ex Machina Seongsu",
+    "name_ko": "데우스엑스마키나 성수점",
+    "address": "56, Ttukseom-ro 17ga-gil, Seongdong-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 성동구 뚝섬로17가길 56",
+    "address_jibun": "서울특별시 성동구 성수동2가 272-42",
+    "lat": 37.5409616,
+    "lng": 127.0595291,
+    "website": "https://deuskorea.com/",
+    "googleMaps": "https://maps.google.com/?cid=10892874006779030252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1110307664",
+    "naverMaps": "https://naver.me/GxLU7Rga",
+    "alias": [
+      "데우스엑스마키나 성수점",
+      "데우스 엑스 마키나 성수",
+      "데우스 엑스 마리나 성수템플 1F"
+    ]
+  },
+  {
+    "name": "Rhythm Somang Sarang",
+    "name_ko": "리듬소망사랑",
+    "address": "55-6, Hosu-ro 838beon-gil, Ilsanseo-gu, Goyang-si, Gyeonggi-do, Republic of Korea",
+    "address_ko": "경기도 고양시 일산서구 호수로838번길 55-6 1층 리듬소망사랑",
+    "address_jibun": "경기도 고양시 일산서구 대화동 2257-8 1층 리듬소망사랑",
+    "lat": 37.6724012,
+    "lng": 126.7509356,
+    "googleMaps": "https://maps.google.com/?cid=6738790796585303024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "naverMaps": "https://naver.me/xbAUV26v",
+    "kakaoMaps": "http://place.map.kakao.com/1090434551",
+    "alias": [
+      "리듬소망사랑",
+      "RSS HOUSE",
+      "리듬소망사랑"
+    ],
+    "instagram": "https://www.instagram.com/rhythm_somang_sarang/"
   }
 ]
