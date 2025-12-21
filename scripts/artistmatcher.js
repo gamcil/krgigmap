@@ -26,7 +26,7 @@ function normalize(text) {
     return text.split('')
         .map(changeAlphanumeric)
         .join('')
-        .replace(/[^가-힣a-zA-Z0-9\s]/g, '')
+        .replace(/[^가-힣a-zA-Z0-9 ]/g, '')
         .normalize("NFKD")  // decomposes hangul to jamo
         .toLowerCase()
         .replace(/([\u0041-\u007A])[\u0300-\u036f]+/g, '$1')  // latin diacritics
@@ -38,26 +38,22 @@ function buildFuseIndex(artists) {
     return new Fuse(
         artists.map((v, i) => ({
             id: i,
-            key: `${i}_${v.name_ko}_${v.name_en}`,
+            // key: `${i}_${v.name_ko}_${v.name_en}`,
             name: normalize(v.name_ko),
             name_en: v.name_en?.toLowerCase().normalize().replace(/ /g, ''),
-            name_rom: v.name_rom?.toLowerCase().normalize().replace(/ /g, ''),
             aliases: v.alias?.map(a => normalize(a)) || [],
             nameJamo: hangul.disassemble(normalize(v.name_ko)),
-            aliasesJamo: (v.aliases || []).map(a => hangul.disassemble(normalize(a))),
+            // aliasesJamo: (v.aliases || []).map(a => hangul.disassemble(normalize(a))).join(''),
         })), {
         keys: [
-            { name: 'name', weight: 0.7 },
-            { name: 'name_en', weight: 0.7 },
-            { name: 'name_rom', weight: 0.4 },
+            { name: 'name', weight: 1.0 },
+            { name: 'nameJamo', weight: 0.8 },
+            { name: 'name_en', weight: 0.5 },
             { name: 'aliases', weight: 0.1 },
-            { name: 'nameJamo', weight: 0.2 },
-            { name: 'aliasesJamo', weight: 0.02 }
+            // { name: 'aliasesJamo', weight: 0.02 }
         ],
-        // tokenize: true,
-        // matchAllTokens: true,
-        threshold: 0.4,
         ignoreLocation: true,
+        threshold: 0.2,
         shouldSort: true,
         distance: 300
     });
@@ -67,14 +63,7 @@ function getArtistList() {
     return JSON.parse(fs.readFileSync(path.resolve(__dirname, 'artists.json')));
 }
 
-// TODO
-// save list of unique matched artists, store in data file e.g.
-// {
-//   artists: [ ... ],
-//   geojson: { ... }
-// }
-// Overwrite actual artist array with indexes for matched artists
-// in frontend, just check if artists is numeric or str
+
 async function matchEventsToArtists(events) {
     const artists = getArtistList();
     const index = buildFuseIndex(artists);
@@ -83,8 +72,7 @@ async function matchEventsToArtists(events) {
     for (const event of events) {
         for (const artistName of event.artists) {
             if (artistName.includes("내한")) continue;
-            let name = artistName.replace(' ', '');
-            uniqueArtists.add(name);
+            uniqueArtists.add(artistName.trim());
         }
     }
 
@@ -95,7 +83,7 @@ async function matchEventsToArtists(events) {
 
     for (const artistName of uniqueArtists) {
         if (!artistToId.has(artistName)) {
-            const matchResult = index.search(artistName)[0] || null;
+            const matchResult = index.search(normalize(artistName))[0] || null;
             if (matchResult) {
                 matchedArtists.push({
                     name: artists[matchResult.item.id].name_ko,
@@ -109,6 +97,7 @@ async function matchEventsToArtists(events) {
     
     for (const event of events) {
         for (const artistName of event.artists) {
+            if (artistName.includes("내한")) continue;
             if (!artistToId.has(artistName)) {
                 if (unmatchedArtists.hasOwnProperty(artistName)) {
                     unmatchedArtists[artistName].push(event.eventUrl);
@@ -128,4 +117,4 @@ async function matchEventsToArtists(events) {
 }
 
 
-module.exports = { matchEventsToArtists };
+module.exports = { matchEventsToArtists, normalize };
