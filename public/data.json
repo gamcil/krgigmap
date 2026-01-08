@@ -105,6 +105,17 @@
               "date": "2026-01-16",
               "eventUrl": "https://www.instagram.com/p/DTAIhq3EULt/",
               "entry": "예매 정보 링크"
+            },
+            {
+              "date": "2026-01-10T00:00:00.000",
+              "startTime": "2026-01-10T20:00:00.000",
+              "endTime": "2026-01-11T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2341498",
+              "title": "1,2,3, 튀어!",
+              "location": "acs,kr",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 218004
             }
           ]
         }
@@ -491,7 +502,20 @@
           "kakaoMaps": "http://place.map.kakao.com/883576897",
           "googleMaps": "https://maps.google.com/?cid=3958108416519363403&g_mp=EAAYBCAA",
           "naverMaps": "https://map.naver.com/p/entry/place/1377000633",
-          "events": []
+          "events": [
+            {
+              "showdeeId": "4549",
+              "source": "showdee",
+              "artists": [
+                23
+              ],
+              "location": "광주 카페 CM",
+              "startTime": "2026-01-09T19:30:00",
+              "date": "2026-01-09",
+              "eventUrl": "https://www.instagram.com/p/DTGgvtNk_jE/",
+              "entry": "예매 정보 링크"
+            }
+          ]
         }
       },
       {
@@ -9213,7 +9237,33 @@
           "googleMaps": "https://maps.google.com/?cid=6115104111454704340",
           "naverMaps": "https://map.naver.com/p/entry/place/1588457550",
           "ra_id": 128746,
-          "events": []
+          "events": [
+            {
+              "date": "2026-01-09T00:00:00.000",
+              "startTime": "2026-01-09T22:00:00.000",
+              "endTime": "2026-01-10T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2341474",
+              "title": "HENZ UP",
+              "location": "The Henz Club",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 128746
+            },
+            {
+              "date": "2026-01-10T00:00:00.000",
+              "startTime": "2026-01-10T22:00:00.000",
+              "endTime": "2026-01-11T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2341475",
+              "title": "HENZ UP",
+              "location": "The Henz Club",
+              "artists": [
+                "Yunu",
+                "Elric"
+              ],
+              "source": "ra",
+              "ra_id": 128746
+            }
+          ]
         }
       },
       {
@@ -10040,6 +10090,36 @@
           "naverMaps": "https://map.naver.com/p/entry/place/1725686392",
           "ra_id": 196474,
           "events": [
+            {
+              "date": "2026-01-09T00:00:00.000",
+              "startTime": "2026-01-09T22:00:00.000",
+              "endTime": "2026-01-10T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2341481",
+              "title": "Atdge",
+              "location": "Atdge Seoul",
+              "artists": [
+                "Haemi Park",
+                "Kimmingi",
+                "Seo Youngcha"
+              ],
+              "source": "ra",
+              "ra_id": 196474
+            },
+            {
+              "date": "2026-01-10T00:00:00.000",
+              "startTime": "2026-01-10T22:00:00.000",
+              "endTime": "2026-01-11T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2341482",
+              "title": "Atdge",
+              "location": "Atdge Seoul",
+              "artists": [
+                "Hender",
+                "Baxa",
+                "Hogi"
+              ],
+              "source": "ra",
+              "ra_id": 196474
+            },
             {
               "date": "2026-04-03T00:00:00.000",
               "startTime": "2026-04-03T22:00:00.000",
@@ -11225,7 +11305,21 @@
           "googleMaps": "https://maps.google.com/?cid=17812340175984750650&g_mp=EAAYBCAA",
           "naverMaps": "https://map.naver.com/p/entry/place/1636831236",
           "ra_id": 232385,
-          "events": []
+          "events": [
+            {
+              "date": "2026-01-10T00:00:00.000",
+              "startTime": "2026-01-10T21:00:00.000",
+              "endTime": "2026-01-11T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2341494",
+              "title": "MUSIC CURATION SERIES",
+              "location": "Contact",
+              "artists": [
+                "m.bience"
+              ],
+              "source": "ra",
+              "ra_id": 232385
+            }
+          ]
         }
       },
       {
@@ -11994,7 +12088,104 @@
           "instagram": "https://www.instagram.com/culsec_seoul",
           "googleMaps": "https://maps.google.com/?cid=7971217441007667550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
           "ra_id": 268468,
-          "events": []
+          "events": [
+            {
+              "date": "2026-01-09T00:00:00.000",
+              "startTime": "2026-01-09T19:00:00.000",
+              "endTime": "2026-01-10T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2341486",
+              "title": "CUL SEC",
+              "location": "Cul Sec",
+              "artists": [
+                "Krijka"
+              ],
+              "source": "ra",
+              "ra_id": 268468
+            },
+            {
+              "date": "2026-01-10T00:00:00.000",
+              "startTime": "2026-01-10T19:00:00.000",
+              "endTime": "2026-01-11T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2341487",
+              "title": "CUL SEC",
+              "location": "Cul Sec",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 268468
+            },
+            {
+              "date": "2026-01-16T00:00:00.000",
+              "startTime": "2026-01-16T19:00:00.000",
+              "endTime": "2026-01-17T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2341488",
+              "title": "CUL SEC",
+              "location": "Cul Sec",
+              "artists": [
+                "Closet Yi"
+              ],
+              "source": "ra",
+              "ra_id": 268468
+            },
+            {
+              "date": "2026-01-17T00:00:00.000",
+              "startTime": "2026-01-17T19:00:00.000",
+              "endTime": "2026-01-18T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2341489",
+              "title": "CUL SEC",
+              "location": "Cul Sec",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 268468
+            },
+            {
+              "date": "2026-01-23T00:00:00.000",
+              "startTime": "2026-01-23T19:00:00.000",
+              "endTime": "2026-01-24T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2341490",
+              "title": "CUL SEC",
+              "location": "Cul Sec",
+              "artists": [
+                "Taelyn"
+              ],
+              "source": "ra",
+              "ra_id": 268468
+            },
+            {
+              "date": "2026-01-24T00:00:00.000",
+              "startTime": "2026-01-24T19:00:00.000",
+              "endTime": "2026-01-25T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2341491",
+              "title": "CUL SEC",
+              "location": "Cul Sec",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 268468
+            },
+            {
+              "date": "2026-01-30T00:00:00.000",
+              "startTime": "2026-01-30T19:00:00.000",
+              "endTime": "2026-01-31T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2341492",
+              "title": "CUL SEC",
+              "location": "Cul Sec",
+              "artists": [
+                "dguru"
+              ],
+              "source": "ra",
+              "ra_id": 268468
+            },
+            {
+              "date": "2026-01-31T00:00:00.000",
+              "startTime": "2026-01-31T19:00:00.000",
+              "endTime": "2026-02-01T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2341493",
+              "title": "CUL SEC",
+              "location": "Cul Sec",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 268468
+            }
+          ]
         }
       },
       {
@@ -12016,7 +12207,36 @@
           "kakaoMaps": "http://place.map.kakao.com/1416744428",
           "naverMaps": "https://naver.me/GI3VGKmm",
           "ra_id": 257968,
-          "events": []
+          "events": [
+            {
+              "date": "2026-01-09T00:00:00.000",
+              "startTime": "2026-01-09T21:00:00.000",
+              "endTime": "2026-01-10T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2341477",
+              "title": "BAR PIMENT",
+              "location": "Bar Piment",
+              "artists": [
+                "Coolrnch",
+                "Cozyhoon"
+              ],
+              "source": "ra",
+              "ra_id": 257968
+            },
+            {
+              "date": "2026-01-10T00:00:00.000",
+              "startTime": "2026-01-10T21:00:00.000",
+              "endTime": "2026-01-11T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2341478",
+              "title": "BAR PIMENT",
+              "location": "Bar Piment",
+              "artists": [
+                "Juncheol",
+                "GYUWAN"
+              ],
+              "source": "ra",
+              "ra_id": 257968
+            }
+          ]
         }
       },
       {
@@ -12037,7 +12257,51 @@
           "instagram": "https://www.instagram.com/timesapgu",
           "kakaoMaps": "http://place.map.kakao.com/1413392414",
           "ra_id": 218481,
-          "events": []
+          "events": [
+            {
+              "date": "2026-01-08T00:00:00.000",
+              "startTime": "2026-01-08T22:00:00.000",
+              "endTime": "2026-01-09T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2341470",
+              "title": "OGE",
+              "location": "Times",
+              "artists": [
+                "SKiiDA",
+                "SEOL",
+                "Yann"
+              ],
+              "source": "ra",
+              "ra_id": 218481
+            },
+            {
+              "date": "2026-01-09T00:00:00.000",
+              "startTime": "2026-01-09T22:00:00.000",
+              "endTime": "2026-01-10T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2341472",
+              "title": "TIMES",
+              "location": "Times",
+              "artists": [
+                "KINGMCK",
+                "ANDOW"
+              ],
+              "source": "ra",
+              "ra_id": 218481
+            },
+            {
+              "date": "2026-01-10T00:00:00.000",
+              "startTime": "2026-01-10T23:00:00.000",
+              "endTime": "2026-01-11T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2341473",
+              "title": "TIMES",
+              "location": "Times",
+              "artists": [
+                "JADA",
+                "Daul"
+              ],
+              "source": "ra",
+              "ra_id": 218481
+            }
+          ]
         }
       },
       {
@@ -16027,6 +16291,42 @@
               "date": "2026-02-07",
               "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212585",
               "entry": "예매 링크"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.1502883,
+            35.8175813
+          ]
+        },
+        "properties": {
+          "name_ko": "야간비행",
+          "name": "Night Flight",
+          "address_ko": "전북특별자치도 전주시 완산구 경기전길 42 2층",
+          "address": "42, Gyeonggijeon-gil, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea",
+          "address_jibun": "전북특별자치도 전주시 완산구 경원동2가 61-1 2층",
+          "website": "https://www.instagram.com/night_flight_jeonju/",
+          "kakaoMaps": "http://place.map.kakao.com/923546300",
+          "googleMaps": "https://maps.google.com/?cid=16526501543882022289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/IgJ3JRFg",
+          "events": [
+            {
+              "showdeeId": "4581",
+              "source": "showdee",
+              "artists": [
+                90,
+                91
+              ],
+              "location": "전주 야간비행",
+              "startTime": "2026-01-10T21:00:00",
+              "date": "2026-01-10",
+              "eventUrl": "https://www.instagram.com/p/DTHrP6JD0y0/",
+              "entry": "예매 정보 링크"
             }
           ]
         }
