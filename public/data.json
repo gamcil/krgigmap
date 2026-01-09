@@ -494,7 +494,7 @@
               "showdeeId": "4549",
               "source": "showdee",
               "artists": [
-                23
+                15
               ],
               "location": "광주 카페 CM",
               "startTime": "2026-01-09T19:30:00",
@@ -955,7 +955,7 @@
               "artists": [
                 86,
                 243,
-                362
+                363
               ],
               "location": "언플러그드 라운지",
               "startTime": "2026-02-08T20:00:00",
@@ -1655,10 +1655,10 @@
               "showdeeId": "4725",
               "source": "showdee",
               "artists": [
-                357,
+                358,
                 342,
                 181,
-                358
+                359
               ],
               "location": "클럽 FF",
               "startTime": "2026-02-07T19:30:00",
@@ -2040,10 +2040,10 @@
               "source": "showdee",
               "artists": [
                 "GOLPE 내한",
-                352,
                 353,
                 354,
-                355
+                355,
+                356
               ],
               "location": "베이비돌",
               "startTime": "2026-02-07T19:00:00",
@@ -6097,7 +6097,7 @@
               "showdeeId": "4722",
               "source": "showdee",
               "artists": [
-                351
+                352
               ],
               "location": "성수아트홀",
               "startTime": "2026-02-07T18:00:00",
@@ -7466,7 +7466,7 @@
               "showdeeId": "4719",
               "source": "showdee",
               "artists": [
-                346
+                347
               ],
               "location": "롤링홀",
               "startTime": "2026-02-06T20:00:00",
@@ -7502,7 +7502,7 @@
               "showdeeId": "4731",
               "source": "showdee",
               "artists": [
-                363
+                364
               ],
               "location": "롤링홀",
               "startTime": "2026-02-12T20:00:00",
@@ -7515,7 +7515,7 @@
               "source": "showdee",
               "artists": [
                 "DYGL 내한",
-                364
+                365
               ],
               "location": "롤링홀",
               "startTime": "2026-02-14T18:00:00",
@@ -7997,9 +7997,9 @@
               "source": "showdee",
               "artists": [
                 "GOLPE 내한",
-                359,
                 360,
-                361
+                361,
+                362
               ],
               "location": "신도시",
               "startTime": "2026-02-08T17:30:00",
@@ -9393,6 +9393,23 @@
               "ra_id": 260734
             },
             {
+              "date": "2026-01-24T00:00:00.000",
+              "startTime": "2026-01-24T20:00:00.000",
+              "endTime": "2026-01-25T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2341504",
+              "title": "CORE #003 by UNDERCITY",
+              "location": "UNDERCITY",
+              "artists": [
+                "Vorus",
+                "KIMNA",
+                "Gosha",
+                "No/ah",
+                "Onizmik"
+              ],
+              "source": "ra",
+              "ra_id": 260734
+            },
+            {
               "date": "2026-01-30T00:00:00.000",
               "startTime": "2026-01-30T22:00:00.000",
               "endTime": "2026-01-31T04:00:00.000",
@@ -10153,10 +10170,10 @@
               "showdeeId": "4721",
               "source": "showdee",
               "artists": [
-                347,
                 348,
                 349,
                 350,
+                351,
                 190
               ],
               "location": "채널1969",
@@ -10907,10 +10924,10 @@
               "source": "showdee",
               "artists": [
                 343,
-                ".iRO",
                 344,
+                345,
                 67,
-                345
+                346
               ],
               "location": "인피니티클럽",
               "startTime": "2026-02-06T19:00:00",
@@ -16283,7 +16300,7 @@
               "showdeeId": "4724",
               "source": "showdee",
               "artists": [
-                356
+                357
               ],
               "location": "노원 드림씨어터",
               "startTime": "2026-02-07T19:00:00",
@@ -16318,8 +16335,8 @@
               "showdeeId": "4581",
               "source": "showdee",
               "artists": [
-                90,
-                91
+                82,
+                83
               ],
               "location": "전주 야간비행",
               "startTime": "2026-01-10T21:00:00",
@@ -18052,6 +18069,11 @@
       "name": "Hangman's Tree",
       "name_en": "Hangman's Tree",
       "instagram": "https://www.instagram.com/p___r.k/"
+    },
+    {
+      "name": "이로",
+      "name_en": ".iRO",
+      "instagram": "https://www.instagram.com/iroiroiroiroiroiroiro/"
     },
     {
       "name": "행간소음",
