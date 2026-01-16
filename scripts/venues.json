@@ -4745,7 +4745,7 @@
     "address": "490 Seogyo-dong, Mapo-gu, Seoul",
     "website": "http://www.solpay-square.com/",
     "naverMaps": "https://map.naver.com/p/entry/place/33141958",
-    "_dir": "115_서울_신한카드sol페이스퀘어라이브홀_shinhanplaysquare"
+    "alias": ["NOL씨어터 합정 동양생명홀"]
   },
   {
     "name": "Shiva Pub",
@@ -10036,6 +10036,58 @@
       "CGV 피카디리1958",
       "CGV1958 피카다리홀",
       "CGV1958 피카디리홀"
+    ]
+  },
+  {
+    "name": "Doduk & Kyubum",
+    "name_ko": "도덕과 규범",
+    "address": "32, Dongmak-ro 19-gil, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 독막로19길 32 1층",
+    "address_jibun": "서울특별시 마포구 상수동 71-15 1층",
+    "lat": 37.5488743,
+    "lng": 126.924426,
+    "googleMaps": "https://maps.google.com/?cid=340952018029976321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1652141411",
+    "naverMaps": "https://naver.me/FRLN7StS",
+    "alias": [
+      "도덕과 규범",
+      "도덕과 규범"
+    ],
+    "instagram": "https://instagram.com/doduk_kyubum?igshid=YmMyMTA2M2Y="
+  },
+  {
+    "name": "cafe heulg ",
+    "name_ko": "카페 흙",
+    "address": "14, Hangang-daero 49-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 한강대로49길 14",
+    "address_jibun": "서울특별시 용산구 한강로2가 2-116",
+    "lat": 37.5331211,
+    "lng": 126.9701422,
+    "kakaoMaps": "http://place.map.kakao.com/786346501",
+    "naverMaps": "https://naver.me/5T4AwvaJ",
+    "instagram": "https://www.instagram.com/cafe_heulg",
+    "alias": [
+      "cafe heulg 카페 흙",
+      "삼각지 KCS SEOUL 카페 흙",
+      "카페 흙"
+    ]
+  },
+  {
+    "name": "Arko Theater",
+    "name_ko": "아르코예술극장",
+    "address": "7, Daehak-ro 8-gil, Jongno-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 종로구 대학로8길 7",
+    "address_jibun": "서울특별시 종로구 동숭동 1-111",
+    "lat": 37.5811505,
+    "lng": 127.0029156,
+    "website": "https://theater.arko.or.kr/home/main",
+    "googleMaps": "https://maps.google.com/?cid=16435561314606136945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/10593353",
+    "naverMaps": "https://naver.me/xxY2OTti",
+    "instagram": "https://www.instagram.com/arko_theater/",
+    "alias": [
+      "아르코예술극장",
+      "아르코예술극장 대극장"
     ]
   }
 ]
