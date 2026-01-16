@@ -195,6 +195,7 @@ async function loadMap() {
     maximumDate.setDate(maximumDate.getDate() + 1);
     document.getElementById("event-info-last-update-date").textContent = metadata.updateDate;
     document.getElementById("event-info-event-count").textContent = metadata.eventCount;
+    document.getElementById("event-info-artist-count").textContent = metadata.artistCount;
     document.getElementById("event-info-date-count").textContent = totalDates;
     document.getElementById("event-info-venue-count").textContent = totalVenuesWithEvents;
     document.getElementById("event-info-end-date").textContent = maximumDate.toISOString().slice(0, 10);
