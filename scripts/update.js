@@ -56,6 +56,7 @@ async function main() {
         updateDate: startDateStr,  // startDate.toISOString() for time as well
         eventCount: events.length,
         unmatchedCount: unmatched.length - 1,
+        artistCount: matchedArtists.length + Object.keys(unmatchedArtists).length
     }
     console.log(`Matched ${events.length - unmatched.length}/${events.length} events to venues`);
     console.log(`Matched ${matchedArtists.length}/${matchedArtists.length + Object.keys(unmatchedArtists).length} artists to events`);
