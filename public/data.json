@@ -5621,6 +5621,21 @@
               "ra_id": 140937
             },
             {
+              "date": "2026-01-30T00:00:00.000",
+              "startTime": "2026-01-30T22:00:00.000",
+              "endTime": "2026-01-31T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2349129",
+              "title": "Táctica del Ritmo",
+              "location": "Modeci",
+              "artists": [
+                "Mimiq",
+                "Shinyoung",
+                "Ahnce"
+              ],
+              "source": "ra",
+              "ra_id": 140937
+            },
+            {
               "date": "2026-01-31T00:00:00.000",
               "startTime": "2026-01-31T22:00:00.000",
               "endTime": "2026-02-01T05:00:00.000",
@@ -8684,35 +8699,7 @@
           "kakaoMaps": "http://place.map.kakao.com/226801364",
           "googleMaps": "https://maps.google.com/?cid=8425791425673810201&g_mp=EAAYBCAA",
           "naverMaps": "https://map.naver.com/p/entry/place/1239665596",
-          "events": [
-            {
-              "showdeeId": "4658",
-              "source": "showdee",
-              "artists": [
-                79
-              ],
-              "location": "연남 스페이스",
-              "startTime": "2026-01-18T16:00:00",
-              "date": "2026-01-18",
-              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212616",
-              "entry": "예매 링크"
-            },
-            {
-              "showdeeId": "4761",
-              "source": "showdee",
-              "artists": [
-                283,
-                208,
-                284,
-                285
-              ],
-              "location": "연남 스페이스",
-              "startTime": "2026-01-31T17:00:00",
-              "date": "2026-01-31",
-              "eventUrl": "https://www.instagram.com/p/DSwE9tmEh9w/",
-              "entry": "예매 정보 링크"
-            }
-          ]
+          "events": []
         }
       },
       {
@@ -11253,6 +11240,38 @@
               "ra_id": 70614
             },
             {
+              "date": "2026-01-23T00:00:00.000",
+              "startTime": "2026-01-23T22:00:00.000",
+              "endTime": "2026-01-24T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2349110",
+              "title": "𖥔 ݁ ˖ִ ࣪ GOGO SYNDROME: I. Sha Ru & Friends ⚝₊ ⊹˚",
+              "location": "Cakeshop",
+              "artists": [
+                "Sha Ru",
+                "Yetsuby",
+                "Wona",
+                "ABOPF",
+                "Arexibo",
+                "dayoung"
+              ],
+              "source": "ra",
+              "ra_id": 70614
+            },
+            {
+              "date": "2026-01-24T00:00:00.000",
+              "startTime": "2026-01-24T22:00:00.000",
+              "endTime": "2026-01-25T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2349111",
+              "title": "Core memory",
+              "location": "Cakeshop",
+              "artists": [
+                "Jaeho Hwang",
+                "Citi Jeong"
+              ],
+              "source": "ra",
+              "ra_id": 70614
+            },
+            {
               "date": "2026-01-30T00:00:00.000",
               "startTime": "2026-01-30T22:00:00.000",
               "endTime": "2026-01-31T05:00:00.000",
@@ -11262,6 +11281,8 @@
               "artists": [
                 "Hamdi",
                 "AEIDA",
+                "rom (6)",
+                "BAAWLA",
                 "h4rdy",
                 "DJ Co.kr"
               ],
@@ -16695,6 +16716,57 @@
               "startTime": "2026-02-28T19:00:00",
               "date": "2026-02-28",
               "eventUrl": "https://www.instagram.com/p/DTh2QW4jaDR/",
+              "entry": "예매 정보 링크"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9208614,
+            37.5621673
+          ]
+        },
+        "properties": {
+          "name_ko": "연남스페이스",
+          "name": "Yeonnam Space",
+          "address_ko": "서울특별시 마포구 성미산로22길 16 지하1,2층",
+          "address": "16, Seongmisan-ro 22-gil, Mapo-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 마포구 연남동 504-12 지하1,2층",
+          "website": "https://yeonnamspace.com/",
+          "instagram": "https://www.instagram.com/yeonnamspace",
+          "kakaoMaps": "http://place.map.kakao.com/667878863",
+          "googleMaps": "https://maps.google.com/?cid=15783423830560068719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/52RpXHdB",
+          "events": [
+            {
+              "showdeeId": "4658",
+              "source": "showdee",
+              "artists": [
+                79
+              ],
+              "location": "연남 스페이스",
+              "startTime": "2026-01-18T16:00:00",
+              "date": "2026-01-18",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=212616",
+              "entry": "예매 링크"
+            },
+            {
+              "showdeeId": "4761",
+              "source": "showdee",
+              "artists": [
+                283,
+                208,
+                284,
+                285
+              ],
+              "location": "연남 스페이스",
+              "startTime": "2026-01-31T17:00:00",
+              "date": "2026-01-31",
+              "eventUrl": "https://www.instagram.com/p/DSwE9tmEh9w/",
               "entry": "예매 정보 링크"
             }
           ]
