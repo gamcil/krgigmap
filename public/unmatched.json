@@ -9,6 +9,9 @@
     "사이먼 프랭크": [
       "https://www.instagram.com/p/DTIvrnCiWSB/"
     ],
+    "고의석": [
+      "https://www.instagram.com/p/DTtpfNmk7nF/"
+    ],
     "육남매 (김인수": [
       "https://booking.naver.com/booking/5/bizes/1212480"
     ],
@@ -34,17 +37,19 @@
     ]
   },
   {
-    "date": "2026-01-22T00:00:00.000",
-    "startTime": "2026-01-22T23:00:00.000",
-    "endTime": "2026-01-23T06:00:00.000",
-    "eventUrl": "https://ra.co/events/2349502",
-    "title": "RAUM FF: SODEF / ZOLOTO / J",
-    "location": "TBA - club ff",
+    "showdeeId": "4733",
+    "source": "showdee",
     "artists": [
-      "Rhythm (1)"
+      "고의석",
+      99,
+      100
     ],
-    "source": "ra",
-    "unmatchedReason": "TBA"
+    "location": "연희살롱 연남로7길 6 ",
+    "startTime": "2026-01-24T20:00:00",
+    "date": "2026-01-24",
+    "eventUrl": "https://www.instagram.com/p/DTtpfNmk7nF/",
+    "entry": "무료입장 자율페이",
+    "unmatchedReason": "unknown"
   },
   {
     "date": "2026-01-23T00:00:00.000",
@@ -129,9 +134,9 @@
   {
     "date": "2026-05-01T00:00:00.000",
     "startTime": "2026-05-01T21:00:00.000",
-    "endTime": "2026-05-02T23:00:00.000",
-    "eventUrl": "https://ra.co/events/2347059",
-    "title": "MRZ DJ: SOUTH KOREA TOUR",
+    "endTime": "2026-05-01T23:59:00.000",
+    "eventUrl": "https://ra.co/events/2347177",
+    "title": "MRZ DJ SET: MARQUE D'AMOUR SEOUL",
     "location": "TBA",
     "artists": [
       "MRZ (1)"
@@ -142,9 +147,9 @@
   {
     "date": "2026-05-01T00:00:00.000",
     "startTime": "2026-05-01T21:00:00.000",
-    "endTime": "2026-05-01T23:59:00.000",
-    "eventUrl": "https://ra.co/events/2347177",
-    "title": "MRZ DJ SET: MARQUE D'AMOUR SEOUL",
+    "endTime": "2026-05-02T23:00:00.000",
+    "eventUrl": "https://ra.co/events/2347059",
+    "title": "MRZ DJ: SOUTH KOREA TOUR",
     "location": "TBA",
     "artists": [
       "MRZ (1)"
