@@ -1900,12 +1900,6 @@
     "genre": []
   },
   {
-    "name_ko": "헤일매리",
-    "name_en": "Hailmary",
-    "instagram": "https://www.instagram.com/band.hailmary/",
-    "genre": []
-  },
-  {
     "name_ko": "바니쉬",
     "name_en": "Varnish",
     "instagram": "https://www.instagram.com/varnish_band/",
@@ -2912,7 +2906,8 @@
   {
     "name_ko": "모노디즘",
     "name_en": "Monothiesm",
-    "instagram": "https://www.instagram.com/band_monotheism/"
+    "instagram": "https://www.instagram.com/band_monotheism/",
+    "alias": ["모노디즈"]
   },
   {
     "name_ko": "스키틀즈",
@@ -3586,11 +3581,6 @@
     "instagram": "https://www.instagram.com/dissektist/"
   },
   {
-    "name_ko": "매스크리메이터",
-    "name_en": "Mass Cremator",
-    "instagram": "https://www.instagram.com/masscremator/"
-  },
-  {
     "name_ko": "흑염소",
     "name_en": "Huqueymsaw",
     "instagram": "https://www.instagram.com/huqueymsaw/"
@@ -3883,7 +3873,8 @@
   {
     "name_ko": "텔미더트루스",
     "name_en": "tell me the truth..",
-    "instagram": "https://www.instagram.com/tellmethetruth06/"
+    "instagram": "https://www.instagram.com/tellmethetruth06/",
+    "alias": ["tell me the truth"]
   },
   {
     "name_ko": "김바다",
@@ -4276,11 +4267,6 @@
     "name_ko": "모노슬립",
     "name_en": "MXNX SLXXP",
     "instagram": "https://www.instagram.com/mxnxslxxp/"
-  },
-  {
-    "name_ko": "Leaveourtears",
-    "name_en": "Leaveourtears",
-    "instagram": "https://www.instagram.com/leaveourtears/"
   },
   {
     "name_ko": "행간소음",
@@ -5860,5 +5846,337 @@
     "name_ko": "고의석",
     "name_en": "Euiseok Go",
     "instagram": "https://www.instagram.com/euiseok.guitar/"
+  },
+  {
+    "name_ko": "문13",
+    "name_en": "Moon 13",
+    "instagram": "https://www.instagram.com/moon13lt/"
+  },
+  {
+    "name_ko": "은해",
+    "name_en": "eunhae",
+    "instagram": "https://www.instagram.com/eh_x3x/"
+  },
+  {
+    "name_ko": "황은하",
+    "name_en": "eunhanyam",
+    "instagram": "https://www.instagram.com/eunhanyam/"
+  },
+  {
+    "name_ko": "새해",
+    "name_en": "New Year",
+    "instagram": "https://www.instagram.com/newyearbelucky/"
+  },
+  {
+    "name_ko": "김종주",
+    "name_en": "Kim Jongjoo",
+    "instagram": "https://www.instagram.com/77_oldfashioned/"
+  },
+  {
+    "name_ko": "서나나",
+    "name_en": "Seonana",
+    "instagram": "https://www.instagram.com/band_seonana/"
+  },
+  {
+    "name_ko": "지누콘다",
+    "name_en": "Jinu Konda",
+    "instagram": "https://www.instagram.com/jinukonda/"
+  },
+  {
+    "name_ko": "김도후",
+    "name_en": "Dowho",
+    "instagram": "https://www.instagram.com/d0wh0/"
+  },
+  {
+    "name_ko": "한로이",
+    "name_en": "Hanroi",
+    "instagram": "https://www.instagram.com/_summer_1108_/"
+  },
+  {
+    "name_ko": "헤일매리",
+    "name_en": "Hailmary",
+    "instagram": "https://www.instagram.com/band.hailmary/",
+    "alias": ["해일메리"]
+  },
+  {
+    "name_ko": "이승열",
+    "name_en": "Yi Sung Yol",
+    "instagram": "https://www.instagram.com/yisungyol_official/"
+  },
+  {
+    "name_ko": "안녕바다",
+    "name_en": "byebyesea",
+    "instagram": "https://www.instagram.com/band_byebyesea/"
+  },
+  {
+    "name_ko": "이희문 오방신과",
+    "name_en": "OBSG",
+    "instagram": "https://www.instagram.com/band_obsg/"
+  },
+  {
+    "name_ko": "악퉁",
+    "name_en": "Achtung",
+    "instagram": "https://www.instagram.com/achtung_chewsup/"
+  },
+  {
+    "name_ko": "블랙테일",
+    "name_en": "Black Tail",
+    "instagram": "https://www.instagram.com/band_blacktail/"
+  },
+  {
+    "name_ko": "딥워터",
+    "name_en": "Deep Water",
+    "instagram": "https://www.instagram.com/band_deepwater/"
+  },
+  {
+    "name_ko": "김성준",
+    "name_en": "Kim Seong Jun",
+    "instagram": "https://www.instagram.com/seongjunman/"
+  },
+  {
+    "name_ko": "김정현",
+    "name_en": "Kim Jeonghyun",
+    "instagram": "https://www.instagram.com/seishunsickkk/"
+  },
+  {
+    "name_ko": "아이셔",
+    "name_en": "isher",
+    "instagram": "https://www.instagram.com/i._.sher/",
+    "alias": ["isher"]
+  },
+  {
+    "name_ko": "take a png",
+    "name_en": "take a png",
+    "instagram": "https://www.instagram.com/takeapngnow/"
+  },
+  {
+    "name_ko": "ABTB",
+    "name_en": "ABTB",
+    "instagram": "https://www.instagram.com/bandabtb/"
+  },
+  {
+    "name_ko": "힙노타이즈드",
+    "name_en": "Hypnotize",
+    "instagram": "https://www.instagram.com/https.hypnotize.official/"
+  },
+  {
+    "name_ko": "칠리사운드",
+    "name_en": "Chili Sound",
+    "instagram": "https://www.instagram.com/chill_s0und/"
+  },
+  {
+    "name_ko": "이해솔",
+    "name_en": "Lee Yagi",
+    "instagram": "https://www.instagram.com/lee_yagi/",
+    "alias": ["(이)야기"]
+  },
+  {
+    "name_ko": "이고요",
+    "name_en": "Leegoyo",
+    "instagram": "https://www.instagram.com/leegoyogoyo/"
+  },
+  {
+    "name_ko": "이서영",
+    "name_en": "Seoyoung Lee",
+    "instagram": "https://www.instagram.com/leesyoung.kr/"
+  },
+  {
+    "name_ko": "지나토드",
+    "name_en": "Jinatod",
+    "instagram": "https://www.instagram.com/jinatod/"
+  },
+  {
+    "name_ko": "해피하삐",
+    "name_en": "Happy Happy",
+    "instagram": "https://www.instagram.com/happyhappybando/"
+  },
+  {
+    "name_ko": "모글파이",
+    "name_en": "Moglepie",
+    "instagram": "https://www.instagram.com/moglepie_band/"
+  },
+  {
+    "name_ko": "손혜은",
+    "name_en": "Son Hyeeun",
+    "instagram": "https://www.instagram.com/hyeeunson/"
+  },
+  {
+    "name_ko": "구기훈",
+    "name_en": "9kihoon",
+    "instagram": "https://www.instagram.com/9kihoon/"
+  },
+  {
+    "name_ko": "정밀아",
+    "name_en": "Jeongmilla",
+    "instagram": "https://www.instagram.com/jeongmilla/"
+  },
+  {
+    "name_ko": "오다준",
+    "name_en": "Oh Dajoon",
+    "instagram": "https://www.instagram.com/oda_ready/"
+  },
+  {
+    "name_ko": "커서",
+    "name_en": "Cursor",
+    "instagram": "https://www.instagram.com/band_cursor/"
+  },
+  {
+    "name_ko": "밸브스테이트",
+    "name_en": "Valve State",
+    "instagram": "https://www.instagram.com/valve_state_rock/"
+  },
+  {
+    "name_ko": "물장구클럽",
+    "name_en": "splishsplashclub",
+    "instagram": "https://www.instagram.com/splishsplash_club/"
+  },
+  {
+    "name_ko": "KIK",
+    "name_en": "KIK",
+    "instagram": "https://www.instagram.com/bandkikofficial/"
+  },
+  {
+    "name_ko": "노쉘터",
+    "name_en": "No Shelter",
+    "instagram": "https://www.instagram.com/noshelter_seoulhc/"
+  },
+  {
+    "name_ko": "턴포아워",
+    "name_en": "Turn For Our",
+    "instagram": "https://www.instagram.com/turnforour/"
+  },
+  {
+    "name_ko": "AWL",
+    "name_en": "AWL",
+    "instagram": "https://www.instagram.com/awl_hc/"
+  },
+  {
+    "name_ko": "서지영",
+    "name_en": "Blue Salt",
+    "instagram": "https://www.instagram.com/blu_salt_/"
+  },
+  {
+    "name_ko": "김늑",
+    "name_en": "Kim Neuk",
+    "instagram": "https://www.instagram.com/nknknknknkim/"
+  },
+  {
+    "name_ko": "헥세",
+    "name_en": "Hexe",
+    "instagram": "https://www.instagram.com/hexeband/"
+  },
+  {
+    "name_ko": "포프",
+    "name_en": "FOP",
+    "instagram": "https://www.instagram.com/band_fop/"
+  },
+  {
+    "name_ko": "카크래셔",
+    "name_en": "Cockrasher",
+    "instagram": "https://www.instagram.com/cockrasher/"
+  },
+  {
+    "name_ko": "휴먼 인프라스트럭처",
+    "name_en": "Human Infrastructure",
+    "instagram": "https://www.instagram.com/ecrystallomancer/"
+  },
+  {
+    "name_ko": "생각의 여름",
+    "name_en": "Summer of Thoughts",
+    "instagram": "https://www.instagram.com/summer.of.thoughts/"
+  },
+  {
+    "name_ko": "모브닝",
+    "name_en": "Movning",
+    "instagram": "https://www.instagram.com/movning_official/"
+  },
+  {
+    "name_ko": "다양성",
+    "name_en": "Dayangsung",
+    "instagram": "https://www.instagram.com/official_dayangsung/"
+  },
+  {
+    "name_ko": "나디",
+    "name_en": "nadi",
+    "instagram": "https://www.instagram.com/n_adi1124/",
+    "alias": ["n@di (나디)"]
+  },
+  {
+    "name_ko": "오마르와 동방전력",
+    "name_en": "Omar and the Eastern Power",
+    "instagram": "https://www.instagram.com/the_eastern_power/"
+  },
+  {
+    "name_ko": "코드네임타이탄",
+    "name_en": "Codename Titan",
+    "instagram": "https://www.instagram.com/cntitan/"
+  },
+  {
+    "name_ko": "나이트하울러",
+    "name_en": "Night Howler",
+    "instagram": "https://www.instagram.com/band_nighthowler/"
+  },
+  {
+    "name_ko": "버단 컨벡스",
+    "name_en": "Verdant Convex",
+    "instagram": "https://www.instagram.com/verdant_convex/"
+  },
+  {
+    "name_ko": "루시발렌타인",
+    "name_en": "Lucy Valentine",
+    "instagram": "https://www.instagram.com/lucyvalentineband/"
+  },
+  {
+    "name_ko": "K슈퍼모텔",
+    "name_en": "K-Supermotel",
+    "instagram": "https://www.instagram.com/k_supermotel/",
+    "alias": ["K특급모텔"]
+  },
+  {
+    "name_ko": "리브아워티어스",
+    "name_en": "leaveourtears",
+    "instagram": "https://www.instagram.com/leaveourtears/"
+  },
+  {
+    "name_ko": "Chasm",
+    "name_en": "Chasm",
+    "instagram": "https://www.instagram.com/raw_dude_martyrs/"
+  },
+  {
+    "name_ko": "Naiite",
+    "name_en": "Naiite",
+    "instagram": "https://www.instagram.com/naiite.grind/"
+  },
+  {
+    "name_ko": "구토와 눈물",
+    "name_en": "Vomit and Tear",
+    "instagram": ""
+  },
+  {
+    "name_ko": "두근두근노이즈베이커리",
+    "name_en": "Doki Doki Noise Bakery",
+    "instagram": "https://www.instagram.com/dkdk_noise/"
+  },
+  {
+    "name_ko": "매스크리메이터",
+    "name_en": "Mass Cremator",
+    "instagram": "https://www.instagram.com/masscremator/",
+    "alias": ["Mass Cremator"]
+  },
+  {
+    "name_ko": "폐허",
+    "name_en": "Pyha",
+    "instagram": "",
+    "alias": ["Pyha"]
+  },
+  {
+    "name_ko": "언더헤이즈",
+    "name_en": "Under_Haze",
+    "instagram": "https://www.instagram.com/under_haze_official/"
+  },
+  {
+    "name_ko": "킹포스트",
+    "name_en": "King Post",
+    "instagram": "https://www.instagram.com/king_post_/"
   }
 ]

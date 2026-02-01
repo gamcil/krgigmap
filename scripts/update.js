@@ -12,7 +12,7 @@
  *       Events that could not be matched to venues.
  */
 
-const { fetchShowdeeEvents } = require('./showdee.js');
+const { fetchAllShowdeeEvents } = require('./showdee.js');
 const { fetchRAEvents } = require('./ra.js');
 const { matchEventsToVenues } = require('./venuematcher.js');
 const { matchEventsToArtists } = require('./artistmatcher.js');
@@ -39,7 +39,9 @@ async function main() {
     
     console.log(`Fetching events from ${startDateStr} to ${endDateStr}`);
     console.log("Fetching Showdee events");
-    let showdeeEvents = await fetchShowdeeEvents(startDateStr);
+    const showdeeLimit = 50;
+    const showdeeBatches = 10;
+    let showdeeEvents = await fetchAllShowdeeEvents(showdeeBatches, showdeeLimit);
 
     console.log("Fetching RA events");
     const raEvents = await fetchRAEvents(startDateStr, endDateStr);
