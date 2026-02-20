@@ -33,6 +33,7 @@ maplibregl.Map.prototype.addMarkerImage = function (id, options = {}, callback) 
 
 const darkProtomapsURL = "https://api.protomaps.com/styles/v5/dark/en.json?key=015f1cfa3c5010ee";
 const lightProtomapsURL = "https://api.protomaps.com/styles/v5/light/en.json?key=015f1cfa3c5010ee";
+const LOGICAL_DAY_START_HOUR = 6;
 
 const sunIconSvg = `
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -122,13 +123,36 @@ function updateActiveVenuesByDate(geojson, selectedDate) {
         const props = feature.properties;
         props.active = false;
         props.events.forEach(event => {
-            event.date = formatDateToYMD(new Date(event.date));
-            if (!props.active && event.date === dateStr) {
+            event.logicalDate = getLogicalEventDate(event);
+            if (!props.active && event.logicalDate === dateStr) {
                 props.active = true;
                 props.source = event.source;
             }
         })
     }
+}
+
+function parseDateValueToYMD(value) {
+    if (!value) return null;
+    if (value instanceof Date) return formatDateToYMD(value);
+    if (typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value)) {
+        return value;
+    }
+    const parsed = new Date(value);
+    if (Number.isNaN(parsed.getTime())) return null;
+    return formatDateToYMD(parsed);
+}
+
+function getLogicalEventDate(event) {
+    if (!event) return null;
+    if (event.startTime) {
+        const start = new Date(event.startTime);
+        if (!Number.isNaN(start.getTime())) {
+            const logicalStart = new Date(start.getTime() - LOGICAL_DAY_START_HOUR * 60 * 60 * 1000);
+            return formatDateToYMD(logicalStart);
+        }
+    }
+    return parseDateValueToYMD(event.date);
 }
 
 /**
@@ -171,7 +195,7 @@ async function loadMap() {
     let datajson = await geojsonRaw.json();
     let geojson = {...datajson.geo};
     let artists = datajson.artists;
-    const today = new Date();
+    const today = new Date(Date.now() - LOGICAL_DAY_START_HOUR * 60 * 60 * 1000);
     today.setHours(0, 0, 0, 0);
     let displayDate = today;
 
@@ -182,8 +206,9 @@ async function loadMap() {
     // Count events for calendar badges
     let eventCounts = geojson?.features?.flatMap(f => f.properties?.events || [])
         .reduce((acc, event) => {
-            if (!event?.date) return acc;
-            acc[event.date] = (acc[event.date] || 0) + 1;
+            const logicalDate = getLogicalEventDate(event);
+            if (!logicalDate) return acc;
+            acc[logicalDate] = (acc[logicalDate] || 0) + 1;
             return acc
         }, {})
     let totalDates = Object.keys(eventCounts).length;
@@ -355,32 +380,37 @@ async function loadMap() {
                 popupEl.querySelector('.place-website-link').remove();
             }
             if (props.active) {
-                const eventData = JSON.parse(props.events).filter(e => e?.date === formatDateToYMD(displayDate))[0]
-                const eventTemplate = document.getElementById('popup-event-template');
-                const eventEl = eventTemplate.content.cloneNode(true);
-                if (eventData.title) {
-                    eventEl.querySelector('.event-title').textContent = eventData.title;
-                } else {
-                    eventEl.querySelector('.event-title').previousSibling.remove();
-                    eventEl.querySelector('.event-title').remove();
-                }
-                if (eventData.artists.length > 0) {
-                    const nameFn = (a) => {
-                        let name = (a.name === a.name_en) ? a.name : `${a.name} (${a.name_en})`;
-                        let text = `<span class="artist-name">${name}</span>`;
-                        return (a.instagram) ? `<a href="${a.instagram}">${text}</a>` : text;
+                const selectedDate = formatDateToYMD(displayDate);
+                const eventData = JSON.parse(props.events).find(e => getLogicalEventDate(e) === selectedDate)
+                if (eventData) {
+                    const eventTemplate = document.getElementById('popup-event-template');
+                    const eventEl = eventTemplate.content.cloneNode(true);
+                    if (eventData.title) {
+                        eventEl.querySelector('.event-title').textContent = eventData.title;
+                    } else {
+                        eventEl.querySelector('.event-title').previousSibling.remove();
+                        eventEl.querySelector('.event-title').remove();
                     }
-                    let artistStr = eventData.artists.map(a => (typeof a === "number") ? nameFn(artists[a]) : a).join(', ');
-                    eventEl.querySelector('.event-artist').innerHTML = artistStr;
+                    if (eventData.artists.length > 0) {
+                        const nameFn = (a) => {
+                            let name = (a.name === a.name_en) ? a.name : `${a.name} (${a.name_en})`;
+                            let text = `<span class="artist-name">${name}</span>`;
+                            return (a.instagram) ? `<a href="${a.instagram}">${text}</a>` : text;
+                        }
+                        let artistStr = eventData.artists.map(a => (typeof a === "number") ? nameFn(artists[a]) : a).join(', ');
+                        eventEl.querySelector('.event-artist').innerHTML = artistStr;
+                    } else {
+                        eventEl.querySelector('.event-artist').previousSibling.remove();
+                        eventEl.querySelector('.event-artist').remove();
+                    }
+                    eventEl.querySelector('.event-date').textContent = getLogicalEventDate(eventData) || eventData.date || '';
+                    eventEl.querySelector('.event-time').textContent = formatTimeText(eventData.startTime, eventData.endTime);
+                    eventEl.querySelector('.event-ticket').textContent = (eventData.source === 'ra') ? "Resident Advisor" : eventData.entry;
+                    eventEl.querySelector('.event-ticket').href = eventData.eventUrl
+                    popupEl.querySelector('.popup-event').replaceWith(eventEl);
                 } else {
-                    eventEl.querySelector('.event-artist').previousSibling.remove();
-                    eventEl.querySelector('.event-artist').remove();
+                    popupEl.querySelector('.popup-event').remove();
                 }
-                eventEl.querySelector('.event-date').textContent = eventData.date;
-                eventEl.querySelector('.event-time').textContent = formatTimeText(eventData.startTime, eventData.endTime);
-                eventEl.querySelector('.event-ticket').textContent = (eventData.source === 'ra') ? "Resident Advisor" : eventData.entry;
-                eventEl.querySelector('.event-ticket').href = eventData.eventUrl
-                popupEl.querySelector('.popup-event').replaceWith(eventEl);
             } else {
                 popupEl.querySelector('.popup-event').remove();
             }
