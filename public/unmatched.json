@@ -1,17 +1,5 @@
 [
   {
-    "올가미": [
-      "https://ticket.melon.com/performance/index.htm?prodId=212755"
-    ],
-    "Fin Fior": [
-      "https://www.instagram.com/p/DUnyUjMEcHG/"
-    ],
-    "Forbidden403Error": [
-      "https://www.instagram.com/p/DTzOsT_E3Tz/"
-    ],
-    "Dagger Wound": [
-      "https://www.instagram.com/p/DTzOsT_E3Tz/"
-    ],
     "포비든403에러": [
       "https://www.instagram.com/p/DUfAFaPkgUn/"
     ],
@@ -67,24 +55,19 @@
     ]
   },
   {
-    "date": "2026-02-28T00:00:00.000",
-    "startTime": "2026-02-28T16:00:00.000",
-    "endTime": "2026-02-28T20:00:00.000",
-    "eventUrl": "https://ra.co/events/2375011",
-    "title": "Xvoria #4",
-    "location": "TBA - Gallery VIRA",
-    "artists": [],
-    "source": "ra",
-    "unmatchedReason": "TBA"
-  },
-  {
     "date": "2026-03-07T00:00:00.000",
     "startTime": "2026-03-07T22:00:00.000",
     "endTime": "2026-03-08T06:00:00.000",
     "eventUrl": "https://ra.co/events/2380371",
     "title": "PERMIT invites Organik Festival",
     "location": "TBA - 성수율 Music Space",
-    "artists": [],
+    "artists": [
+      "Melting 99",
+      "miranda ku",
+      "Joon Kwak",
+      "Kyuchan",
+      "Yoel"
+    ],
     "source": "ra",
     "unmatchedReason": "TBA"
   },
@@ -201,6 +184,28 @@
       "Pseudobaul",
       "Zoonpark"
     ],
+    "source": "ra",
+    "unmatchedReason": "TBA"
+  },
+  {
+    "date": "2026-06-05T00:00:00.000",
+    "startTime": "2026-06-05T17:00:00.000",
+    "endTime": "2026-06-07T09:00:00.000",
+    "eventUrl": "https://ra.co/events/2382075",
+    "title": "Hahoe 2026",
+    "location": "TBA - Korean Culture Theme Park, Andong",
+    "artists": [],
+    "source": "ra",
+    "unmatchedReason": "TBA"
+  },
+  {
+    "date": "2026-06-06T00:00:00.000",
+    "startTime": "2026-06-05T17:00:00.000",
+    "endTime": "2026-06-07T09:00:00.000",
+    "eventUrl": "https://ra.co/events/2382075",
+    "title": "Hahoe 2026",
+    "location": "TBA - Korean Culture Theme Park, Andong",
+    "artists": [],
     "source": "ra",
     "unmatchedReason": "TBA"
   }
