@@ -4405,20 +4405,19 @@
     "_dir": "울산_로얄앵커"
   },
   {
-    "name": "S FACTORY D동",
+    "name": "S FACTORY",
+    "name_ko": "에스팩토리",
     "address": "11 Yeonmujang 15-gil, Seongdong-gu, Seoul",
+    "address_jibun": "서울 성동구 성수동2가 273-13",
+    "address_ko": "서울 성동구 연무장15길 11",
+    "ra_id": [161228, 228409],
     "lat": 37.5425289,
     "lng": 127.0592605,
-    "website": "",
+    "website": "https://www.sfactory.co.kr/",
     "googleMaps": "https://maps.google.com/?cid=12411995290811638813",
-    "ra_id": 161228,
-    "name_ko": "에스팩토리 D동",
-    "address_ko": "서울 성동구 연무장15길 11",
     "kakaoMaps": "http://place.map.kakao.com/988039230",
-    "address_jibun": "서울 성동구 성수동2가 273-13",
     "instagram": "https://www.instagram.com/sfactory_seongsu",
-    "naverMaps": "https://map.naver.com/p/entry/place/1952977663",
-    "_dir": "254_서울_에스팩토리d동_sfactoryd"
+    "naverMaps": "https://map.naver.com/p/entry/place/1952977663"
   },
   {
     "name": "Senggi Studio",
@@ -10333,6 +10332,41 @@
     "alias": [
       "Bar Union",
       "바유니온"
+    ]
+  },
+  {
+    "name": "Differeach",
+    "name_ko": "다다르다",
+    "address": "6, Junggyo-ro 73beon-gil, Jung-gu, Daejeon, Republic of Korea",
+    "address_ko": "대전광역시 중구 중교로73번길 6 1층, 2층",
+    "address_jibun": "대전광역시 중구 은행동 163-4 1층, 2층",
+    "lat": 36.3270094,
+    "lng": 127.4276795,
+    "instagram": "https://www.instagram.com/differeach",
+    "googleMaps": "https://maps.google.com/?cid=2938792681637715079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/686244931",
+    "naverMaps": "https://map.naver.com/p/entry/place/21617530?placePath=%2Fhome",
+    "alias": [
+      "다다르다",
+      "대전 다다르다"
+    ]
+  },
+  {
+    "name": "Sogang University Mary Hall",
+    "name_ko": "서강대학교 메리홀",
+    "address": "35, Baekbeom-ro, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 백범로 35 서강대학교",
+    "address_jibun": "서울특별시 마포구 신수동 1-1 서강대학교",
+    "lat": 37.5522048,
+    "lng": 126.9395136,
+    "website": "http://maryhall.sogang.ac.kr/",
+    "googleMaps": "https://maps.google.com/?cid=2576966578875410847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "https://place.map.kakao.com/24457124",
+    "naverMaps": "https://map.naver.com/p/entry/place/11860190?placePath=%2Fhome",
+    "alias": [
+      "서강대학교 메리홀 대극장",
+      "서강대학교 메리홀",
+      "서강대학교 메리홀 극장"
     ]
   }
 ]
