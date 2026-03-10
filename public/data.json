@@ -239,7 +239,75 @@
           "googleMaps": "https://maps.google.com/?cid=16164063049611793081",
           "naverMaps": "https://map.naver.com/p/entry/place/1123909060",
           "ra_id": 198937,
-          "events": []
+          "events": [
+            {
+              "date": "2026-03-12T00:00:00.000",
+              "startTime": "2026-03-12T22:00:00.000",
+              "endTime": "2026-03-13T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2389015",
+              "title": "BOLERO: HOME COMING",
+              "location": "Bolero",
+              "artists": [
+                "KIKOH",
+                "PRIMIT",
+                "BASKERVILLE",
+                "SONGPANCAKE"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-03-13T00:00:00.000",
+              "startTime": "2026-03-13T22:00:00.000",
+              "endTime": "2026-03-14T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2389019",
+              "title": "BOLERO: AMAZON TOKYO TO SEOUL",
+              "location": "Bolero",
+              "artists": [
+                "Keenote",
+                "SKiiDA"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-03-14T00:00:00.000",
+              "startTime": "2026-03-14T22:00:00.000",
+              "endTime": "2026-03-15T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2389022",
+              "title": "BOLERO: [LOVA] Release party",
+              "location": "Bolero",
+              "artists": [
+                "DJ POOL",
+                "DJ Co.kr",
+                "bojvck",
+                "SKiiDA",
+                "T.K (KR)",
+                "Xena",
+                "Pino",
+                "SIM (SI)",
+                "rom (6)",
+                "BAAWLA"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-03-15T00:00:00.000",
+              "startTime": "2026-03-15T20:00:00.000",
+              "endTime": "2026-03-16T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2389023",
+              "title": "BOLERO: BRIDGE THE GAP SEOUL '26 AFTER PARTY",
+              "location": "Bolero",
+              "artists": [
+                "DJ Soulscape",
+                "KINGMCK",
+                "Kyper"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            }
+          ]
         }
       },
       {
@@ -2633,6 +2701,23 @@
           "ra_id": 262651,
           "events": [
             {
+              "date": "2026-03-21T00:00:00.000",
+              "startTime": "2026-03-21T17:00:00.000",
+              "endTime": "2026-03-22T00:30:00.000",
+              "eventUrl": "https://ra.co/events/2389110",
+              "title": "GLOW x Dumb Seoul 'G for glitter'",
+              "location": "Dumb Seoul",
+              "artists": [
+                "Zion",
+                "Nocturnal (KR)",
+                "Dadachoe",
+                "Minish",
+                "Ginger (KR)"
+              ],
+              "source": "ra",
+              "ra_id": 262651
+            },
+            {
               "date": "2026-05-02T00:00:00.000",
               "startTime": "2026-05-02T09:00:00.000",
               "endTime": "2026-05-02T23:00:00.000",
@@ -3202,6 +3287,40 @@
               "ra_id": 106806
             },
             {
+              "date": "2026-03-14T00:00:00.000",
+              "startTime": "2026-03-14T23:00:00.000",
+              "endTime": "2026-03-15T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2388916",
+              "title": "Faust NACHT",
+              "location": "Faust",
+              "artists": [
+                "Suman",
+                "Kim Bo Yeon",
+                "ROS3",
+                "Nocturnal (KR)",
+                "Dadachoe"
+              ],
+              "source": "ra",
+              "ra_id": 106806
+            },
+            {
+              "date": "2026-03-20T00:00:00.000",
+              "startTime": "2026-03-20T23:00:00.000",
+              "endTime": "2026-03-21T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2388967",
+              "title": "KIMYO",
+              "location": "Faust",
+              "artists": [
+                "TYSN",
+                "NUSNOOM",
+                "Bolm",
+                "YAREE",
+                "Uni (3)"
+              ],
+              "source": "ra",
+              "ra_id": 106806
+            },
+            {
               "date": "2026-03-21T00:00:00.000",
               "startTime": "2026-03-21T23:00:00.000",
               "endTime": "2026-03-22T05:00:00.000",
@@ -3209,11 +3328,44 @@
               "title": "INVITES: DBBD",
               "location": "Faust",
               "artists": [
-                "Suman",
+                "Marcus L",
                 "DBBD",
-                "Nocturnal (KR)",
+                "Suman",
                 "Mars Parck",
                 "Sol (KR)"
+              ],
+              "source": "ra",
+              "ra_id": 106806
+            },
+            {
+              "date": "2026-03-27T00:00:00.000",
+              "startTime": "2026-03-27T23:00:00.000",
+              "endTime": "2026-03-28T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2388917",
+              "title": "NACHT",
+              "location": "Faust",
+              "artists": [
+                "gezibe",
+                "Stann Lumo",
+                "Kim Bo Yeon",
+                "NUKiD"
+              ],
+              "source": "ra",
+              "ra_id": 106806
+            },
+            {
+              "date": "2026-03-28T00:00:00.000",
+              "startTime": "2026-03-28T23:00:00.000",
+              "endTime": "2026-03-29T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2388919",
+              "title": "VARIOUS",
+              "location": "Faust",
+              "artists": [
+                "Mars Parck",
+                "BootyWagon",
+                "Nocturnal (KR)",
+                "Ginger (KR)",
+                "Harivo"
               ],
               "source": "ra",
               "ra_id": 106806
@@ -5338,6 +5490,23 @@
           "ra_id": 140937,
           "events": [
             {
+              "date": "2026-03-13T00:00:00.000",
+              "startTime": "2026-03-13T22:00:00.000",
+              "endTime": "2026-03-14T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2389012",
+              "title": "Herv",
+              "location": "Modeci",
+              "artists": [
+                "FFAN",
+                "Shinyoung",
+                "SEOD",
+                "JAEHAN (2)",
+                "Youknowsong"
+              ],
+              "source": "ra",
+              "ra_id": 140937
+            },
+            {
               "date": "2026-03-19T00:00:00.000",
               "startTime": "2026-03-19T22:00:00.000",
               "endTime": "2026-03-20T05:00:00.000",
@@ -6605,7 +6774,54 @@
           "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
           "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
           "ra_id": 194402,
-          "events": []
+          "events": [
+            {
+              "date": "2026-03-13T00:00:00.000",
+              "startTime": "2026-03-13T23:00:00.000",
+              "endTime": "2026-03-14T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2389137",
+              "title": "Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "Tellme",
+                "NO.LINK"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            },
+            {
+              "date": "2026-03-14T00:00:00.000",
+              "startTime": "2026-03-14T23:00:00.000",
+              "endTime": "2026-03-15T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2389140",
+              "title": "Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "FOI (SK)",
+                "JNS",
+                "JUNG(KR)"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            },
+            {
+              "date": "2026-03-15T00:00:00.000",
+              "startTime": "2026-03-15T23:00:00.000",
+              "endTime": "2026-03-16T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2389142",
+              "title": "000_Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "JAEHAN (2)",
+                "FOI (SK)",
+                "givogi",
+                "Lyumin",
+                "Millim"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            }
+          ]
         }
       },
       {
@@ -7924,7 +8140,40 @@
           "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
           "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
           "ra_id": 195346,
-          "events": []
+          "events": [
+            {
+              "date": "2026-03-13T00:00:00.000",
+              "startTime": "2026-03-13T23:00:00.000",
+              "endTime": "2026-03-14T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2389130",
+              "title": "Shelter Seoul",
+              "location": "Shelter",
+              "artists": [
+                "X2C (1)",
+                "Yomi",
+                "Honn",
+                "SONGPANCAKE"
+              ],
+              "source": "ra",
+              "ra_id": 195346
+            },
+            {
+              "date": "2026-03-14T00:00:00.000",
+              "startTime": "2026-03-14T23:00:00.000",
+              "endTime": "2026-03-15T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2389133",
+              "title": "Deltamag_Shelter Seoul",
+              "location": "Shelter",
+              "artists": [
+                "PRIMIT",
+                "XXOK",
+                "BASKERVILLE",
+                "T-BURN"
+              ],
+              "source": "ra",
+              "ra_id": 195346
+            }
+          ]
         }
       },
       {
@@ -10076,6 +10325,19 @@
               "eventUrl": "https://www.instagram.com/p/DVdPdvYEzbh/",
               "entry": "예매 정보 링크",
               "imgSrc": null
+            },
+            {
+              "date": "2026-03-21T00:00:00.000",
+              "startTime": "2026-03-21T21:00:00.000",
+              "endTime": "2026-03-21T23:59:00.000",
+              "eventUrl": "https://ra.co/events/2389035",
+              "title": "Arexibo presents: Dis Fig(PTP)",
+              "location": "Channel 1969",
+              "artists": [
+                "Dis Fig"
+              ],
+              "source": "ra",
+              "ra_id": 130324
             }
           ]
         }
@@ -11053,6 +11315,22 @@
               "ra_id": 70614
             },
             {
+              "date": "2026-03-20T00:00:00.000",
+              "startTime": "2026-03-20T22:00:00.000",
+              "endTime": "2026-03-21T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2389029",
+              "title": "Dis Fig(PTP)",
+              "location": "Cakeshop",
+              "artists": [
+                "Dis Fig",
+                "untitled (2)",
+                "Hyejin",
+                "Arexibo"
+              ],
+              "source": "ra",
+              "ra_id": 70614
+            },
+            {
               "date": "2026-03-21T00:00:00.000",
               "startTime": "2026-03-21T22:00:00.000",
               "endTime": "2026-03-22T04:00:00.000",
@@ -11064,6 +11342,21 @@
                 "dayoung",
                 "Bokchoii",
                 "Muin"
+              ],
+              "source": "ra",
+              "ra_id": 70614
+            },
+            {
+              "date": "2026-03-27T00:00:00.000",
+              "startTime": "2026-03-27T22:00:00.000",
+              "endTime": "2026-03-28T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2388576",
+              "title": "Seoul Footwork presents: TALARIA with Frenquency (NL)",
+              "location": "Cakeshop",
+              "artists": [
+                "Delic'amarr",
+                "Destin",
+                "MSG (2)"
               ],
               "source": "ra",
               "ra_id": 70614
@@ -11102,6 +11395,7 @@
               "location": "Cakeshop",
               "artists": [
                 "AEIDA",
+                "bluesight",
                 "MileZ"
               ],
               "source": "ra",
@@ -11515,7 +11809,38 @@
           "kakaoMaps": "https://place.map.kakao.com/1467508620",
           "naverMaps": "https://map.naver.com/p/entry/place/2074498239",
           "ra_id": 262068,
-          "events": []
+          "events": [
+            {
+              "date": "2026-03-13T00:00:00.000",
+              "startTime": "2026-03-13T23:59:00.000",
+              "endTime": "2026-03-14T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2389013",
+              "title": "Hertz 헤르츠: *Time Illusion* with Sarayu (TH, More Rice)",
+              "location": "Hertz",
+              "artists": [
+                "Sarayu",
+                "Soyo",
+                "Mogwaa"
+              ],
+              "source": "ra",
+              "ra_id": 262068
+            },
+            {
+              "date": "2026-03-14T00:00:00.000",
+              "startTime": "2026-03-14T23:59:00.000",
+              "endTime": "2026-03-15T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2389016",
+              "title": "Hertz 헤르츠 Selectors: Jesse You Jimin J.U.N.E",
+              "location": "Hertz",
+              "artists": [
+                "Jesse You",
+                "Jimin",
+                "J.U.N.E"
+              ],
+              "source": "ra",
+              "ra_id": 262068
+            }
+          ]
         }
       },
       {
@@ -11636,6 +11961,19 @@
                 "G1KIM",
                 "MONTETO",
                 "ILLOW"
+              ],
+              "source": "ra",
+              "ra_id": 198699
+            },
+            {
+              "date": "2026-03-14T00:00:00.000",
+              "startTime": "2026-03-14T22:00:00.000",
+              "endTime": "2026-03-15T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2388918",
+              "title": "GREEN DOOR",
+              "location": "Melt",
+              "artists": [
+                "G1KIM"
               ],
               "source": "ra",
               "ra_id": 198699
@@ -12270,7 +12608,61 @@
           "instagram": "https://www.instagram.com/casacoronaseoul",
           "kakaoMaps": "http://place.map.kakao.com/1974912405",
           "ra_id": 177268,
-          "events": []
+          "events": [
+            {
+              "date": "2026-03-12T00:00:00.000",
+              "startTime": "2026-03-12T18:00:00.000",
+              "endTime": "2026-03-13T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2389445",
+              "title": "Vinyl Night",
+              "location": "Casa Corona Seoul",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 177268
+            },
+            {
+              "date": "2026-03-13T00:00:00.000",
+              "startTime": "2026-03-13T18:00:00.000",
+              "endTime": "2026-03-14T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2389439",
+              "title": "Come SPIN with Casa",
+              "location": "Casa Corona Seoul",
+              "artists": [
+                "Better",
+                "Pastello",
+                "Grace Kim",
+                "Ruta (2)"
+              ],
+              "source": "ra",
+              "ra_id": 177268
+            },
+            {
+              "date": "2026-03-14T00:00:00.000",
+              "startTime": "2026-03-14T18:00:00.000",
+              "endTime": "2026-03-15T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2389442",
+              "title": "White Day Special",
+              "location": "Casa Corona Seoul",
+              "artists": [
+                "Ruta (2)",
+                "Radio Garçon",
+                "Better"
+              ],
+              "source": "ra",
+              "ra_id": 177268
+            },
+            {
+              "date": "2026-03-15T00:00:00.000",
+              "startTime": "2026-03-15T18:00:00.000",
+              "endTime": "2026-03-16T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2389446",
+              "title": "Cozy Casa Sunday",
+              "location": "Casa Corona Seoul",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 177268
+            }
+          ]
         }
       },
       {
@@ -16285,7 +16677,80 @@
           "googleMaps": "https://maps.google.com/?cid=603922656267963087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
           "naverMaps": "https://naver.me/5CFHzg9g",
           "ra_id": 266697,
-          "events": []
+          "events": [
+            {
+              "date": "2026-03-13T00:00:00.000",
+              "startTime": "2026-03-13T19:00:00.000",
+              "endTime": "2026-03-14T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2388928",
+              "title": "Nasub invites Jinwook",
+              "location": "Nasub",
+              "artists": [
+                "DJ Jinwook"
+              ],
+              "source": "ra",
+              "ra_id": 266697
+            },
+            {
+              "date": "2026-03-14T00:00:00.000",
+              "startTime": "2026-03-14T19:00:00.000",
+              "endTime": "2026-03-15T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2388930",
+              "title": "Nasub invites Daul",
+              "location": "Nasub",
+              "artists": [
+                "Daul"
+              ],
+              "source": "ra",
+              "ra_id": 266697
+            },
+            {
+              "date": "2026-03-20T00:00:00.000",
+              "startTime": "2026-03-20T19:00:00.000",
+              "endTime": "2026-03-21T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2388934",
+              "title": "Nasub invites Rosie",
+              "location": "Nasub",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 266697
+            },
+            {
+              "date": "2026-03-21T00:00:00.000",
+              "startTime": "2026-03-21T19:00:00.000",
+              "endTime": "2026-03-22T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2388935",
+              "title": "Nasub invites Hanmandogi",
+              "location": "Nasub",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 266697
+            },
+            {
+              "date": "2026-03-27T00:00:00.000",
+              "startTime": "2026-03-27T19:00:00.000",
+              "endTime": "2026-03-28T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2388937",
+              "title": "Nasub invites ESCBR",
+              "location": "Nasub",
+              "artists": [
+                "ESCBR"
+              ],
+              "source": "ra",
+              "ra_id": 266697
+            },
+            {
+              "date": "2026-03-28T00:00:00.000",
+              "startTime": "2026-03-28T19:00:00.000",
+              "endTime": "2026-03-29T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2388938",
+              "title": "Nasub invites Subakjuice",
+              "location": "Nasub",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 266697
+            }
+          ]
         }
       },
       {
