@@ -10214,7 +10214,7 @@
   {
     "name": "Nasub",
     "name_ko": "나수브",
-    "ra_id": 266697,
+    "ra_id": [266697, 287079],
     "address": "247, Gwanganhaebyeon-ro, Suyeong-gu, Busan, Republic of Korea",
     "address_ko": "부산광역시 수영구 광안해변로 247 5층",
     "address_jibun": "부산광역시 수영구 민락동 178-19 5층",
@@ -10386,6 +10386,40 @@
       "연세대학교 100주년기념관 콘서트홀",
       "연세대학교 백주년콘서트홀",
       "연세대학교 백주년기념관 콘서트홀"
+    ]
+  },
+  {
+    "name": "Rack Seoul",
+    "name_ko": "랙서울",
+    "ra_id": 287290,
+    "address": "4, Itaewon-ro 23-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 이태원로23길 4 2층",
+    "address_jibun": "서울특별시 용산구 이태원동 119-15 2층",
+    "lat": 37.5347002,
+    "lng": 126.9928168,
+    "naverMaps": "https://naver.me/5Ota11IR",
+    "kakaoMaps": "https://place.map.kakao.com/2102433197",
+    "alias": [
+      "랙서울",
+      "Rack Seoul"
+    ]
+  },
+  {
+    "name": "Soap Seoul",
+    "name_ko": "소프서울",
+    "ra_id": 285985,
+    "address": "217, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 용산구 이태원로 217",
+    "address_jibun": "서울 용산구 한남동 737-28",
+    "lat": 37.535082142451465,
+    "lng": 126.99799511354811,
+    "instagram": "https://www.instagram.com/soapseoul/",
+    "googleMaps": "https://maps.google.com/?cid=9880765147606845981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/546470794",
+    "naverMaps": "",
+    "alias": [
+      "소프서울",
+      "Soap Seoul"
     ]
   }
 ]
