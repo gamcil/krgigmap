@@ -5542,13 +5542,13 @@
     "address_jibun": "서울 마포구 서교동 372-6",
     "lat": 37.5524309259852,
     "lng": 126.918817238433,
+    "instagram": "https://www.instagram.com/cafeveloso/",
     "kakaoMaps": "http://place.map.kakao.com/2136641458",
     "googleMaps": "https://maps.google.com/?cid=9015226745282833815",
     "ra_id": null,
     "address": "Seoul, Mapo-gu, Jandari-ro, 46 스튜디오 빌딩 지하",
-    "website": "",
-    "naverMaps": "https://map.naver.com/p/entry/place/1648542609",
-    "_dir": "74_서울_벨로주홍대_velosohongdae"
+    "alias": ["벨르", "구 벨로주"],
+    "naverMaps": "https://map.naver.com/p/entry/place/1648542609"
   },
   {
     "name": "Veloso Mangwon",
@@ -10407,7 +10407,10 @@
   {
     "name": "Soap Seoul",
     "name_ko": "소프서울",
-    "ra_id": 285985,
+    "ra_id": [
+      285985,
+      132403
+    ],
     "address": "217, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
     "address_ko": "서울 용산구 이태원로 217",
     "address_jibun": "서울 용산구 한남동 737-28",
@@ -10421,5 +10424,24 @@
       "소프서울",
       "Soap Seoul"
     ]
+  },
+  {
+    "name": "Cafe Curious",
+    "name_ko": "카페 큐리어스",
+    "address": "430, Dosan-daero, Gangnam-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 강남구 도산대로 430 지하1층, 1층",
+    "address_jibun": "서울특별시 강남구 청담동 3-7 지하1층, 1층",
+    "lat": 37.5233824,
+    "lng": 127.0428199,
+    "googleMaps": "https://maps.google.com/?cid=7345229880246590586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/991596390",
+    "naverMaps": "https://naver.me/GlGGUtUc",
+    "alias": [
+      "카페 큐리어스",
+      "카페큐리어스",
+      "카페 큐리어스 (Cafe Curious)",
+      "강남 카페 큐리어스"
+    ],
+    "instagram": "https://www.instagram.com/cafecurious_kr?igsh=MThxb250Z2FoZTBsNg=="
   }
 ]
