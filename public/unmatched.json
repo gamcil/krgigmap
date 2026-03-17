@@ -46,11 +46,11 @@
     "하림&패치워크로드": [
       "https://www.instagram.com/p/DVFV8umD9WR/"
     ],
-    "Ilker Aydin": [
-      "https://www.instagram.com/p/DVdSjNzkxSk/"
-    ],
     "종합음악상가": [
       "https://ticket.melon.com/performance/index.htm?prodId=212870"
+    ],
+    "Ilker Aydin": [
+      "https://www.instagram.com/p/DVdSjNzkxSk/"
     ],
     "Plastic Tones": [
       "https://www.instagram.com/p/DVXp66ckQpq/"
@@ -103,28 +103,10 @@
     ]
   },
   {
-    "showdeeId": 471836,
-    "source": "showdee",
-    "artists": [
-      0,
-      1,
-      2,
-      3,
-      4
-    ],
-    "location": "신촌 현대백화점 유플렉스 지하 6층 주차장",
-    "date": "2026-03-16",
-    "startTime": "2026-03-16T17:30:00.000+09:00",
-    "eventUrl": "https://www.instagram.com/p/DVhfMNuknUx/",
-    "entry": "무료 입장",
-    "imgSrc": null,
-    "unmatchedReason": "unknown"
-  },
-  {
     "showdeeId": 471925,
     "source": "showdee",
     "artists": [
-      187
+      177
     ],
     "location": "홍대 레드로드 R4 축제거리 밴드존",
     "date": "2026-03-28",
@@ -140,10 +122,10 @@
     "endTime": "2026-03-21T22:00:00.000",
     "eventUrl": "https://ra.co/events/2389330",
     "title": "ceiling service vol.9 - day 1 (saturday)",
-    "location": "TBA - Layer 20, 용산구 원효로1가 129-20",
+    "location": "Layer Studio 41",
     "artists": [],
     "source": "ra",
-    "unmatchedReason": "TBA"
+    "ra_id": 249183
   },
   {
     "date": "2026-03-21T00:00:00.000",
@@ -151,12 +133,12 @@
     "endTime": "2026-03-21T22:00:00.000",
     "eventUrl": "https://ra.co/events/2383971",
     "title": "Softcolor",
-    "location": "TBA - Softcolor",
+    "location": "Softcolor",
     "artists": [
       "Jinwoo"
     ],
     "source": "ra",
-    "unmatchedReason": "TBA"
+    "ra_id": 287759
   },
   {
     "date": "2026-03-22T00:00:00.000",
@@ -164,34 +146,10 @@
     "endTime": "2026-03-22T22:00:00.000",
     "eventUrl": "https://ra.co/events/2389328",
     "title": "ceiling service vol.9 - day 2 (sunday)",
-    "location": "TBA - Layer 20, 용산구 원효로1가 129-20",
+    "location": "Layer Studio 41",
     "artists": [],
     "source": "ra",
-    "unmatchedReason": "TBA"
-  },
-  {
-    "date": "2026-03-28T00:00:00.000",
-    "startTime": "2026-03-28T19:00:00.000",
-    "endTime": "2026-03-28T21:30:00.000",
-    "eventUrl": "https://ra.co/events/2381268",
-    "title": "SSR 001 Live Series #1",
-    "location": "Thila Jiha",
-    "artists": [
-      "ABOPF"
-    ],
-    "source": "ra",
-    "unmatchedReason": "no match"
-  },
-  {
-    "date": "2026-03-28T00:00:00.000",
-    "startTime": "2026-03-28T19:00:00.000",
-    "endTime": "2026-03-28T21:00:00.000",
-    "eventUrl": "https://ra.co/events/2390179",
-    "title": "SSR Live Series #1-3 (ALLDAY)",
-    "location": "TBA - THILA Jiha",
-    "artists": [],
-    "source": "ra",
-    "unmatchedReason": "TBA"
+    "ra_id": 249183
   },
   {
     "date": "2026-04-04T00:00:00.000",
@@ -200,28 +158,6 @@
     "eventUrl": "https://ra.co/events/2388334",
     "title": "Teum, Secret location. Apr 4",
     "location": "TBA - Secret location, Busan, Korea",
-    "artists": [],
-    "source": "ra",
-    "unmatchedReason": "TBA"
-  },
-  {
-    "date": "2026-04-11T00:00:00.000",
-    "startTime": "2026-04-11T19:00:00.000",
-    "endTime": "2026-04-11T21:00:00.000",
-    "eventUrl": "https://ra.co/events/2388983",
-    "title": "SSR 001 Live Series #2",
-    "location": "TBA - THILA Jiha",
-    "artists": [],
-    "source": "ra",
-    "unmatchedReason": "TBA"
-  },
-  {
-    "date": "2026-04-25T00:00:00.000",
-    "startTime": "2026-04-25T19:00:00.000",
-    "endTime": "2026-04-25T21:00:00.000",
-    "eventUrl": "https://ra.co/events/2388985",
-    "title": "SSR 001 Live Series #3",
-    "location": "TBA - THILA Jiha",
     "artists": [],
     "source": "ra",
     "unmatchedReason": "TBA"
@@ -320,7 +256,8 @@
       "Bolm",
       "chukimaandal",
       "Cozyhoon",
-      "Diego (3)",
+      "Closet Yi",
+      "DIEGO (KR)",
       "E3",
       "Gumi",
       "Hogun",
@@ -328,13 +265,13 @@
       "DJ Jinwook",
       "Jiyoo",
       "JNS",
+      "Joon Kwak",
       "Juncheol",
       "Kugel",
       "kimmtae",
       "Keemyo",
       "Kimmingi",
       "KYO (2)",
-      "Magico.",
       "Maki",
       "mizae lim",
       "MUI (KR)",
@@ -346,6 +283,7 @@
       "Radio Revolution",
       "Short Finger",
       "SINAE",
+      "Soyo",
       "Sun Gin",
       "TAERI KIM",
       "Taeri",
@@ -370,7 +308,8 @@
       "Bolm",
       "chukimaandal",
       "Cozyhoon",
-      "Diego (3)",
+      "Closet Yi",
+      "DIEGO (KR)",
       "E3",
       "Gumi",
       "Hogun",
@@ -378,13 +317,13 @@
       "DJ Jinwook",
       "Jiyoo",
       "JNS",
+      "Joon Kwak",
       "Juncheol",
       "Kugel",
       "kimmtae",
       "Keemyo",
       "Kimmingi",
       "KYO (2)",
-      "Magico.",
       "Maki",
       "mizae lim",
       "MUI (KR)",
@@ -396,6 +335,7 @@
       "Radio Revolution",
       "Short Finger",
       "SINAE",
+      "Soyo",
       "Sun Gin",
       "TAERI KIM",
       "Taeri",
