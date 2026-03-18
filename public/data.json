@@ -203,7 +203,53 @@
           "googleMaps": "https://maps.google.com/?cid=302532961150360413",
           "naverMaps": "https://map.naver.com/p/entry/place/38643584",
           "ra_id": 127189,
-          "events": []
+          "events": [
+            {
+              "date": "2026-03-19T00:00:00.000",
+              "startTime": "2026-03-19T23:00:00.000",
+              "endTime": "2026-03-20T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2395891",
+              "title": "[PATCH & PLAY]",
+              "location": "BBCB: Beton Brut+Concrete Bar",
+              "artists": [
+                "Kim.Qna",
+                "DJ Bowlcut",
+                "ANSR"
+              ],
+              "source": "ra",
+              "ra_id": 127189
+            },
+            {
+              "date": "2026-03-20T00:00:00.000",
+              "startTime": "2026-03-20T22:00:00.000",
+              "endTime": "2026-03-21T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2395906",
+              "title": "[ESSENCE: RESONANCE]",
+              "location": "BBCB: Beton Brut+Concrete Bar",
+              "artists": [
+                "CHANGYUNFLUG",
+                "R.I.M",
+                "HYUNHXEE"
+              ],
+              "source": "ra",
+              "ra_id": 127189
+            },
+            {
+              "date": "2026-03-21T00:00:00.000",
+              "startTime": "2026-03-21T22:00:00.000",
+              "endTime": "2026-03-22T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2395910",
+              "title": "[TR!BE]",
+              "location": "BBCB: Beton Brut+Concrete Bar",
+              "artists": [
+                "E3",
+                "A6IIR",
+                "VOID (KR)"
+              ],
+              "source": "ra",
+              "ra_id": 127189
+            }
+          ]
         }
       },
       {
@@ -6915,10 +6961,11 @@
               "startTime": "2026-03-21T23:00:00.000",
               "endTime": "2026-03-22T05:00:00.000",
               "eventUrl": "https://ra.co/events/2392211",
-              "title": "Paper Seoul",
+              "title": "CURS_Paper Seoul",
               "location": "Paper",
               "artists": [
-                "Ben Fishermin",
+                "FOI (SK)",
+                "Yu Mi",
                 "MUSHXXX"
               ],
               "source": "ra",
@@ -8206,6 +8253,25 @@
                 "Gsaid",
                 "BootyWagon",
                 "gezibe"
+              ],
+              "source": "ra",
+              "ra_id": 185188
+            },
+            {
+              "date": "2026-03-26T00:00:00.000",
+              "startTime": "2026-03-26T19:00:00.000",
+              "endTime": "2026-03-27T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2396095",
+              "title": "Seoul Community Radio x Keyi Magazine",
+              "location": "Seoul Community Radio",
+              "artists": [
+                "HASLA",
+                "Berlin Bunny",
+                "Eyesdice",
+                "Short Finger",
+                "A6IIR",
+                "YESL",
+                "VOID (KR)"
               ],
               "source": "ra",
               "ra_id": 185188
@@ -11432,6 +11498,21 @@
               ],
               "source": "ra",
               "ra_id": 101673
+            },
+            {
+              "date": "2026-03-28T00:00:00.000",
+              "startTime": "2026-03-28T23:00:00.000",
+              "endTime": "2026-03-29T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2396279",
+              "title": "vurtnight with Artefakt LIVE (Delsin / Netherlands)",
+              "location": "vurt.",
+              "artists": [
+                "Artefakt",
+                "Jama (2)",
+                "SUNA"
+              ],
+              "source": "ra",
+              "ra_id": 101673
             }
           ]
         }
@@ -12542,7 +12623,44 @@
           "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
           "naverMaps": "https://naver.me/xY4sFFgP",
           "ra_id": 267778,
-          "events": []
+          "events": [
+            {
+              "date": "2026-03-20T00:00:00.000",
+              "startTime": "2026-03-20T23:00:00.000",
+              "endTime": "2026-03-22T08:00:00.000",
+              "eventUrl": "https://ra.co/events/2396233",
+              "title": "Waikiki Utopia",
+              "location": "Waikiki Club Utopia",
+              "artists": [
+                "TERRA (KR)",
+                "H93 (KR)",
+                "AVEN (KR)",
+                "STAN MYLOR",
+                "HADO (KR)",
+                "KWONNY"
+              ],
+              "source": "ra",
+              "ra_id": 267778
+            },
+            {
+              "date": "2026-03-21T00:00:00.000",
+              "startTime": "2026-03-20T23:00:00.000",
+              "endTime": "2026-03-22T08:00:00.000",
+              "eventUrl": "https://ra.co/events/2396233",
+              "title": "Waikiki Utopia",
+              "location": "Waikiki Club Utopia",
+              "artists": [
+                "TERRA (KR)",
+                "H93 (KR)",
+                "AVEN (KR)",
+                "STAN MYLOR",
+                "HADO (KR)",
+                "KWONNY"
+              ],
+              "source": "ra",
+              "ra_id": 267778
+            }
+          ]
         }
       },
       {
@@ -17144,7 +17262,10 @@
               "eventUrl": "https://ra.co/events/2389330",
               "title": "ceiling service vol.9 - day 1 (saturday)",
               "location": "Layer Studio 41",
-              "artists": [],
+              "artists": [
+                "sooom",
+                "Kibum"
+              ],
               "source": "ra",
               "ra_id": 249183
             },
@@ -17155,7 +17276,10 @@
               "eventUrl": "https://ra.co/events/2389328",
               "title": "ceiling service vol.9 - day 2 (sunday)",
               "location": "Layer Studio 41",
-              "artists": [],
+              "artists": [
+                "sooom",
+                "Kibum"
+              ],
               "source": "ra",
               "ra_id": 249183
             }
