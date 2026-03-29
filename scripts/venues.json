@@ -831,7 +831,7 @@
     "lng": 126.922309605428,
     "kakaoMaps": "http://place.map.kakao.com/13494735",
     "googleMaps": "https://maps.google.com/?cid=1332577433933318701",
-    "ra_id": null,
+    "ra_id": 280748,
     "name": "Club FF",
     "address": "407-8 Seogyo-dong, Mapo-gu, Seoul",
     "website": "https://clubff.modoo.at/",
@@ -10462,6 +10462,80 @@
       "레이어스튜디오 41",
       "레이어41 스튜디오",
       "layer studio 41"
+    ]
+  },
+  {
+    "name": "Studio Maho",
+    "name_ko": "문예공간마호",
+    "address": "24, Gajaeul-ro 10-gil, Seodaemun-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 서대문구 가재울로10길 24",
+    "address_jibun": "서울 서대문구 남가좌동 64-46",
+    "lat": 37.576372810111586,
+    "lng": 126.92241494510871,
+    "instagram": "https://www.instagram.com/studio__maho/",
+    "alias": []
+  },
+  {
+    "name": "Flac",
+    "name_ko": "플랙",
+    "ra_id": 284350,
+    "address": "5, Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 이태원로27가길 5 2층",
+    "address_jibun": "서울특별시 용산구 이태원동 123-3 2층",
+    "lat": 37.534977,
+    "lng": 126.9949864,
+    "instagram": "https://www.instagram.com/flac.seoul",
+    "googleMaps": "https://maps.google.com/?cid=3456418008846797751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "naverMaps": "https://naver.me/5ow5ItCz",
+    "kakaoMaps": "https://place.map.kakao.com/1977378517",
+    "alias": [
+      "플랙",
+      "Flac Seoul",
+      "Flac"
+    ]
+  },
+  {
+    "name": "Studiya",
+    "name_ko": "스투디야",
+    "ra_id": 288294,
+    "address": "443, Cheongpa-ro, Jung-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 중구 청파로 443 2동",
+    "address_jibun": "서울특별시 중구 중림동 61-4 2동",
+    "lat": 37.5589759,
+    "lng": 126.9686577,
+    "website": "https://www.studiya.org/",
+    "instagram": "https://www.instagram.com/studiya.gallery/",
+    "googleMaps": "https://maps.google.com/?cid=6525831989074677378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "https://place.map.kakao.com/1007161526",
+    "naverMaps": "https://naver.me/G2EBa0kP",
+    "sources": [
+      "naver",
+      "google"
+    ],
+    "alias": [
+      "스투디야",
+      "Studiya 스투디야",
+      "Studiya"
+    ]
+  },
+  {
+    "name": "S-OIL Mapo Head Office",
+    "name_ko": "S-OIL 마포본사",
+    "address": "192, Baekbeom-ro, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 백범로 192 에쓰오일사옥빌딩",
+    "address_jibun": "서울특별시 마포구 공덕동 471 에쓰오일사옥빌딩",
+    "lat": 37.5432922,
+    "lng": 126.9514617,
+    "website": "http://www.s-oil.com/",
+    "googleMaps": "https://maps.google.com/?cid=4747197744247815352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/22480415",
+    "naverMaps": "https://naver.me/GyYneoOm",
+    "alias": [
+      "S-OIL 본사",
+      "에쓰오일 본사",
+      "에쓰-오일 (S-OIL) 본사",
+      "에쓰오일 마포본사",
+      "에쓰오일 마포본사 3층 대강당"
     ]
   }
 ]
