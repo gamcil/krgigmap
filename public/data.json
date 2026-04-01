@@ -5636,6 +5636,22 @@
               "ra_id": 140937
             },
             {
+              "date": "2026-04-11T00:00:00.000",
+              "startTime": "2026-04-11T22:00:00.000",
+              "endTime": "2026-04-12T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2407371",
+              "title": "Cinthie (803 Crystal Grooves, Berlin)",
+              "location": "Modeci",
+              "artists": [
+                "Cinthie",
+                "J.U.N.E",
+                "July.",
+                "range vak"
+              ],
+              "source": "ra",
+              "ra_id": 140937
+            },
+            {
               "date": "2026-04-16T00:00:00.000",
               "startTime": "2026-04-16T22:00:00.000",
               "endTime": "2026-04-17T05:00:00.000",
@@ -7709,33 +7725,6 @@
           "naverMaps": "https://map.naver.com/p/entry/place/1195670464",
           "ra_id": 204286,
           "events": [
-            {
-              "date": "2026-03-31T00:00:00.000",
-              "startTime": "2026-03-30T20:00:00.000",
-              "endTime": "2026-04-01T02:00:00.000",
-              "eventUrl": "https://ra.co/events/2406630",
-              "title": "30 March - 5 April",
-              "location": "Stoked&stoned",
-              "artists": [
-                "Youngseok",
-                "Gyusco",
-                "Sebibadboy",
-                "RTRP",
-                "Soyo",
-                "Kihm",
-                "Kimmingi",
-                "Moeuv",
-                "Taelyn",
-                "TRUEUNSOL",
-                "Monika (KR)",
-                "Closet Yi",
-                "JNS",
-                "Crab",
-                "Cozyhoon"
-              ],
-              "source": "ra",
-              "ra_id": 204286
-            },
             {
               "date": "2026-04-03T00:00:00.000",
               "startTime": "2026-04-03T20:00:00.000",
@@ -11067,7 +11056,9 @@
               "eventUrl": "https://ra.co/events/2376718",
               "title": "dhj presents: DODO…",
               "location": "Cakeshop",
-              "artists": [],
+              "artists": [
+                "benny wise"
+              ],
               "source": "ra",
               "ra_id": 70614
             }
@@ -11150,6 +11141,21 @@
                 "DJ SO",
                 "SUZAN (2)",
                 "SJK (1)"
+              ],
+              "source": "ra",
+              "ra_id": 101673
+            },
+            {
+              "date": "2026-04-25T00:00:00.000",
+              "startTime": "2026-04-25T23:00:00.000",
+              "endTime": "2026-04-26T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2407507",
+              "title": "vurtnight with Yogg (Polarized Future / Brussels)",
+              "location": "vurt.",
+              "artists": [
+                "Yogg",
+                "SUZAN (2)",
+                "Djilogue"
               ],
               "source": "ra",
               "ra_id": 101673
@@ -12504,7 +12510,46 @@
           "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
           "naverMaps": "https://naver.me/xY4sFFgP",
           "ra_id": 267778,
-          "events": []
+          "events": [
+            {
+              "date": "2026-04-03T00:00:00.000",
+              "startTime": "2026-04-03T21:00:00.000",
+              "endTime": "2026-04-04T08:00:00.000",
+              "eventUrl": "https://ra.co/events/2407249",
+              "title": "Waikiki Utopia 'VISION: CASTLE J'",
+              "location": "Waikiki Utopia",
+              "artists": [
+                "TERRA (KR)",
+                "NEO KR",
+                "H93 (KR)",
+                "AVEN (KR)",
+                "STAN MYLOR",
+                "HADO (KR)",
+                "KWONNY",
+                "SELL (KR)"
+              ],
+              "source": "ra"
+            },
+            {
+              "date": "2026-04-04T00:00:00.000",
+              "startTime": "2026-04-04T21:00:00.000",
+              "endTime": "2026-04-05T08:00:00.000",
+              "eventUrl": "https://ra.co/events/2407277",
+              "title": "Waikiki Utopia 'UTOPIA FESTIVAL'",
+              "location": "Waikiki Utopia",
+              "artists": [
+                "TERRA (KR)",
+                "NEO KR",
+                "H93 (KR)",
+                "AVEN (KR)",
+                "STAN MYLOR",
+                "HADO (KR)",
+                "KWONNY",
+                "SELL (KR)"
+              ],
+              "source": "ra"
+            }
+          ]
         }
       },
       {
