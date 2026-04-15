@@ -59,14 +59,7 @@
       "https://www.instagram.com/p/DXBGzCREx7d/"
     ],
     "단편선 이보람": [
-      "https://www.instagram.com/p/DWOPaPVD8Ay/",
       "https://www.instagram.com/p/DWOPaPVD8Ay/"
-    ],
-    "구시아": [
-      "https://www.instagram.com/p/DXB4AjkFOpG/"
-    ],
-    "프리윌": [
-      "https://www.instagram.com/p/DXB4AjkFOpG/"
     ],
     "블레이즈": [
       "https://www.instagram.com/p/DXBpNWLEaXc/"
@@ -161,6 +154,12 @@
     "오피아": [
       "https://www.instagram.com/p/DW8pkcSE-G8/"
     ],
+    "이지구": [
+      "https://www.instagram.com/p/DXDl9PgkVdU/"
+    ],
+    "문영": [
+      "https://www.instagram.com/p/DW6ShmskS1N/"
+    ],
     "가현": [
       "https://www.instagram.com/p/DW3ICYQE03n/"
     ],
@@ -168,7 +167,7 @@
       "https://www.instagram.com/p/DW3ICYQE03n/"
     ],
     "오방가르드 8주년 공연 시리즈": [
-      "https://linktr.ee/OVGD8thSeriese"
+      "https://linktr.ee/OVGD8thSeries"
     ],
     "AMYiie": [
       "https://www.instagram.com/p/DWyUFPEEj5n/"
@@ -233,7 +232,7 @@
     ]
   },
   {
-    "showdeeId": 517311,
+    "showdeeId": 523088,
     "source": "showdee",
     "artists": [
       "summer modernrock festival"
@@ -247,10 +246,10 @@
     "unmatchedReason": "unknown"
   },
   {
-    "showdeeId": 517319,
+    "showdeeId": 523096,
     "source": "showdee",
     "artists": [
-      151
+      147
     ],
     "location": "NOIR MARDI MERCREDI",
     "date": "2026-04-19",
@@ -261,10 +260,10 @@
     "unmatchedReason": "unknown"
   },
   {
-    "showdeeId": 517373,
+    "showdeeId": 523150,
     "source": "showdee",
     "artists": [
-      193
+      192
     ],
     "location": "광주 호랑가시나무 아트폴리곤",
     "date": "2026-04-25",
@@ -275,7 +274,7 @@
     "unmatchedReason": "unknown"
   },
   {
-    "showdeeId": 517415,
+    "showdeeId": 523192,
     "source": "showdee",
     "artists": [
       "CXC Fest Vol.1"
@@ -344,17 +343,6 @@
       "Mogwaa",
       "YESL"
     ],
-    "source": "ra",
-    "unmatchedReason": "TBA"
-  },
-  {
-    "date": "2026-04-25T00:00:00.000",
-    "startTime": "2026-04-25T23:00:00.000",
-    "endTime": "2026-04-26T06:00:00.000",
-    "eventUrl": "https://ra.co/events/2405560",
-    "title": "FRISK",
-    "location": "TBA",
-    "artists": [],
     "source": "ra",
     "unmatchedReason": "TBA"
   },
@@ -578,6 +566,19 @@
     "ra_id": 289106
   },
   {
+    "date": "2026-06-12T00:00:00.000",
+    "startTime": "2026-06-12T19:00:00.000",
+    "endTime": "2026-06-14T23:59:00.000",
+    "eventUrl": "https://ra.co/events/2417817",
+    "title": "DMZ Peace Train MUSIC FESTIVAL 2026",
+    "location": "Goseokjeong, Cheorwon",
+    "artists": [
+      "Nourished by Time"
+    ],
+    "source": "ra",
+    "ra_id": 215994
+  },
+  {
     "date": "2026-06-13T00:00:00.000",
     "startTime": "2026-06-12T14:00:00.000",
     "endTime": "2026-06-14T12:00:00.000",
@@ -599,5 +600,31 @@
     ],
     "source": "ra",
     "ra_id": 289106
+  },
+  {
+    "date": "2026-06-13T00:00:00.000",
+    "startTime": "2026-06-12T19:00:00.000",
+    "endTime": "2026-06-14T23:59:00.000",
+    "eventUrl": "https://ra.co/events/2417817",
+    "title": "DMZ Peace Train MUSIC FESTIVAL 2026",
+    "location": "Goseokjeong, Cheorwon",
+    "artists": [
+      "Nourished by Time"
+    ],
+    "source": "ra",
+    "ra_id": 215994
+  },
+  {
+    "date": "2026-06-14T00:00:00.000",
+    "startTime": "2026-06-12T19:00:00.000",
+    "endTime": "2026-06-14T23:59:00.000",
+    "eventUrl": "https://ra.co/events/2417817",
+    "title": "DMZ Peace Train MUSIC FESTIVAL 2026",
+    "location": "Goseokjeong, Cheorwon",
+    "artists": [
+      "Nourished by Time"
+    ],
+    "source": "ra",
+    "ra_id": 215994
   }
 ]
