@@ -44,6 +44,7 @@ function buildFuseIndex(venues) {
             id: i,
             key: `${i}_${v.name_ko}_${v.name}`,
             name_en: v.name?.toLowerCase().normalize().replace(/ /g, ''),
+            name_en_norm: normalize(v.name),
             name: normalize(v.name_ko),
             address_en: v.address_ko?.toLowerCase().normalize().replace(/ /g, ''),
             address: normalize(v.address_ko),
@@ -55,6 +56,7 @@ function buildFuseIndex(venues) {
         keys: [
             { name: 'name', weight: 0.7 },
             { name: 'name_en', weight: 0.7 },
+            { name: 'name_en_norm', weight: 0.5 },
             { name: 'address', weight: 0.3 },
             { name: 'address_en', weight: 0.2 },
             { name: 'aliases', weight: 0.1 },

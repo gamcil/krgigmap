@@ -6569,7 +6569,21 @@
           "googleMaps": "https://maps.google.com/?cid=26873925375562228",
           "naverMaps": "https://map.naver.com/p/entry/place/1500908439",
           "ra_id": null,
-          "events": []
+          "events": [
+            {
+              "showdeeId": 528874,
+              "source": "showdee",
+              "artists": [
+                41
+              ],
+              "location": "NOIR MARDI MERCREDI",
+              "date": "2026-04-19",
+              "startTime": "2026-04-19T21:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DWwFcxZEi1R/",
+              "entry": "현장 예매",
+              "imgSrc": null
+            }
+          ]
         }
       },
       {
@@ -9567,21 +9581,7 @@
           "kakaoMaps": "http://place.map.kakao.com/1121899378",
           "googleMaps": "https://maps.google.com/?cid=4102408270594349003&g_mp=EAAYBCAA",
           "naverMaps": "https://map.naver.com/p/entry/place/1220394064",
-          "events": [
-            {
-              "showdeeId": 528892,
-              "source": "showdee",
-              "artists": [
-                55
-              ],
-              "location": "문웨이브",
-              "date": "2026-04-24",
-              "startTime": "2026-04-24T19:00:00.000+09:00",
-              "eventUrl": "https://www.instagram.com/p/DWeN9GTkz8J/",
-              "entry": "무료 사전 신청",
-              "imgSrc": null
-            }
-          ]
+          "events": []
         }
       },
       {
@@ -16898,6 +16898,115 @@
               "imgSrc": null
             }
           ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.12328190831543,
+            36.455366923586425
+          ]
+        },
+        "properties": {
+          "name_ko": "문웨이브",
+          "name": "Moonwave",
+          "address_ko": "충남 공주시 봉산길 20",
+          "address": "20, Bongsan-gil, Gongju-si, Chungcheongnam-do, Republic of Korea",
+          "address_jibun": "충남 공주시 중동 147-26",
+          "instagram": "https://www.instagram.com/moonwave_gj/",
+          "kakaoMaps": "",
+          "googleMaps": "",
+          "events": [
+            {
+              "showdeeId": 528892,
+              "source": "showdee",
+              "artists": [
+                55
+              ],
+              "location": "문웨이브",
+              "date": "2026-04-24",
+              "startTime": "2026-04-24T19:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DWeN9GTkz8J/",
+              "entry": "무료 사전 신청",
+              "imgSrc": null
+            },
+            {
+              "showdeeId": 528903,
+              "source": "showdee",
+              "artists": [
+                55,
+                "organicfuzz"
+              ],
+              "location": "공주 문웨이브",
+              "date": "2026-04-24",
+              "startTime": "2026-04-24T19:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DXOtOmJGJVR/",
+              "entry": "예매 정보 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9118861,
+            35.1380105
+          ]
+        },
+        "properties": {
+          "name_ko": "호랑가시나무 아트폴리곤",
+          "name": "Horanggasinamu Art Polygon",
+          "address_ko": "광주광역시 남구 제중로47번길 22",
+          "address": "22, Jejung-ro 47beon-gil, Nam-gu, Gwangju, Republic of Korea",
+          "address_jibun": "광주광역시 남구 양림동 226-25",
+          "website": "https://www.horang.art/",
+          "instagram": "https://www.instagram.com/horanggasy_official/",
+          "kakaoMaps": "http://place.map.kakao.com/1965116085",
+          "googleMaps": "https://maps.google.com/?cid=370799133798978210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/xKEbHgKu",
+          "events": [
+            {
+              "showdeeId": 528930,
+              "source": "showdee",
+              "artists": [
+                90
+              ],
+              "location": "광주 호랑가시나무 아트폴리곤",
+              "date": "2026-04-25",
+              "startTime": "2026-04-25T18:00:00.000+09:00",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=213067",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.0365969,
+            37.526399
+          ]
+        },
+        "properties": {
+          "name_ko": "프레임 서울",
+          "name": "Frame Seoul",
+          "address_ko": "서울특별시 강남구 언주로170길 36 지하1층",
+          "address": "36, Eonju-ro 170-gil, Gangnam-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 강남구 신사동 642-14 지하1층",
+          "instagram": "https://www.instagram.com/frame__seoul/",
+          "kakaoMaps": "http://place.map.kakao.com/1956507665",
+          "googleMaps": "https://maps.google.com/?cid=4491918483689865427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https: //naver.me/x9BNbNdx",
+          "ra_id": 288471,
+          "events": []
         }
       }
     ]
