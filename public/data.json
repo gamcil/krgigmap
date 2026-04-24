@@ -11372,6 +11372,7 @@
           "kakaoMaps": "http://place.map.kakao.com/1675809011",
           "googleMaps": "https://maps.google.com/?cid=15858508191420063446&g_mp=EAAYBCAA",
           "naverMaps": "https://map.naver.com/p/entry/place/1154329487",
+          "ra_id": 290683,
           "events": [
             {
               "showdeeId": 529040,
@@ -11388,6 +11389,19 @@
               "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=213139",
               "entry": "예매 링크",
               "imgSrc": null
+            },
+            {
+              "date": "2026-05-10T00:00:00.000",
+              "startTime": "2026-05-10T17:00:00.000",
+              "endTime": "2026-05-10T19:00:00.000",
+              "eventUrl": "https://ra.co/events/2425209",
+              "title": "REPERCUSSION",
+              "location": "Wumuji",
+              "artists": [
+                "Vahakn"
+              ],
+              "source": "ra",
+              "ra_id": 290683
             }
           ]
         }
@@ -17367,6 +17381,104 @@
               "artists": [],
               "source": "ra",
               "ra_id": 289078
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9936391,
+            37.5348612
+          ]
+        },
+        "properties": {
+          "name_ko": "와이키키 유토피아",
+          "name": "Waikiki Utopia",
+          "address_ko": "서울특별시 용산구 이태원로 179 B2",
+          "address": "179, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 용산구 이태원동 108-9 B2",
+          "instagram": "https://www.instagram.com/waikiki_utopia/",
+          "kakaoMaps": "http://place.map.kakao.com/1459525287",
+          "googleMaps": "https://maps.google.com/?cid=1465449001245087850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/xY4sFFgP",
+          "ra_id": 288423,
+          "events": [
+            {
+              "date": "2026-04-24T00:00:00.000",
+              "startTime": "2026-04-24T21:00:00.000",
+              "endTime": "2026-04-25T07:00:00.000",
+              "eventUrl": "https://ra.co/events/2425644",
+              "title": "𝐖𝐀𝐈𝐊𝐈𝐊𝐈 𝐔𝐓𝐎𝐏𝐈𝐀 '𝐉𝐔𝐍𝐆 𝐒𝐀𝐍𝐆𝐒𝐎𝐎'",
+              "location": "Waikiki Utopia",
+              "artists": [
+                "TERRA (KR)",
+                "NEO KR",
+                "H93 (KR)",
+                "AVEN (KR)",
+                "STAN MYLOR",
+                "HADO (KR)",
+                "KWONNY",
+                "SELL (KR)"
+              ],
+              "source": "ra",
+              "ra_id": 288423
+            },
+            {
+              "date": "2026-04-25T00:00:00.000",
+              "startTime": "2026-04-25T21:00:00.000",
+              "endTime": "2026-04-26T07:00:00.000",
+              "eventUrl": "https://ra.co/events/2425649",
+              "title": "𝐖𝐀𝐈𝐊𝐈𝐊𝐈 𝐔𝐓𝐎𝐏𝐈𝐀 '𝐔𝐓𝐎𝐏𝐈𝐀: 𝐆𝐋𝐎𝐁𝐀𝐋 𝐒𝐎𝐔𝐍𝐃'",
+              "location": "Waikiki Utopia",
+              "artists": [
+                "TERRA (KR)",
+                "NEO KR",
+                "H93 (KR)",
+                "AVEN (KR)",
+                "STAN MYLOR",
+                "HADO (KR)",
+                "KWONNY",
+                "SELL (KR)"
+              ],
+              "source": "ra",
+              "ra_id": 288423
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.963731830226,
+            37.5263918380012
+          ]
+        },
+        "properties": {
+          "name_ko": "아펙스",
+          "name": "Aapex",
+          "address_ko": "서울 용산구 한강대로21길 17-13",
+          "address": "17-13, Hangang-daero 21-gil, Yongsan-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울 용산구 한강로3가 40-670",
+          "instagram": "https://www.instagram.com/aapex_bar/",
+          "kakaoMaps": "http://place.map.kakao.com/653827911",
+          "naverMaps": "https://naver.me/FoXWhSpC",
+          "ra_id": 289942,
+          "events": [
+            {
+              "date": "2026-05-02T00:00:00.000",
+              "startTime": "2026-05-02T16:30:00.000",
+              "endTime": "2026-05-02T19:00:00.000",
+              "eventUrl": "https://ra.co/events/2418133",
+              "title": "live: Neuter, Han Gil Jang, Haku Sungho",
+              "location": "Aapex",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 289942
             }
           ]
         }
