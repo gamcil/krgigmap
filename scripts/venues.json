@@ -7542,7 +7542,8 @@
       "심심",
       "심심바",
       "XIMXIM",
-      "xim xim"
+      "xim xim",
+      "에스팩토리 B동 3층 XIMXIM 루프탑"
     ]
   },
   {
@@ -10662,5 +10663,23 @@
     "alias": [
       "아펙스"
     ]
+  },
+  {
+    "name": "Uijeongbu Arts Center",
+    "name_ko": "의정부예술의전당",
+    "alias": [
+      "의정부예술의전당 대극장",
+      "의정부예술의전당 소극장",
+      "의정부예술의전당 전시장"
+    ],
+    "address": "1, Uijeong-ro, Uijeongbu-si, Gyeonggi-do, Republic of Korea",
+    "address_ko": "경기 의정부시 의정로 1",
+    "address_jibun": "경기 의정부시 의정부동 323",
+    "lat": 37.7335300891832,
+    "lng": 127.034178367299,
+    "website": "http://www.uac.or.kr/",
+    "googleMaps": "https://maps.google.com/?cid=15144421928516214022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/8042609",
+    "naverMaps": "https://naver.me/5GpA1yxP"
   }
 ]
