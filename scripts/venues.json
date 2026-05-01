@@ -2140,6 +2140,7 @@
   {
     "name": "Goseokjeong",
     "name_ko": "고석정",
+    "ra_id": 215994,
     "address": "1825, Taebong-ro, Dongsong-eup, Cheorwon-gun, Gangwon-do, Republic of Korea",
     "address_ko": "강원특별자치도 철원군 동송읍 태봉로 1825",
     "address_jibun": "강원특별자치도 철원군 동송읍 장흥리 20-1",
@@ -2149,11 +2150,6 @@
     "googleMaps": "https://maps.google.com/?cid=7004209858765446520&g_mp=EAAYBCAA",
     "naverMaps": "https://map.naver.com/p/entry/place/19493923",
     "kakaoMaps": "http://place.map.kakao.com/8176583",
-    "sources": [
-      "naver",
-      "kakao",
-      "google"
-    ],
     "alias": [
       "고석정",
       "철원 고석정"
@@ -10681,5 +10677,39 @@
     "googleMaps": "https://maps.google.com/?cid=15144421928516214022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "kakaoMaps": "http://place.map.kakao.com/8042609",
     "naverMaps": "https://naver.me/5GpA1yxP"
+  },
+  {
+    "name": "phenomof pouring out",
+    "name_ko": "페노모브 푸어링아웃",
+    "address": "7-7, Yeonhui-ro 11na-gil, Seodaemun-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 서대문구 연희로11나길 7-7 1층",
+    "address_jibun": "서울특별시 서대문구 연희동 128-27 1층",
+    "lat": 37.567293,
+    "lng": 126.9281513,
+    "instagram": "https://www.instagram.com/phenomofpouringout/",
+    "googleMaps": "https://maps.google.com/?cid=9326327388699622431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1980694762",
+    "naverMaps": "https://naver.me/58NdSqar",
+    "alias": [
+      "페노모브 푸어링아웃",
+      "푸어링아웃 본점",
+      "페노모브 푸어링아웃(phenomof pouring out)"
+    ]
+  },
+  {
+    "name": "Saldun",
+    "name_ko": "살둔",
+    "ra_id": 289106,
+    "address": "30-15, Saldun-gil, Nae-myeon, Hongcheon-gun, Gangwon-do, Republic of Korea",
+    "address_ko": "강원특별자치도 홍천군 내면 살둔길 30-15",
+    "address_jibun": "강원특별자치도 홍천군 내면 율전리 212",
+    "lat": 37.831459,
+    "lng": 128.3690728,
+    "website": "http://www.saldun.co.kr/",
+    "googleMaps": "https://maps.google.com/?cid=3295987670162821153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1858449064",
+    "alias": [
+      "살둔산장"
+    ]
   }
 ]
