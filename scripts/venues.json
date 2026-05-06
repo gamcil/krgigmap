@@ -10609,7 +10609,7 @@
   {
     "name": "Dawn Lounge",
     "name_ko": "던라운지",
-    "ra_id": 289078,
+    "ra_id": [289078, 290095],
     "address": "40, Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Republic of Korea",
     "address_ko": "서울특별시 용산구 이태원로27가길 40 1층, 2층",
     "address_jibun": "서울특별시 용산구 이태원동 116-7 1층, 2층",
@@ -10710,6 +10710,71 @@
     "kakaoMaps": "http://place.map.kakao.com/1858449064",
     "alias": [
       "살둔산장"
+    ]
+  },
+  {
+    "name": "Nareunhan Books",
+    "name_ko": "나른한책방",
+    "address": "4-24, Daecheon-ro 18-gil, Buk-gu, Daegu, Republic of Korea",
+    "address_ko": "대구광역시 북구 대천로18길 4-24 1층",
+    "address_jibun": "대구광역시 북구 동천동 932-13 1층",
+    "lat": 35.9368401,
+    "lng": 128.5570276,
+    "instagram": "https://www.instagram.com/nareunhanbooks",
+    "googleMaps": "https://maps.google.com/?cid=8901045651864884089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/929001843",
+    "naverMaps": "https://naver.me/G7VuBkAM",
+    "alias": [
+      "나른한책방",
+      "나른한 책방",
+      "대구 나른한 책방"
+    ]
+  },
+  {
+    "name": "Motel Behind",
+    "name_ko": "모텔비하인드",
+    "address": "16-4, Dongsomun-ro 6-gil, Seongbuk-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 성북구 동소문로6길 16-4 1층",
+    "address_jibun": "서울특별시 성북구 동소문동2가 95 1층",
+    "lat": 37.5883869,
+    "lng": 127.0083327,
+    "instagram": "https://www.instagram.com/motel_behind/",
+    "naverMaps": "https://naver.me/G4WVbb9K",
+    "kakaoMaps": "https://place.map.kakao.com/2083975213",
+    "alias": [
+      "모텔비하인드클럽",
+      "모텔비하인드"
+    ]
+  },
+  {
+    "name": "Yeonhee Art Space",
+    "name_ko": "연희예술극장",
+    "ra_id": 192430,
+    "address": "2-3, Yeonhuimat-ro, Seodaemun-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 서대문구 연희맛로 2-3 B1 연희예술극장",
+    "address_jibun": "서울특별시 서대문구 연희동 193-10 B1 연희예술극장",
+    "lat": 37.5657054,
+    "lng": 126.9285527,
+    "website": "http://yeonheeart.com/",
+    "instagram": "https://www.instagram.com/yeonheeart/",
+    "googleMaps": "https://maps.google.com/?cid=13710517455586513089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1848264639",
+    "naverMaps": "https://naver.me/GBF7z5EX",
+    "alias": [
+      "연희예술극장"
+    ]
+  },
+  {
+    "name": "Blue Tangerine Records",
+    "name_ko": "블루탠저린레코즈",
+    "address": "Basement, 14, Yonsei-ro 7an-gil, Seodaemun-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 서대문구 연세로7안길 14 지하",
+    "address_jibun": "서울 서대문구 창천동 52-123 지하",
+    "lat": 37.55814122358639,
+    "lng": 126.93604343597397,
+    "website": "https://www.instagram.com/bluetangerine.rec/",
+    "alias": [
+      "서울시 서대문구 창천동 52-123 지하"
     ]
   }
 ]
