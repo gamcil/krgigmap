@@ -1,17 +1,5 @@
 [
   {
-    "윤덕": [
-      "https://www.instagram.com/p/DYhS3SROUwZ/"
-    ],
-    "최초록": [
-      "https://www.instagram.com/p/DYhS3SROUwZ/"
-    ],
-    "도재욱": [
-      "https://www.instagram.com/p/DXtkZwVkSyj/"
-    ],
-    "삼산": [
-      "https://www.instagram.com/p/DYdpHcbz8OV/"
-    ],
     "코지캣": [
       "https://www.instagram.com/p/DYZeSvdxv1y/"
     ],
@@ -60,17 +48,20 @@
     "멀또펑크유랑단": [
       "https://www.instagram.com/p/DX1euNwj_lj/"
     ],
-    "RAWMN IN CAGE": [
-      "https://www.instagram.com/p/DYgoNd3o9J8/"
-    ],
     "잡음집": [
       "https://ticket.melon.com/performance/index.htm?prodId=213203"
+    ],
+    "RAWMN IN CAGE": [
+      "https://www.instagram.com/p/DYgoNd3o9J8/"
     ],
     "청록": [
       "https://www.instagram.com/p/DYW9_g6CS8l/"
     ],
     "서벽": [
       "https://www.instagram.com/p/DYQy9XrkXCI/"
+    ],
+    "레이턴시": [
+      "https://ticket.melon.com/performance/index.htm?prodId=213241"
     ],
     "TiSH 정마토": [
       "https://www.instagram.com/p/DX1qWoNj1Zd/"
@@ -143,11 +134,11 @@
     "showdeeId": 565269,
     "source": "showdee",
     "artists": [
-      96,
-      97,
+      88,
+      89,
       "침입자들",
       "wiki",
-      98,
+      90,
       "호소",
       "MALINTENTION"
     ],
@@ -163,7 +154,7 @@
     "showdeeId": 565316,
     "source": "showdee",
     "artists": [
-      202
+      195
     ],
     "location": "최승효 가옥",
     "date": "2026-05-30",
@@ -222,7 +213,9 @@
     "eventUrl": "https://ra.co/events/2440106",
     "title": "82BPM KUTAHOUSE-DAEJEON",
     "location": "82bpm Daejeon",
-    "artists": [],
+    "artists": [
+      "Y1VB0"
+    ],
     "source": "ra",
     "unmatchedReason": "no match"
   },
@@ -361,17 +354,12 @@
   },
   {
     "date": "2026-06-13T00:00:00.000",
-    "startTime": "2026-06-13T23:59:00.000",
-    "endTime": "2026-06-14T08:00:00.000",
-    "eventUrl": "https://ra.co/events/2446494",
-    "title": "DMZ PEACE TRAIN Festival 𝗠𝗜𝗗𝗡𝗜𝗚𝗛𝗧 꽃밭 𝗘𝗫𝗣𝗥𝗘𝗦𝗦 𝗯𝘆 𝗣𝗘𝗥𝗠𝗜𝗧",
-    "location": "TBA - 철원 고석정 꽃밭 일대",
-    "artists": [
-      "Joon Kwak",
-      "DAMIE (KR)",
-      "Kibum",
-      "S.Telecom"
-    ],
+    "startTime": "2026-06-13T21:00:00.000",
+    "endTime": "2026-06-14T06:00:00.000",
+    "eventUrl": "https://ra.co/events/2447773",
+    "title": "SEOUL PRIDE AFTER PARTY 2026",
+    "location": "TBA",
+    "artists": [],
     "source": "ra",
     "unmatchedReason": "TBA"
   },
@@ -392,6 +380,22 @@
       "Yun Line",
       "DOHWA",
       "cuprum"
+    ],
+    "source": "ra",
+    "unmatchedReason": "TBA"
+  },
+  {
+    "date": "2026-06-13T00:00:00.000",
+    "startTime": "2026-06-13T23:59:00.000",
+    "endTime": "2026-06-14T08:00:00.000",
+    "eventUrl": "https://ra.co/events/2446494",
+    "title": "DMZ PEACE TRAIN Festival 𝗠𝗜𝗗𝗡𝗜𝗚𝗛𝗧 꽃밭 𝗘𝗫𝗣𝗥𝗘𝗦𝗦 𝗯𝘆 𝗣𝗘𝗥𝗠𝗜𝗧",
+    "location": "TBA - 철원 고석정 꽃밭 일대",
+    "artists": [
+      "Joon Kwak",
+      "DAMIE (KR)",
+      "Kibum",
+      "S.Telecom"
     ],
     "source": "ra",
     "unmatchedReason": "TBA"
