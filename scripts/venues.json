@@ -10797,6 +10797,7 @@
   {
     "name": "82BPM",
     "name_ko": "82BPM",
+    "ra_id": 293448,
     "address": "47, Daedeok-daero 185beon-gil, Seo-gu, Daejeon, Republic of Korea",
     "address_ko": "대전광역시 서구 대덕대로185번길 47 2층",
     "address_jibun": "대전광역시 서구 둔산동 1101-1 2층",
@@ -10811,5 +10812,58 @@
       "82bpm",
       "82bpm Daejeon"
     ]
+  },
+  {
+    "name": "Choe Seung-hyo's House",
+    "name_ko": "최승효 가옥",
+    "address": "Yangnim-dong, Nam-gu, Gwangju, Republic of Korea",
+    "address_ko": "",
+    "address_jibun": "광주광역시 남구 양림동",
+    "lat": 35.1413587,
+    "lng": 126.9139144,
+    "website": "",
+    "googleMaps": "https://maps.google.com/?cid=16386914206701029533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/2090435593",
+    "naverMaps": "https://naver.me/FMcK0012",
+    "alias": [
+      "최승효 가옥",
+      "최승효가옥",
+      "최승효 가옥"
+    ]
+  },
+  {
+    "name": "Nogada Pub",
+    "name_ko": "문화골목 노가다",
+    "address": "38-1, Yongso-ro 13beon-gil, Nam-gu, Busan, Republic of Korea",
+    "address_ko": "부산광역시 남구 용소로13번길 38-1 문화골목 2층",
+    "address_jibun": "부산광역시 남구 대연동 52-23 문화골목 2층",
+    "lat": 35.1369098,
+    "lng": 129.1027371,
+    "googleMaps": "https://maps.google.com/?cid=2148354483320656974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/18822784",
+    "naverMaps": "https://naver.me/FBeLdnrh",
+    "alias": [
+      "문화골목 노가다",
+      "노가다",
+      "문화골목 노가다"
+    ],
+    "instagram": "https://www.instagram.com/nogada_pub",
+    "facebook": "http://www.facebook.com/MunhwagolmokNogada"
+  },
+  {
+    "name": "Dengue Fever",
+    "name_ko": "뎅기피버",
+    "address": "31, Yongso-ro 13beon-gil, Nam-gu, Busan, Republic of Korea",
+    "address_ko": "부산광역시 남구 용소로13번길 31 2층",
+    "address_jibun": "부산광역시 남구 대연동 53-12 2층",
+    "lat": 35.1370244,
+    "lng": 129.1022884,
+    "googleMaps": "https://maps.google.com/?cid=9604694543071588642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/758953827",
+    "naverMaps": "https://naver.me/GtURNjNO",
+    "alias": [
+      "댕기피버"
+    ],
+    "instagram": "https://www.instagram.com/denguefever15"
   }
 ]
