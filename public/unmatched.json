@@ -1,8 +1,5 @@
 [
   {
-    "지노이준": [
-      "https://www.instagram.com/p/DY_qM5ZR2mO/"
-    ],
     "맥림": [
       "https://www.instagram.com/p/DY_qM5ZR2mO/"
     ],
@@ -24,10 +21,17 @@
     "레코다메": [
       "https://www.instagram.com/p/DY_qM5ZR2mO/"
     ],
+    "브레이크오브데이": [
+      "https://www.instagram.com/p/DY_quczkXN8/"
+    ],
+    "이다현": [
+      "https://www.instagram.com/p/DZBxe56zzjw/"
+    ],
     "트리키네코": [
       "https://www.instagram.com/p/DY_qM5ZR2mO/"
     ],
     "영희 페스티벌": [
+      "https://tickets.interpark.com/goods/26007200",
       "https://tickets.interpark.com/goods/26007200",
       "https://tickets.interpark.com/goods/26007200",
       "https://tickets.interpark.com/goods/26007200"
@@ -70,6 +74,9 @@
     ],
     "RunCamelRun": [
       "https://www.instagram.com/p/DYuOwo4n3dG/"
+    ],
+    "이한결": [
+      "https://ticket.melon.com/performance/index.htm?prodId=213253"
     ],
     "RAMPAGE FEST": [
       "https://smartstore.naver.com/truecolorcollective/products/13581863276"
@@ -148,6 +155,20 @@
     "unmatchedReason": "unknown"
   },
   {
+    "showdeeId": 577864,
+    "source": "showdee",
+    "artists": [
+      "영희 페스티벌"
+    ],
+    "location": "아트홀맥, 플레이맥, 갤러리맥, 스튜디오3, 야외광장",
+    "date": "2026-06-13",
+    "startTime": "2026-06-13T18:30:00.000+09:00",
+    "eventUrl": "https://tickets.interpark.com/goods/26007200",
+    "entry": "예매 링크",
+    "imgSrc": null,
+    "unmatchedReason": "unknown"
+  },
+  {
     "showdeeId": 577882,
     "source": "showdee",
     "artists": [
@@ -179,14 +200,14 @@
     "showdeeId": 577940,
     "source": "showdee",
     "artists": [
-      51,
-      321,
-      106,
-      100,
-      40,
-      322,
-      323,
-      324
+      38,
+      324,
+      95,
+      89,
+      27,
+      325,
+      326,
+      327
     ],
     "location": "인피니티클럽 & 클럽 딥퍼플",
     "date": "2026-06-27",
@@ -277,6 +298,21 @@
     "unmatchedReason": "TBA"
   },
   {
+    "date": "2026-06-05T00:00:00.000",
+    "startTime": "2026-06-05T20:00:00.000",
+    "endTime": "2026-06-06T03:00:00.000",
+    "eventUrl": "https://ra.co/events/2459563",
+    "title": "MUA HAUS - Hidden View Loft Bar",
+    "location": "MUA Haus Seoul",
+    "artists": [
+      "Eric Seo",
+      "psyche (2)",
+      "GreenNavy"
+    ],
+    "source": "ra",
+    "unmatchedReason": "no match"
+  },
+  {
     "date": "2026-06-06T00:00:00.000",
     "startTime": "2026-06-05T17:00:00.000",
     "endTime": "2026-06-07T09:00:00.000",
@@ -327,6 +363,19 @@
     ],
     "source": "ra",
     "unmatchedReason": "TBA"
+  },
+  {
+    "date": "2026-06-06T00:00:00.000",
+    "startTime": "2026-06-06T20:00:00.000",
+    "endTime": "2026-06-07T03:00:00.000",
+    "eventUrl": "https://ra.co/events/2459566",
+    "title": "MUA HAUS - Hidden View Loft Bar",
+    "location": "MUA Haus Seoul",
+    "artists": [
+      "Adroit Joe"
+    ],
+    "source": "ra",
+    "unmatchedReason": "no match"
   },
   {
     "date": "2026-06-13T00:00:00.000",
@@ -387,6 +436,22 @@
     "unmatchedReason": "TBA"
   },
   {
+    "date": "2026-06-13T00:00:00.000",
+    "startTime": "2026-06-13T22:00:00.000",
+    "endTime": "2026-06-14T04:00:00.000",
+    "eventUrl": "https://ra.co/events/2459925",
+    "title": "Cakeshop Korea Tour Series: Cakeshop in Gwangju with Deepocean",
+    "location": "TBA - Deepocean Lab",
+    "artists": [
+      "rue (3)",
+      "AEIDA",
+      "LFT (KR)",
+      "MORO (SK)"
+    ],
+    "source": "ra",
+    "unmatchedReason": "TBA"
+  },
+  {
     "date": "2026-06-27T00:00:00.000",
     "startTime": "2026-06-27T19:00:00.000",
     "endTime": "2026-06-27T21:00:00.000",
@@ -405,6 +470,8 @@
     "title": "Paju Warehouse Rave",
     "location": "TBA - Paju Warehouse",
     "artists": [
+      "DDD (2)",
+      "Excultist",
       "TBA"
     ],
     "source": "ra",
