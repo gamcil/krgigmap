@@ -2656,7 +2656,38 @@
           "googleMaps": "https://maps.google.com/?cid=198432001237254142",
           "naverMaps": "https://map.naver.com/p/entry/place/1165095738",
           "ra_id": 202330,
-          "events": []
+          "events": [
+            {
+              "date": "2026-06-20T00:00:00.000",
+              "startTime": "2026-06-20T17:00:00.000",
+              "endTime": "2026-06-22T00:00:00.000",
+              "eventUrl": "https://ra.co/events/2467829",
+              "title": "Carve Out Records 'Afternoon Drift'",
+              "location": "Department.en",
+              "artists": [
+                "Sinqmin",
+                "Lonho",
+                "U YO"
+              ],
+              "source": "ra",
+              "ra_id": 202330
+            },
+            {
+              "date": "2026-06-21T00:00:00.000",
+              "startTime": "2026-06-20T17:00:00.000",
+              "endTime": "2026-06-22T00:00:00.000",
+              "eventUrl": "https://ra.co/events/2467829",
+              "title": "Carve Out Records 'Afternoon Drift'",
+              "location": "Department.en",
+              "artists": [
+                "Sinqmin",
+                "Lonho",
+                "U YO"
+              ],
+              "source": "ra",
+              "ra_id": 202330
+            }
+          ]
         }
       },
       {
@@ -16293,6 +16324,192 @@
           "googleMaps": "https://maps.google.com/?cid=9604694543071588642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
           "naverMaps": "https://naver.me/GtURNjNO",
           "events": []
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.841714755609,
+            37.4734599946513
+          ]
+        },
+        "properties": {
+          "name_ko": "광명YMCA 옥길동 교육회관",
+          "name": "Gwangmyeong YMCA Okgil-dong Education Center",
+          "address_ko": "경기 광명시 금오로 826-19",
+          "address": "826-19, Geumo-ro, Gwangmyeong-si, Gyeonggi-do, Republic of Korea",
+          "address_jibun": "경기 광명시 옥길동 73-2",
+          "kakaoMaps": "http://place.map.kakao.com/1561187689",
+          "naverMaps": "https://naver.me/GV2qyeCp",
+          "events": [
+            {
+              "showdeeId": 584226,
+              "source": "showdee",
+              "artists": [
+                0,
+                1,
+                "신나는섬",
+                "쿨레칸",
+                "녹녹"
+              ],
+              "location": "광명YMCA 옥길동 교육회관",
+              "date": "2026-06-14",
+              "startTime": "2026-06-14T14:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DYTJB9bz-0D/",
+              "entry": "무료 입장",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9351514,
+            37.5456488
+          ]
+        },
+        "properties": {
+          "name_ko": "에토라",
+          "name": "Ettorah",
+          "address_ko": "서울특별시 마포구 토정로15길 14 1층 에토라",
+          "address": "14, Tojeong-ro 15-gil, Mapo-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 마포구 신수동 290-1 1층 에토라",
+          "instagram": "https://www.instagram.com/ettorah",
+          "kakaoMaps": "http://place.map.kakao.com/1676081869",
+          "googleMaps": "https://maps.google.com/?cid=8457123966277013333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/GvcTKxch",
+          "events": [
+            {
+              "showdeeId": 584244,
+              "source": "showdee",
+              "artists": [
+                74,
+                75
+              ],
+              "location": "카페 에토라",
+              "date": "2026-06-19",
+              "startTime": "2026-06-19T20:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DZW_yH8ETGi/",
+              "entry": "예매 정보 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.0866477,
+            37.53784
+          ]
+        },
+        "properties": {
+          "name_ko": "디도 재즈 라운지 구의점",
+          "name": "Dido Jazz Lounge",
+          "address_ko": "서울특별시 광진구 자양로18길 56 지층 디도재즈라운지 구의점",
+          "address": "56, Jayang-ro 18-gil, Gwangjin-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 광진구 구의동 243-6 지층 디도재즈라운지 구의점",
+          "instagram": "https://www.instagram.com/dido_jazz_lounge",
+          "kakaoMaps": "http://place.map.kakao.com/949364137",
+          "googleMaps": "https://maps.google.com/?cid=5936925627923403423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/FZ27qZEj",
+          "events": [
+            {
+              "showdeeId": 584271,
+              "source": "showdee",
+              "artists": [
+                134
+              ],
+              "location": "구의 디도재즈라운지",
+              "date": "2026-06-21",
+              "startTime": "2026-06-21T18:00:00.000+09:00",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=213380",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.943028,
+            37.5589419
+          ]
+        },
+        "properties": {
+          "name_ko": "거거덩 라운지",
+          "name": "GGD Lounge",
+          "address_ko": "서울특별시 서대문구 신촌역로 22-5 신촌 청년푸드스토어",
+          "address": "22-5, Sinchonnyeok-ro, Seodaemun-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 서대문구 대현동 60-11 신촌 청년푸드스토어",
+          "instagram": "https://www.instagram.com/ggdcoop/",
+          "kakaoMaps": "http://place.map.kakao.com/1881173213",
+          "googleMaps": "https://maps.google.com/?cid=3384903680840656755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/5hulYie0",
+          "events": [
+            {
+              "showdeeId": 584309,
+              "source": "showdee",
+              "artists": [
+                179,
+                180,
+                152
+              ],
+              "location": "거거덩 라운지",
+              "date": "2026-06-27",
+              "startTime": "2026-06-27T18:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DZMZwcpEh17/",
+              "entry": "예매 정보 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9153049,
+            37.5620782
+          ]
+        },
+        "properties": {
+          "name_ko": "서보아트스페이스 보이드홀",
+          "name": "Seobo Art Space Void Hall",
+          "address_ko": "서울특별시 마포구 월드컵북로12안길 3",
+          "address": "3, World Cup buk-ro 12an-gil, Mapo-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 마포구 성산동 114-7",
+          "website": "https://seoboartspace.com/",
+          "instagram": "https://www.instagram.com/seoboartspace/",
+          "kakaoMaps": "http://place.map.kakao.com/2053545883",
+          "naverMaps": "https://naver.me/x5GoQDZy",
+          "events": [
+            {
+              "showdeeId": 584327,
+              "source": "showdee",
+              "artists": [
+                209,
+                "이븐이프"
+              ],
+              "location": "서보아트스페이스 보이드홀",
+              "date": "2026-07-03",
+              "startTime": "2026-07-03T20:00:00.000+09:00",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=213361",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
         }
       }
     ]
