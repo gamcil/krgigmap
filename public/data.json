@@ -106,6 +106,19 @@
               "eventUrl": "https://www.instagram.com/p/DZhnKD2qlRo/",
               "entry": "예매 정보 링크",
               "imgSrc": null
+            },
+            {
+              "date": "2026-06-27T00:00:00.000",
+              "startTime": "2026-06-27T20:00:00.000",
+              "endTime": "2026-06-27T23:59:00.000",
+              "eventUrl": "https://ra.co/events/2473382",
+              "title": "PHASE(x)",
+              "location": "acs,kr",
+              "artists": [
+                "Joyul"
+              ],
+              "source": "ra",
+              "ra_id": 218004
             }
           ]
         }
@@ -225,7 +238,59 @@
           "googleMaps": "https://maps.google.com/?cid=16164063049611793081",
           "naverMaps": "https://map.naver.com/p/entry/place/1123909060",
           "ra_id": 198937,
-          "events": []
+          "events": [
+            {
+              "date": "2026-06-25T00:00:00.000",
+              "startTime": "2026-06-25T22:00:00.000",
+              "endTime": "2026-06-26T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2473125",
+              "title": "Bolero: 'DUGGY' RELEASE PARTY",
+              "location": "Bolero",
+              "artists": [
+                "Padi",
+                "SKiiDA",
+                "Daul",
+                "SUJINPAAK",
+                "Multivsn"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-06-26T00:00:00.000",
+              "startTime": "2026-06-26T22:00:00.000",
+              "endTime": "2026-06-27T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2473129",
+              "title": "Bolero: WETHROWABASH",
+              "location": "Bolero",
+              "artists": [
+                "SAMO (JP)",
+                "SOUND BRAIN",
+                "SUJINPAAK",
+                "SKiiDA",
+                "DOBERMAN",
+                "Multivsn"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-06-27T00:00:00.000",
+              "startTime": "2026-06-27T22:00:00.000",
+              "endTime": "2026-06-28T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2473140",
+              "title": "Bolero: PLUG&PLAY 2 anniversary",
+              "location": "Bolero",
+              "artists": [
+                "ANDOW",
+                "BABYKOOOL",
+                "KINGMCK",
+                "SKiiDA"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            }
+          ]
         }
       },
       {
@@ -5962,7 +6027,57 @@
           "googleMaps": "https://maps.google.com/?cid=13878866064208335562",
           "naverMaps": "https://map.naver.com/p/entry/place/1166457804",
           "ra_id": 203289,
-          "events": []
+          "events": [
+            {
+              "date": "2026-06-25T00:00:00.000",
+              "startTime": "2026-06-25T22:00:00.000",
+              "endTime": "2026-06-26T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2473100",
+              "title": "Lyumin & Oho",
+              "location": "Nyapi",
+              "artists": [
+                "Lyumin",
+                "Oho."
+              ],
+              "source": "ra",
+              "ra_id": 203289
+            },
+            {
+              "date": "2026-06-26T00:00:00.000",
+              "startTime": "2026-06-26T23:00:00.000",
+              "endTime": "2026-06-27T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2473101",
+              "title": "Taxi Driver with Robin (Faze Action) and Yes Chef (JPN)",
+              "location": "Nyapi",
+              "artists": [
+                "Robin Lee",
+                "Cozyhoon",
+                "Youknowsong"
+              ],
+              "source": "ra",
+              "ra_id": 203289
+            },
+            {
+              "date": "2026-06-27T00:00:00.000",
+              "startTime": "2026-06-27T23:00:00.000",
+              "endTime": "2026-06-28T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2473107",
+              "title": "Dance de I",
+              "location": "Nyapi",
+              "artists": [
+                "foi oi oi",
+                "givogi",
+                "Aya.",
+                "denny",
+                "Oldshoes",
+                "Hansy",
+                "Juncheol",
+                "Xing Xing"
+              ],
+              "source": "ra",
+              "ra_id": 203289
+            }
+          ]
         }
       },
       {
@@ -9634,6 +9749,36 @@
           "ra_id": 220595,
           "events": [
             {
+              "date": "2026-06-26T00:00:00.000",
+              "startTime": "2026-06-26T23:00:00.000",
+              "endTime": "2026-06-27T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2473843",
+              "title": "Friday, June 26, 2026",
+              "location": "teller",
+              "artists": [
+                "Lyumin",
+                "Oho.",
+                "Dakim"
+              ],
+              "source": "ra",
+              "ra_id": 220595
+            },
+            {
+              "date": "2026-06-27T00:00:00.000",
+              "startTime": "2026-06-27T23:00:00.000",
+              "endTime": "2026-06-28T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2473841",
+              "title": "ideal vol.11",
+              "location": "teller",
+              "artists": [
+                "Oviduct",
+                "Jongho",
+                "MASSA (JP)"
+              ],
+              "source": "ra",
+              "ra_id": 220595
+            },
+            {
               "date": "2026-07-04T00:00:00.000",
               "startTime": "2026-07-04T23:00:00.000",
               "endTime": "2026-07-05T06:00:00.000",
@@ -9862,7 +10007,22 @@
           "googleMaps": "https://maps.google.com/?cid=5966426608085257045",
           "naverMaps": "https://map.naver.com/p/entry/place/1696755618",
           "ra_id": 245277,
-          "events": []
+          "events": [
+            {
+              "date": "2026-07-04T00:00:00.000",
+              "startTime": "2026-07-04T19:30:00.000",
+              "endTime": "2026-07-04T22:00:00.000",
+              "eventUrl": "https://ra.co/events/2473143",
+              "title": "Modular Seoul 008",
+              "location": "Thila Ground",
+              "artists": [
+                "Djilogue",
+                "tamiX"
+              ],
+              "source": "ra",
+              "ra_id": 245277
+            }
+          ]
         }
       },
       {
@@ -10928,6 +11088,22 @@
           "naverMaps": "https://naver.me/FZ2ip7EF",
           "ra_id": 242471,
           "events": [
+            {
+              "date": "2026-06-26T00:00:00.000",
+              "startTime": "2026-06-26T23:00:00.000",
+              "endTime": "2026-06-27T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2473109",
+              "title": "Luka PRESENTS: SECOND MOVEMEN",
+              "location": "Luka",
+              "artists": [
+                "Peace Keeper",
+                "Seele",
+                "Rivako",
+                "HARDNENDZ"
+              ],
+              "source": "ra",
+              "ra_id": 242471
+            },
             {
               "date": "2026-06-27T00:00:00.000",
               "startTime": "2026-06-27T23:00:00.000",
@@ -15180,6 +15356,28 @@
               ],
               "source": "ra",
               "ra_id": 285391
+            },
+            {
+              "date": "2026-06-27T00:00:00.000",
+              "startTime": "2026-06-27T23:00:00.000",
+              "endTime": "2026-06-28T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2473179",
+              "title": "DOMESTIC CALLING: INITIAL MUSIC",
+              "location": "Lion Super Club",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 285391
+            },
+            {
+              "date": "2026-06-27T00:00:00.000",
+              "startTime": "2026-06-27T23:00:00.000",
+              "endTime": "2026-06-28T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2473035",
+              "title": "DOMESTIC CALLING: INITIAL MUSIC",
+              "location": "Lion Super Club",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 285391
             }
           ]
         }
@@ -15543,6 +15741,53 @@
                 "Departs",
                 "Sudowoo",
                 "Jinnychoo"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            },
+            {
+              "date": "2026-06-27T00:00:00.000",
+              "startTime": "2026-06-27T23:00:00.000",
+              "endTime": "2026-06-28T00:00:00.000",
+              "eventUrl": "https://ra.co/events/2473106",
+              "title": "Flac: Classic Avenue (Detroit Sounds)",
+              "location": "Flac",
+              "artists": [
+                "Kuro",
+                "M2XL"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            },
+            {
+              "date": "2026-07-03T00:00:00.000",
+              "startTime": "2026-07-03T23:00:00.000",
+              "endTime": "2026-07-04T00:00:00.000",
+              "eventUrl": "https://ra.co/events/2473105",
+              "title": "Flac: Juanito(Es, Hottrax/Nervous)",
+              "location": "Flac",
+              "artists": [
+                "Juanito",
+                "Davico",
+                "Demuk"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            },
+            {
+              "date": "2026-07-04T00:00:00.000",
+              "startTime": "2026-07-04T23:00:00.000",
+              "endTime": "2026-07-05T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2473104",
+              "title": "FRISK Records: 1year Anniversary",
+              "location": "Flac",
+              "artists": [
+                "Davico",
+                "Demuk",
+                "Departs",
+                "Jaebin",
+                "Silly Silky",
+                "Sudowoo"
               ],
               "source": "ra",
               "ra_id": 284350
@@ -15985,6 +16230,32 @@
               "location": "82bpm",
               "artists": [
                 "YJ(KOR)"
+              ],
+              "source": "ra",
+              "ra_id": 293448
+            },
+            {
+              "date": "2026-06-27T00:00:00.000",
+              "startTime": "2026-06-27T22:00:00.000",
+              "endTime": "2026-06-28T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2472935",
+              "title": "82bpm: JAM JAM BPM #2",
+              "location": "82bpm",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 293448
+            },
+            {
+              "date": "2026-07-25T00:00:00.000",
+              "startTime": "2026-07-25T22:00:00.000",
+              "endTime": "2026-07-26T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2473876",
+              "title": "HARD TECHNO: NEOTECHNO RAVE",
+              "location": "82bpm",
+              "artists": [
+                "EVE (1)",
+                "YJ(KOR)",
+                "DESTINI.21"
               ],
               "source": "ra",
               "ra_id": 293448
