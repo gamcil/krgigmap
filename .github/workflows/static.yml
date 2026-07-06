@@ -29,6 +29,9 @@ concurrency:
 jobs:
   # Single deploy job since we're just deploying
   deploy:
+    env:
+      # Workaround for DEP0040 error in deploy-pages
+      NODE_OPTIONS: --disable-warning=DEP0040
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
