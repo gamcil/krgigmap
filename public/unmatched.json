@@ -1,14 +1,5 @@
 [
   {
-    "안유랑": [
-      "https://www.instagram.com/p/DaXCQ7jxy4z/"
-    ],
-    "김올림": [
-      "https://www.instagram.com/p/DaXCQ7jxy4z/"
-    ],
-    "테노히라엘": [
-      "https://www.instagram.com/p/DaKKZRXx5I4/"
-    ],
     "푸른유랑": [
       "https://www.instagram.com/p/DaXCQ7jxy4z/"
     ],
@@ -172,13 +163,13 @@
     "히티스": [
       "https://ticket.melon.com/performance/index.htm?prodId=213502"
     ],
+    "도깨비": [
+      "https://www.instagram.com/p/DaWqp6ngYbg/"
+    ],
     "BLACK AND WHITE": [
       "https://docs.google.com/forms/d/e/1FAIpQLSd_MegJgejZ81Aycm2kcvKNhfWFmkaBrC-7mZoRJLAJT1nr7g/viewform",
       "https://docs.google.com/forms/d/e/1FAIpQLSd_MegJgejZ81Aycm2kcvKNhfWFmkaBrC-7mZoRJLAJT1nr7g/viewform",
       "https://docs.google.com/forms/d/e/1FAIpQLSd_MegJgejZ81Aycm2kcvKNhfWFmkaBrC-7mZoRJLAJT1nr7g/viewform"
-    ],
-    "도깨비": [
-      "https://www.instagram.com/p/DaWqp6ngYbg/"
     ],
     "트리키네코": [
       "https://ticket.melon.com/performance/index.htm?prodId=213523"
@@ -195,12 +186,12 @@
     "도유카": [
       "https://www.instagram.com/p/DaUYUTIkdSS/"
     ],
-    "그린베이지": [
-      "https://www.instagram.com/p/DaSLlK6pu-9/"
-    ],
     "TED": [
       "https://ticket.melon.com/performance/index.htm?prodId=213435",
       "https://ticket.melon.com/performance/index.htm?prodId=213435"
+    ],
+    "그린베이지": [
+      "https://www.instagram.com/p/DaSLlK6pu-9/"
     ],
     "됸쥬": [
       "https://www.instagram.com/p/DaNSQElGCAK/"
@@ -309,13 +300,29 @@
     "startTime": "2026-07-11T22:00:00.000",
     "endTime": "2026-07-12T06:00:00.000",
     "eventUrl": "https://ra.co/events/2483159",
-    "title": "BBCB NIGHT with Sarah Sommers (DE - LIVE SET)",
+    "title": "BBCB NIGHT I with Sarah Sommers (DE - LIVE SET)",
     "location": "Blank Site",
     "artists": [
       "Sarah Sommers",
       "CHICHI (2)",
       "ANSR",
       "HASLA",
+      "Kim.Qna"
+    ],
+    "source": "ra",
+    "ra_id": 296126
+  },
+  {
+    "date": "2026-07-18T00:00:00.000",
+    "startTime": "2026-07-18T22:00:00.000",
+    "endTime": "2026-07-19T06:00:00.000",
+    "eventUrl": "https://ra.co/events/2485656",
+    "title": "BBCB NIGHT II with François X (XX LAB - FR)",
+    "location": "Blank Site",
+    "artists": [
+      "François X",
+      "VOID (KR)",
+      "R.I.M",
       "Kim.Qna"
     ],
     "source": "ra",
@@ -409,6 +416,17 @@
     "artists": [
       "MRZ (1)"
     ],
+    "source": "ra",
+    "unmatchedReason": "TBA"
+  },
+  {
+    "date": "2026-08-15T00:00:00.000",
+    "startTime": "2026-08-15T22:00:00.000",
+    "endTime": "2026-08-16T05:00:00.000",
+    "eventUrl": "https://ra.co/events/2485414",
+    "title": "Teum, Secret location. Aug 15",
+    "location": "TBA - Secret location, Busan, Korea",
+    "artists": [],
     "source": "ra",
     "unmatchedReason": "TBA"
   },
