@@ -70,8 +70,10 @@ async function matchEventsToArtists(events) {
 
     const uniqueArtists = new Set();
     for (const event of events) {
-        for (const artistName of event.artists) {
-            if (artistName.includes("내한")) continue;
+        for (let artistName of event.artists) {
+            if (artistName.includes("내한")) {
+                artistName = artistName.replace("내한", "");
+            };
             uniqueArtists.add(artistName.trim());
         }
     }
@@ -85,19 +87,25 @@ async function matchEventsToArtists(events) {
         if (!artistToId.has(artistName)) {
             const matchResult = index.search(normalize(artistName))[0] || null;
             if (matchResult) {
-                matchedArtists.push({
+                const a = {
                     name: artists[matchResult.item.id].name_ko,
                     name_en: artists[matchResult.item.id].name_en,
-                    instagram: artists[matchResult.item.id].instagram 
-                });
+                    instagram: artists[matchResult.item.id].instagram
+                }
+                if (artists[matchResult.item.id].hasOwnProperty('country')) {
+                    a.country = artists[matchResult.item.id].country;
+                }
+                matchedArtists.push(a);
                 artistToId.set(artistName, currentId++);
             }
         }
     }
     
     for (const event of events) {
-        for (const artistName of event.artists) {
-            if (artistName.includes("내한")) continue;
+        for (let artistName of event.artists) {
+            if (artistName.includes("내한")) {
+                artistName = artistName.replace("내한", "").trim();
+            };
             if (!artistToId.has(artistName)) {
                 if (unmatchedArtists.hasOwnProperty(artistName)) {
                     unmatchedArtists[artistName].push(event.eventUrl);
@@ -110,7 +118,11 @@ async function matchEventsToArtists(events) {
    
     const matchedEvents = events.map(event => ({ 
         ...event,
-        artists: event.artists.map(name => (artistToId.has(name)) ? artistToId.get(name) : name)
+        artists: event.artists.map(name => {
+            let n = name;
+            if (n.includes("내한")) n = n.replace("내한", "").trim();
+            return (artistToId.has(n)) ? artistToId.get(n) : n
+        })
     }));
 
     return { matchedEvents, matchedArtists, unmatchedArtists };

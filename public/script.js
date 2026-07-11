@@ -112,6 +112,11 @@ async function getData() {
     }
 }
 
+function countryEmojiFlag(countryCode) {
+  	let codePoints = countryCode.toUpperCase().split('').map(char => 127397 + char.charCodeAt());
+	return String.fromCodePoint(...codePoints);
+}
+
 /**
  * Mutates GeoJSON to set active/inactive venues by date
  * @param {Object} geojson GeoJSON data object
@@ -394,6 +399,9 @@ async function loadMap() {
                     if (eventData.artists.length > 0) {
                         const nameFn = (a) => {
                             let name = (a.name === a.name_en) ? a.name : `${a.name} (${a.name_en})`;
+                            if (a.hasOwnProperty('country')) {
+                                name = `${name} ${countryEmojiFlag(a.country)}`;
+                            }
                             let text = `<span class="artist-name">${name}</span>`;
                             return (a.instagram) ? `<a href="${a.instagram}">${text}</a>` : text;
                         }
