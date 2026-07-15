@@ -11060,5 +11060,40 @@
     "kakaoMaps": "http://place.map.kakao.com/1015785434",
     "instagram": "https://www.instagram.com/blanksite_seoul/",
     "naverMaps": "https://map.naver.com/p/entry/place/38643584"
-  } 
+  },
+  {
+    "name": "Owen Memorial Hall",
+    "name_ko": "오웬기념각",
+    "address": "6, Baekseo-ro 70beon-gil, Nam-gu, Jeonnam-Gwangju, Republic of Korea",
+    "address_ko": "전남광주통합특별시 남구 백서로70번길 6",
+    "address_jibun": "전남광주통합특별시 남구 양림동 67-1",
+    "lat": 35.1382921,
+    "lng": 126.9158433,
+    "googleMaps": "https://maps.google.com/?cid=7418799947677320314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/8019971",
+    "naverMaps": "https://naver.me/FCAeTt53",
+    "alias": [
+      "오웬기념각",
+      "광주 오웬기념각"
+    ]
+  },
+  {
+    "name": "Glow & Zalz",
+    "name_ko": "글로우 & 잘츠",
+    "ra_id": 295029,
+    "address": "174, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 이태원로 174 3F ZALZ (잘츠) 4F GLOW (글로우)",
+    "address_jibun": "서울특별시 용산구 이태원동 128-9 3F ZALZ (잘츠) 4F GLOW (글로우)",
+    "lat": 37.5342786,
+    "lng": 126.9932445,
+    "instagram": "https://www.instagram.com/glow_zalz",
+    "googleMaps": "https://maps.google.com/?cid=4703925470415239233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "naverMaps": "https://naver.me/xbKHD5NG",
+    "kakaoMaps": "https://place.map.kakao.com/285995363",
+    "alias": [
+      "글로우 &amp; 잘츠",
+      "글로우 앤 잘츠",
+      "글로우 잘츠"
+    ]
+  }
 ]
