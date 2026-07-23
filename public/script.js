@@ -1,3 +1,5 @@
+import * as maplibregl from 'https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.mjs';
+
 /**
  * Create and add variants of the default Maplibre marker to use in symbol layers
  * taken from https://github.com/bogind/maplibre_addMarkerImage
@@ -127,7 +129,7 @@ function updateActiveVenuesByDate(geojson, selectedDate) {
     for (const feature of geojson.features) {
         const props = feature.properties;
         props.active = false;
-        props.events.forEach(event => {
+        (props.events || []).forEach(event => {
             event.logicalDate = getLogicalEventDate(event);
             if (!props.active && event.logicalDate === dateStr) {
                 props.active = true;
@@ -386,7 +388,7 @@ async function loadMap() {
             }
             if (props.active) {
                 const selectedDate = formatDateToYMD(displayDate);
-                const eventData = JSON.parse(props.events).find(e => getLogicalEventDate(e) === selectedDate)
+                const eventData = (props.events || []).find(e => getLogicalEventDate(e) === selectedDate);
                 if (eventData) {
                     const eventTemplate = document.getElementById('popup-event-template');
                     const eventEl = eventTemplate.content.cloneNode(true);
@@ -396,7 +398,8 @@ async function loadMap() {
                         eventEl.querySelector('.event-title').previousSibling.remove();
                         eventEl.querySelector('.event-title').remove();
                     }
-                    if (eventData.artists.length > 0) {
+                    const eventArtists = Array.isArray(eventData.artists) ? eventData.artists : [];
+                    if (eventArtists.length > 0) {
                         const nameFn = (a) => {
                             let name = (a.name === a.name_en) ? a.name : `${a.name} (${a.name_en})`;
                             if (a.hasOwnProperty('country')) {
@@ -405,7 +408,7 @@ async function loadMap() {
                             let text = `<span class="artist-name">${name}</span>`;
                             return (a.instagram) ? `<a href="${a.instagram}">${text}</a>` : text;
                         }
-                        let artistStr = eventData.artists.map(a => (typeof a === "number") ? nameFn(artists[a]) : a).join(', ');
+                        let artistStr = eventArtists.map(a => (typeof a === "number") ? nameFn(artists[a]) : a).join(', ');
                         eventEl.querySelector('.event-artist').innerHTML = artistStr;
                     } else {
                         eventEl.querySelector('.event-artist').previousSibling.remove();
