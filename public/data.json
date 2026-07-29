@@ -211,6 +211,32 @@
           "ra_id": 198937,
           "events": [
             {
+              "date": "2026-07-30T00:00:00.000",
+              "startTime": "2026-07-30T22:00:00.000",
+              "endTime": "2026-07-31T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2499694",
+              "title": "Bolero: DRUM LANGUAGE PRESENTS: JEDAIAH VS. THE WORLD",
+              "location": "Bolero",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-07-31T00:00:00.000",
+              "startTime": "2026-07-31T22:00:00.000",
+              "endTime": "2026-08-01T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2499688",
+              "title": "Bolero: 'WAV INVITES: PETRUS'",
+              "location": "Bolero",
+              "artists": [
+                "DJ POOL",
+                "AUS10",
+                "SINAHILL"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
               "date": "2026-08-01T00:00:00.000",
               "startTime": "2026-08-01T22:00:00.000",
               "endTime": "2026-08-02T06:00:00.000",
@@ -4858,6 +4884,22 @@
               "ra_id": 140937
             },
             {
+              "date": "2026-08-01T00:00:00.000",
+              "startTime": "2026-08-01T22:00:00.000",
+              "endTime": "2026-08-02T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2500214",
+              "title": "TESTING001",
+              "location": "Modeci",
+              "artists": [
+                ".2ndfloor",
+                "Magico.",
+                "Mogwaa",
+                "Ahnce"
+              ],
+              "source": "ra",
+              "ra_id": 140937
+            },
+            {
               "date": "2026-08-29T00:00:00.000",
               "startTime": "2026-08-29T22:00:00.000",
               "endTime": "2026-08-30T06:00:00.000",
@@ -5586,7 +5628,37 @@
           "googleMaps": "https://maps.google.com/?cid=16860899073188708708",
           "naverMaps": "https://map.naver.com/p/entry/place/1366856505",
           "ra_id": 227077,
-          "events": []
+          "events": [
+            {
+              "date": "2026-07-31T00:00:00.000",
+              "startTime": "2026-07-31T21:00:00.000",
+              "endTime": "2026-08-01T04:30:00.000",
+              "eventUrl": "https://ra.co/events/2499516",
+              "title": "Nue Friday",
+              "location": "Nué Seoul",
+              "artists": [
+                "Yuriko (2)"
+              ],
+              "source": "ra",
+              "ra_id": 227077
+            },
+            {
+              "date": "2026-08-01T00:00:00.000",
+              "startTime": "2026-08-01T22:00:00.000",
+              "endTime": "2026-08-02T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2499518",
+              "title": "Pseudobaul 'CDJ OFF' Release Party",
+              "location": "Nué Seoul",
+              "artists": [
+                "Sawteeth",
+                "DJ Funny",
+                "Chae",
+                "Pseudobaul"
+              ],
+              "source": "ra",
+              "ra_id": 227077
+            }
+          ]
         }
       },
       {
@@ -6095,7 +6167,53 @@
           "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
           "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
           "ra_id": 194402,
-          "events": []
+          "events": [
+            {
+              "date": "2026-07-31T00:00:00.000",
+              "startTime": "2026-07-31T23:00:00.000",
+              "endTime": "2026-08-01T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2499697",
+              "title": "GHETTOQUARTET_Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "Sawteeth",
+                "East Hopeman",
+                "Jangster"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            },
+            {
+              "date": "2026-08-01T00:00:00.000",
+              "startTime": "2026-08-01T23:00:00.000",
+              "endTime": "2026-08-02T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2499698",
+              "title": "Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "FOI (SK)",
+                "Kimmingi",
+                "givogi"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            },
+            {
+              "date": "2026-08-02T00:00:00.000",
+              "startTime": "2026-08-02T23:00:00.000",
+              "endTime": "2026-08-03T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2499700",
+              "title": "Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "Jimin",
+                "JNS",
+                "plomo"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            }
+          ]
         }
       },
       {
@@ -6264,19 +6382,6 @@
             },
             {
               "date": "2026-08-16T00:00:00.000",
-              "startTime": "2026-08-16T21:00:00.000",
-              "endTime": "2026-08-17T03:00:00.000",
-              "eventUrl": "https://ra.co/events/2485381",
-              "title": "pìccolo, WE INVITES CREATIVE CRAZY GUY",
-              "location": "Pistil",
-              "artists": [
-                "pìccolo"
-              ],
-              "source": "ra",
-              "ra_id": 104589
-            },
-            {
-              "date": "2026-08-16T00:00:00.000",
               "startTime": "2026-08-16T22:00:00.000",
               "endTime": "2026-08-17T04:00:00.000",
               "eventUrl": "https://ra.co/events/2498335",
@@ -6288,6 +6393,19 @@
                 "JIHEE KIM",
                 "KoiKoi",
                 "pa de haan."
+              ],
+              "source": "ra",
+              "ra_id": 104589
+            },
+            {
+              "date": "2026-08-16T00:00:00.000",
+              "startTime": "2026-08-16T21:00:00.000",
+              "endTime": "2026-08-17T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2485381",
+              "title": "pìccolo, WE INVITES CREATIVE CRAZY GUY",
+              "location": "Pistil",
+              "artists": [
+                "pìccolo"
               ],
               "source": "ra",
               "ra_id": 104589
@@ -7391,7 +7509,44 @@
           "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
           "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
           "ra_id": 195346,
-          "events": []
+          "events": [
+            {
+              "date": "2026-07-31T00:00:00.000",
+              "startTime": "2026-07-31T23:00:00.000",
+              "endTime": "2026-08-01T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2499690",
+              "title": "Shelter Seoul",
+              "location": "Shelter",
+              "artists": [
+                "Honn",
+                "Yomi",
+                "JUNG(KR)",
+                "Apachi",
+                "ALIVE999",
+                "X2C (1)"
+              ],
+              "source": "ra",
+              "ra_id": 195346
+            },
+            {
+              "date": "2026-08-01T00:00:00.000",
+              "startTime": "2026-08-01T23:00:00.000",
+              "endTime": "2026-08-02T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2499691",
+              "title": "Shelter Seoul",
+              "location": "Shelter",
+              "artists": [
+                "MOVIN.KR",
+                "rerekat",
+                "AXIV",
+                "KINGMCK",
+                "Honn",
+                "X2C (1)"
+              ],
+              "source": "ra",
+              "ra_id": 195346
+            }
+          ]
         }
       },
       {
@@ -9239,6 +9394,62 @@
               ],
               "source": "ra",
               "ra_id": 196474
+            },
+            {
+              "date": "2026-08-05T00:00:00.000",
+              "startTime": "2026-08-05T21:00:00.000",
+              "endTime": "2026-08-06T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2499538",
+              "title": "Haeterna's Territory",
+              "location": "Atdge Seoul",
+              "artists": [
+                "Haeterna"
+              ],
+              "source": "ra",
+              "ra_id": 196474
+            },
+            {
+              "date": "2026-08-07T00:00:00.000",
+              "startTime": "2026-08-07T23:00:00.000",
+              "endTime": "2026-08-08T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2499541",
+              "title": "Dr.Jo, Rocket, KYVU",
+              "location": "Atdge Seoul",
+              "artists": [
+                "KYVU"
+              ],
+              "source": "ra",
+              "ra_id": 196474
+            },
+            {
+              "date": "2026-08-08T00:00:00.000",
+              "startTime": "2026-08-08T22:00:00.000",
+              "endTime": "2026-08-09T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2499543",
+              "title": "Recy, ASYNC, Yeji",
+              "location": "Atdge Seoul",
+              "artists": [
+                "Recy",
+                "ASYNC",
+                "Yeji"
+              ],
+              "source": "ra",
+              "ra_id": 196474
+            },
+            {
+              "date": "2026-08-14T00:00:00.000",
+              "startTime": "2026-08-14T22:00:00.000",
+              "endTime": "2026-08-15T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2499545",
+              "title": "Yoru's friend",
+              "location": "Atdge Seoul",
+              "artists": [
+                "KYVU",
+                "Moso",
+                "Yoru (KR)"
+              ],
+              "source": "ra",
+              "ra_id": 196474
             }
           ]
         }
@@ -9666,6 +9877,51 @@
                 "Krijka",
                 "Jucid",
                 "Yun Line"
+              ],
+              "source": "ra",
+              "ra_id": 220595
+            },
+            {
+              "date": "2026-08-01T00:00:00.000",
+              "startTime": "2026-08-01T23:00:00.000",
+              "endTime": "2026-08-02T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2499712",
+              "title": "Test Press",
+              "location": "teller",
+              "artists": [
+                "Muah",
+                "Jongho",
+                "Mihak"
+              ],
+              "source": "ra",
+              "ra_id": 220595
+            },
+            {
+              "date": "2026-08-07T00:00:00.000",
+              "startTime": "2026-08-07T23:00:00.000",
+              "endTime": "2026-08-08T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2499724",
+              "title": "GESTALT",
+              "location": "teller",
+              "artists": [
+                "levolant",
+                "Lupion",
+                "Ryunosuke Urabe"
+              ],
+              "source": "ra",
+              "ra_id": 220595
+            },
+            {
+              "date": "2026-08-08T00:00:00.000",
+              "startTime": "2026-08-08T23:00:00.000",
+              "endTime": "2026-08-09T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2499735",
+              "title": "Connection with Junki Inoue, Shingo",
+              "location": "teller",
+              "artists": [
+                "Junki Inoue",
+                "Shingo",
+                "Mihak"
               ],
               "source": "ra",
               "ra_id": 220595
@@ -10722,6 +10978,19 @@
           "ra_id": 198699,
           "events": [
             {
+              "date": "2026-07-31T00:00:00.000",
+              "startTime": "2026-07-31T22:00:00.000",
+              "endTime": "2026-08-01T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2499842",
+              "title": "GROOVE TRAIN",
+              "location": "Melt",
+              "artists": [
+                "G1KIM"
+              ],
+              "source": "ra",
+              "ra_id": 198699
+            },
+            {
               "date": "2026-12-27T00:00:00.000",
               "startTime": "2026-12-27T22:00:00.000",
               "endTime": "2026-12-28T05:00:00.000",
@@ -11159,6 +11428,22 @@
                 "Rivako",
                 "D.E.F",
                 "PONGPONG"
+              ],
+              "source": "ra",
+              "ra_id": 242471
+            },
+            {
+              "date": "2026-08-02T00:00:00.000",
+              "startTime": "2026-08-02T19:00:00.000",
+              "endTime": "2026-08-02T23:59:00.000",
+              "eventUrl": "https://ra.co/events/2499544",
+              "title": "TRANCE4 SEOUL: The Luka Sessions",
+              "location": "Luka",
+              "artists": [
+                "Kago Pengchi",
+                "Kataploks",
+                "M42 (1)",
+                "Casepeat"
               ],
               "source": "ra",
               "ra_id": 242471
@@ -15382,7 +15667,41 @@
             266697,
             287079
           ],
-          "events": []
+          "events": [
+            {
+              "date": "2026-07-31T00:00:00.000",
+              "startTime": "2026-07-31T19:00:00.000",
+              "endTime": "2026-08-01T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2499668",
+              "title": "Nasub Party: Jamiest",
+              "location": "Nasub",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 266697
+            },
+            {
+              "date": "2026-07-31T00:00:00.000",
+              "startTime": "2026-07-31T22:00:00.000",
+              "endTime": "2026-08-01T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2499672",
+              "title": "Club Nasub Party: Jamiest",
+              "location": "Club Nasub",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 287079
+            },
+            {
+              "date": "2026-08-01T00:00:00.000",
+              "startTime": "2026-08-01T22:00:00.000",
+              "endTime": "2026-08-02T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2499675",
+              "title": "Club Nasub Party: And1",
+              "location": "Club Nasub",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 287079
+            }
+          ]
         }
       },
       {
@@ -15450,6 +15769,23 @@
               "location": "Lion Super Club",
               "artists": [
                 "Yuuki"
+              ],
+              "source": "ra",
+              "ra_id": 285391
+            },
+            {
+              "date": "2026-08-08T00:00:00.000",
+              "startTime": "2026-08-08T23:00:00.000",
+              "endTime": "2026-08-09T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2499542",
+              "title": "KINETIC TEC Session 1: Hard Techno",
+              "location": "Lion Super Club",
+              "artists": [
+                "Apachi",
+                "Soraere Brocken",
+                "FUMI",
+                "Minehero",
+                "DALJAE"
               ],
               "source": "ra",
               "ra_id": 285391
@@ -15777,7 +16113,34 @@
           "googleMaps": "https://maps.google.com/?cid=3456418008846797751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
           "naverMaps": "https://naver.me/5ow5ItCz",
           "ra_id": 284350,
-          "events": []
+          "events": [
+            {
+              "date": "2026-07-31T00:00:00.000",
+              "startTime": "2026-07-31T23:00:00.000",
+              "endTime": "2026-08-01T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2499654",
+              "title": "Flac: Residency Program",
+              "location": "Flac",
+              "artists": [
+                "DARIMI TABLE"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            },
+            {
+              "date": "2026-08-01T00:00:00.000",
+              "startTime": "2026-08-01T23:00:00.000",
+              "endTime": "2026-08-02T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2499661",
+              "title": "Flac: Residency Program + After Party",
+              "location": "Flac",
+              "artists": [
+                "Onizmik"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            }
+          ]
         }
       },
       {
