@@ -211,6 +211,17 @@
           "ra_id": 198937,
           "events": [
             {
+              "date": "2026-08-13T00:00:00.000",
+              "startTime": "2026-08-13T22:00:00.000",
+              "endTime": "2026-08-14T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2508727",
+              "title": "Bolero: RGB",
+              "location": "Bolero",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
               "date": "2026-08-14T00:00:00.000",
               "startTime": "2026-08-14T22:00:00.000",
               "endTime": "2026-08-15T05:00:00.000",
@@ -220,6 +231,36 @@
               "artists": [
                 "SKiiDA",
                 "Multivsn"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-08-14T00:00:00.000",
+              "startTime": "2026-08-14T22:00:00.000",
+              "endTime": "2026-08-15T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2508729",
+              "title": "Bolero: SAUNA TOMORROW",
+              "location": "Bolero",
+              "artists": [
+                "SKiiDA",
+                "Multivsn",
+                "Keenote"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-08-16T00:00:00.000",
+              "startTime": "2026-08-16T22:00:00.000",
+              "endTime": "2026-08-17T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2508730",
+              "title": "Bolero: KISS & RIDE 4TH ANNIVERSARY",
+              "location": "Bolero",
+              "artists": [
+                "Sky Dominique",
+                "PNG (US)",
+                "bluesight"
               ],
               "source": "ra",
               "ra_id": 198937
@@ -458,9 +499,9 @@
               "showdeeId": 658289,
               "source": "showdee",
               "artists": [
+                29,
                 30,
-                31,
-                32
+                31
               ],
               "location": "카페 언플러그드 홍대",
               "date": "2026-08-14",
@@ -473,8 +514,8 @@
               "showdeeId": 658308,
               "source": "showdee",
               "artists": [
+                71,
                 72,
-                73,
                 "사심"
               ],
               "location": "카페 언플러그드 홍대",
@@ -488,8 +529,8 @@
               "showdeeId": 658343,
               "source": "showdee",
               "artists": [
+                135,
                 136,
-                137,
                 "나디야"
               ],
               "location": "카페 언플러그드 홍대",
@@ -503,7 +544,7 @@
               "showdeeId": 658362,
               "source": "showdee",
               "artists": [
-                152,
+                151,
                 "Tommy Lee"
               ],
               "location": "카페 언플러그드 홍대",
@@ -538,27 +579,12 @@
           "naverMaps": "https://map.naver.com/p/entry/place/1476560900",
           "events": [
             {
-              "showdeeId": 658271,
-              "source": "showdee",
-              "artists": [
-                "임준형",
-                0,
-                "누니"
-              ],
-              "location": "언플러그드 라운지",
-              "date": "2026-08-10",
-              "startTime": "2026-08-10T19:30:00.000+09:00",
-              "eventUrl": "https://www.instagram.com/p/DbZwOHvJ89R/",
-              "entry": "예매 정보 링크",
-              "imgSrc": null
-            },
-            {
               "showdeeId": 658276,
               "source": "showdee",
               "artists": [
+                3,
                 4,
-                5,
-                6
+                5
               ],
               "location": "언플러그드 라운지",
               "date": "2026-08-12",
@@ -571,9 +597,9 @@
               "showdeeId": 658279,
               "source": "showdee",
               "artists": [
+                9,
                 10,
-                11,
-                12
+                11
               ],
               "location": "언플러그드 라운지",
               "date": "2026-08-13",
@@ -586,8 +612,8 @@
               "showdeeId": 658296,
               "source": "showdee",
               "artists": [
-                39,
-                40
+                38,
+                39
               ],
               "location": "언플러그드 라운지",
               "date": "2026-08-15",
@@ -600,9 +626,9 @@
               "showdeeId": 658321,
               "source": "showdee",
               "artists": [
+                76,
                 77,
-                78,
-                79
+                78
               ],
               "location": "언플러그드 라운지",
               "date": "2026-08-16",
@@ -615,8 +641,8 @@
               "showdeeId": 658328,
               "source": "showdee",
               "artists": [
+                103,
                 104,
-                105,
                 "시원과 구영"
               ],
               "location": "언플러그드 라운지",
@@ -630,8 +656,8 @@
               "showdeeId": 658340,
               "source": "showdee",
               "artists": [
-                26,
-                121
+                25,
+                120
               ],
               "location": "언플러그드 라운지",
               "date": "2026-08-20",
@@ -645,7 +671,7 @@
               "source": "showdee",
               "artists": [
                 "love is cycle",
-                130
+                129
               ],
               "location": "언플러그드 라운지",
               "date": "2026-08-21",
@@ -658,9 +684,9 @@
               "showdeeId": 658355,
               "source": "showdee",
               "artists": [
+                137,
                 138,
-                139,
-                140
+                139
               ],
               "location": "언플러그드 라운지",
               "date": "2026-08-22",
@@ -673,8 +699,8 @@
               "showdeeId": 658373,
               "source": "showdee",
               "artists": [
-                22,
-                159
+                21,
+                158
               ],
               "location": "언플러그드 라운지",
               "date": "2026-08-23",
@@ -687,8 +713,8 @@
               "showdeeId": 658379,
               "source": "showdee",
               "artists": [
-                171,
-                172
+                166,
+                167
               ],
               "location": "언플러그드 라운지",
               "date": "2026-08-24",
@@ -1043,7 +1069,7 @@
               "showdeeId": 658366,
               "source": "showdee",
               "artists": [
-                142
+                141
               ],
               "location": "부산 북두칠성도서관 아트홀",
               "date": "2026-08-22",
@@ -1100,8 +1126,8 @@
               "showdeeId": 658298,
               "source": "showdee",
               "artists": [
-                75,
-                76
+                74,
+                75
               ],
               "location": "제주 인디",
               "date": "2026-08-15",
@@ -1232,10 +1258,10 @@
               "showdeeId": 658281,
               "source": "showdee",
               "artists": [
+                15,
                 16,
+                0,
                 17,
-                1,
-                18,
                 "보이드"
               ],
               "location": "클럽 FF",
@@ -1249,11 +1275,11 @@
               "showdeeId": 658329,
               "source": "showdee",
               "artists": [
+                82,
+                38,
                 83,
-                39,
-                84,
-                67,
-                85
+                66,
+                84
               ],
               "location": "클럽 FF",
               "date": "2026-08-16",
@@ -1266,9 +1292,9 @@
               "showdeeId": 658342,
               "source": "showdee",
               "artists": [
-                24,
-                101,
-                123,
+                23,
+                100,
+                122,
                 "크록티칼"
               ],
               "location": "클럽 FF",
@@ -1413,12 +1439,12 @@
               "showdeeId": 658403,
               "source": "showdee",
               "artists": [
-                190,
-                191,
-                192,
-                36,
-                193,
-                194,
+                185,
+                186,
+                187,
+                35,
+                188,
+                189,
                 "birushanah",
                 "God Slave the Destroy"
               ],
@@ -1546,7 +1572,7 @@
               "showdeeId": 658275,
               "source": "showdee",
               "artists": [
-                8
+                7
               ],
               "location": "베이비돌",
               "date": "2026-08-12",
@@ -1559,11 +1585,11 @@
               "showdeeId": 658305,
               "source": "showdee",
               "artists": [
+                57,
                 58,
                 59,
                 60,
-                61,
-                62
+                61
               ],
               "location": "베이비돌",
               "date": "2026-08-15",
@@ -1577,8 +1603,8 @@
               "source": "showdee",
               "artists": [
                 "OiSEUM!",
+                80,
                 81,
-                82,
                 "for aidan...",
                 "Next summer might be good"
               ],
@@ -1593,10 +1619,10 @@
               "showdeeId": 658414,
               "source": "showdee",
               "artists": [
-                216,
-                217,
-                218,
-                219,
+                211,
+                212,
+                213,
+                214,
                 "Hard-Ons"
               ],
               "location": "베이비돌",
@@ -1701,7 +1727,7 @@
               "showdeeId": 658313,
               "source": "showdee",
               "artists": [
-                71
+                70
               ],
               "location": "광주 보헤미안",
               "date": "2026-08-16",
@@ -1714,7 +1740,7 @@
               "showdeeId": 658351,
               "source": "showdee",
               "artists": [
-                49
+                48
               ],
               "location": "광주 보헤미안",
               "date": "2026-08-22",
@@ -1727,7 +1753,7 @@
               "showdeeId": 658401,
               "source": "showdee",
               "artists": [
-                114
+                113
               ],
               "location": "광주 보헤미안",
               "date": "2026-08-30",
@@ -1953,7 +1979,7 @@
               "showdeeId": 658311,
               "source": "showdee",
               "artists": [
-                74
+                73
               ],
               "location": "대구 클럽 헤비",
               "date": "2026-08-15",
@@ -1966,8 +1992,8 @@
               "showdeeId": 658346,
               "source": "showdee",
               "artists": [
+                127,
                 128,
-                129,
                 "길기판"
               ],
               "location": "대구 클럽 헤비",
@@ -2026,7 +2052,7 @@
               "showdeeId": 658294,
               "source": "showdee",
               "artists": [
-                71
+                70
               ],
               "location": "거제 클럽 언드",
               "date": "2026-08-15",
@@ -2039,7 +2065,7 @@
               "showdeeId": 658314,
               "source": "showdee",
               "artists": [
-                80
+                79
               ],
               "location": "거제 클럽 언드",
               "date": "2026-08-16",
@@ -2077,12 +2103,12 @@
               "showdeeId": 658307,
               "source": "showdee",
               "artists": [
+                42,
                 43,
                 44,
                 45,
                 46,
-                47,
-                48
+                47
               ],
               "location": "클럽 빅팀",
               "date": "2026-08-15",
@@ -2095,9 +2121,9 @@
               "showdeeId": 658327,
               "source": "showdee",
               "artists": [
+                97,
                 98,
                 99,
-                100,
                 "챕터22"
               ],
               "location": "클럽 빅팀",
@@ -2111,9 +2137,9 @@
               "showdeeId": 658345,
               "source": "showdee",
               "artists": [
+                123,
                 124,
                 125,
-                126,
                 "카운터오클락"
               ],
               "location": "클럽 빅팀",
@@ -2129,8 +2155,8 @@
               "artists": [
                 "위닝샷",
                 "오버헤드",
+                143,
                 144,
-                145,
                 "스트라이커즈"
               ],
               "location": "클럽 빅팀",
@@ -2144,10 +2170,10 @@
               "showdeeId": 658383,
               "source": "showdee",
               "artists": [
-                124,
-                175,
-                176,
-                177
+                123,
+                170,
+                171,
+                172
               ],
               "location": "클럽 빅팀",
               "date": "2026-08-28",
@@ -2160,9 +2186,9 @@
               "showdeeId": 658399,
               "source": "showdee",
               "artists": [
-                184,
-                185,
-                186,
+                179,
+                180,
+                181,
                 "아시아나 리틀즈"
               ],
               "location": "클럽 빅팀",
@@ -2224,7 +2250,7 @@
               "showdeeId": 658392,
               "source": "showdee",
               "artists": [
-                114
+                113
               ],
               "location": "대구 꼬뮨",
               "date": "2026-08-29",
@@ -3227,9 +3253,9 @@
               "showdeeId": 658375,
               "source": "showdee",
               "artists": [
-                151,
-                157,
-                158
+                150,
+                156,
+                157
               ],
               "location": "공상온도",
               "date": "2026-08-23",
@@ -3242,8 +3268,8 @@
               "showdeeId": 658372,
               "source": "showdee",
               "artists": [
-                7,
-                170
+                6,
+                165
               ],
               "location": "공상온도",
               "date": "2026-08-23",
@@ -3452,8 +3478,8 @@
               "showdeeId": 658350,
               "source": "showdee",
               "artists": [
-                149,
-                150
+                148,
+                149
               ],
               "location": "구름아래소극장",
               "date": "2026-08-22",
@@ -3466,7 +3492,7 @@
               "showdeeId": 658387,
               "source": "showdee",
               "artists": [
-                179
+                174
               ],
               "location": "구름아래소극장",
               "date": "2026-08-29",
@@ -3492,7 +3518,7 @@
               "showdeeId": 658407,
               "source": "showdee",
               "artists": [
-                113
+                112
               ],
               "location": "구름아래소극장",
               "date": "2026-09-12",
@@ -3728,9 +3754,9 @@
               "showdeeId": 658309,
               "source": "showdee",
               "artists": [
+                65,
                 66,
-                67,
-                68
+                67
               ],
               "location": "문래동 후케즈",
               "date": "2026-08-15",
@@ -4076,10 +4102,10 @@
               "showdeeId": 658378,
               "source": "showdee",
               "artists": [
-                166,
-                167,
-                99,
-                23
+                161,
+                162,
+                98,
+                22
               ],
               "location": "JS 아트홀",
               "date": "2026-08-23",
@@ -4092,10 +4118,10 @@
               "showdeeId": 658408,
               "source": "showdee",
               "artists": [
-                205,
-                206,
-                207,
-                208,
+                200,
+                201,
+                202,
+                203,
                 "kokeshi"
               ],
               "location": "JS 아트홀",
@@ -4354,7 +4380,7 @@
               "showdeeId": 658388,
               "source": "showdee",
               "artists": [
-                49
+                48
               ],
               "location": "KT&G 상상마당 춘천",
               "date": "2026-08-29",
@@ -4391,7 +4417,7 @@
               "showdeeId": 658360,
               "source": "showdee",
               "artists": [
-                148
+                147
               ],
               "location": "KT&G 상상마당 홍대",
               "date": "2026-08-22",
@@ -4404,7 +4430,7 @@
               "showdeeId": 658398,
               "source": "showdee",
               "artists": [
-                183
+                177
               ],
               "location": "KT&G 상상마당 홍대",
               "date": "2026-08-30",
@@ -4417,9 +4443,9 @@
               "showdeeId": 658410,
               "source": "showdee",
               "artists": [
-                209,
-                210,
-                211
+                204,
+                205,
+                206
               ],
               "location": "KT&G 상상마당 홍대",
               "date": "2026-09-13",
@@ -4500,8 +4526,8 @@
               "showdeeId": 658293,
               "source": "showdee",
               "artists": [
-                69,
-                70
+                68,
+                69
               ],
               "location": "공중캠프",
               "date": "2026-08-15",
@@ -4559,7 +4585,7 @@
               "showdeeId": 658295,
               "source": "showdee",
               "artists": [
-                49
+                48
               ],
               "location": "부산 금사락",
               "date": "2026-08-15",
@@ -4964,7 +4990,7 @@
               "showdeeId": 658339,
               "source": "showdee",
               "artists": [
-                108
+                107
               ],
               "location": "엠피엠지 2층 LOUNGE.M",
               "date": "2026-08-20",
@@ -5162,11 +5188,11 @@
               "showdeeId": 658402,
               "source": "showdee",
               "artists": [
-                196,
-                197,
-                198,
-                199,
-                200
+                190,
+                191,
+                192,
+                193,
+                194
               ],
               "location": "부산 무몽크",
               "date": "2026-09-05",
@@ -5245,8 +5271,8 @@
               "showdeeId": 658290,
               "source": "showdee",
               "artists": [
-                33,
-                34
+                32,
+                33
               ],
               "location": "모래내극락",
               "date": "2026-08-14",
@@ -5259,7 +5285,7 @@
               "showdeeId": 658341,
               "source": "showdee",
               "artists": [
-                135
+                134
               ],
               "location": "모래내극락",
               "date": "2026-08-21",
@@ -5272,7 +5298,7 @@
               "showdeeId": 658384,
               "source": "showdee",
               "artists": [
-                178
+                173
               ],
               "location": "모래내극락",
               "date": "2026-08-28",
@@ -5378,7 +5404,7 @@
               "showdeeId": 658338,
               "source": "showdee",
               "artists": [
-                122
+                121
               ],
               "location": "무신사 개러지",
               "date": "2026-08-20",
@@ -5391,8 +5417,8 @@
               "showdeeId": 658368,
               "source": "showdee",
               "artists": [
-                168,
-                169
+                163,
+                164
               ],
               "location": "무신사 개러지",
               "date": "2026-08-23",
@@ -5405,7 +5431,7 @@
               "showdeeId": 658394,
               "source": "showdee",
               "artists": [
-                49
+                48
               ],
               "location": "무신사 개러지",
               "date": "2026-08-30",
@@ -6019,8 +6045,8 @@
               "showdeeId": 658291,
               "source": "showdee",
               "artists": [
-                35,
-                36
+                34,
+                35
               ],
               "location": "부산 오방가르드",
               "date": "2026-08-14",
@@ -6033,7 +6059,7 @@
               "showdeeId": 658319,
               "source": "showdee",
               "artists": [
-                102,
+                101,
                 "이븐이프"
               ],
               "location": "부산 오방가르드",
@@ -6047,7 +6073,7 @@
               "showdeeId": 658336,
               "source": "showdee",
               "artists": [
-                74
+                73
               ],
               "location": "부산 오방가르드",
               "date": "2026-08-17",
@@ -6060,7 +6086,7 @@
               "showdeeId": 658415,
               "source": "showdee",
               "artists": [
-                214
+                209
               ],
               "location": "부산 오방가르드",
               "date": "2026-09-20",
@@ -6519,9 +6545,9 @@
               "showdeeId": 658367,
               "source": "showdee",
               "artists": [
+                153,
                 154,
-                155,
-                156
+                155
               ],
               "location": "록집",
               "date": "2026-08-22",
@@ -6558,7 +6584,7 @@
               "showdeeId": 658315,
               "source": "showdee",
               "artists": [
-                49
+                48
               ],
               "location": "대구 락왕",
               "date": "2026-08-16",
@@ -6643,7 +6669,7 @@
               "showdeeId": 658280,
               "source": "showdee",
               "artists": [
-                24
+                23
               ],
               "location": "롤링홀",
               "date": "2026-08-14",
@@ -6653,24 +6679,10 @@
               "imgSrc": null
             },
             {
-              "showdeeId": 658370,
-              "source": "showdee",
-              "artists": [
-                160,
-                161
-              ],
-              "location": "롤링홀",
-              "date": "2026-08-23",
-              "startTime": "2026-08-23T18:00:00.000+09:00",
-              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=213583",
-              "entry": "예매 링크",
-              "imgSrc": null
-            },
-            {
               "showdeeId": 658395,
               "source": "showdee",
               "artists": [
-                182
+                178
               ],
               "location": "롤링홀",
               "date": "2026-08-30",
@@ -6757,8 +6769,8 @@
               "showdeeId": 658282,
               "source": "showdee",
               "artists": [
+                24,
                 25,
-                26,
                 "하헌진x구교진x오준석"
               ],
               "location": "생기 스튜디아",
@@ -6772,8 +6784,8 @@
               "showdeeId": 658302,
               "source": "showdee",
               "artists": [
+                55,
                 56,
-                57,
                 "복숭아를던져라"
               ],
               "location": "생기 스튜디오",
@@ -6787,7 +6799,7 @@
               "showdeeId": 658324,
               "source": "showdee",
               "artists": [
-                69
+                68
               ],
               "location": "생기 스튜디오",
               "date": "2026-08-16",
@@ -6801,8 +6813,8 @@
               "source": "showdee",
               "artists": [
                 "코넛",
-                162,
-                163
+                159,
+                160
               ],
               "location": "생기 스튜디오",
               "date": "2026-08-23",
@@ -6815,7 +6827,7 @@
               "showdeeId": 658390,
               "source": "showdee",
               "artists": [
-                180,
+                176,
                 "쿠나",
                 "깨비형과 방망이들"
               ],
@@ -6854,7 +6866,7 @@
               "showdeeId": 658353,
               "source": "showdee",
               "artists": [
-                147
+                146
               ],
               "location": "SPACE SODA 2002",
               "date": "2026-08-22",
@@ -6867,7 +6879,7 @@
               "showdeeId": 658371,
               "source": "showdee",
               "artists": [
-                147
+                146
               ],
               "location": "SPACE SODA 2002",
               "date": "2026-08-23",
@@ -6924,6 +6936,21 @@
           "ra_id": 204286,
           "events": [
             {
+              "date": "2026-08-13T00:00:00.000",
+              "startTime": "2026-08-13T20:00:00.000",
+              "endTime": "2026-08-14T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2508920",
+              "title": "Unlimited Tequila with ALTOS",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Jesse You",
+                "Kimoji",
+                "Nolove"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
               "date": "2026-08-14T00:00:00.000",
               "startTime": "2026-08-14T22:00:00.000",
               "endTime": "2026-08-15T04:00:00.000",
@@ -6935,6 +6962,46 @@
                 "Mignon (2)",
                 "DJ Soulscape",
                 "morelo"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
+              "date": "2026-08-15T00:00:00.000",
+              "startTime": "2026-08-15T22:00:00.000",
+              "endTime": "2026-08-16T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2508924",
+              "title": "Saturday Stoked&stoned",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Sebibadboy",
+                "Riskii (2)",
+                "JNS",
+                "Youngseok"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
+              "date": "2026-08-15T00:00:00.000",
+              "startTime": "2026-08-15T20:00:00.000",
+              "endTime": "2026-08-16T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2508631",
+              "title": "10 Aug - 16 Aug",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Nolove",
+                "Acidwork",
+                "Mignon (2)",
+                "Sebibadboy",
+                "Jesse You",
+                "Kimoji",
+                "Oldshoes",
+                "DJ Soulscape",
+                "morelo",
+                "Riskii (2)",
+                "JNS",
+                "Youngseok"
               ],
               "source": "ra",
               "ra_id": 204286
@@ -6992,8 +7059,8 @@
               "showdeeId": 658323,
               "source": "showdee",
               "artists": [
-                96,
-                97
+                95,
+                96
               ],
               "location": "살롱문보우",
               "date": "2026-08-16",
@@ -7149,8 +7216,8 @@
               "showdeeId": 658412,
               "source": "showdee",
               "artists": [
-                213,
-                214
+                208,
+                209
               ],
               "location": "신도시",
               "date": "2026-09-18",
@@ -7582,7 +7649,7 @@
               "showdeeId": 658278,
               "source": "showdee",
               "artists": [
-                13
+                12
               ],
               "location": "스페이스 한강",
               "date": "2026-08-13",
@@ -7595,8 +7662,8 @@
               "showdeeId": 658288,
               "source": "showdee",
               "artists": [
+                27,
                 28,
-                29,
                 "브라이튼"
               ],
               "location": "스페이스 한강",
@@ -7610,9 +7677,9 @@
               "showdeeId": 658306,
               "source": "showdee",
               "artists": [
+                62,
                 63,
                 64,
-                65,
                 "어도어"
               ],
               "location": "스페이스 한강",
@@ -7626,10 +7693,10 @@
               "showdeeId": 658326,
               "source": "showdee",
               "artists": [
+                91,
                 92,
                 93,
-                94,
-                95
+                94
               ],
               "location": "스페이스 한강",
               "date": "2026-08-16",
@@ -7642,10 +7709,10 @@
               "showdeeId": 658332,
               "source": "showdee",
               "artists": [
+                109,
                 110,
-                111,
-                79,
-                112
+                78,
+                111
               ],
               "location": "스페이스 한강",
               "date": "2026-08-17",
@@ -7658,9 +7725,9 @@
               "showdeeId": 658344,
               "source": "showdee",
               "artists": [
+                130,
                 131,
-                132,
-                133
+                132
               ],
               "location": "스페이스 한강",
               "date": "2026-08-21",
@@ -7836,7 +7903,7 @@
               "showdeeId": 658334,
               "source": "showdee",
               "artists": [
-                118,
+                117,
                 "Madalitso band"
               ],
               "location": "스트레인지 프룻",
@@ -7936,7 +8003,7 @@
               "showdeeId": 658285,
               "source": "showdee",
               "artists": [
-                27
+                26
               ],
               "location": "재미공작소",
               "date": "2026-08-14",
@@ -7949,7 +8016,7 @@
               "showdeeId": 658300,
               "source": "showdee",
               "artists": [
-                50
+                49
               ],
               "location": "재미공작소",
               "date": "2026-08-15",
@@ -7962,7 +8029,7 @@
               "showdeeId": 658348,
               "source": "showdee",
               "artists": [
-                134
+                133
               ],
               "location": "재미공작소",
               "date": "2026-08-21",
@@ -7975,7 +8042,7 @@
               "showdeeId": 658363,
               "source": "showdee",
               "artists": [
-                153
+                152
               ],
               "location": "재미공작소",
               "date": "2026-08-22",
@@ -8186,7 +8253,25 @@
           "googleMaps": "https://maps.google.com/?cid=2246573509006327652",
           "naverMaps": "https://map.naver.com/p/entry/place/1667822207",
           "ra_id": 150562,
-          "events": []
+          "events": [
+            {
+              "date": "2026-08-17T00:00:00.000",
+              "startTime": "2026-08-17T15:00:00.000",
+              "endTime": "2026-08-17T23:59:00.000",
+              "eventUrl": "https://ra.co/events/2509940",
+              "title": "BBCB 10YRS - KOREA ROUTE: SEOGWIPO",
+              "location": "The Cliff",
+              "artists": [
+                "CHICHI (KR)",
+                "Kim.Qna",
+                "ANSR",
+                "Robin Lee",
+                "S-Pill"
+              ],
+              "source": "ra",
+              "ra_id": 150562
+            }
+          ]
         }
       },
       {
@@ -8295,21 +8380,7 @@
           "kakaoMaps": "http://place.map.kakao.com/1160363207",
           "googleMaps": "https://maps.google.com/?cid=464612219529540250&g_mp=EAAYBCAA",
           "naverMaps": "https://map.naver.com/p/entry/place/1157630729",
-          "events": [
-            {
-              "showdeeId": 658369,
-              "source": "showdee",
-              "artists": [
-                49
-              ],
-              "location": "전주 더뮤지션",
-              "date": "2026-08-23",
-              "startTime": "2026-08-23T18:00:00.000+09:00",
-              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=213447",
-              "entry": "예매 링크",
-              "imgSrc": null
-            }
-          ]
+          "events": []
         }
       },
       {
@@ -8404,7 +8475,7 @@
               "showdeeId": 658299,
               "source": "showdee",
               "artists": [
-                42
+                41
               ],
               "location": "톤 스튜디오",
               "date": "2026-08-15",
@@ -8417,7 +8488,7 @@
               "showdeeId": 658320,
               "source": "showdee",
               "artists": [
-                101
+                100
               ],
               "location": "톤 스튜디오",
               "date": "2026-08-16",
@@ -8430,7 +8501,7 @@
               "showdeeId": 658359,
               "source": "showdee",
               "artists": [
-                141
+                140
               ],
               "location": "톤 스튜디오",
               "date": "2026-08-22",
@@ -8456,7 +8527,7 @@
               "showdeeId": 658391,
               "source": "showdee",
               "artists": [
-                181
+                175
               ],
               "location": "톤 스튜디오",
               "date": "2026-08-29",
@@ -8564,7 +8635,7 @@
               "showdeeId": 658352,
               "source": "showdee",
               "artists": [
-                146
+                145
               ],
               "location": "현대카드 언더스테이지",
               "date": "2026-08-22",
@@ -8692,7 +8763,7 @@
               "showdeeId": 658385,
               "source": "showdee",
               "artists": [
-                114
+                113
               ],
               "location": "부산 바이널 언더그라운드",
               "date": "2026-08-28",
@@ -8796,7 +8867,7 @@
               "showdeeId": 658330,
               "source": "showdee",
               "artists": [
-                114
+                113
               ],
               "location": "웨스트브릿지 라이브홀",
               "date": "2026-08-17",
@@ -8809,8 +8880,8 @@
               "showdeeId": 658404,
               "source": "showdee",
               "artists": [
-                201,
-                202
+                196,
+                197
               ],
               "location": "웨스트브릿지 라이브홀",
               "date": "2026-09-05",
@@ -9181,7 +9252,7 @@
               "showdeeId": 658273,
               "source": "showdee",
               "artists": [
-                3
+                2
               ],
               "location": "채널 1969",
               "date": "2026-08-11",
@@ -9194,7 +9265,7 @@
               "showdeeId": 658277,
               "source": "showdee",
               "artists": [
-                9
+                8
               ],
               "location": "채널 1969",
               "date": "2026-08-12",
@@ -9207,8 +9278,8 @@
               "showdeeId": 658312,
               "source": "showdee",
               "artists": [
-                103,
-                70
+                102,
+                69
               ],
               "location": "채널1969",
               "date": "2026-08-16",
@@ -9221,8 +9292,8 @@
               "showdeeId": 658413,
               "source": "showdee",
               "artists": [
-                103,
-                215
+                102,
+                210
               ],
               "location": "채널 1969",
               "date": "2026-09-18",
@@ -9258,10 +9329,10 @@
               "showdeeId": 658335,
               "source": "showdee",
               "artists": [
+                105,
                 106,
                 107,
                 108,
-                109,
                 "솜비"
               ],
               "location": "클럽 A.O.R",
@@ -9437,7 +9508,23 @@
           "googleMaps": "https://maps.google.com/?cid=9724978303017124460",
           "naverMaps": "https://map.naver.com/p/entry/place/1204487051",
           "ra_id": 224174,
-          "events": []
+          "events": [
+            {
+              "date": "2026-08-21T00:00:00.000",
+              "startTime": "2026-08-21T22:00:00.000",
+              "endTime": "2026-08-22T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2509356",
+              "title": "9ummy on wigs",
+              "location": "Lovehaus",
+              "artists": [
+                "MOHOHOMO",
+                "O.od",
+                "rue (3)"
+              ],
+              "source": "ra",
+              "ra_id": 224174
+            }
+          ]
         }
       },
       {
@@ -9833,10 +9920,10 @@
               "showdeeId": 658287,
               "source": "showdee",
               "artists": [
+                20,
+                1,
                 21,
-                2,
-                22,
-                23
+                22
               ],
               "location": "프리버드",
               "date": "2026-08-14",
@@ -9849,11 +9936,11 @@
               "showdeeId": 658301,
               "source": "showdee",
               "artists": [
+                50,
                 51,
                 52,
                 53,
-                54,
-                55
+                54
               ],
               "location": "프리버드",
               "date": "2026-08-15",
@@ -9866,11 +9953,11 @@
               "showdeeId": 658317,
               "source": "showdee",
               "artists": [
+                85,
                 86,
                 87,
                 88,
-                89,
-                90
+                89
               ],
               "location": "프리버드",
               "date": "2026-08-16",
@@ -9883,10 +9970,10 @@
               "showdeeId": 658331,
               "source": "showdee",
               "artists": [
+                114,
                 115,
                 116,
-                117,
-                73,
+                72,
                 "시소단"
               ],
               "location": "프리버드",
@@ -9900,10 +9987,10 @@
               "showdeeId": 658397,
               "source": "showdee",
               "artists": [
-                187,
-                170,
-                188,
-                79,
+                182,
+                165,
+                183,
+                78,
                 "드림파이"
               ],
               "location": "프리버드",
@@ -9940,8 +10027,8 @@
               "showdeeId": 658286,
               "source": "showdee",
               "artists": [
+                13,
                 14,
-                15,
                 "Light Snow Demo",
                 "Now You'll Never",
                 "소온"
@@ -10258,8 +10345,8 @@
               "showdeeId": 658283,
               "source": "showdee",
               "artists": [
-                19,
-                20
+                18,
+                19
               ],
               "location": "우무지",
               "date": "2026-08-14",
@@ -10272,8 +10359,8 @@
               "showdeeId": 658364,
               "source": "showdee",
               "artists": [
-                66,
-                143,
+                65,
+                142,
                 "위지수"
               ],
               "location": "우무지",
@@ -10676,10 +10763,7 @@
               "eventUrl": "https://ra.co/events/2503951",
               "title": "Thursday Volnost",
               "location": "Volnost",
-              "artists": [
-                "Pseudobaul",
-                "Haemi Park"
-              ],
+              "artists": [],
               "source": "ra",
               "ra_id": 133352
             },
@@ -10711,6 +10795,21 @@
                 "Hogun",
                 "KYVU",
                 "Hwiah"
+              ],
+              "source": "ra",
+              "ra_id": 133352
+            },
+            {
+              "date": "2026-08-27T00:00:00.000",
+              "startTime": "2026-08-27T21:00:00.000",
+              "endTime": "2026-08-28T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2508664",
+              "title": "Special Thursday Volnost",
+              "location": "Volnost",
+              "artists": [
+                "Kugel",
+                "Sunday Lee",
+                "KYVU"
               ],
               "source": "ra",
               "ra_id": 133352
@@ -10955,6 +11054,17 @@
                 "PONGPONG",
                 "Rivako"
               ],
+              "source": "ra",
+              "ra_id": 242471
+            },
+            {
+              "date": "2026-08-15T00:00:00.000",
+              "startTime": "2026-08-15T23:00:00.000",
+              "endTime": "2026-08-16T07:00:00.000",
+              "eventUrl": "https://ra.co/events/2508617",
+              "title": "TASKFORCE SEOUL - HARD TECHNO, HARDSTYLE, HARDCORE",
+              "location": "Luka",
+              "artists": [],
               "source": "ra",
               "ra_id": 242471
             }
@@ -11405,7 +11515,7 @@
               "showdeeId": 658274,
               "source": "showdee",
               "artists": [
-                7
+                6
               ],
               "location": "숲세권 라이브",
               "date": "2026-08-12",
@@ -11418,7 +11528,7 @@
               "showdeeId": 658333,
               "source": "showdee",
               "artists": [
-                113
+                112
               ],
               "location": "숲세권 라이브",
               "date": "2026-08-17",
@@ -12479,7 +12589,7 @@
               "showdeeId": 658365,
               "source": "showdee",
               "artists": [
-                151
+                150
               ],
               "location": "전조",
               "date": "2026-08-22",
@@ -13120,8 +13230,8 @@
               "showdeeId": 658272,
               "source": "showdee",
               "artists": [
-                1,
-                2
+                0,
+                1
               ],
               "location": "아지토 라이브홀",
               "date": "2026-08-11",
@@ -13134,8 +13244,8 @@
               "showdeeId": 658337,
               "source": "showdee",
               "artists": [
-                119,
-                120
+                118,
+                119
               ],
               "location": "아지토 라이브홀",
               "date": "2026-08-18",
@@ -13148,8 +13258,8 @@
               "showdeeId": 658380,
               "source": "showdee",
               "artists": [
-                173,
-                174
+                168,
+                169
               ],
               "location": "아지토 라이브홀",
               "date": "2026-08-24",
@@ -13914,7 +14024,25 @@
           "googleMaps": "https://maps.google.com/?cid=2778407594323204824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
           "naverMaps": "https://naver.me/GkRA8Mx6",
           "ra_id": 214139,
-          "events": []
+          "events": [
+            {
+              "date": "2026-08-16T00:00:00.000",
+              "startTime": "2026-08-16T19:00:00.000",
+              "endTime": "2026-08-17T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2509345",
+              "title": "Madting presents: MADHOUSE, Quest takeover",
+              "location": "Quest",
+              "artists": [
+                "AUS10",
+                "Mindspray",
+                "KING SHE",
+                "Xena (KR)",
+                "Zion"
+              ],
+              "source": "ra",
+              "ra_id": 214139
+            }
+          ]
         }
       },
       {
@@ -14446,7 +14574,7 @@
               "showdeeId": 658318,
               "source": "showdee",
               "artists": [
-                91
+                90
               ],
               "location": "서울스트리밍스테이션",
               "date": "2026-08-16",
@@ -15030,7 +15158,7 @@
               "showdeeId": 658400,
               "source": "showdee",
               "artists": [
-                189,
+                184,
                 "이븐이프"
               ],
               "location": "연남스페이스",
@@ -15300,7 +15428,7 @@
               "showdeeId": 658411,
               "source": "showdee",
               "artists": [
-                212
+                207
               ],
               "location": "감마홀",
               "date": "2026-09-13",
@@ -15503,7 +15631,38 @@
             285985,
             132403
           ],
-          "events": []
+          "events": [
+            {
+              "date": "2026-08-14T00:00:00.000",
+              "startTime": "2026-08-14T22:00:00.000",
+              "endTime": "2026-08-15T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2509541",
+              "title": "A-Trak AT SOAP",
+              "location": "Soap Seoul.",
+              "artists": [
+                "A-Trak",
+                "DJ POOL"
+              ],
+              "source": "ra",
+              "ra_id": 285985
+            },
+            {
+              "date": "2026-08-16T00:00:00.000",
+              "startTime": "2026-08-16T22:00:00.000",
+              "endTime": "2026-08-17T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2508892",
+              "title": "WAV + GHETTO RAY: Bryson Hill",
+              "location": "Soap Seoul",
+              "artists": [
+                "Bryson Hill",
+                "DJ Co.kr",
+                "ANDOW",
+                "BILL.E"
+              ],
+              "source": "ra",
+              "ra_id": 132403
+            }
+          ]
         }
       },
       {
@@ -16019,6 +16178,51 @@
               ],
               "source": "ra",
               "ra_id": 293448
+            },
+            {
+              "date": "2026-08-15T00:00:00.000",
+              "startTime": "2026-08-15T23:00:00.000",
+              "endTime": "2026-08-16T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2508723",
+              "title": "SPECIAL NIGHT: PSYTRANCE",
+              "location": "82bpm",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 293448
+            },
+            {
+              "date": "2026-08-28T00:00:00.000",
+              "startTime": "2026-08-28T23:00:00.000",
+              "endTime": "2026-08-30T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2509215",
+              "title": "TECHNO: Special Weekender (82bpm - Daejeon)",
+              "location": "82bpm",
+              "artists": [
+                "DESTINI.21",
+                "Vorus",
+                "KIMNA",
+                "No/ah",
+                "Messiahwaits"
+              ],
+              "source": "ra",
+              "ra_id": 293448
+            },
+            {
+              "date": "2026-08-29T00:00:00.000",
+              "startTime": "2026-08-28T23:00:00.000",
+              "endTime": "2026-08-30T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2509215",
+              "title": "TECHNO: Special Weekender (82bpm - Daejeon)",
+              "location": "82bpm",
+              "artists": [
+                "DESTINI.21",
+                "Vorus",
+                "KIMNA",
+                "No/ah",
+                "Messiahwaits"
+              ],
+              "source": "ra",
+              "ra_id": 293448
             }
           ]
         }
@@ -16243,8 +16447,8 @@
               "showdeeId": 658406,
               "source": "showdee",
               "artists": [
-                203,
-                204
+                198,
+                199
               ],
               "location": "스튜디오 엔텐바흐",
               "date": "2026-09-06",
@@ -16321,7 +16525,7 @@
               "showdeeId": 658297,
               "source": "showdee",
               "artists": [
-                41
+                40
               ],
               "location": "코튼클럽 사운즈한남",
               "date": "2026-08-15",
@@ -16334,7 +16538,7 @@
               "showdeeId": 658316,
               "source": "showdee",
               "artists": [
-                41
+                40
               ],
               "location": "코튼클럽 사운즈한남",
               "date": "2026-08-16",
@@ -16472,11 +16676,6 @@
     ]
   },
   "artists": [
-    {
-      "name": "권결밴드",
-      "name_en": "band gyeol",
-      "instagram": "https://www.instagram.com/band_gyeol/"
-    },
     {
       "name": "일루반",
       "name_en": "Illuvan",
@@ -17276,16 +17475,6 @@
       "instagram": "https://www.instagram.com/the_mows/"
     },
     {
-      "name": "더더밴드",
-      "name_en": "Band The The",
-      "instagram": "https://www.instagram.com/thethelhy/"
-    },
-    {
-      "name": "이랑이",
-      "name_en": "LeeRang_E",
-      "instagram": "https://www.instagram.com/leerang_e/"
-    },
-    {
       "name": "몰라시스템",
       "name_en": "Molar System",
       "instagram": "https://www.instagram.com/mymolarsystem/"
@@ -17294,16 +17483,6 @@
       "name": "토마토맛",
       "name_en": "Tomatomat",
       "instagram": "https://www.instagram.com/tomatomat.exe/"
-    },
-    {
-      "name": "모노디즘",
-      "name_en": "Monothiesm",
-      "instagram": "https://www.instagram.com/band_monotheism/"
-    },
-    {
-      "name": "문소문",
-      "name_en": "Moonsomoon",
-      "instagram": "https://www.instagram.com/moonsomoon2020/"
     },
     {
       "name": "널드쿨",
@@ -17377,24 +17556,24 @@
       "instagram": "https://www.instagram.com/heymen_official/"
     },
     {
-      "name": "아시안 스파이스 하우스",
-      "name_en": "Asian Spice House",
-      "instagram": "https://www.instagram.com/asianspicehouse/"
-    },
-    {
       "name": "맥거핀",
       "name_en": "MGFF",
       "instagram": "https://www.instagram.com/mgff_official/"
     },
     {
-      "name": "행로난",
-      "name_en": "Hangroran",
-      "instagram": "https://www.instagram.com/hangronan_official/"
+      "name": "아시안 스파이스 하우스",
+      "name_en": "Asian Spice House",
+      "instagram": "https://www.instagram.com/asianspicehouse/"
     },
     {
       "name": "토카이",
       "name_en": "Tokai",
       "instagram": "https://www.instagram.com/tokai_official_/"
+    },
+    {
+      "name": "행로난",
+      "name_en": "Hangroran",
+      "instagram": "https://www.instagram.com/hangronan_official/"
     },
     {
       "name": "베어풋인더가든",
@@ -17454,11 +17633,6 @@
       "instagram": "https://www.instagram.com/jeokvarim/"
     },
     {
-      "name": "초승",
-      "name_en": "CHOSNG",
-      "instagram": "https://www.instagram.com/iamchosng/"
-    },
-    {
       "name": "묵혼",
       "name_en": "Mookhon",
       "instagram": "https://www.instagram.com/band_mookhon_official/"
@@ -17482,6 +17656,11 @@
       "name": "킹포스트",
       "name_en": "King Post",
       "instagram": "https://www.instagram.com/king_post_/"
+    },
+    {
+      "name": "초승",
+      "name_en": "CHOSNG",
+      "instagram": "https://www.instagram.com/iamchosng/"
     },
     {
       "name": "버단 컨벡스",
