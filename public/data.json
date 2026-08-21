@@ -80,18 +80,33 @@
           ]
         },
         "properties": {
-          "name_ko": "ACS",
-          "name": "ACS",
+          "name_ko": "Festival",
+          "name": "축제",
           "address_ko": "서울 중구 수표로6길 10",
           "address": "Seoul, Supyo-ro 6-gil, 10 B1",
           "address_jibun": "서울 중구 충무로3가 58-13",
-          "website": "",
-          "instagram": "https://www.instagram.com/_a_c_s___",
+          "instagram": "https://www.instagram.com/festivalfestivalseoul/",
           "kakaoMaps": "http://place.map.kakao.com/1588455849",
           "googleMaps": "https://maps.google.com/?cid=12260690947435108449",
           "naverMaps": "https://map.naver.com/p/entry/place/1679293200",
           "ra_id": 218004,
-          "events": []
+          "events": [
+            {
+              "showdeeId": 679487,
+              "source": "showdee",
+              "artists": [
+                66,
+                67,
+                68
+              ],
+              "location": "축제",
+              "date": "2026-08-23",
+              "startTime": "2026-08-23T18:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DbmqIC2iXfd/",
+              "entry": "예매 정보 링크",
+              "imgSrc": null
+            }
+          ]
         }
       },
       {
@@ -2006,7 +2021,7 @@
           ]
         },
         "properties": {
-          "name_ko": "부평아트센터달누리극장",
+          "name_ko": "부평아트센터",
           "name": "Bupyeong Arts Center",
           "address_ko": "인천광역시 부평구 아트센터로 166",
           "address": "166, Arts center-ro, Bupyeong-gu, Incheon, Republic of Korea",
@@ -2015,7 +2030,21 @@
           "kakaoMaps": "http://place.map.kakao.com/17559365",
           "googleMaps": "https://maps.google.com/?cid=3058662196114143436&g_mp=EAAYBCAA",
           "naverMaps": "https://map.naver.com/p/entry/place/1430805252",
-          "events": []
+          "events": [
+            {
+              "showdeeId": 679511,
+              "source": "showdee",
+              "artists": [
+                "뮤직 플로우 페스티벌 2026"
+              ],
+              "location": "부평아트센터 야외광장 일대",
+              "date": "2026-08-29",
+              "startTime": "2026-08-29T15:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/Dbutn8fRebO/",
+              "entry": "무료 입장",
+              "imgSrc": null
+            }
+          ]
         }
       },
       {
@@ -9189,17 +9218,32 @@
           ]
         },
         "properties": {
-          "name_ko": "벨로주 홍대",
-          "name": "Veloso Hongdae",
+          "name_ko": "벨르",
+          "name": "Vel.R",
           "address_ko": "서울 마포구 잔다리로 46",
           "address": "Seoul, Mapo-gu, Jandari-ro, 46 스튜디오 빌딩 지하",
           "address_jibun": "서울 마포구 서교동 372-6",
-          "instagram": "https://www.instagram.com/cafeveloso/",
+          "website": "https://www.velr.co.kr",
+          "instagram": "https://www.instagram.com/vel.r_live",
           "kakaoMaps": "http://place.map.kakao.com/2136641458",
           "googleMaps": "https://maps.google.com/?cid=9015226745282833815",
           "naverMaps": "https://map.naver.com/p/entry/place/1648542609",
           "ra_id": null,
-          "events": []
+          "events": [
+            {
+              "showdeeId": 679584,
+              "source": "showdee",
+              "artists": [
+                225
+              ],
+              "location": "Vel.R(벨르)",
+              "date": "2026-09-12",
+              "startTime": "2026-09-12T18:00:00.000+09:00",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=213751",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
         }
       },
       {
@@ -17808,6 +17852,483 @@
               ],
               "source": "ra",
               "ra_id": 295029
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            129.0884984,
+            35.179844
+          ]
+        },
+        "properties": {
+          "name_ko": "바이닐하우스80",
+          "name": "Vinyl House 80",
+          "address_ko": "부산광역시 연제구 쌍미천로 80 지하1층",
+          "address": "80, Ssangmicheon-ro, Yeonje-gu, Busan, Republic of Korea",
+          "address_jibun": "부산광역시 연제구 연산동 1776-2 지하1층",
+          "instagram": "https://www.instagram.com/vinylhouse80",
+          "kakaoMaps": "http://place.map.kakao.com/1382921762",
+          "googleMaps": "https://maps.google.com/?cid=420507323322317716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/FIcrqKaV",
+          "events": []
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            129.1141955,
+            35.1510282
+          ]
+        },
+        "properties": {
+          "name_ko": "코펜하겐",
+          "name": "Copenhagen",
+          "address_ko": "부산광역시 수영구 남천바다로21번길 47 1층",
+          "address": "47, Namcheonbada-ro 21beon-gil, Suyeong-gu, Busan, Republic of Korea",
+          "address_jibun": "부산광역시 수영구 광안동 182-29 1층",
+          "instagram": "http://www.instagram.com/cph.cb",
+          "kakaoMaps": "http://place.map.kakao.com/1146694024",
+          "googleMaps": "https://maps.google.com/?cid=18296823345151938378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/xdpF3xEJ",
+          "events": []
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            128.57534865375266,
+            35.832328401442794
+          ]
+        },
+        "properties": {
+          "name_ko": "오운",
+          "name": "Oun",
+          "address_ko": "대구 남구 앞산순환로 461",
+          "address": "461, Apsansunhwan-ro, Nam-gu, Daegu, Republic of Korea",
+          "address_jibun": "대구 남구 대명동 540-9",
+          "instagram": "https://www.instagram.com/oun_kitchen",
+          "kakaoMaps": "http://place.map.kakao.com/523573446",
+          "naverMaps": "https://naver.me/Fjoc2Uw7",
+          "events": [
+            {
+              "showdeeId": 679449,
+              "source": "showdee",
+              "artists": [
+                6
+              ],
+              "location": "오운",
+              "date": "2026-08-21",
+              "startTime": "2026-08-21T19:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/Dbj6JX2vJgn/",
+              "entry": "예매 정보 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            129.430462,
+            35.4963655
+          ]
+        },
+        "properties": {
+          "name_ko": "일산청년광장",
+          "name": "Ilsan Youth Square",
+          "address_ko": "",
+          "address": "Ilsan-dong, Dong-gu, Ulsan, Republic of Korea",
+          "address_jibun": "울산광역시 동구 일산동",
+          "kakaoMaps": "https://place.map.kakao.com/10745536",
+          "naverMaps": "https://naver.me/xHmfm21f",
+          "events": [
+            {
+              "showdeeId": 679465,
+              "source": "showdee",
+              "artists": [
+                "Band Live Attack Vol.05"
+              ],
+              "location": "울산 일산청년광장 특설무대",
+              "date": "2026-08-22",
+              "startTime": "2026-08-22T17:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DbLC6GtiZM2/",
+              "entry": "무료 입장",
+              "imgSrc": null
+            },
+            {
+              "showdeeId": 679485,
+              "source": "showdee",
+              "artists": [
+                "Band Live Attack Vol.05"
+              ],
+              "location": "울산 일산청년광장 특설무대",
+              "date": "2026-08-23",
+              "startTime": "2026-08-23T17:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DbLC6GtiZM2/",
+              "entry": "무료 입장",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.1420347,
+            35.8199606
+          ]
+        },
+        "properties": {
+          "name_ko": "후로기오피스",
+          "name": "Froggy Office",
+          "address_ko": "전북특별자치도 전주시 완산구 전주객사3길 62 4층 417호",
+          "address": "62, Jeonjugaeksa 3-gil, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea",
+          "address_jibun": "전북특별자치도 전주시 완산구 고사동 389-1 4층 417호",
+          "website": "",
+          "instagram": "https://www.instagram.com/froggyoffice",
+          "kakaoMaps": "http://place.map.kakao.com/1240608457",
+          "googleMaps": "https://maps.google.com/?cid=14514807227119311832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/FvTytW1O",
+          "events": [
+            {
+              "showdeeId": 679494,
+              "source": "showdee",
+              "artists": [
+                91,
+                92,
+                93
+              ],
+              "location": "전주객사3길 62 4층 417호",
+              "date": "2026-08-23",
+              "startTime": "2026-08-23T20:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DcGFjpyCwnI/",
+              "entry": "예매 정보 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.0435736,
+            37.543549
+          ]
+        },
+        "properties": {
+          "name_ko": "언더스탠드에비뉴",
+          "name": "Understand Avenue",
+          "address_ko": "서울특별시 성동구 왕십리로 63 언더스탠드에비뉴",
+          "address": "63, Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 성동구 성수동1가 685-704 언더스탠드에비뉴",
+          "website": "https://www.understandavenue.com/",
+          "instagram": "https://www.instagram.com/understand_avenue/",
+          "kakaoMaps": "http://place.map.kakao.com/27097131",
+          "googleMaps": "https://maps.google.com/?cid=8606794938409232569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/FK5vsRcA",
+          "events": [
+            {
+              "showdeeId": 679507,
+              "source": "showdee",
+              "artists": [
+                109
+              ],
+              "location": "언더스탠드 에비뉴 야외무대",
+              "date": "2026-08-28",
+              "startTime": "2026-08-28T19:30:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DcN0NlIDsmx/",
+              "entry": "무료 입장",
+              "imgSrc": null
+            },
+            {
+              "showdeeId": 679523,
+              "source": "showdee",
+              "artists": [
+                109
+              ],
+              "location": "언더스탠드 에비뉴 야외무대",
+              "date": "2026-08-29",
+              "startTime": "2026-08-29T19:30:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DcN0NlIDsmx/",
+              "entry": "무료 입장",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9158869,
+            35.14242
+          ]
+        },
+        "properties": {
+          "name_ko": "어메이징아프리카",
+          "name": "Amazing Africa",
+          "address_ko": "전남광주통합특별시 남구 천변좌로 420",
+          "address": "420, Cheonbyeonjwa-ro, Nam-gu, Jeonnam-Gwangju, Republic of Korea",
+          "address_jibun": "전남광주통합특별시 남구 양림동 24-26",
+          "kakaoMaps": "http://place.map.kakao.com/20439019",
+          "googleMaps": "https://maps.google.com/?cid=17215994986132936120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/GyYBkCSW",
+          "events": [
+            {
+              "showdeeId": 679522,
+              "source": "showdee",
+              "artists": [
+                124
+              ],
+              "location": "광주 어메이징아프리카 카페",
+              "date": "2026-08-29",
+              "startTime": "2026-08-29T19:00:00.000+09:00",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=213746",
+              "entry": "예매 링크",
+              "imgSrc": null
+            },
+            {
+              "showdeeId": 679519,
+              "source": "showdee",
+              "artists": [
+                124
+              ],
+              "location": "광주 어메이징아프리카 카페",
+              "date": "2026-08-29",
+              "startTime": "2026-08-29T19:00:00.000+09:00",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=213746",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9883043,
+            37.5390216
+          ]
+        },
+        "properties": {
+          "name_ko": "RO",
+          "name": "RO",
+          "address_ko": "서울특별시 용산구 녹사평대로52길 19 1층",
+          "address": "19, Noksapyeong-daero 52-gil, Yongsan-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 용산구 이태원동 274-4 1층",
+          "instagram": "https://www.instagram.com/ro.seoul",
+          "kakaoMaps": "http://place.map.kakao.com/721668617",
+          "naverMaps": "https://naver.me/GP2dHJJw",
+          "ra_id": 298159,
+          "events": [
+            {
+              "date": "2026-08-21T00:00:00.000",
+              "startTime": "2026-08-21T19:00:00.000",
+              "endTime": "2026-08-22T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2517221",
+              "title": "RO",
+              "location": "RO Seoul",
+              "artists": [
+                "Keenote"
+              ],
+              "source": "ra",
+              "ra_id": 298159
+            },
+            {
+              "date": "2026-08-22T00:00:00.000",
+              "startTime": "2026-08-22T19:00:00.000",
+              "endTime": "2026-08-23T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2517222",
+              "title": "Glow",
+              "location": "RO Seoul",
+              "artists": [
+                "Minish",
+                "Dadachoe",
+                "Nocturnal (KR)",
+                "Ginger",
+                "Zion"
+              ],
+              "source": "ra",
+              "ra_id": 298159
+            },
+            {
+              "date": "2026-08-23T00:00:00.000",
+              "startTime": "2026-08-23T20:30:00.000",
+              "endTime": "2026-08-24T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2517223",
+              "title": "LIVE: HWIHWA",
+              "location": "RO Seoul",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 298159
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.052550021978,
+            37.5251540459067
+          ]
+        },
+        "properties": {
+          "name_ko": "플러스82",
+          "name": "Plus82",
+          "address_ko": "서울 강남구 도산대로 539",
+          "address": "539, Dosan-daero, Gangnam-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울 강남구 청담동 125-12",
+          "instagram": "https://www.instagram.com/plus82seoul",
+          "kakaoMaps": "http://place.map.kakao.com/1816476703",
+          "googleMaps": "https://maps.google.com/?cid=13078197375029386333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/FpxlHedR",
+          "ra_id": 300076,
+          "events": [
+            {
+              "date": "2026-08-22T00:00:00.000",
+              "startTime": "2026-08-22T22:00:00.000",
+              "endTime": "2026-08-23T11:00:00.000",
+              "eventUrl": "https://ra.co/events/2513005",
+              "title": "HARD TECHNO TAKEOVER: PLUS82 X SANCTYARY",
+              "location": "Plus82 Seoul",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 300076
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9364337,
+            37.5581332
+          ]
+        },
+        "properties": {
+          "name_ko": "바플라이",
+          "name": "Barfly",
+          "address_ko": "서울특별시 서대문구 연세로7안길 10 지1층, 지하중층",
+          "address": "10, Yonsei-ro 7an-gil, Seodaemun-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 서대문구 창천동 33-25 지1층, 지하중층",
+          "kakaoMaps": "https://place.map.kakao.com/574183789",
+          "googleMaps": "https://maps.google.com/?cid=4098795683650138871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/xbAX78Ot",
+          "ra_id": 254857,
+          "events": [
+            {
+              "date": "2026-08-22T00:00:00.000",
+              "startTime": "2026-08-22T19:00:00.000",
+              "endTime": "2026-08-23T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2516513",
+              "title": "CGPW Vol.5",
+              "location": "Barfly 4",
+              "artists": [
+                "BBBBBBB",
+                "Guinneissik",
+                "DDD (2)"
+              ],
+              "source": "ra",
+              "ra_id": 254857
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9240806,
+            37.5514643
+          ]
+        },
+        "properties": {
+          "name_ko": "BRST Studio",
+          "name": "BRST Studio",
+          "address_ko": "서울특별시 마포구 와우산로18길 30 지1층",
+          "address": "30, Wausan-ro 18-gil, Mapo-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 마포구 서교동 360-14 지1층",
+          "instagram": "http://instagram.com/brst_studio",
+          "kakaoMaps": "https://place.map.kakao.com/1820702957",
+          "googleMaps": "https://maps.google.com/?cid=13973988963137572234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/F1rYAsuN",
+          "ra_id": 286387,
+          "events": [
+            {
+              "date": "2026-09-05T00:00:00.000",
+              "startTime": "2026-09-05T20:00:00.000",
+              "endTime": "2026-09-05T21:30:00.000",
+              "eventUrl": "https://ra.co/events/2514611",
+              "title": "Moruka Liveset Performance",
+              "location": "Brst Studio",
+              "artists": [
+                "Moruka"
+              ],
+              "source": "ra",
+              "ra_id": 286387
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.0669842,
+            37.5618415
+          ]
+        },
+        "properties": {
+          "name_ko": "더오페라",
+          "name": "The Opera",
+          "address_ko": "서울특별시 동대문구 장한로2길 36 2층~3층",
+          "address": "36, Janghan-ro 2-gil, Dongdaemun-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 동대문구 장안동 465-2 2층~3층",
+          "website": "http://bit.ly/%EB%8D%94%EC%98%A4%ED%8E%98%EB%9D%BC",
+          "kakaoMaps": "http://place.map.kakao.com/1017631297",
+          "googleMaps": "https://maps.google.com/?cid=1019887424179686007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/G1mZhNkc",
+          "ra_id": 299102,
+          "events": [
+            {
+              "date": "2026-10-09T00:00:00.000",
+              "startTime": "2026-10-09T20:00:00.000",
+              "endTime": "2026-10-10T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2504914",
+              "title": "HIGH-TECH SEOUL day of HANGUL",
+              "location": "The Opera",
+              "artists": [
+                "D.Dan",
+                "Mari Sakurai",
+                "E3",
+                "SINAE"
+              ],
+              "source": "ra",
+              "ra_id": 299102
             }
           ]
         }

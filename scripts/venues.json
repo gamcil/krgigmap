@@ -59,21 +59,22 @@
     "_dir": "3.15_아트센터_대극장"
   },
   {
-    "name": "ACS",
-    "name_ko": "ACS",
+    "name": "축제",
+    "name_ko": "Festival",
     "ra_id": 218004,
     "alias": [
-      "acs.kr"
+      "ACS",
+      "acs.kr",
+      "축제festival"
     ],
     "address_ko": "서울 중구 수표로6길 10",
     "address_jibun": "서울 중구 충무로3가 58-13",
     "lat": 37.5627262535897,
     "lng": 126.990956568944,
-    "instagram": "https://www.instagram.com/_a_c_s___",
+    "instagram": "https://www.instagram.com/festivalfestivalseoul/",
     "kakaoMaps": "http://place.map.kakao.com/1588455849",
     "googleMaps": "https://maps.google.com/?cid=12260690947435108449",
     "address": "Seoul, Supyo-ro 6-gil, 10 B1",
-    "website": "",
     "naverMaps": "https://map.naver.com/p/entry/place/1679293200",
     "_dir": "15_서울_acs_acs"
   },
@@ -1158,7 +1159,7 @@
   },
   {
     "name": "Bupyeong Arts Center",
-    "name_ko": "부평아트센터달누리극장",
+    "name_ko": "부평아트센터",
     "address": "166, Arts center-ro, Bupyeong-gu, Incheon, Republic of Korea",
     "address_ko": "인천광역시 부평구 아트센터로 166",
     "address_jibun": "인천광역시 부평구 십정동 186-22",
@@ -1177,7 +1178,8 @@
       "부평아트센터달누리극장",
       "부평아트센터 해누리극장",
       "부평아트센터",
-      "부평아트센터 해누리 극장"
+      "부평아트센터 해누리 극장",
+      "부평아트센터 야외광장 일대"
     ],
     "_dir": "부평아트센터_해누리_극장"
   },
@@ -5532,18 +5534,19 @@
     "_dir": "제주_우주파"
   },
   {
-    "name": "Veloso Hongdae",
-    "name_ko": "벨로주 홍대",
+    "name": "Vel.R",
+    "name_ko": "벨르",
     "address_ko": "서울 마포구 잔다리로 46",
     "address_jibun": "서울 마포구 서교동 372-6",
     "lat": 37.5524309259852,
     "lng": 126.918817238433,
-    "instagram": "https://www.instagram.com/cafeveloso/",
+    "website": "https://www.velr.co.kr",
+    "instagram": "https://www.instagram.com/vel.r_live",
     "kakaoMaps": "http://place.map.kakao.com/2136641458",
     "googleMaps": "https://maps.google.com/?cid=9015226745282833815",
     "ra_id": null,
     "address": "Seoul, Mapo-gu, Jandari-ro, 46 스튜디오 빌딩 지하",
-    "alias": ["벨르", "구 벨로주"],
+    "alias": ["벨르", "구 벨로주", "벨로주 홍대"],
     "naverMaps": "https://map.naver.com/p/entry/place/1648542609"
   },
   {
@@ -11094,6 +11097,219 @@
       "글로우 &amp; 잘츠",
       "글로우 앤 잘츠",
       "글로우 잘츠"
+    ]
+  },
+  {
+    "name": "Vinyl House 80",
+    "name_ko": "바이닐하우스80",
+    "address": "80, Ssangmicheon-ro, Yeonje-gu, Busan, Republic of Korea",
+    "address_ko": "부산광역시 연제구 쌍미천로 80 지하1층",
+    "address_jibun": "부산광역시 연제구 연산동 1776-2 지하1층",
+    "lat": 35.179844,
+    "lng": 129.0884984,
+    "instagram": "https://www.instagram.com/vinylhouse80",
+    "googleMaps": "https://maps.google.com/?cid=420507323322317716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1382921762",
+    "naverMaps": "https://naver.me/FIcrqKaV",
+    "alias": [
+      "바이닐하우스80",
+      "바이닐하우스80 ( Vinyl house 80 )"
+    ]
+  },
+  {
+    "name": "Copenhagen",
+    "name_ko": "코펜하겐",
+    "address": "47, Namcheonbada-ro 21beon-gil, Suyeong-gu, Busan, Republic of Korea",
+    "address_ko": "부산광역시 수영구 남천바다로21번길 47 1층",
+    "address_jibun": "부산광역시 수영구 광안동 182-29 1층",
+    "lat": 35.1510282,
+    "lng": 129.1141955,
+    "googleMaps": "https://maps.google.com/?cid=18296823345151938378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1146694024",
+    "naverMaps": "https://naver.me/xdpF3xEJ",
+    "alias": [
+      "코펜하겐",
+      "코펜하겐(CPH.CB)",
+      "부산 카페 코펜하겐"
+    ],
+    "instagram": "http://www.instagram.com/cph.cb"
+  },
+  {
+    "name": "Oun",
+    "name_ko": "오운",
+    "address": "461, Apsansunhwan-ro, Nam-gu, Daegu, Republic of Korea",
+    "address_ko": "대구 남구 앞산순환로 461",
+    "address_jibun": "대구 남구 대명동 540-9",
+    "lat": 35.832328401442794,
+    "lng": 128.57534865375266,
+    "kakaoMaps": "http://place.map.kakao.com/523573446",
+    "naverMaps": "https://naver.me/Fjoc2Uw7",
+    "instagram": "https://www.instagram.com/oun_kitchen",
+    "alias": [
+      "오운"
+    ]
+  },
+  {
+    "name": "Ilsan Youth Square",
+    "name_ko": "일산청년광장",
+    "address": "Ilsan-dong, Dong-gu, Ulsan, Republic of Korea",
+    "address_ko": "",
+    "address_jibun": "울산광역시 동구 일산동",
+    "lat": 35.4963655,
+    "lng": 129.430462,
+    "naverMaps": "https://naver.me/xHmfm21f",
+    "kakaoMaps": "https://place.map.kakao.com/10745536",
+    "alias": [
+      "일산해수욕장입구",
+      "울산 일산청년광장",
+      "울산 일산청년광장 특설무대"
+    ]
+  },
+  {
+    "name": "Froggy Office",
+    "name_ko": "후로기오피스",
+    "address": "62, Jeonjugaeksa 3-gil, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea",
+    "address_ko": "전북특별자치도 전주시 완산구 전주객사3길 62 4층 417호",
+    "address_jibun": "전북특별자치도 전주시 완산구 고사동 389-1 4층 417호",
+    "lat": 35.8199606,
+    "lng": 127.1420347,
+    "website": "",
+    "googleMaps": "https://maps.google.com/?cid=14514807227119311832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1240608457",
+    "naverMaps": "https://naver.me/FvTytW1O",
+    "instagram": "https://www.instagram.com/froggyoffice",
+    "alias": [
+      "후로기오피스",
+      "froggyoffice",
+      "후로기오피스"
+    ]
+  },
+  {
+    "name": "Understand Avenue",
+    "name_ko": "언더스탠드에비뉴",
+    "address": "63, Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 성동구 왕십리로 63 언더스탠드에비뉴",
+    "address_jibun": "서울특별시 성동구 성수동1가 685-704 언더스탠드에비뉴",
+    "lat": 37.543549,
+    "lng": 127.0435736,
+    "website": "https://www.understandavenue.com/",
+    "instagram": "https://www.instagram.com/understand_avenue/",
+    "googleMaps": "https://maps.google.com/?cid=8606794938409232569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/27097131",
+    "naverMaps": "https://naver.me/FK5vsRcA",
+    "alias": [
+      "언더스탠드에비뉴",
+      "언더스탠드 에비뉴 야외무대",
+      "언더스탠드 에비뉴"
+    ]
+  },
+  {
+    "name": "Amazing Africa",
+    "name_ko": "어메이징아프리카",
+    "address": "420, Cheonbyeonjwa-ro, Nam-gu, Jeonnam-Gwangju, Republic of Korea",
+    "address_ko": "전남광주통합특별시 남구 천변좌로 420",
+    "address_jibun": "전남광주통합특별시 남구 양림동 24-26",
+    "lat": 35.14242,
+    "lng": 126.9158869,
+    "googleMaps": "https://maps.google.com/?cid=17215994986132936120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/20439019",
+    "naverMaps": "https://naver.me/GyYBkCSW",
+    "alias": [
+      "어메이징아프리카",
+      "어메이징 아프리카",
+      "광주 어메이징아프리카 카페"
+    ]
+  },
+  {
+    "name": "RO",
+    "name_ko": "RO",
+    "ra_id": 298159,
+    "address": "19, Noksapyeong-daero 52-gil, Yongsan-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 용산구 녹사평대로52길 19 1층",
+    "address_jibun": "서울특별시 용산구 이태원동 274-4 1층",
+    "lat": 37.5390216,
+    "lng": 126.9883043,
+    "kakaoMaps": "http://place.map.kakao.com/721668617",
+    "naverMaps": "https://naver.me/GP2dHJJw",
+    "instagram": "https://www.instagram.com/ro.seoul",
+    "alias": [
+      "RO SEOUL",
+      "로서울",
+      "RO SEOUL"
+    ]
+  },
+  {
+    "name": "Plus82",
+    "name_ko": "플러스82",
+    "ra_id": 300076,
+    "address": "539, Dosan-daero, Gangnam-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 강남구 도산대로 539",
+    "address_jibun": "서울 강남구 청담동 125-12",
+    "lat": 37.5251540459067,
+    "lng": 127.052550021978,
+    "instagram": "https://www.instagram.com/plus82seoul",
+    "googleMaps": "https://maps.google.com/?cid=13078197375029386333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1816476703",
+    "naverMaps": "https://naver.me/FpxlHedR",
+    "alias": [
+      "플러스82",
+      "청담클럽 플러스82",
+      "플러스82"
+    ]
+  },
+  {
+    "name": "Barfly",
+    "name_ko": "바플라이",
+    "ra_id": 254857,
+    "address": "10, Yonsei-ro 7an-gil, Seodaemun-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 서대문구 연세로7안길 10 지1층, 지하중층",
+    "address_jibun": "서울특별시 서대문구 창천동 33-25 지1층, 지하중층",
+    "lat": 37.5581332,
+    "lng": 126.9364337,
+    "googleMaps": "https://maps.google.com/?cid=4098795683650138871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "naverMaps": "https://naver.me/xbAX78Ot",
+    "kakaoMaps": "https://place.map.kakao.com/574183789",
+    "alias": [
+      "바플라이예체능",
+      "바플라이"
+    ]
+  },
+  {
+    "name": "BRST Studio",
+    "name_ko": "BRST Studio",
+    "ra_id": 286387,
+    "address": "30, Wausan-ro 18-gil, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 와우산로18길 30 지1층",
+    "address_jibun": "서울특별시 마포구 서교동 360-14 지1층",
+    "lat": 37.5514643,
+    "lng": 126.9240806,
+    "googleMaps": "https://maps.google.com/?cid=13973988963137572234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "naverMaps": "https://naver.me/F1rYAsuN",
+    "kakaoMaps": "https://place.map.kakao.com/1820702957",
+    "alias": [
+      "BRST STUDIO",
+      "BRST STUDIO & LIVE HOUSE",
+      "BRST Studio"
+    ],
+    "instagram": "http://instagram.com/brst_studio"
+  },
+  {
+    "name": "The Opera",
+    "name_ko": "더오페라",
+    "ra_id": 299102,
+    "address": "36, Janghan-ro 2-gil, Dongdaemun-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 동대문구 장한로2길 36 2층~3층",
+    "address_jibun": "서울특별시 동대문구 장안동 465-2 2층~3층",
+    "lat": 37.5618415,
+    "lng": 127.0669842,
+    "website": "http://bit.ly/%EB%8D%94%EC%98%A4%ED%8E%98%EB%9D%BC",
+    "googleMaps": "https://maps.google.com/?cid=1019887424179686007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1017631297",
+    "naverMaps": "https://naver.me/G1mZhNkc",
+    "alias": [
+      "더오페라",
+      "더 오페라",
+      "더오페라"
     ]
   }
 ]
