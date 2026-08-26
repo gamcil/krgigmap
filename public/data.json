@@ -4194,7 +4194,7 @@
               "startTime": "2026-08-28T20:00:00.000",
               "endTime": "2026-08-29T02:30:00.000",
               "eventUrl": "https://ra.co/events/2519515",
-              "title": "GUSEUL",
+              "title": "FIRST POUR X GUSEUL",
               "location": "J.J. Mahoney's Bar",
               "artists": [
                 "Pingpong (KR)",
@@ -5005,7 +5005,20 @@
           "googleMaps": "https://maps.google.com/?cid=12436278149443321697",
           "naverMaps": "https://map.naver.com/p/entry/place/1031475419",
           "ra_id": null,
-          "events": []
+          "events": [
+            {
+              "date": "2026-08-29T00:00:00.000",
+              "startTime": "2026-08-29T16:30:00.000",
+              "endTime": "2026-08-29T21:30:00.000",
+              "eventUrl": "https://ra.co/events/2520477",
+              "title": "HOUSE TRAIN: ALL STYLE",
+              "location": "Leeam ART Center",
+              "artists": [
+                "Beejay"
+              ],
+              "source": "ra"
+            }
+          ]
         }
       },
       {
@@ -6276,7 +6289,53 @@
           "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
           "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
           "ra_id": 194402,
-          "events": []
+          "events": [
+            {
+              "date": "2026-08-28T00:00:00.000",
+              "startTime": "2026-08-28T23:00:00.000",
+              "endTime": "2026-08-29T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2520717",
+              "title": "Safe House_Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "Kostya Outta",
+                "TRUEUNSOL",
+                "Nitecaps"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            },
+            {
+              "date": "2026-08-29T00:00:00.000",
+              "startTime": "2026-08-29T23:00:00.000",
+              "endTime": "2026-08-30T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2520718",
+              "title": "Patch Work_Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "Techa",
+                "Jimin",
+                "FOI (SK)"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            },
+            {
+              "date": "2026-08-30T00:00:00.000",
+              "startTime": "2026-08-30T23:00:00.000",
+              "endTime": "2026-08-31T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2520723",
+              "title": "Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "givogi",
+                "Jesse You",
+                "FOI (SK)"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            }
+          ]
         }
       },
       {
@@ -7578,7 +7637,41 @@
           "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
           "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
           "ra_id": 195346,
-          "events": []
+          "events": [
+            {
+              "date": "2026-08-28T00:00:00.000",
+              "startTime": "2026-08-28T23:00:00.000",
+              "endTime": "2026-08-29T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2520709",
+              "title": "Echo Sequence_Shelter Seoul",
+              "location": "Shelter",
+              "artists": [
+                "NO.LINK",
+                "Yomi",
+                "rerekat",
+                "bumv"
+              ],
+              "source": "ra",
+              "ra_id": 195346
+            },
+            {
+              "date": "2026-08-29T00:00:00.000",
+              "startTime": "2026-08-29T23:00:00.000",
+              "endTime": "2026-08-30T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2520713",
+              "title": "Shelter Seoul",
+              "location": "Shelter",
+              "artists": [
+                "MOVIN.KR",
+                "WUGU",
+                "Honn",
+                "NO.LINK",
+                "X2C (1)"
+              ],
+              "source": "ra",
+              "ra_id": 195346
+            }
+          ]
         }
       },
       {
@@ -9978,7 +10071,7 @@
               "artists": [
                 "Zorba",
                 "Young Sun",
-                "Kibum"
+                "Sunday Lee"
               ],
               "source": "ra",
               "ra_id": 220595
@@ -9991,7 +10084,9 @@
               "title": "Invites Leafar Legov",
               "location": "teller",
               "artists": [
-                "Leafar Legov"
+                "Leafar Legov",
+                "Jongho",
+                "Kibum"
               ],
               "source": "ra",
               "ra_id": 220595
@@ -10527,6 +10622,25 @@
               "ra_id": 70614
             },
             {
+              "date": "2026-09-04T00:00:00.000",
+              "startTime": "2026-09-04T22:00:00.000",
+              "endTime": "2026-09-05T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2520507",
+              "title": "Raw Hearts presents: CyberKills (BR)",
+              "location": "Cakeshop",
+              "artists": [
+                "Ligrye",
+                "dayoung",
+                "MAZE (KR)",
+                "KoiKoi",
+                "August (3)",
+                "rue (3)",
+                "MOHOHOMO"
+              ],
+              "source": "ra",
+              "ra_id": 70614
+            },
+            {
               "date": "2026-09-11T00:00:00.000",
               "startTime": "2026-09-11T22:00:00.000",
               "endTime": "2026-09-12T05:00:00.000",
@@ -10670,12 +10784,14 @@
             {
               "date": "2026-09-05T00:00:00.000",
               "startTime": "2026-09-05T23:00:00.000",
-              "endTime": "2026-09-06T06:00:00.000",
+              "endTime": "2026-09-06T08:00:00.000",
               "eventUrl": "https://ra.co/events/2515468",
               "title": "vurtnight Rrose",
               "location": "vurt.",
               "artists": [
-                "Rrose"
+                "Rrose",
+                "GOBI",
+                "SJK (1)"
               ],
               "source": "ra",
               "ra_id": 101673
@@ -12707,7 +12823,23 @@
           "address_jibun": "서울 용산구 이태원동 119-29 2층",
           "instagram": "https://www.instagram.com/ring.seoul/",
           "ra_id": 220279,
-          "events": []
+          "events": [
+            {
+              "date": "2026-08-28T00:00:00.000",
+              "startTime": "2026-08-28T23:00:00.000",
+              "endTime": "2026-08-29T07:00:00.000",
+              "eventUrl": "https://ra.co/events/2520683",
+              "title": "Ring",
+              "location": "Ring",
+              "artists": [
+                "Yoel",
+                "Minkyu",
+                "Krijka"
+              ],
+              "source": "ra",
+              "ra_id": 220279
+            }
+          ]
         }
       },
       {
@@ -16186,7 +16318,52 @@
           "googleMaps": "https://maps.google.com/?cid=3456418008846797751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
           "naverMaps": "https://naver.me/5ow5ItCz",
           "ra_id": 284350,
-          "events": []
+          "events": [
+            {
+              "date": "2026-08-28T00:00:00.000",
+              "startTime": "2026-08-28T23:00:00.000",
+              "endTime": "2026-08-29T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2520864",
+              "title": "Flac: Residency Program",
+              "location": "Flac",
+              "artists": [
+                "Davico",
+                "Jinnychoo"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            },
+            {
+              "date": "2026-08-29T00:00:00.000",
+              "startTime": "2026-08-29T23:00:00.000",
+              "endTime": "2026-08-30T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2520872",
+              "title": "Flac: Residency Program",
+              "location": "Flac",
+              "artists": [
+                "Davico",
+                "Demuk",
+                "YH (KR)"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            },
+            {
+              "date": "2026-09-05T00:00:00.000",
+              "startTime": "2026-09-05T23:00:00.000",
+              "endTime": "2026-09-06T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2515337",
+              "title": "Flac: Shubostar",
+              "location": "Flac",
+              "artists": [
+                "Shubostar",
+                "DARIMI TABLE",
+                "Departs"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            }
+          ]
         }
       },
       {
@@ -17013,7 +17190,10 @@
               "eventUrl": "https://ra.co/events/2519275",
               "title": "OFF SCHEDULE: SEOUL",
               "location": "Blank Site",
-              "artists": [],
+              "artists": [
+                "rue (3)",
+                "Excultist"
+              ],
               "source": "ra",
               "ra_id": 296126
             },
