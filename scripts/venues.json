@@ -3751,7 +3751,7 @@
     "website": "https://www.mardimercredi.com/",
     "instagram": "https://www.instagram.com/noir_mardi_mercredi",
     "naverMaps": "https://map.naver.com/p/entry/place/1500908439",
-    "_dir": "39_서울_누아르마르디메크르디_noirmardimercredi"
+    "alias": ["TW Records Seoul", "TW레코즈"]
   },
   {
     "name": "Nonsan Art Center",
@@ -11381,6 +11381,76 @@
       "캠프마켓",
       "부평 캠프마켓 야구장",
       "부평 캠프마켓"
+    ]
+  },
+  {
+    "name": "Art Venue Chosok",
+    "name_ko": "속초 소극장&음악창작소 초속",
+    "address": "4327, Donghae-daero, Sokcho-si, Gangwon-do, Republic of Korea",
+    "address_ko": "강원특별자치도 속초시 동해대로 4327 한남빌딩 B102호",
+    "address_jibun": "강원특별자치도 속초시 교동 932-2 한남빌딩 B102호",
+    "lat": 38.2015565,
+    "lng": 128.5689728,
+    "googleMaps": "https://maps.google.com/?cid=1033586854880123719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1188226643",
+    "naverMaps": "https://naver.me/GalHrLdA",
+    "alias": [
+      "속초 소극장&음악창작소 초속",
+      "소극장&음악창작소 초속",
+      "속초 소극장 &음악창작소 초속"
+    ],
+    "instagram": "https://www.instagram.com/art_venue_chosok/"
+  },
+  {
+    "name": "cupwalking",
+    "name_ko": "잔걸음",
+    "address": "51, Nokbeon-ro, Eunpyeong-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 은평구 녹번로 51 1층 103호",
+    "address_jibun": "서울특별시 은평구 녹번동 95-9 1층 103호",
+    "lat": 37.605925,
+    "lng": 126.9302274,
+    "instagram": "https://www.instagram.com/cupwalking",
+    "googleMaps": "https://maps.google.com/?cid=16637424597113943543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "naverMaps": "https://naver.me/x67yhOwa",
+    "kakaoMaps": "https://place.map.kakao.com/1165928871",
+    "alias": [
+      "잔걸음"
+    ]
+  },
+  {
+    "name": "Asia Publishing Culture Information Center",
+    "name_ko": "아시아출판문화정보센터",
+    "address": "145, Hoedong-gil, Paju-si, Gyeonggi-do, Republic of Korea",
+    "address_ko": "경기도 파주시 회동길 145",
+    "address_jibun": "경기도 파주시 문발동 524-3",
+    "lat": 37.7086722,
+    "lng": 126.6867274,
+    "website": "https://pajubookcity.org/",
+    "googleMaps": "https://maps.google.com/?cid=3613954369381309863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/14651854",
+    "naverMaps": "https://naver.me/GG7tK38S",
+    "alias": [
+      "아시아출판문화정보센터"
+    ]
+  },
+  {
+    "name": "Kote",
+    "name_ko": "코트",
+    "ra_id": 202323,
+    "address": "7, Insadong 1-gil, Jongno-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 종로구 인사동1길 7 해봉빌딩",
+    "address_jibun": "서울특별시 종로구 인사동 130-2 해봉빌딩",
+    "lat": 37.5713718,
+    "lng": 126.9868933,
+    "website": "http://www.kote.kr/",
+    "instagram": "https://www.instagram.com/kote.kr/",
+    "googleMaps": "https://maps.google.com/?cid=15533099957559939011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/2133891286",
+    "naverMaps": "https://naver.me/5ss6YhUh",
+    "alias": [
+      "인사동 코트",
+      "코트",
+      "Kote"
     ]
   }
 ]

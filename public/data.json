@@ -227,7 +227,39 @@
           "googleMaps": "https://maps.google.com/?cid=16164063049611793081",
           "naverMaps": "https://map.naver.com/p/entry/place/1123909060",
           "ra_id": 198937,
-          "events": []
+          "events": [
+            {
+              "date": "2026-09-04T00:00:00.000",
+              "startTime": "2026-09-04T22:00:00.000",
+              "endTime": "2026-09-05T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2524679",
+              "title": "Bolero: SOUTH X DADABOO AFRO TO THE WORLD",
+              "location": "Bolero",
+              "artists": [
+                "GRACE KTOWN",
+                "Unkelchubbz",
+                "DJ Co.kr",
+                "ANDOW",
+                "Daul"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-09-04T00:00:00.000",
+              "startTime": "2026-09-04T22:00:00.000",
+              "endTime": "2026-09-05T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2524682",
+              "title": "Bolero: POSTER UK RAVE",
+              "location": "Bolero",
+              "artists": [
+                "DJ POOL",
+                "h4rdy"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            }
+          ]
         }
       },
       {
@@ -5957,7 +5989,21 @@
           "googleMaps": "https://maps.google.com/?cid=26873925375562228",
           "naverMaps": "https://map.naver.com/p/entry/place/1500908439",
           "ra_id": null,
-          "events": []
+          "events": [
+            {
+              "showdeeId": 700944,
+              "source": "showdee",
+              "artists": [
+                11
+              ],
+              "location": "TW Records Seoul",
+              "date": "2026-09-02",
+              "startTime": "2026-09-02T20:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DcizMBThg3g/",
+              "entry": "감상회",
+              "imgSrc": null
+            }
+          ]
         }
       },
       {
@@ -15795,6 +15841,17 @@
           "ra_id": 285391,
           "events": [
             {
+              "date": "2026-09-03T00:00:00.000",
+              "startTime": "2026-09-03T22:00:00.000",
+              "endTime": "2026-09-04T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2524720",
+              "title": "SOUNDCLASH: JULIANA NIGHTLIFE",
+              "location": "Lion Super Club",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 285391
+            },
+            {
               "date": "2026-09-05T00:00:00.000",
               "startTime": "2026-09-05T23:00:00.000",
               "endTime": "2026-09-06T06:00:00.000",
@@ -17553,6 +17610,178 @@
               "eventUrl": "http://instagram.com/p/DcTUX2DTgiO/",
               "entry": "무료 입장",
               "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            128.5689728,
+            38.2015565
+          ]
+        },
+        "properties": {
+          "name_ko": "속초 소극장&음악창작소 초속",
+          "name": "Art Venue Chosok",
+          "address_ko": "강원특별자치도 속초시 동해대로 4327 한남빌딩 B102호",
+          "address": "4327, Donghae-daero, Sokcho-si, Gangwon-do, Republic of Korea",
+          "address_jibun": "강원특별자치도 속초시 교동 932-2 한남빌딩 B102호",
+          "instagram": "https://www.instagram.com/art_venue_chosok/",
+          "kakaoMaps": "http://place.map.kakao.com/1188226643",
+          "googleMaps": "https://maps.google.com/?cid=1033586854880123719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/GalHrLdA",
+          "events": [
+            {
+              "showdeeId": 701004,
+              "source": "showdee",
+              "artists": [
+                125,
+                126,
+                "더보울스"
+              ],
+              "location": "속초 소극장&음악창작소 초속",
+              "date": "2026-09-11",
+              "startTime": "2026-09-11T20:00:00.000+09:00",
+              "eventUrl": "https://www.2tm.co.kr/ticket/10655",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9302274,
+            37.605925
+          ]
+        },
+        "properties": {
+          "name_ko": "잔걸음",
+          "name": "cupwalking",
+          "address_ko": "서울특별시 은평구 녹번로 51 1층 103호",
+          "address": "51, Nokbeon-ro, Eunpyeong-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 은평구 녹번동 95-9 1층 103호",
+          "instagram": "https://www.instagram.com/cupwalking",
+          "kakaoMaps": "https://place.map.kakao.com/1165928871",
+          "googleMaps": "https://maps.google.com/?cid=16637424597113943543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/x67yhOwa",
+          "events": [
+            {
+              "showdeeId": 701105,
+              "source": "showdee",
+              "artists": [
+                269
+              ],
+              "location": "잔걸음",
+              "date": "2026-09-20",
+              "startTime": "2026-09-20T13:00:00.000+09:00",
+              "eventUrl": "https://www.instagram.com/p/DccgyeMEjTP/",
+              "entry": "예매 정보 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.6867274,
+            37.7086722
+          ]
+        },
+        "properties": {
+          "name_ko": "아시아출판문화정보센터",
+          "name": "Asia Publishing Culture Information Center",
+          "address_ko": "경기도 파주시 회동길 145",
+          "address": "145, Hoedong-gil, Paju-si, Gyeonggi-do, Republic of Korea",
+          "address_jibun": "경기도 파주시 문발동 524-3",
+          "website": "https://pajubookcity.org/",
+          "kakaoMaps": "http://place.map.kakao.com/14651854",
+          "googleMaps": "https://maps.google.com/?cid=3613954369381309863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/GG7tK38S",
+          "events": [
+            {
+              "showdeeId": 701113,
+              "source": "showdee",
+              "artists": [
+                "모보 페스티벌"
+              ],
+              "location": "아시아출판문화정보센터",
+              "date": "2026-10-10",
+              "startTime": "2026-10-10T12:00:00.000+09:00",
+              "eventUrl": "https://www.2tm.co.kr/ticket/10540",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9868933,
+            37.5713718
+          ]
+        },
+        "properties": {
+          "name_ko": "코트",
+          "name": "Kote",
+          "address_ko": "서울특별시 종로구 인사동1길 7 해봉빌딩",
+          "address": "7, Insadong 1-gil, Jongno-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 종로구 인사동 130-2 해봉빌딩",
+          "website": "http://www.kote.kr/",
+          "instagram": "https://www.instagram.com/kote.kr/",
+          "kakaoMaps": "http://place.map.kakao.com/2133891286",
+          "googleMaps": "https://maps.google.com/?cid=15533099957559939011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/5ss6YhUh",
+          "ra_id": 202323,
+          "events": [
+            {
+              "date": "2026-09-05T00:00:00.000",
+              "startTime": "2026-09-05T12:00:00.000",
+              "endTime": "2026-09-06T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2524677",
+              "title": "UNTIL WE GATHER (Saturday)",
+              "location": "Kote",
+              "artists": [
+                "Hyejin",
+                "SINAHILL",
+                "Nimvy",
+                "Shins",
+                "Haney Lee",
+                "Sanaconda",
+                "untitled (2)",
+                "KING SHE",
+                "rue (3)"
+              ],
+              "source": "ra",
+              "ra_id": 202323
+            },
+            {
+              "date": "2026-09-06T00:00:00.000",
+              "startTime": "2026-09-06T12:00:00.000",
+              "endTime": "2026-09-06T22:00:00.000",
+              "eventUrl": "https://ra.co/events/2524681",
+              "title": "UNTIL WE GATHER (Sunday)",
+              "location": "Kote",
+              "artists": [
+                "DJ Co.kr",
+                "Virion",
+                "Tabris",
+                "Excultist"
+              ],
+              "source": "ra",
+              "ra_id": 202323
             }
           ]
         }
