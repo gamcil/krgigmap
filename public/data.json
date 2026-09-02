@@ -3036,7 +3036,23 @@
           "googleMaps": "https://maps.google.com/?cid=11611526965268853899",
           "naverMaps": "https://map.naver.com/p/entry/place/31336672",
           "ra_id": null,
-          "events": []
+          "events": [
+            {
+              "showdeeId": 715560,
+              "source": "showdee",
+              "artists": [
+                246,
+                247,
+                201
+              ],
+              "location": "팡타개라지",
+              "date": "2026-09-17",
+              "startTime": "2026-09-17T20:00:00.000+09:00",
+              "eventUrl": "https://www.2tm.co.kr/ticket/10682",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
         }
       },
       {
@@ -3153,6 +3169,23 @@
           "naverMaps": "https://map.naver.com/p/entry/place/1559022398",
           "ra_id": 106806,
           "events": [
+            {
+              "date": "2026-09-04T00:00:00.000",
+              "startTime": "2026-09-04T23:00:00.000",
+              "endTime": "2026-09-05T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2526871",
+              "title": "nacht",
+              "location": "Faust",
+              "artists": [
+                "Kim Bo Yeon",
+                "Marcus L",
+                "ROS3",
+                "Nocturnal (KR)",
+                "NUKiD"
+              ],
+              "source": "ra",
+              "ra_id": 106806
+            },
             {
               "date": "2026-09-05T00:00:00.000",
               "startTime": "2026-09-05T23:00:00.000",
@@ -4965,7 +4998,47 @@
           "googleMaps": "https://maps.google.com/?cid=2109019772521926811",
           "naverMaps": "https://map.naver.com/p/entry/place/35074422",
           "ra_id": null,
-          "events": []
+          "events": [
+            {
+              "showdeeId": 715607,
+              "source": "showdee",
+              "artists": [
+                284
+              ],
+              "location": "KT&G 상상마당 춘천 A동 2층 테라스",
+              "date": "2026-09-20",
+              "startTime": "2026-09-20T16:30:00.000+09:00",
+              "eventUrl": "https://ticket.yes24.com/Perf/59946",
+              "entry": "예매 링크",
+              "imgSrc": null
+            },
+            {
+              "showdeeId": 715614,
+              "source": "showdee",
+              "artists": [
+                306
+              ],
+              "location": "KT&G 상상마당 춘천 A동 2층 테라스",
+              "date": "2026-10-04",
+              "startTime": "2026-10-04T16:30:00.000+09:00",
+              "eventUrl": "https://ticket.yes24.com/Perf/59947",
+              "entry": "예매 링크",
+              "imgSrc": null
+            },
+            {
+              "showdeeId": 715623,
+              "source": "showdee",
+              "artists": [
+                178
+              ],
+              "location": "KT&G 상상마당 춘천 A동 2층 테라스",
+              "date": "2026-10-17",
+              "startTime": "2026-10-17T16:30:00.000+09:00",
+              "eventUrl": "https://ticket.yes24.com/Perf/59948",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
         }
       },
       {
