@@ -3325,7 +3325,7 @@
     "_dir": "엠피엠지_2층_LOUNGE_M."
   },
   {
-    "name": "MPOT Hall",
+    "name": "Mpot Hall",
     "name_ko": "엠팟홀",
     "address": "171, Hakdong-ro, Gangnam-gu, Seoul, Republic of Korea",
     "address_ko": "서울특별시 강남구 학동로 171 삼익악기빌딩 3층",
@@ -3342,12 +3342,11 @@
       "google"
     ],
     "alias": [
-      "엠팟홀",
       "엠팟",
-      "엠팟홀"
+      "엠팟홀",
+      "삼익악기 엠팟홀"
     ],
-    "instagram": "https://www.instagram.com/mpothall/",
-    "_dir": "엠팟홀"
+    "instagram": "https://www.instagram.com/mpothall/"
   },
   {
     "name": "Macaroni Funky Club",
@@ -11556,6 +11555,70 @@
     "alias": [
       "BLCK",
       "blck 카페"
+    ]
+  },
+  {
+    "name": "Amp Music",
+    "name_ko": "앰프뮤직",
+    "address": "145, Majang-ro, Bupyeong-gu, Incheon, Republic of Korea",
+    "address_ko": "인천광역시 부평구 마장로 145 지하층",
+    "address_jibun": "인천광역시 부평구 산곡동 369-283 지하층",
+    "lat": 37.4913028,
+    "lng": 126.7047754,
+    "naverMaps": "https://naver.me/x8kU6oSl",
+    "alias": [
+      "앰프뮤직",
+      "인천 앰프 뮤직"
+    ]
+  },
+  {
+    "name": "Bonghwangdae Park",
+    "name_ko": "봉황대공원",
+    "address": "51, Garak-ro 63beon-gil, Gimhae-si, Gyeongsangnam-do, Republic of Korea",
+    "address_ko": "경상남도 김해시 가락로63번길 51",
+    "address_jibun": "경상남도 김해시 봉황동 333",
+    "lat": 35.2313595,
+    "lng": 128.8751249,
+    "kakaoMaps": "http://place.map.kakao.com/10465258",
+    "naverMaps": "https://naver.me/FIfmbWoa",
+    "alias": [
+      "봉황대공원",
+      "김해 봉황대공원"
+    ]
+  },
+  {
+    "name": "Yongin Poeun Art Hall",
+    "name_ko": "용인포은아트홀",
+    "address": "499, Poeun-daero, Suji-gu, Yongin-si, Gyeonggi-do, Republic of Korea",
+    "address_ko": "경기도 용인시 수지구 포은대로 499 용인포은아트홀",
+    "address_jibun": "경기도 용인시 수지구 죽전동 1003-43 용인포은아트홀",
+    "lat": 37.3255524,
+    "lng": 127.1045437,
+    "website": "http://yicf.or.kr/",
+    "googleMaps": "https://maps.google.com/?cid=5818619772826834677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1696448712",
+    "naverMaps": "https://naver.me/xFL1XUqm",
+    "alias": [
+      "용인포은아트홀"
+    ]
+  },
+  {
+    "name": "The Mascagni",
+    "name_ko": "더 마스카니",
+    "address": "29, Wausan-ro 15-gil, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 와우산로15길 29 지층",
+    "address_jibun": "서울특별시 마포구 서교동 411-16 지층",
+    "lat": 37.5491479,
+    "lng": 126.9217704,
+    "kakaoMaps": "http://place.map.kakao.com/1754067914",
+    "naverMaps": "https://naver.me/FyttIQrM",
+    "instagram": "https://www.instagram.com/mascagni_manager",
+    "youtube": "https://youtube.com/channel/UC535J1SzKlg8KWoCjUZfJ1g?si=hcLP3RwoCOt1lwdE",
+    "website": "https://blog.naver.com/themascagni",
+    "alias": [
+      "더 마스카니",
+      "더마스카니",
+      "더 마스카니"
     ]
   }
 ]
