@@ -18160,6 +18160,44 @@
             }
           ]
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.0375193,
+            37.4819231
+          ]
+        },
+        "properties": {
+          "name_ko": "아크 강남",
+          "name": "ARC Gangnam",
+          "address_ko": "서울특별시 서초구 강남대로30길 7",
+          "address": "7, Gangnam-daero 30-gil, Seocho-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 서초구 양재동 14-14",
+          "website": "https://www.arcst.co.kr/",
+          "kakaoMaps": "https://place.map.kakao.com/220839540",
+          "naverMaps": "https://naver.me/5GcSFTID",
+          "ra_id": 303543,
+          "events": [
+            {
+              "date": "2026-10-02T00:00:00.000",
+              "startTime": "2026-10-02T20:00:00.000",
+              "endTime": "2026-10-03T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2544927",
+              "title": "HIGH-TECH SEOUL preparty",
+              "location": "ARC Seoul",
+              "artists": [
+                "E3",
+                "XXOK",
+                "Hadone"
+              ],
+              "source": "ra",
+              "ra_id": 303543
+            }
+          ]
+        }
       }
     ]
   },
