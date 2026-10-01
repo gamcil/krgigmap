@@ -3083,7 +3083,7 @@
               "title": "INVITES: YANT",
               "location": "Faust",
               "artists": [
-                "Yantan Ministry",
+                "Yant",
                 "Marcus L",
                 "Suman",
                 "Yuriko (2)",
@@ -7024,6 +7024,20 @@
                 "Sejung",
                 "konbu",
                 "Moon! go America"
+              ],
+              "source": "ra",
+              "ra_id": 104589
+            },
+            {
+              "date": "2026-10-03T00:00:00.000",
+              "startTime": "2026-10-03T22:00:00.000",
+              "endTime": "2026-10-04T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2550538",
+              "title": "#FREE O2",
+              "location": "Pistil",
+              "artists": [
+                "2NOWAVE",
+                "HWNKYO"
               ],
               "source": "ra",
               "ra_id": 104589
@@ -12611,6 +12625,19 @@
               ],
               "source": "ra",
               "ra_id": 268468
+            },
+            {
+              "date": "2026-10-04T00:00:00.000",
+              "startTime": "2026-10-04T19:00:00.000",
+              "endTime": "2026-10-05T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2550481",
+              "title": "CUL SEC",
+              "location": "Cul Sec",
+              "artists": [
+                "DJ Funny"
+              ],
+              "source": "ra",
+              "ra_id": 268468
             }
           ]
         }
@@ -17812,6 +17839,20 @@
               "ra_id": 284350
             },
             {
+              "date": "2026-10-17T00:00:00.000",
+              "startTime": "2026-10-17T23:00:00.000",
+              "endTime": "2026-10-18T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2550545",
+              "title": "Flac: Bender",
+              "location": "Flac",
+              "artists": [
+                "Bender",
+                "Davico"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            },
+            {
               "date": "2026-10-24T00:00:00.000",
               "startTime": "2026-10-24T22:00:00.000",
               "endTime": "2026-10-25T04:00:00.000",
@@ -18039,24 +18080,6 @@
                 "SELL (KR)",
                 "ROX (KR)",
                 "AVEN (KR)"
-              ],
-              "source": "ra",
-              "ra_id": 288423
-            },
-            {
-              "date": "2026-10-04T00:00:00.000",
-              "startTime": "2026-10-04T21:00:00.000",
-              "endTime": "2026-10-05T07:00:00.000",
-              "eventUrl": "https://ra.co/events/2549631",
-              "title": "𝐖𝐀𝐈𝐊𝐈𝐊𝐈 𝐔𝐓𝐎𝐏𝐈𝐀 𝐆𝐀𝐄𝐂𝐇𝐄𝐎𝐍𝐉𝐄𝐎𝐋",
-              "location": "Waikiki Utopia",
-              "artists": [
-                "TERRA (KR)",
-                "NEO KR",
-                "H93 (KR)",
-                "HADO (KR)",
-                "SELL (KR)",
-                "ROX (KR)"
               ],
               "source": "ra",
               "ra_id": 288423
@@ -19629,6 +19652,17 @@
               "artists": [],
               "source": "ra",
               "ra_id": 303747
+            },
+            {
+              "date": "2026-10-24T00:00:00.000",
+              "startTime": "2026-10-24T20:00:00.000",
+              "endTime": "2026-10-25T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2550540",
+              "title": "PUNCH DRUNK",
+              "location": "Escape_bar",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 303747
             }
           ]
         }
@@ -19667,6 +19701,41 @@
               ],
               "source": "ra",
               "ra_id": 303543
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9866069,
+            37.5417271
+          ]
+        },
+        "properties": {
+          "name_ko": "댕크야드 양조장",
+          "name": "Dankyard",
+          "address_ko": "서울특별시 용산구 신흥로5길 11 2층",
+          "address": "11, Sinheung-ro 5-gil, Yongsan-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 용산구 용산동2가 44-3 2층",
+          "instagram": "https://www.instagram.com/dankyard_kr",
+          "kakaoMaps": "https://place.map.kakao.com/979729106",
+          "googleMaps": "https://maps.google.com/?cid=6620688807886874312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/G6Q5PDm5",
+          "ra_id": 304109,
+          "events": [
+            {
+              "date": "2026-10-02T00:00:00.000",
+              "startTime": "2026-10-02T18:00:00.000",
+              "endTime": "2026-10-03T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2546905",
+              "title": "해방촌을 마셔라! 아홉잔의 밤 vol.2",
+              "location": "Dankyard",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 304109
             }
           ]
         }
