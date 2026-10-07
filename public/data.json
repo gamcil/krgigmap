@@ -9306,7 +9306,21 @@
           "googleMaps": "https://maps.google.com/?cid=10999242426785382585",
           "naverMaps": "https://map.naver.com/p/entry/place/729345052",
           "ra_id": 155109,
-          "events": []
+          "events": [
+            {
+              "date": "2026-10-09T00:00:00.000",
+              "startTime": "2026-10-09T21:00:00.000",
+              "endTime": "2026-10-10T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2555284",
+              "title": "IN DUB",
+              "location": "The Edge Seoul",
+              "artists": [
+                "Von Bueno"
+              ],
+              "source": "ra",
+              "ra_id": 155109
+            }
+          ]
         }
       },
       {
@@ -19064,6 +19078,83 @@
           "naverMaps": "https://naver.me/G6Q5PDm5",
           "ra_id": 304109,
           "events": []
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.972241124946,
+            37.5333129353254
+          ]
+        },
+        "properties": {
+          "name_ko": "데이오프클럽",
+          "name": "Dayoff Club",
+          "address_ko": "서울 용산구 한강대로 162-2",
+          "address": "162-2, Hangang-daero, Yongsan-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울 용산구 한강로1가 243-19",
+          "instagram": "https://www.instagram.com/dayoff_club/",
+          "kakaoMaps": "http://place.map.kakao.com/1865323358",
+          "googleMaps": "https://maps.google.com/?cid=5484259167908890127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/xGIPCnAP",
+          "ra_id": 304505,
+          "events": [
+            {
+              "date": "2026-10-09T00:00:00.000",
+              "startTime": "2026-10-09T19:00:00.000",
+              "endTime": "2026-10-10T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2554534",
+              "title": "Yeollin Concert (열린음악회)",
+              "location": "Day Off Club (데이오프클럽)",
+              "artists": [
+                "Harivo",
+                "QUIBBIE"
+              ],
+              "source": "ra",
+              "ra_id": 304505
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9939321,
+            37.5651219
+          ]
+        },
+        "properties": {
+          "name_ko": "바 키노",
+          "name": "Bar Kino",
+          "address_ko": "서울특별시 중구 충무로4길 19 2층",
+          "address": "19, Chungmu-ro 4-gil, Jung-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 중구 인현동1가 58-11 2층",
+          "instagram": "https://www.instagram.com/bar.kino_",
+          "kakaoMaps": "http://place.map.kakao.com/1900323499",
+          "naverMaps": "https://naver.me/FPUVjKWQ",
+          "ra_id": 278273,
+          "events": [
+            {
+              "date": "2026-10-11T00:00:00.000",
+              "startTime": "2026-10-11T15:00:00.000",
+              "endTime": "2026-10-11T22:00:00.000",
+              "eventUrl": "https://ra.co/events/2554316",
+              "title": "Carve Out Records 'Afternoon Drift'",
+              "location": "Bar Kino",
+              "artists": [
+                "Eugene Blake",
+                "Hyunsung",
+                "Lonho",
+                "Sinqmin"
+              ],
+              "source": "ra",
+              "ra_id": 278273
+            }
+          ]
         }
       }
     ]
