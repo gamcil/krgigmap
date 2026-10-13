@@ -5336,19 +5336,18 @@
   },
   {
     "name": "The Henz Club",
+    "name_ko": "헨즈클럽",
+    "ra_id": [289032, 128746],
     "address": "86-22 Sangsu-dong, Mapo-gu, Seoul",
     "lat": 37.550180499999996,
     "lng": 126.9232392,
     "website": "",
     "googleMaps": "https://maps.google.com/?cid=6115104111454704340",
-    "ra_id": 128746,
     "address_ko": "서울 마포구 와우산로 64",
     "kakaoMaps": "http://place.map.kakao.com/27389019",
-    "name_ko": "헨즈클럽",
     "address_jibun": "서울 마포구 상수동 86-22",
     "instagram": "http://instagram.com/thehenzclub",
-    "naverMaps": "https://map.naver.com/p/entry/place/1588457550",
-    "_dir": "221_서울_헨즈클럽_thehenzclub"
+    "naverMaps": "https://map.naver.com/p/entry/place/1588457550"
   },
   {
     "name": "The Musician",
@@ -11713,5 +11712,58 @@
       "바키노",
       "바 키노"
     ]
+  },
+  {
+    "name": "Graphic Hangang",
+    "name_ko": "그래픽 한강",
+    "ra_id": 304681,
+    "address": "37-53, Apgujeong-ro 11-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 강남구 압구정로11길 37-53",
+    "address_jibun": "서울특별시 강남구 압구정동 379",
+    "lat": 37.5291719,
+    "lng": 127.0189664,
+    "instagram": "https://www.instagram.com/graphic.hangang",
+    "googleMaps": "https://maps.google.com/?cid=9602585352715223251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/635670528",
+    "naverMaps": "https://naver.me/5Z1q2EYw",
+    "alias": [
+      "그래픽 한강",
+      "그래픽 한강"
+    ]
+  },
+  {
+    "name": "Jeonpo Wild Club",
+    "name_ko": "전포와일드클럽 연습실",
+    "address": "14-1, Seojeon-ro 37beon-gil, Busanjin-gu, Busan, Republic of Korea",
+    "address_ko": "부산광역시 부산진구 서전로37번길 14-1 지하1층 101호 전포와일드클럽",
+    "address_jibun": "부산광역시 부산진구 전포동 663-7 지하1층 101호 전포와일드클럽",
+    "lat": 35.1583946,
+    "lng": 129.0642014,
+    "naverMaps": "https://naver.me/xyTqk3kG",
+    "googleMaps": "https://maps.google.com/?cid=8240774399754148456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/1814483691",
+    "instagram": "https://www.instagram.com/jeonpowildclub/",
+    "alias": [
+      "전포와일드클럽 연습실",
+      "전포와일드클럽",
+      "전포와일드클럽"
+    ]
+  },
+  {
+    "name": "Golvang",
+    "name_ko": "골목다방",
+    "address": "8-14, Sajik-daero 361beon-gil, Sangdang-gu, Cheongju-si, Chungcheongbuk-do, Republic of Korea",
+    "address_ko": "충청북도 청주시 상당구 사직대로361번길 8-14 1층",
+    "address_jibun": "충청북도 청주시 상당구 북문로2가 64-1 1층",
+    "lat": 36.6371895,
+    "lng": 127.4882685,
+    "googleMaps": "https://maps.google.com/?cid=10852900055995191985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/15545694",
+    "naverMaps": "https://map.naver.com/p/entry/place/20284064?placePath=%2Fhome",
+    "alias": [
+      "골목다방",
+      "청주 골목다방"
+    ],
+    "instagram": "https://www.instagram.com/live_cafe_golvang_kendama"
   }
 ]
