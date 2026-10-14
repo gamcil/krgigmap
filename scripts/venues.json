@@ -4407,7 +4407,7 @@
     "address": "11 Yeonmujang 15-gil, Seongdong-gu, Seoul",
     "address_jibun": "서울 성동구 성수동2가 273-13",
     "address_ko": "서울 성동구 연무장15길 11",
-    "ra_id": [161228, 228409],
+    "ra_id": [161228, 228409, 214907],
     "lat": 37.5425289,
     "lng": 127.0592605,
     "website": "https://www.sfactory.co.kr/",
@@ -11765,5 +11765,25 @@
       "청주 골목다방"
     ],
     "instagram": "https://www.instagram.com/live_cafe_golvang_kendama"
+  },
+  {
+    "name": "Oase Busan",
+    "name_ko": "오아제부산",
+    "ra_id": 305088,
+    "address": "28, Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, Republic of Korea",
+    "address_ko": "부산광역시 해운대구 달맞이길62번길 28 4층",
+    "address_jibun": "부산광역시 해운대구 중동 957-1 4층",
+    "lat": 35.1589027,
+    "lng": 129.1705501,
+    "googleMaps": "https://maps.google.com/?cid=14311805720617654753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/535364243",
+    "naverMaps": "https://naver.me/x0UPEF1f",
+    "alias": [
+      "브라운핸즈 오아제부산",
+      "오아제부산",
+      "OASEBUSAN",
+      "오아제부산"
+    ],
+    "instagram": "https://instagram.com/oasebusan"
   }
 ]

@@ -7426,9 +7426,22 @@
           "naverMaps": "https://map.naver.com/p/entry/place/1952977663",
           "ra_id": [
             161228,
-            228409
+            228409,
+            214907
           ],
-          "events": []
+          "events": [
+            {
+              "date": "2026-12-05T00:00:00.000",
+              "startTime": "2026-12-05T20:00:00.000",
+              "endTime": "2026-12-06T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2559964",
+              "title": "HIGH-TECH SEOUL",
+              "location": "Sfactory Sector D, 3rd Floor",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 214907
+            }
+          ]
         }
       },
       {
@@ -9247,6 +9260,17 @@
               "artists": [
                 "Mitsuki"
               ],
+              "source": "ra",
+              "ra_id": 155109
+            },
+            {
+              "date": "2026-10-23T00:00:00.000",
+              "startTime": "2026-10-23T21:00:00.000",
+              "endTime": "2026-10-24T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2560934",
+              "title": "Sake Party (Tokyo) at The Edge",
+              "location": "The Edge Seoul",
+              "artists": [],
               "source": "ra",
               "ra_id": 155109
             }
@@ -12569,7 +12593,38 @@
           "instagram": "https://www.instagram.com/casacoronaseoul",
           "kakaoMaps": "http://place.map.kakao.com/1974912405",
           "ra_id": 177268,
-          "events": []
+          "events": [
+            {
+              "date": "2026-10-16T00:00:00.000",
+              "startTime": "2026-10-16T18:00:00.000",
+              "endTime": "2026-10-17T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2560930",
+              "title": "Seoul House Club",
+              "location": "Casa Corona Seoul",
+              "artists": [
+                "Pingpong (KR)",
+                "ShinyLight",
+                "Better"
+              ],
+              "source": "ra",
+              "ra_id": 177268
+            },
+            {
+              "date": "2026-10-17T00:00:00.000",
+              "startTime": "2026-10-17T18:00:00.000",
+              "endTime": "2026-10-18T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2560928",
+              "title": "Come SPIN with Casa",
+              "location": "Casa Corona Seoul",
+              "artists": [
+                "Pingpong (KR)",
+                "Better",
+                "HAO(KR)"
+              ],
+              "source": "ra",
+              "ra_id": 177268
+            }
+          ]
         }
       },
       {
@@ -18905,7 +18960,7 @@
               "date": "2026-10-24T00:00:00.000",
               "startTime": "2026-10-24T20:00:00.000",
               "endTime": "2026-10-25T02:00:00.000",
-              "eventUrl": "https://ra.co/events/2546646",
+              "eventUrl": "https://ra.co/events/2550540",
               "title": "PUNCH DRUNK",
               "location": "Escape_bar",
               "artists": [],
@@ -18916,8 +18971,8 @@
               "date": "2026-10-24T00:00:00.000",
               "startTime": "2026-10-24T20:00:00.000",
               "endTime": "2026-10-25T02:00:00.000",
-              "eventUrl": "https://ra.co/events/2550540",
-              "title": "PUNCH DRUNK",
+              "eventUrl": "https://ra.co/events/2546646",
+              "title": "-",
               "location": "Escape_bar",
               "artists": [],
               "source": "ra",
@@ -19111,6 +19166,41 @@
               "eventUrl": "https://www.instagram.com/p/DeRN7VYMdPE/",
               "entry": "예매 정보 링크",
               "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            129.1705501,
+            35.1589027
+          ]
+        },
+        "properties": {
+          "name_ko": "오아제부산",
+          "name": "Oase Busan",
+          "address_ko": "부산광역시 해운대구 달맞이길62번길 28 4층",
+          "address": "28, Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, Republic of Korea",
+          "address_jibun": "부산광역시 해운대구 중동 957-1 4층",
+          "instagram": "https://instagram.com/oasebusan",
+          "kakaoMaps": "http://place.map.kakao.com/535364243",
+          "googleMaps": "https://maps.google.com/?cid=14311805720617654753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/x0UPEF1f",
+          "ra_id": 305088,
+          "events": [
+            {
+              "date": "2026-11-07T00:00:00.000",
+              "startTime": "2026-11-07T17:00:00.000",
+              "endTime": "2026-11-07T22:30:00.000",
+              "eventUrl": "https://ra.co/events/2559694",
+              "title": "Bay High's Busan Fireworks Festival Rooftop Party",
+              "location": "Oase Busan",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 305088
             }
           ]
         }
