@@ -17503,8 +17503,22 @@
           "kakaoMaps": "https://place.map.kakao.com/17410648",
           "googleMaps": "https://maps.google.com/?cid=2918238310971334551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
           "naverMaps": "https://naver.me/5VmQb7ZW",
-          "ra_id": 303747,
+          "ra_id": [
+            303747,
+            167046
+          ],
           "events": [
+            {
+              "date": "2026-10-24T00:00:00.000",
+              "startTime": "2026-10-24T20:00:00.000",
+              "endTime": "2026-10-25T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2550540",
+              "title": "PUNCH DRUNK",
+              "location": "Club Escape",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 167046
+            },
             {
               "date": "2026-10-24T00:00:00.000",
               "startTime": "2026-10-24T20:00:00.000",
@@ -17805,6 +17819,40 @@
           "naverMaps": "https://naver.me/xWIY27V6",
           "ra_id": 305362,
           "events": []
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9379212356514,
+            37.553823745161
+          ]
+        },
+        "properties": {
+          "name_ko": "노고산 스튜디오",
+          "name": "Nogosan Studio",
+          "address_ko": "서울 마포구 백범로1길 8-13",
+          "address": "8-13, Baekbeom-ro 1-gil, Mapo-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울 마포구 노고산동 31-64",
+          "instagram": "https://www.instagram.com/nogosan_studio",
+          "kakaoMaps": "http://place.map.kakao.com/704413724",
+          "naverMaps": "https://naver.me/GFBdTMiM",
+          "ra_id": 305452,
+          "events": [
+            {
+              "date": "2026-10-31T00:00:00.000",
+              "startTime": "2026-10-31T20:00:00.000",
+              "endTime": "2026-11-01T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2563292",
+              "title": "MASQUERADE 2026",
+              "location": "Nogosanstudio",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 305452
+            }
+          ]
         }
       }
     ]

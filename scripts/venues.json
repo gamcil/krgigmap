@@ -11624,7 +11624,7 @@
   {
     "name": "Escape",
     "name_ko": "이스케이프",
-    "ra_id": 303747,
+    "ra_id": [303747, 167046],
     "address": "16, Yonsei-ro 5ga-gil, Seodaemun-gu, Seoul, Republic of Korea",
     "address_ko": "서울특별시 서대문구 연세로5가길 16 지하 칵테일바이스케이프",
     "address_jibun": "서울특별시 서대문구 창천동 57-52 지하 칵테일바이스케이프",
@@ -11820,6 +11820,23 @@
       "서교포차",
       "5",
       "잔다리로5"
+    ]
+  },
+  {
+    "name": "Nogosan Studio",
+    "name_ko": "노고산 스튜디오",
+    "ra_id": 305452,
+    "address": "8-13, Baekbeom-ro 1-gil, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울 마포구 백범로1길 8-13",
+    "address_jibun": "서울 마포구 노고산동 31-64",
+    "lat": 37.553823745161,
+    "lng": 126.9379212356514,
+    "kakaoMaps": "http://place.map.kakao.com/704413724",
+    "naverMaps": "https://naver.me/GFBdTMiM",
+    "instagram": "https://www.instagram.com/nogosan_studio",
+    "alias": [
+      "노고산 스튜디오",
+      "노고산 스튜디오"
     ]
   }
 ]
