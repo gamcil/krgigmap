@@ -259,6 +259,42 @@
           "ra_id": 198937,
           "events": [
             {
+              "date": "2026-11-05T00:00:00.000",
+              "startTime": "2026-11-05T22:00:00.000",
+              "endTime": "2026-11-06T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2574521",
+              "title": "Bolero: UNCUT GEMS",
+              "location": "Bolero",
+              "artists": [
+                "IVRO",
+                "ANDOW",
+                "SKiiDA"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
+              "date": "2026-11-06T00:00:00.000",
+              "startTime": "2026-11-06T22:00:00.000",
+              "endTime": "2026-11-07T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2574523",
+              "title": "Bolero: KIWA COMMUNITY VOL.1",
+              "location": "Bolero",
+              "artists": [
+                "Riskii (2)",
+                "T.K (KR)",
+                "DJ POOL",
+                "DJ Soulscape",
+                "Apachi",
+                "KINGMCK",
+                "Conan",
+                "ANDOW",
+                "PRIMIT"
+              ],
+              "source": "ra",
+              "ra_id": 198937
+            },
+            {
               "date": "2026-11-19T00:00:00.000",
               "startTime": "2026-11-19T22:00:00.000",
               "endTime": "2026-11-20T05:00:00.000",
@@ -5987,7 +6023,51 @@
           "googleMaps": "https://maps.google.com/?cid=2729315750537589287",
           "naverMaps": "https://map.naver.com/p/entry/place/1670538107",
           "ra_id": 194402,
-          "events": []
+          "events": [
+            {
+              "date": "2026-11-06T00:00:00.000",
+              "startTime": "2026-11-06T23:00:00.000",
+              "endTime": "2026-11-07T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2574574",
+              "title": "Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "Tellme",
+                "NO.LINK"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            },
+            {
+              "date": "2026-11-07T00:00:00.000",
+              "startTime": "2026-11-07T23:00:00.000",
+              "endTime": "2026-11-08T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2574575",
+              "title": "Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "Riskii (2)",
+                "Lyumin",
+                "Baso"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            },
+            {
+              "date": "2026-11-08T00:00:00.000",
+              "startTime": "2026-11-08T23:00:00.000",
+              "endTime": "2026-11-09T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2574576",
+              "title": "Paper Seoul",
+              "location": "Paper",
+              "artists": [
+                "FOI (SK)",
+                "Jesse You"
+              ],
+              "source": "ra",
+              "ra_id": 194402
+            }
+          ]
         }
       },
       {
@@ -6317,7 +6397,8 @@
           "naverMaps": "https://map.naver.com/p/entry/place/1784814732",
           "ra_id": [
             249959,
-            273276
+            273276,
+            117873
           ],
           "events": []
         }
@@ -6803,7 +6884,178 @@
           "googleMaps": "https://maps.google.com/?cid=17791490631383192613",
           "naverMaps": "https://map.naver.com/p/entry/place/1195670464",
           "ra_id": 204286,
-          "events": []
+          "events": [
+            {
+              "date": "2026-11-03T00:00:00.000",
+              "startTime": "2026-11-02T20:00:00.000",
+              "endTime": "2026-11-08T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2574460",
+              "title": "2 Nov - 8 Nov",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Nolove",
+                "FOI (SK)",
+                "Dakim",
+                "Mignon (2)",
+                "Sebibadboy",
+                "Daul",
+                "Kimmingi",
+                "Jucid",
+                "JNS",
+                "Youngseok",
+                "TRUEUNSOL",
+                "llama (1)",
+                "Shinyoung"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
+              "date": "2026-11-04T00:00:00.000",
+              "startTime": "2026-11-02T20:00:00.000",
+              "endTime": "2026-11-08T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2574460",
+              "title": "2 Nov - 8 Nov",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Nolove",
+                "FOI (SK)",
+                "Dakim",
+                "Mignon (2)",
+                "Sebibadboy",
+                "Daul",
+                "Kimmingi",
+                "Jucid",
+                "JNS",
+                "Youngseok",
+                "TRUEUNSOL",
+                "llama (1)",
+                "Shinyoung"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
+              "date": "2026-11-05T00:00:00.000",
+              "startTime": "2026-11-02T20:00:00.000",
+              "endTime": "2026-11-08T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2574460",
+              "title": "2 Nov - 8 Nov",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Nolove",
+                "FOI (SK)",
+                "Dakim",
+                "Mignon (2)",
+                "Sebibadboy",
+                "Daul",
+                "Kimmingi",
+                "Jucid",
+                "JNS",
+                "Youngseok",
+                "TRUEUNSOL",
+                "llama (1)",
+                "Shinyoung"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
+              "date": "2026-11-05T00:00:00.000",
+              "startTime": "2026-11-05T20:00:00.000",
+              "endTime": "2026-11-06T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2574466",
+              "title": "Safehouse",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Daul"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
+              "date": "2026-11-06T00:00:00.000",
+              "startTime": "2026-11-02T20:00:00.000",
+              "endTime": "2026-11-08T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2574460",
+              "title": "2 Nov - 8 Nov",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Nolove",
+                "FOI (SK)",
+                "Dakim",
+                "Mignon (2)",
+                "Sebibadboy",
+                "Daul",
+                "Kimmingi",
+                "Jucid",
+                "JNS",
+                "Youngseok",
+                "TRUEUNSOL",
+                "llama (1)",
+                "Shinyoung"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
+              "date": "2026-11-06T00:00:00.000",
+              "startTime": "2026-11-06T20:00:00.000",
+              "endTime": "2026-11-07T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2574462",
+              "title": "Friday Stoked&stoned",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Kimmingi",
+                "Jucid",
+                "JNS",
+                "Sebibadboy"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
+              "date": "2026-11-07T00:00:00.000",
+              "startTime": "2026-11-02T20:00:00.000",
+              "endTime": "2026-11-08T03:00:00.000",
+              "eventUrl": "https://ra.co/events/2574460",
+              "title": "2 Nov - 8 Nov",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Nolove",
+                "FOI (SK)",
+                "Dakim",
+                "Mignon (2)",
+                "Sebibadboy",
+                "Daul",
+                "Kimmingi",
+                "Jucid",
+                "JNS",
+                "Youngseok",
+                "TRUEUNSOL",
+                "llama (1)",
+                "Shinyoung"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            },
+            {
+              "date": "2026-11-07T00:00:00.000",
+              "startTime": "2026-11-07T20:00:00.000",
+              "endTime": "2026-11-08T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2574464",
+              "title": "Saturday Stoked&stoned",
+              "location": "Stoked&stoned",
+              "artists": [
+                "Youngseok",
+                "Mignon (2)",
+                "TRUEUNSOL",
+                "llama (1)"
+              ],
+              "source": "ra",
+              "ra_id": 204286
+            }
+          ]
         }
       },
       {
@@ -7159,7 +7411,41 @@
           "googleMaps": "https://maps.google.com/?cid=1901033225307436492",
           "naverMaps": "https://map.naver.com/p/entry/place/1813434353",
           "ra_id": 195346,
-          "events": []
+          "events": [
+            {
+              "date": "2026-11-06T00:00:00.000",
+              "startTime": "2026-11-06T23:00:00.000",
+              "endTime": "2026-11-07T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2574567",
+              "title": "NVD_Shelter Seoul",
+              "location": "Shelter",
+              "artists": [
+                "T-BURN",
+                "tthowt",
+                "AVALON",
+                "BASKERVILLE"
+              ],
+              "source": "ra",
+              "ra_id": 195346
+            },
+            {
+              "date": "2026-11-07T00:00:00.000",
+              "startTime": "2026-11-07T23:00:00.000",
+              "endTime": "2026-11-08T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2574572",
+              "title": "Shelter Seoul",
+              "location": "Shelter",
+              "artists": [
+                "MOVIN.KR",
+                "ROXY",
+                "Mars Parck",
+                "Kim.Qna",
+                "Honn"
+              ],
+              "source": "ra",
+              "ra_id": 195346
+            }
+          ]
         }
       },
       {
@@ -9347,6 +9633,21 @@
               "ra_id": 220595
             },
             {
+              "date": "2026-11-08T00:00:00.000",
+              "startTime": "2026-11-08T22:00:00.000",
+              "endTime": "2026-11-09T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2574549",
+              "title": "HUME 002: AFTER SUNSET",
+              "location": "teller",
+              "artists": [
+                "Yumi",
+                "Nomal",
+                "Mihak"
+              ],
+              "source": "ra",
+              "ra_id": 220595
+            },
+            {
               "date": "2026-11-13T00:00:00.000",
               "startTime": "2026-11-13T23:00:00.000",
               "endTime": "2026-11-14T06:00:00.000",
@@ -9355,7 +9656,9 @@
               "location": "teller",
               "artists": [
                 "Xanexx",
-                "Sunghoon"
+                "Sunghoon",
+                "hcy.",
+                "Krijka"
               ],
               "source": "ra",
               "ra_id": 220595
@@ -9409,10 +9712,11 @@
               "startTime": "2026-11-21T23:00:00.000",
               "endTime": "2026-11-22T06:00:00.000",
               "eventUrl": "https://ra.co/events/2573153",
-              "title": "Invites Ion Ludwig",
+              "title": "Obsess",
               "location": "teller",
               "artists": [
-                "Ion Ludwig"
+                "Ion Ludwig",
+                "Mogwaa"
               ],
               "source": "ra",
               "ra_id": 220595
@@ -9913,6 +10217,25 @@
               "ra_id": 70614
             },
             {
+              "date": "2026-11-13T00:00:00.000",
+              "startTime": "2026-11-13T22:00:00.000",
+              "endTime": "2026-11-14T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2574562",
+              "title": "YETI SOUNDSYSTEM: SEOUL",
+              "location": "Cakeshop",
+              "artists": [
+                "h4rdy",
+                "bojvck",
+                "Mars89",
+                "Coziest",
+                "VSLORIA",
+                "Tedman Lee",
+                "Arthur Yeti"
+              ],
+              "source": "ra",
+              "ra_id": 70614
+            },
+            {
               "date": "2026-11-14T00:00:00.000",
               "startTime": "2026-11-14T22:00:00.000",
               "endTime": "2026-11-15T04:00:00.000",
@@ -10014,7 +10337,9 @@
               "location": "vurt.",
               "artists": [
                 "Peryl",
-                "Djilogue"
+                "Djilogue",
+                "SJK (1)",
+                "SUZAN (2)"
               ],
               "source": "ra",
               "ra_id": 101673
@@ -10483,7 +10808,21 @@
           "kakaoMaps": "http://place.map.kakao.com/1160599308",
           "googleMaps": "https://maps.google.com/?cid=528081830924855418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
           "ra_id": 133352,
-          "events": []
+          "events": [
+            {
+              "date": "2026-11-05T00:00:00.000",
+              "startTime": "2026-11-05T21:00:00.000",
+              "endTime": "2026-11-06T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2574658",
+              "title": "Thursday Volnost",
+              "location": "Volnost",
+              "artists": [
+                "kinnyonline"
+              ],
+              "source": "ra",
+              "ra_id": 133352
+            }
+          ]
         }
       },
       {
@@ -14938,7 +15277,30 @@
             266697,
             287079
           ],
-          "events": []
+          "events": [
+            {
+              "date": "2026-11-06T00:00:00.000",
+              "startTime": "2026-11-06T22:00:00.000",
+              "endTime": "2026-11-07T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2574704",
+              "title": "Club Nasub Party: Abibi",
+              "location": "ClubNasub",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 287079
+            },
+            {
+              "date": "2026-11-07T00:00:00.000",
+              "startTime": "2026-11-07T22:00:00.000",
+              "endTime": "2026-11-08T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2574708",
+              "title": "Club Nasub Party: Underground Scene Burrowing",
+              "location": "ClubNasub",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 287079
+            }
+          ]
         }
       },
       {
@@ -14962,6 +15324,17 @@
           "naverMaps": "https://naver.me/FSSpXXug",
           "ra_id": 285391,
           "events": [
+            {
+              "date": "2026-11-07T00:00:00.000",
+              "startTime": "2026-11-07T23:00:00.000",
+              "endTime": "2026-11-08T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2574600",
+              "title": "DOMESTIC CALLING: PULS",
+              "location": "Lion Super Club",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 285391
+            },
             {
               "date": "2026-11-12T00:00:00.000",
               "startTime": "2026-11-12T22:00:00.000",
@@ -15338,6 +15711,25 @@
                 "FIRZA",
                 "Davico",
                 "Jaebin"
+              ],
+              "source": "ra",
+              "ra_id": 284350
+            },
+            {
+              "date": "2026-11-14T00:00:00.000",
+              "startTime": "2026-11-14T22:00:00.000",
+              "endTime": "2026-11-15T05:00:00.000",
+              "eventUrl": "https://ra.co/events/2574392",
+              "title": "Citron Studio with Toni Varga (ES)",
+              "location": "Flac",
+              "artists": [
+                "Toni Varga",
+                "Jaebin",
+                "Departs",
+                "Davico",
+                "Demuk",
+                "Millim",
+                "Silly Silky"
               ],
               "source": "ra",
               "ra_id": 284350
@@ -17227,19 +17619,6 @@
           "ra_id": 305670,
           "events": [
             {
-              "date": "2026-11-02T00:00:00.000",
-              "startTime": "2026-11-02T22:00:00.000",
-              "endTime": "2026-11-03T02:00:00.000",
-              "eventUrl": "https://ra.co/events/2565033",
-              "title": "Melting Monday EP.04",
-              "location": "Golgolgol",
-              "artists": [
-                "psyche (2)"
-              ],
-              "source": "ra",
-              "ra_id": 305670
-            },
-            {
               "date": "2026-11-06T00:00:00.000",
               "startTime": "2026-11-06T22:00:00.000",
               "endTime": "2026-11-07T04:00:00.000",
@@ -17275,6 +17654,53 @@
               ],
               "source": "ra",
               "ra_id": 305670
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            129.0610553,
+            35.1557643
+          ]
+        },
+        "properties": {
+          "name_ko": "더스팟앤그루브",
+          "name": "Groove & Spot",
+          "address_ko": "부산광역시 부산진구 중앙대로680번가길 52 2, 3층",
+          "address": "52, Jungang-daero 680beonga-gil, Busanjin-gu, Busan, Republic of Korea",
+          "address_jibun": "부산광역시 부산진구 부전동 168-447 2, 3층",
+          "website": "https://그루브.site/",
+          "instagram": "https://www.instagram.com/groovenspot/",
+          "kakaoMaps": "https://place.map.kakao.com/1189869150",
+          "googleMaps": "https://maps.google.com/?cid=4657125118524476087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/xzHV9avR",
+          "ra_id": 306631,
+          "events": [
+            {
+              "date": "2026-11-07T00:00:00.000",
+              "startTime": "2026-11-07T21:00:00.000",
+              "endTime": "2026-11-08T07:00:00.000",
+              "eventUrl": "https://ra.co/events/2573788",
+              "title": "Fireworks Party with G.O.A.T",
+              "location": "Groove & Spot",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 306631
+            },
+            {
+              "date": "2026-11-14T00:00:00.000",
+              "startTime": "2026-11-14T21:00:00.000",
+              "endTime": "2026-11-15T07:00:00.000",
+              "eventUrl": "https://ra.co/events/2573789",
+              "title": "Groove / Spot Label Party",
+              "location": "Groove & Spot",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 306631
             }
           ]
         }
