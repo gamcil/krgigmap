@@ -19095,6 +19095,160 @@
             }
           ]
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9065324,
+            37.5605396
+          ]
+        },
+        "properties": {
+          "name_ko": "001라이브홀",
+          "name": "001 Live Hall",
+          "address_ko": "서울특별시 마포구 월드컵로 140 지하1층",
+          "address": "140, World Cup-ro, Mapo-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 마포구 성산동 260-8 지하1층",
+          "website": "cafe.naver.com/001livehall",
+          "instagram": "https://www.instagram.com/001_livehall/",
+          "kakaoMaps": "http://place.map.kakao.com/936488916",
+          "naverMaps": "https://naver.me/GhwytGNy",
+          "events": [
+            {
+              "showdeeId": 798763,
+              "source": "showdee",
+              "artists": [
+                "베오파드",
+                "오티스림",
+                "클라베"
+              ],
+              "location": "001 라이브홀",
+              "date": "2026-11-12",
+              "startTime": "2026-11-12T20:00:00.000+09:00",
+              "eventUrl": "https://www.2tm.co.kr/ticket/10942",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.9138995,
+            37.5522459
+          ]
+        },
+        "properties": {
+          "name_ko": "라디오가가 라이브홀",
+          "name": "Radio Gaga Live Hall",
+          "address_ko": "서울특별시 마포구 양화로11길 54 지하1층",
+          "address": "54, Yanghwa-ro 11-gil, Mapo-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 마포구 서교동 384-12 지하1층",
+          "website": "http://radiogaga.kr",
+          "instagram": "https://www.instagram.com/radiogaga_livehall",
+          "kakaoMaps": "http://place.map.kakao.com/15299361",
+          "googleMaps": "https://maps.google.com/?cid=2282794667737746202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/F1rxgZSb",
+          "events": [
+            {
+              "showdeeId": 798808,
+              "source": "showdee",
+              "artists": [
+                209,
+                210,
+                "이인규밴드"
+              ],
+              "location": "라디오가가 라이브홀",
+              "date": "2026-11-17",
+              "startTime": "2026-11-17T20:00:00.000+09:00",
+              "eventUrl": "https://www.2tm.co.kr/ticket/11000",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.996244,
+            37.4824144
+          ]
+        },
+        "properties": {
+          "name_ko": "퍼플노이즈라이브홀",
+          "name": "Purple Noise Live Hall",
+          "address_ko": "서울특별시 서초구 효령로31길 28",
+          "address": "28, Hyoryeong-ro 31-gil, Seocho-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 서초구 방배동 910-5",
+          "website": "https://www.purplenoiselivehall.com/",
+          "instagram": "https://www.instagram.com/purplenoiselivehall/",
+          "kakaoMaps": "http://place.map.kakao.com/1697443589",
+          "googleMaps": "https://maps.google.com/?cid=2485576516855661085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/FTMTujxD",
+          "events": [
+            {
+              "showdeeId": 798815,
+              "source": "showdee",
+              "artists": [
+                216,
+                "홍영호트리오",
+                "맹서령트리오"
+              ],
+              "location": "퍼플노이즈 라이브홀",
+              "date": "2026-11-19",
+              "startTime": "2026-11-19T20:00:00.000+09:00",
+              "eventUrl": "https://www.2tm.co.kr/ticket/11002",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.7443488,
+            33.3174299
+          ]
+        },
+        "properties": {
+          "name_ko": "남온",
+          "name": "Namon",
+          "address_ko": "제주특별자치도 서귀포시 남원읍 한신로 515 남온",
+          "address": "515, Hansin-ro, Namwon-eup, Seogwipo-si, Jeju-do, Republic of Korea",
+          "address_jibun": "제주특별자치도 서귀포시 남원읍 신흥리 1576-1 남온",
+          "instagram": "https://www.instagram.com/namon_jeju",
+          "kakaoMaps": "http://place.map.kakao.com/1345720241",
+          "googleMaps": "https://maps.google.com/?cid=18030841403092482188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+          "naverMaps": "https://naver.me/Fw7QDuAT",
+          "events": [
+            {
+              "showdeeId": 798824,
+              "source": "showdee",
+              "artists": [
+                231,
+                232,
+                "타얀"
+              ],
+              "location": "제주 남온",
+              "date": "2026-11-20",
+              "startTime": "2026-11-20T20:00:00.000+09:00",
+              "eventUrl": "https://www.2tm.co.kr/ticket/11003",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
       }
     ]
   },
