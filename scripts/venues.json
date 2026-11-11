@@ -2386,16 +2386,12 @@
     "website": "https://linktr.ee/clubhermit",
     "naverMaps": "https://map.naver.com/p/entry/place/1956366363",
     "kakaoMaps": "http://place.map.kakao.com/1333049180",
-    "sources": [
-      "naver",
-      "kakao"
-    ],
     "alias": [
       "허밋",
-      "합정 허밋"
+      "합정 허밋",
+      "클럽 허밋"
     ],
-    "instagram": "https://www.instagram.com/hermit_kr",
-    "_dir": "합정_허밋"
+    "instagram": "https://www.instagram.com/hermit_kr"
   },
   {
     "name": "Homes Red",
@@ -4088,6 +4084,7 @@
   {
     "name": "SNU Powerplant",
     "name_ko": "서울대학교 관악캠퍼스68동(제1파워플랜트)",
+    "ra_id": 287765,
     "address": "1, Gwanak-ro, Gwanak-gu, Seoul, Republic of Korea",
     "address_ko": "서울특별시 관악구 관악로 1",
     "address_jibun": "서울특별시 관악구 신림동 산56-1",
@@ -4098,11 +4095,6 @@
     "naverMaps": "https://map.naver.com/p/entry/place/18733823",
     "kakaoMaps": "http://place.map.kakao.com/17563707",
     "instagram": "https://www.instagram.com/powerplant.seoul/",
-    "sources": [
-      "naver",
-      "kakao",
-      "google"
-    ],
     "alias": [
       "서울대학교 관악캠퍼스68동(제1파워플랜트)",
       "서울대학교 관악캠퍼스 제1파워플랜트",
@@ -11984,5 +11976,25 @@
       "수원 딩깅프렌즈"
     ],
     "instagram": "https://www.instagram.com/dinggingfriends"
+  },
+  {
+    "name": "Gongwon Script Garosu-gil",
+    "name_ko": "공원스크립트 가로수길점",
+    "ra_id": 307468,
+    "address": "49-1, Garosu-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 강남구 가로수길 49-1 B1-3F",
+    "address_jibun": "서울특별시 강남구 신사동 534-27 B1-3F",
+    "lat": 37.5212262,
+    "lng": 127.0225283,
+    "instagram": "https://www.instagram.com/gongonescript_garosugil/",
+    "googleMaps": "https://maps.google.com/?cid=16540737743517934661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "kakaoMaps": "http://place.map.kakao.com/960257252",
+    "naverMaps": "https://naver.me/5ase4F34",
+    "alias": [
+      "공원스크립트 가로수길점",
+      "공원 스크립트 가로수길점",
+      "Gongonescript garosugil 공원스크립트 가로수길점",
+      "공원스크립트 가로수길점"
+    ]
   }
 ]
