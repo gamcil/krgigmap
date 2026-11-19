@@ -65,6 +65,38 @@ body,
   --ml-c-logo-2: #32363f;
 }
 
+/* MapLibre's hosted stylesheet can change independently of the app. Keep the
+   control palette here so map controls follow the selected map theme. */
+.maplibregl-ctrl-group {
+    background: var(--ml-c-bg-1, #fff);
+    box-shadow: var(--ml-shadow-ctrl, 0 0 0 2px rgb(0 0 0 / 10%));
+}
+
+.maplibregl-ctrl-group button {
+    color: var(--ml-c-icon-1, #333);
+}
+
+.maplibregl-ctrl-group button + button {
+    border-top: 1px solid var(--ml-c-bg-3, #d7d7d7);
+}
+
+.maplibregl-ctrl-group button:hover {
+    background-color: var(--ml-c-bg-2, #f0f0f0);
+}
+
+.maplibregl-ctrl-group button svg {
+    width: 22.5px;
+    height: 22.5px;
+    color: currentColor;
+}
+
+.maplibregl-ctrl-group .theme-toggle-button svg {
+    display: block;
+    width: 24px;
+    height: 24px;
+    stroke: currentColor;
+}
+
 .marker.inactive-marker {
     width: 10px;
     height: 10px;
@@ -254,7 +286,7 @@ body,
 
 .dayContainer {
     width: 100% !important;
-    min-width: none !important;
+    min-width: 0 !important;
     max-width: none !important;
 }
 

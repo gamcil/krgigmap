@@ -1,4 +1,4 @@
-import * as maplibregl from 'https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.mjs';
+import * as maplibregl from 'https://unpkg.com/maplibre-gl@6.19.0/dist/maplibre-gl.mjs';
 
 /**
  * Create and add variants of the default Maplibre marker to use in symbol layers
