@@ -119,6 +119,16 @@ function countryEmojiFlag(countryCode) {
 	return String.fromCodePoint(...codePoints);
 }
 
+function safeHttpUrl(value) {
+    if (typeof value !== 'string' || !value.trim()) return null;
+    try {
+        const url = new URL(value, window.location.href);
+        return url.protocol === 'http:' || url.protocol === 'https:' ? url.href : null;
+    } catch {
+        return null;
+    }
+}
+
 /**
  * Mutates GeoJSON to set active/inactive venues by date
  * @param {Object} geojson GeoJSON data object
@@ -359,33 +369,35 @@ async function loadMap() {
             const template = document.getElementById('popup-template');
             const popupEl = template.content.cloneNode(true);
             popupEl.querySelector('.place-name').textContent = `${props.name} / ${props.name_ko}`;
-            const mapLinks = []
-            if (props.kakaoMaps) {
-                mapLinks.push(`<a href=${props.kakaoMaps} class="place-link kakao-map" target="_blank" rel="noopener noreferrer">Kakao</a>`);
-            }
-            if (props.naverMaps) {
-                mapLinks.push(`<a href=${props.naverMaps} class="place-link naver-map" target="_blank" rel="noopener noreferrer">Naver</a>`);
-            }
-            if (props.googleMaps) {
-                mapLinks.push(`<a href=${props.googleMaps} class="place-link google-map" target="_blank" rel="noopener noreferrer">Google</a>`);
-            }
-            popupEl.querySelector('.map-links').innerHTML = mapLinks.join(', ');
+            const mapLinksEl = popupEl.querySelector('.map-links');
+            const mapLinks = [
+                ['Kakao', props.kakaoMaps, 'kakao-map'],
+                ['Naver', props.naverMaps, 'naver-map'],
+                ['Google', props.googleMaps, 'google-map']
+            ];
+            mapLinks.forEach(([label, value, className]) => {
+                const href = safeHttpUrl(value);
+                if (!href) return;
+                if (mapLinksEl.childNodes.length) mapLinksEl.append(', ');
+                const link = document.createElement('a');
+                link.className = `place-link ${className}`;
+                link.href = href;
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                link.textContent = label;
+                mapLinksEl.append(link);
+            });
             popupEl.querySelector('.road-address').textContent = props.address_ko;
-            if (props.instagram) {
-                popupEl.querySelector('.place-instagram-link').href = props.instagram;
-            } else {
-                popupEl.querySelector('.place-instagram-link').remove();
-            }
-            if (props.facebook) {
-                popupEl.querySelector('.place-facebook-link').href = props.facebook;
-            } else {
-                popupEl.querySelector('.place-facebook-link').remove();
-            }
-            if (props.website) {
-                popupEl.querySelector('.place-website-link').href = props.website;
-            } else {
-                popupEl.querySelector('.place-website-link').remove();
-            }
+            [
+                ['.place-instagram-link', props.instagram],
+                ['.place-facebook-link', props.facebook],
+                ['.place-website-link', props.website]
+            ].forEach(([selector, value]) => {
+                const link = popupEl.querySelector(selector);
+                const href = safeHttpUrl(value);
+                if (href) link.href = href;
+                else link.remove();
+            });
             if (props.active) {
                 const selectedDate = formatDateToYMD(displayDate);
                 const eventData = (props.events || []).find(e => getLogicalEventDate(e) === selectedDate);
@@ -400,16 +412,37 @@ async function loadMap() {
                     }
                     const eventArtists = Array.isArray(eventData.artists) ? eventData.artists : [];
                     if (eventArtists.length > 0) {
-                        const nameFn = (a) => {
-                            let name = (a.name === a.name_en) ? a.name : `${a.name} (${a.name_en})`;
-                            if (a.hasOwnProperty('country')) {
-                                name = `${name} ${countryEmojiFlag(a.country)}`;
+                        const artistContainer = eventEl.querySelector('.event-artist');
+                        eventArtists.forEach((value, index) => {
+                            if (index > 0) artistContainer.append(', ');
+                            if (typeof value !== 'number' || !artists[value]) {
+                                artistContainer.append(document.createTextNode(String(value)));
+                                return;
                             }
-                            let text = `<span class="artist-name">${name}</span>`;
-                            return (a.instagram) ? `<a href="${a.instagram}">${text}</a>` : text;
-                        }
-                        let artistStr = eventArtists.map(a => (typeof a === "number") ? nameFn(artists[a]) : a).join(', ');
-                        eventEl.querySelector('.event-artist').innerHTML = artistStr;
+
+                            const artist = artists[value];
+                            let name = artist.name === artist.name_en || !artist.name_en
+                                ? artist.name
+                                : `${artist.name} (${artist.name_en})`;
+                            if (typeof artist.country === 'string' && artist.country) {
+                                name = `${name} ${countryEmojiFlag(artist.country)}`;
+                            }
+                            const nameElement = document.createElement('span');
+                            nameElement.className = 'artist-name';
+                            nameElement.textContent = name || '';
+
+                            const href = safeHttpUrl(artist.instagram);
+                            if (href) {
+                                const link = document.createElement('a');
+                                link.href = href;
+                                link.target = '_blank';
+                                link.rel = 'noopener noreferrer';
+                                link.append(nameElement);
+                                artistContainer.append(link);
+                            } else {
+                                artistContainer.append(nameElement);
+                            }
+                        });
                     } else {
                         eventEl.querySelector('.event-artist').previousSibling.remove();
                         eventEl.querySelector('.event-artist').remove();
@@ -417,7 +450,10 @@ async function loadMap() {
                     eventEl.querySelector('.event-date').textContent = getLogicalEventDate(eventData) || eventData.date || '';
                     eventEl.querySelector('.event-time').textContent = formatTimeText(eventData.startTime, eventData.endTime);
                     eventEl.querySelector('.event-ticket').textContent = (eventData.source === 'ra') ? "Resident Advisor" : eventData.entry;
-                    eventEl.querySelector('.event-ticket').href = eventData.eventUrl
+                    const ticketLink = eventEl.querySelector('.event-ticket');
+                    const ticketHref = safeHttpUrl(eventData.eventUrl);
+                    if (ticketHref) ticketLink.href = ticketHref;
+                    else ticketLink.remove();
                     popupEl.querySelector('.popup-event').replaceWith(eventEl);
                 } else {
                     popupEl.querySelector('.popup-event').remove();
