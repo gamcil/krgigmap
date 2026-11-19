@@ -51,7 +51,7 @@ function buildFuseIndex(venues) {
             aliases: v.alias?.map(a => normalize(a)) || [],
             nameJamo: hangul.disassemble(normalize(v.name_ko)),
             addressJamo: hangul.disassemble(normalize(v.address_ko)),
-            aliasesJamo: (v.aliases || []).map(a => hangul.disassemble(normalize(a))),
+            aliasesJamo: (v.alias || []).map(a => hangul.disassemble(normalize(a))),
         })), {
         keys: [
             { name: 'name', weight: 0.7 },
@@ -150,18 +150,11 @@ async function matchEventsToVenues(events) {
             const city = result2?.[0].replace(/ /g, '') || '';
             const fixed = location.replace(city, '')
             const query_full = normalize(fixed);
-            const addr_full = normalize(city)
             const query_jamo = hangul.disassemble(query_full)
-            const addr_jamo = hangul.disassemble(addr_full)
-            const query_combined = {
-                name: query_full,
-                address: addr_full,
-                aliases: [query_full],
-                nameJamo: query_jamo,
-                addressJamo: addr_jamo,
-                aliasesJamo: [query_jamo]
+            result = fuseIndex.search(query_full, { limit: 1, useExtendedSearch: true });
+            if (result.length === 0 && query_jamo) {
+                result = fuseIndex.search(query_jamo, { limit: 1 });
             }
-            result = fuseIndex.search(query_combined.name, { limit: 1, useExtendedSearch: true });
             if (result.length === 0) {
                 const likely = isLikelyKoreanAddress(location)
                     ? 'address'
