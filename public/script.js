@@ -58,11 +58,12 @@ const moonIconSvg = `
 `;
 
 class ThemeToggleControl {
-    constructor() {
+    constructor(onToggle) {
         this._isDark = false;
         this._map = null;
         this._container = null;
         this._button = null;
+        this._onToggle = onToggle;
     }
     onAdd(map) {
         this._map = map;
@@ -83,19 +84,11 @@ class ThemeToggleControl {
         this._map = undefined;
     }
     _updateButtonContent() {
+        if (!this._button) return;
         this._button.innerHTML = this._isDark ? sunIconSvg : moonIconSvg; // Sun for light, Moon for dark
     }
     _toggleTheme() {
-        this._isDark = !this._isDark;
-        this._updateButtonContent();
-        document.documentElement.style.colorScheme = this._isDark ? 'dark' : 'light';
-        if (this._isDark) {
-            this._map.setStyle(darkProtomapsURL, { diff: false })
-            document.getElementById('map').classList.add('dark');
-        } else {
-            this._map.setStyle(lightProtomapsURL, { diff: false })
-            document.getElementById('map').classList.remove('dark');
-        }
+        this._onToggle(!this._isDark);
     }
     setInitialTheme(isDark) {
         this._isDark = isDark;
@@ -246,6 +239,10 @@ async function loadMap() {
     maplibregl.addProtocol("pmtiles", protocol.tile);
 
     const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+    let currentIsDark = prefersDarkScheme.matches;
+    const mapContainer = document.getElementById('map');
+    document.documentElement.style.colorScheme = currentIsDark ? 'dark' : 'light';
+    mapContainer.classList.toggle('dark', currentIsDark);
 
     const map = new maplibregl.Map({
         style: prefersDarkScheme.matches ? darkProtomapsURL : lightProtomapsURL,
@@ -488,21 +485,18 @@ async function loadMap() {
         });
     }
 
-    const themeToggleControl = new ThemeToggleControl();
     const setTheme = (isDark) => {
-        if (isDark) {
-            map.setStyle(darkProtomapsURL, { diff: false })
-            document.getElementById('map').classList.add('dark');
-            document.documentElement.style.colorScheme ='dark';
-        } else {
-            map.setStyle(lightProtomapsURL, { diff: false })
-            document.getElementById('map').classList.remove('dark');
-            document.documentElement.style.colorScheme ='light';
+        if (isDark !== currentIsDark) {
+            map.setStyle(isDark ? darkProtomapsURL : lightProtomapsURL, { diff: false });
         }
+        currentIsDark = isDark;
+        mapContainer.classList.toggle('dark', isDark);
+        document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';
         themeToggleControl._isDark = isDark;
         themeToggleControl._updateButtonContent();
     }
 
+    const themeToggleControl = new ThemeToggleControl(setTheme);
     prefersDarkScheme.addEventListener("change", (e) => { setTheme(e.matches) });
    
     map.on('load', () => {
@@ -517,8 +511,7 @@ async function loadMap() {
         map.addControl(themeToggleControl);
         addToMap();
         addEventListeners();
-        setTheme(prefersDarkScheme.matches);
-        themeToggleControl.setInitialTheme(prefersDarkScheme.matches);
+        themeToggleControl.setInitialTheme(currentIsDark);
     });
 
     map.on('style.load', () => {
