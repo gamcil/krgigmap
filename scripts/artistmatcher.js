@@ -34,14 +34,26 @@ function normalize(text) {
         .normalize("NFC")   // recompose here for hangul.disassemble
 }
 
+function normalizeLatin(text) {
+    if (!text) return '';
+    return String(text)
+        .normalize('NFKD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .normalize('NFC')
+        .toLowerCase()
+        .replace(/[^a-z0-9가-힣]/g, '')
+        .normalize('NFC');
+}
+
 function buildFuseIndex(artists) {
     return new Fuse(
         artists.map((v, i) => ({
             id: i,
             // key: `${i}_${v.name_ko}_${v.name_en}`,
             name: normalize(v.name_ko),
-            name_en: v.name_en?.toLowerCase().normalize().replace(/ /g, ''),
+            name_en: normalizeLatin(v.name_en),
             aliases: v.alias?.map(a => normalize(a)) || [],
+            aliases_en: v.alias?.map(normalizeLatin) || [],
             nameJamo: hangul.disassemble(normalize(v.name_ko)),
             // aliasesJamo: (v.aliases || []).map(a => hangul.disassemble(normalize(a))).join(''),
         })), {
@@ -49,6 +61,7 @@ function buildFuseIndex(artists) {
             { name: 'name', weight: 1.0 },
             { name: 'nameJamo', weight: 0.8 },
             { name: 'name_en', weight: 0.5 },
+            { name: 'aliases_en', weight: 0.3 },
             { name: 'aliases', weight: 0.1 },
             // { name: 'aliasesJamo', weight: 0.02 }
         ],
@@ -70,59 +83,63 @@ async function matchEventsToArtists(events) {
 
     const uniqueArtists = new Set();
     for (const event of events) {
-        for (let artistName of event.artists) {
-            if (artistName.includes("내한")) {
-                artistName = artistName.replace("내한", "");
-            };
-            uniqueArtists.add(artistName.trim());
+        for (const name of event.artists || []) {
+            const artistName = String(name).replaceAll('내한', '').trim();
+            if (artistName) uniqueArtists.add(artistName);
         }
     }
 
     const matchedArtists = [];
-    const unmatchedArtists = {};
-    const artistToId = new Map();
-    let currentId = 0;
+    const unmatchedArtists = Object.create(null);
+    const artistNameToId = new Map();
+    const masterArtistToId = new Map();
 
     for (const artistName of uniqueArtists) {
-        if (!artistToId.has(artistName)) {
-            const matchResult = index.search(normalize(artistName))[0] || null;
-            if (matchResult) {
-                const a = {
-                    name: artists[matchResult.item.id].name_ko,
-                    name_en: artists[matchResult.item.id].name_en,
-                    instagram: artists[matchResult.item.id].instagram
-                }
-                if (artists[matchResult.item.id].hasOwnProperty('country')) {
-                    a.country = artists[matchResult.item.id].country;
-                }
-                matchedArtists.push(a);
-                artistToId.set(artistName, currentId++);
+        const artistKey = normalizeLatin(artistName);
+        if (!artistKey) continue;
+
+        const latinMatch = index.search(artistKey)[0];
+        const matchResult = latinMatch || index.search(normalize(artistName))[0];
+        if (!matchResult) continue;
+
+        const masterArtistId = matchResult.item.id;
+        let outputArtistId = masterArtistToId.get(masterArtistId);
+        if (outputArtistId === undefined) {
+            const masterArtist = artists[masterArtistId];
+            const outputArtist = {
+                name: masterArtist.name_ko,
+                name_en: masterArtist.name_en,
+                instagram: masterArtist.instagram
+            };
+            if (Object.prototype.hasOwnProperty.call(masterArtist, 'country')) {
+                outputArtist.country = masterArtist.country;
             }
+            outputArtistId = matchedArtists.length;
+            matchedArtists.push(outputArtist);
+            masterArtistToId.set(masterArtistId, outputArtistId);
         }
+        artistNameToId.set(artistKey, outputArtistId);
     }
     
     for (const event of events) {
-        for (let artistName of event.artists) {
-            if (artistName.includes("내한")) {
-                artistName = artistName.replace("내한", "").trim();
-            };
-            if (!artistToId.has(artistName)) {
-                if (unmatchedArtists.hasOwnProperty(artistName)) {
-                    unmatchedArtists[artistName].push(event.eventUrl);
-                } else {
-                    unmatchedArtists[artistName] = [event.eventUrl];
-                }
+        for (const name of event.artists || []) {
+            const artistName = String(name).replaceAll('내한', '').trim();
+            const artistKey = normalizeLatin(artistName);
+            if (!artistName || artistNameToId.has(artistKey)) continue;
+            if (!Object.prototype.hasOwnProperty.call(unmatchedArtists, artistName)) {
+                unmatchedArtists[artistName] = [];
             }
+            unmatchedArtists[artistName].push(event.eventUrl);
         }
     }
    
     const matchedEvents = events.map(event => ({ 
         ...event,
-        artists: event.artists.map(name => {
-            let n = name;
-            if (n.includes("내한")) n = n.replace("내한", "").trim();
-            return (artistToId.has(n)) ? artistToId.get(n) : n
-        })
+        artists: [...new Set((event.artists || []).map(name => {
+            const artistName = String(name).replaceAll('내한', '').trim();
+            const artistKey = normalizeLatin(artistName);
+            return artistNameToId.has(artistKey) ? artistNameToId.get(artistKey) : artistName;
+        }).filter(Boolean))]
     }));
 
     return { matchedEvents, matchedArtists, unmatchedArtists };
