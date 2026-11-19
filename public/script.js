@@ -372,10 +372,11 @@ async function loadMap() {
                 ['Naver', props.naverMaps, 'naver-map'],
                 ['Google', props.googleMaps, 'google-map']
             ];
+            let hasMapLink = false;
             mapLinks.forEach(([label, value, className]) => {
                 const href = safeHttpUrl(value);
                 if (!href) return;
-                if (mapLinksEl.childNodes.length) mapLinksEl.append(', ');
+                if (hasMapLink) mapLinksEl.append(', ');
                 const link = document.createElement('a');
                 link.className = `place-link ${className}`;
                 link.href = href;
@@ -383,6 +384,7 @@ async function loadMap() {
                 link.rel = 'noopener noreferrer';
                 link.textContent = label;
                 mapLinksEl.append(link);
+                hasMapLink = true;
             });
             popupEl.querySelector('.road-address').textContent = props.address_ko;
             [
