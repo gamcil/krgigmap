@@ -76,6 +76,14 @@ body,
     color: var(--ml-c-icon-1, #333);
 }
 
+.maplibregl-ctrl-group .theme-toggle-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    line-height: 1;
+}
+
 .maplibregl-ctrl-group button + button {
     border-top: 1px solid var(--ml-c-bg-3, #d7d7d7);
 }
@@ -92,8 +100,9 @@ body,
 
 .maplibregl-ctrl-group .theme-toggle-button svg {
     display: block;
-    width: 24px;
-    height: 24px;
+    width: 18px;
+    height: 18px;
+    flex: 0 0 18px;
     stroke: currentColor;
 }
 
