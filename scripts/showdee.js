@@ -64,18 +64,24 @@ async function fetchShowdeeEvents(limit = 50, cursor = null) {
 }
 
 async function fetchAllShowdeeEvents(batches = 10, limit = 50) {
-    let allEvents = [];
+    const eventsById = new Map();
     let cursor = null;
     for (let i = 0; i < batches; i++) {
         console.log(`Batch ${i + 1}/${batches}`);
         const result = await fetchShowdeeEvents(limit, cursor);
         if (!result) break;
-        allEvents = allEvents.concat(result.events);
+        for (const event of result.events) {
+            if (event.showdeeId === undefined || event.showdeeId === null) {
+                throw new Error('Showdee returned a performance without an ID');
+            }
+            // Cursor pages can overlap; keep only the latest occurrence of each performance.
+            eventsById.set(String(event.showdeeId), event);
+        }
         cursor = result.nextCursor;
         if (!cursor) break;
         await new Promise(resolve => setTimeout(resolve, 200));
     }
-    return allEvents;
+    return [...eventsById.values()];
 }
 
 module.exports = { fetchShowdeeEvents, fetchAllShowdeeEvents };
