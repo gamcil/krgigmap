@@ -145,8 +145,9 @@ function updateActiveVenuesByDate(geojson, selectedDate) {
 function parseDateValueToYMD(value) {
     if (!value) return null;
     if (value instanceof Date) return formatDateToYMD(value);
-    if (typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value)) {
-        return value;
+    if (typeof value === "string") {
+        const datePrefix = value.match(/^(\d{4}-\d{2}-\d{2})(?:$|T)/);
+        if (datePrefix) return datePrefix[1];
     }
     const parsed = new Date(value);
     if (Number.isNaN(parsed.getTime())) return null;
@@ -155,6 +156,10 @@ function parseDateValueToYMD(value) {
 
 function getLogicalEventDate(event) {
     if (!event) return null;
+    if (event.source === 'ra') {
+        const listingDate = parseDateValueToYMD(event.date);
+        if (listingDate) return listingDate;
+    }
     if (event.startTime) {
         const start = new Date(event.startTime);
         if (!Number.isNaN(start.getTime())) {
