@@ -71,11 +71,27 @@ async function fetchRAEvents(startDate, endDate, pageSize = 100, area = 75, maxP
       headers: headers,
       body: JSON.stringify({ query, variables })
     });
+    if (!response.ok) {
+      throw new Error(`RA request failed (${response.status} ${response.statusText})`);
+    }
     const json = await response.json();
-    const listings = json?.data?.eventListings?.data || [];
+    if (json.errors?.length) {
+      throw new Error(`RA GraphQL request failed: ${json.errors.map(error => error.message).join('; ')}`);
+    }
+    const eventListings = json?.data?.eventListings;
+    if (!Array.isArray(eventListings?.data) || !Number.isFinite(eventListings.totalResults)) {
+      throw new Error('RA returned an invalid event listings response');
+    }
+    const listings = eventListings.data;
     allResults.push(...listings);
-    if (listings.length < pageSize) {
+    if (allResults.length >= eventListings.totalResults) {
       break;
+    }
+    if (listings.length === 0) {
+      throw new Error(`RA pagination ended after ${allResults.length} of ${eventListings.totalResults} listings`);
+    }
+    if (page === maxPages) {
+      throw new Error(`RA has more than the configured page limit of ${maxPages}`);
     }
     page++;
   }

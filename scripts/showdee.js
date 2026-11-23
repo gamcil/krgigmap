@@ -45,10 +45,12 @@ async function fetchShowdeeEvents(limit = 50, cursor = null) {
         }
     });
     if (!response.ok) {
-        console.error(`Failed for "${endpoint}":`, response.statusText);
-        return null;
+        throw new Error(`Showdee request failed (${response.status} ${response.statusText}): ${endpoint}`);
     }
     const data = await response.json();
+    if (!Array.isArray(data?.items)) {
+        throw new Error(`Showdee returned an invalid performances response: ${endpoint}`);
+    }
     const events = data.items.map(event => ({
         showdeeId: event.id,
         source: 'showdee',
@@ -65,11 +67,14 @@ async function fetchShowdeeEvents(limit = 50, cursor = null) {
 
 async function fetchAllShowdeeEvents(batches = 10, limit = 50) {
     const eventsById = new Map();
+    const seenCursors = new Set();
     let cursor = null;
     for (let i = 0; i < batches; i++) {
         console.log(`Batch ${i + 1}/${batches}`);
         const result = await fetchShowdeeEvents(limit, cursor);
-        if (!result) break;
+        if (!result) {
+            throw new Error(`Showdee pagination stopped before batch ${i + 1}`);
+        }
         for (const event of result.events) {
             if (event.showdeeId === undefined || event.showdeeId === null) {
                 throw new Error('Showdee returned a performance without an ID');
@@ -77,8 +82,16 @@ async function fetchAllShowdeeEvents(batches = 10, limit = 50) {
             // Cursor pages can overlap; keep only the latest occurrence of each performance.
             eventsById.set(String(event.showdeeId), event);
         }
-        cursor = result.nextCursor;
-        if (!cursor) break;
+        const nextCursor = result.nextCursor;
+        if (!nextCursor) break;
+        if (seenCursors.has(nextCursor)) {
+            throw new Error(`Showdee repeated pagination cursor after batch ${i + 1}`);
+        }
+        if (i === batches - 1) {
+            throw new Error(`Showdee has more pages than the configured limit of ${batches}`);
+        }
+        seenCursors.add(nextCursor);
+        cursor = nextCursor;
         await new Promise(resolve => setTimeout(resolve, 200));
     }
     return [...eventsById.values()];

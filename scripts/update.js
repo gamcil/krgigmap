@@ -67,4 +67,7 @@ async function main() {
     fs.writeFileSync('../public/metadata.json', JSON.stringify(meta, null, 2))
 }
 
-main();
+main().catch(error => {
+    console.error('Update failed; generated data was not written.', error);
+    process.exitCode = 1;
+});
