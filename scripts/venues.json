@@ -7355,8 +7355,8 @@
     ]
   },
   {
-    "name": "BLUE SQUARE SOL TRAVEL Hall",
-    "name_ko": "블루스퀘어 SOL트래블홀",
+    "name": "BLUE SQUARE Woori Bank Hall",
+    "name_ko": "블루스퀘어 우리WON뱅킹홀",
     "address": "294, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
     "address_ko": "서울특별시 용산구 이태원로 294",
     "address_jibun": "서울특별시 용산구 한남동 727-56",
@@ -12049,6 +12049,59 @@
     "alias": [
       "무아하우스",
       "무아하우스"
+    ]
+  },
+  {
+    "name": "Cube Convention Center",
+    "name_ko": "큐브컨벤션센터",
+    "address": "34, Sangamsan-ro, Mapo-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 마포구 상암산로 34 3F",
+    "address_jibun": "서울특별시 마포구 상암동 1647 3F",
+    "lat": 37.5762163,
+    "lng": 126.8892881,
+    "website": "https://cube-convention.com/",
+    "kakaoMaps": "http://place.map.kakao.com/1727426605",
+    "naverMaps": "https://naver.me/FVSRSsnB",
+    "alias": [
+      "큐브컨벤션센터",
+      "큐브컨벤션센터 CCC",
+      "상암 큐브컨벤션센터"
+    ]
+  },
+  {
+    "name": "Panoroom",
+    "name_ko": "파노룸",
+    "ra_id": 308375,
+    "address": "27-3, Jungang-daero 702beon-gil, Busanjin-gu, Busan, Republic of Korea",
+    "address_ko": "부산광역시 부산진구 중앙대로702번길 27-3 1층",
+    "address_jibun": "부산광역시 부산진구 부전동 168-172 1층",
+    "lat": 35.155506,
+    "lng": 129.0606138,
+    "kakaoMaps": "https://place.map.kakao.com/1385274204",
+    "naverMaps": "https://naver.me/xpjMKBmU",
+    "alias": [
+      "파노룸",
+      "Panoroom 파노룸",
+      "파노룸"
+    ],
+    "instagram": "https://www.instagram.com/pano.room"
+  },
+  {
+    "name": "Lobby by Muse",
+    "name_ko": "로비157",
+    "ra_id": 308319,
+    "address": "16, Seolleung-ro 157-gil, Gangnam-gu, Seoul, Republic of Korea",
+    "address_ko": "서울특별시 강남구 선릉로157길 16 지하1층",
+    "address_jibun": "서울특별시 강남구 신사동 663-15 지하1층",
+    "lat": 37.5261896,
+    "lng": 127.0385961,
+    "kakaoMaps": "http://place.map.kakao.com/342338812",
+    "naverMaps": "https://naver.me/II4VcoDq",
+    "instagram": "https://www.instagram.com/lobbybymuse/",
+    "alias": [
+      "로비157",
+      "로비157 Lobby157",
+      "로비157"
     ]
   }
 ]

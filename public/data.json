@@ -12916,8 +12916,8 @@
           ]
         },
         "properties": {
-          "name_ko": "블루스퀘어 SOL트래블홀",
-          "name": "BLUE SQUARE SOL TRAVEL Hall",
+          "name_ko": "블루스퀘어 우리WON뱅킹홀",
+          "name": "BLUE SQUARE Woori Bank Hall",
           "address_ko": "서울특별시 용산구 이태원로 294",
           "address": "294, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea",
           "address_jibun": "서울특별시 용산구 한남동 727-56",
@@ -12925,7 +12925,34 @@
           "kakaoMaps": "http://place.map.kakao.com/1104690330",
           "googleMaps": "https://maps.google.com/?cid=17553450007670714737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA",
           "naverMaps": "https://naver.me/FdCxhqrh",
-          "events": []
+          "events": [
+            {
+              "showdeeId": 838546,
+              "source": "showdee",
+              "artists": [
+                "술탄오브더디스코"
+              ],
+              "location": "블루스퀘어 우리WON뱅킹홀",
+              "date": "2027-01-30",
+              "startTime": "2027-01-30T18:00:00.000+09:00",
+              "eventUrl": "https://nol.yanolja.com/ticket/products/26016837",
+              "entry": "예매 링크",
+              "imgSrc": null
+            },
+            {
+              "showdeeId": 838547,
+              "source": "showdee",
+              "artists": [
+                "술탄오브더디스코"
+              ],
+              "location": "블루스퀘어 우리WON뱅킹홀",
+              "date": "2027-01-31",
+              "startTime": "2027-01-31T18:00:00.000+09:00",
+              "eventUrl": "https://nol.yanolja.com/ticket/products/26016837",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
         }
       },
       {
@@ -19585,6 +19612,168 @@
               ],
               "source": "ra",
               "ra_id": 294165
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            126.8892881,
+            37.5762163
+          ]
+        },
+        "properties": {
+          "name_ko": "큐브컨벤션센터",
+          "name": "Cube Convention Center",
+          "address_ko": "서울특별시 마포구 상암산로 34 3F",
+          "address": "34, Sangamsan-ro, Mapo-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 마포구 상암동 1647 3F",
+          "website": "https://cube-convention.com/",
+          "kakaoMaps": "http://place.map.kakao.com/1727426605",
+          "naverMaps": "https://naver.me/FVSRSsnB",
+          "events": [
+            {
+              "showdeeId": 838512,
+              "source": "showdee",
+              "artists": [
+                282
+              ],
+              "location": "상암 큐브컨벤션센터",
+              "date": "2026-12-24",
+              "startTime": "2026-12-24T19:30:00.000+09:00",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=214357",
+              "entry": "예매 링크",
+              "imgSrc": null
+            },
+            {
+              "showdeeId": 838518,
+              "source": "showdee",
+              "artists": [
+                282
+              ],
+              "location": "상암 큐브컨벤션센터",
+              "date": "2026-12-25",
+              "startTime": "2026-12-25T18:00:00.000+09:00",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=214357",
+              "entry": "예매 링크",
+              "imgSrc": null
+            },
+            {
+              "showdeeId": 838528,
+              "source": "showdee",
+              "artists": [
+                282
+              ],
+              "location": "상암 큐브컨벤션센터",
+              "date": "2026-12-26",
+              "startTime": "2026-12-26T18:00:00.000+09:00",
+              "eventUrl": "https://ticket.melon.com/performance/index.htm?prodId=214357",
+              "entry": "예매 링크",
+              "imgSrc": null
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            129.0606138,
+            35.155506
+          ]
+        },
+        "properties": {
+          "name_ko": "파노룸",
+          "name": "Panoroom",
+          "address_ko": "부산광역시 부산진구 중앙대로702번길 27-3 1층",
+          "address": "27-3, Jungang-daero 702beon-gil, Busanjin-gu, Busan, Republic of Korea",
+          "address_jibun": "부산광역시 부산진구 부전동 168-172 1층",
+          "instagram": "https://www.instagram.com/pano.room",
+          "kakaoMaps": "https://place.map.kakao.com/1385274204",
+          "naverMaps": "https://naver.me/xpjMKBmU",
+          "ra_id": 308375,
+          "events": [
+            {
+              "date": "2026-11-26T00:00:00.000",
+              "startTime": "2026-11-26T19:00:00.000",
+              "endTime": "2026-11-29T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2592266",
+              "title": "4th Week of November",
+              "location": "Panoroom",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 308375
+            },
+            {
+              "date": "2026-11-27T00:00:00.000",
+              "startTime": "2026-11-26T19:00:00.000",
+              "endTime": "2026-11-29T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2592266",
+              "title": "4th Week of November",
+              "location": "Panoroom",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 308375
+            },
+            {
+              "date": "2026-11-28T00:00:00.000",
+              "startTime": "2026-11-26T19:00:00.000",
+              "endTime": "2026-11-29T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2592266",
+              "title": "4th Week of November",
+              "location": "Panoroom",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 308375
+            },
+            {
+              "date": "2026-11-28T00:00:00.000",
+              "startTime": "2026-11-28T21:30:00.000",
+              "endTime": "2026-11-29T02:00:00.000",
+              "eventUrl": "https://ra.co/events/2592267",
+              "title": "GOLMOKGIL",
+              "location": "Panoroom",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 308375
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.0385961,
+            37.5261896
+          ]
+        },
+        "properties": {
+          "name_ko": "로비157",
+          "name": "Lobby by Muse",
+          "address_ko": "서울특별시 강남구 선릉로157길 16 지하1층",
+          "address": "16, Seolleung-ro 157-gil, Gangnam-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울특별시 강남구 신사동 663-15 지하1층",
+          "instagram": "https://www.instagram.com/lobbybymuse/",
+          "kakaoMaps": "http://place.map.kakao.com/342338812",
+          "naverMaps": "https://naver.me/II4VcoDq",
+          "ra_id": 308319,
+          "events": [
+            {
+              "date": "2026-11-27T00:00:00.000",
+              "startTime": "2026-11-27T23:00:00.000",
+              "endTime": "2026-11-28T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2591300",
+              "title": "LBM EP 01. KANT",
+              "location": "Lobby by Muse",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 308319
             }
           ]
         }
