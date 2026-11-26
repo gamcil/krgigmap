@@ -6488,6 +6488,36 @@
           "ra_id": 203289,
           "events": [
             {
+              "date": "2026-11-27T00:00:00.000",
+              "startTime": "2026-11-27T23:00:00.000",
+              "endTime": "2026-11-28T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2594342",
+              "title": "Nyapi invites Nicola Cruz and Silvia Ponce",
+              "location": "Nyapi",
+              "artists": [
+                "Nicola Cruz",
+                "Silvia Ponce",
+                "Juncheol"
+              ],
+              "source": "ra",
+              "ra_id": 203289
+            },
+            {
+              "date": "2026-11-28T00:00:00.000",
+              "startTime": "2026-11-28T23:00:00.000",
+              "endTime": "2026-11-29T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2594348",
+              "title": "Nyapi invites Pablo Romero",
+              "location": "Nyapi",
+              "artists": [
+                "Pablo Romero",
+                "Kyper",
+                "jiwon"
+              ],
+              "source": "ra",
+              "ra_id": 203289
+            },
+            {
               "date": "2026-12-04T00:00:00.000",
               "startTime": "2026-12-04T23:00:00.000",
               "endTime": "2026-12-05T06:00:00.000",
@@ -6582,6 +6612,23 @@
               "location": "Nyapi",
               "artists": [
                 "dguru"
+              ],
+              "source": "ra",
+              "ra_id": 203289
+            },
+            {
+              "date": "2026-12-24T00:00:00.000",
+              "startTime": "2026-12-24T23:00:00.000",
+              "endTime": "2026-12-25T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2594363",
+              "title": "Nyapi Christmas with Dumbo Disco & KTX",
+              "location": "Nyapi",
+              "artists": [
+                "ASIANPAYDAY",
+                "YOKIE",
+                "Imogene",
+                "Cozyhoon",
+                "VENEBOE"
               ],
               "source": "ra",
               "ra_id": 203289
@@ -10543,6 +10590,62 @@
               "location": "Atdge Seoul",
               "artists": [
                 "RTRP"
+              ],
+              "source": "ra",
+              "ra_id": 196474
+            },
+            {
+              "date": "2026-12-01T00:00:00.000",
+              "startTime": "2026-12-01T21:00:00.000",
+              "endTime": "2026-12-02T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2594483",
+              "title": "Guerilla Event: KYVU, New Identity (Tokyo)",
+              "location": "Atdge Seoul",
+              "artists": [
+                "KYVU"
+              ],
+              "source": "ra",
+              "ra_id": 196474
+            },
+            {
+              "date": "2026-12-02T00:00:00.000",
+              "startTime": "2026-12-02T21:00:00.000",
+              "endTime": "2026-12-03T01:00:00.000",
+              "eventUrl": "https://ra.co/events/2594495",
+              "title": "m.bience & PhaseLead, Xris Vavrzhina (Moscow)",
+              "location": "Atdge Seoul",
+              "artists": [
+                "m.bience",
+                "PhaseLead",
+                "Xris"
+              ],
+              "source": "ra",
+              "ra_id": 196474
+            },
+            {
+              "date": "2026-12-04T00:00:00.000",
+              "startTime": "2026-12-04T22:00:00.000",
+              "endTime": "2026-12-05T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2594496",
+              "title": "Jaehan Park, Draconi, JAMWON",
+              "location": "Atdge Seoul",
+              "artists": [
+                "JAMWON"
+              ],
+              "source": "ra",
+              "ra_id": 196474
+            },
+            {
+              "date": "2026-12-05T00:00:00.000",
+              "startTime": "2026-12-05T22:00:00.000",
+              "endTime": "2026-12-06T04:00:00.000",
+              "eventUrl": "https://ra.co/events/2594498",
+              "title": "AL.P0, Gamma Vibes, E3",
+              "location": "Atdge Seoul",
+              "artists": [
+                "AL.P0",
+                "Gamma Vibes",
+                "E3"
               ],
               "source": "ra",
               "ra_id": 196474
@@ -19560,6 +19663,17 @@
               "artists": [],
               "source": "ra",
               "ra_id": 306631
+            },
+            {
+              "date": "2026-12-05T00:00:00.000",
+              "startTime": "2026-12-05T21:00:00.000",
+              "endTime": "2026-12-06T07:00:00.000",
+              "eventUrl": "https://ra.co/events/2594459",
+              "title": "The Groove Spot's Plan - My OTT Series Vol.2",
+              "location": "Groove & Spot",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 306631
             }
           ]
         }
@@ -20051,6 +20165,65 @@
               "artists": [],
               "source": "ra",
               "ra_id": 308319
+            }
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.005668212711,
+            37.5320384420887
+          ]
+        },
+        "properties": {
+          "name_ko": "뮤직바라이온",
+          "name": "Music Bar Lion",
+          "address_ko": "서울 용산구 대사관로34길 26",
+          "address": "26, Daesagwan-ro 34-gil, Yongsan-gu, Seoul, Republic of Korea",
+          "address_jibun": "서울 용산구 한남동 631-5",
+          "instagram": "https://www.instagram.com/music_bar_lion_seoul",
+          "kakaoMaps": "http://place.map.kakao.com/1352314378",
+          "ra_id": 308532,
+          "events": [
+            {
+              "date": "2026-11-26T00:00:00.000",
+              "startTime": "2026-11-26T20:00:00.000",
+              "endTime": "2026-11-27T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2594335",
+              "title": "Throwback Thursday",
+              "location": "Music Bar Lion Seoul",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 308532
+            },
+            {
+              "date": "2026-11-27T00:00:00.000",
+              "startTime": "2026-11-27T23:00:00.000",
+              "endTime": "2026-11-28T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2594336",
+              "title": "MOSHPIT JAPAN",
+              "location": "Music Bar Lion Seoul",
+              "artists": [
+                "CYBERHACKSYSTEM",
+                "Yetsuby",
+                "Arexibo"
+              ],
+              "source": "ra",
+              "ra_id": 308532
+            },
+            {
+              "date": "2026-11-28T00:00:00.000",
+              "startTime": "2026-11-28T20:00:00.000",
+              "endTime": "2026-11-29T06:00:00.000",
+              "eventUrl": "https://ra.co/events/2594337",
+              "title": "MUSIC BAR LION SEOUL",
+              "location": "Music Bar Lion Seoul",
+              "artists": [],
+              "source": "ra",
+              "ra_id": 308532
             }
           ]
         }
